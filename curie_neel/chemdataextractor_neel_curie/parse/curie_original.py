@@ -69,7 +69,7 @@ bracket_any = (lbrct | I('[')) + OneOrMore(Not(ct_specifier_and_value) + Not(rbr
 
 # Phrases in which the CEM is before the curie temperature specifier
 cem_before_ct_and_value_phrase = (Optional(cem | lenient_chemical_label) \
-                 + Optional(delim).hide() + Optional(I('samples') | I('system') | I('nanoparticles')) \
+                 + Optional(delim).hide() + Optional(I('samples') | I('system')) \
                  + Optional(I('that') | I('which') | I('was') | I('since') | I('the')).hide()
                  + Optional(I('typically')).hide()\
                  + Optional(I('exhibits') | I('exhibiting')| R('^show[s]*$')| I('demonstrates')| I('undergoes') | I('has') | I('having') | I('determined') | I('with') |I('where')| I('orders') | (I('is') + Optional(I('classified') + I('as')))).hide()\
@@ -109,7 +109,7 @@ ct_before_cem_and_value_phrase = (prefix \
                  + Optional(I('about')) \
                  + Optional(lbrct) \
                  + (ct_specifier_and_value | temp_and_units)
-                 + Optional(rbrct))('ct_phrase') + Optional(W("nanoparticle") )
+                 + Optional(rbrct))('ct_phrase')
 
 # Phrases where the CEM is given after both the specifier and the value
 cem_after_ct_and_value_phrase = (Optional(I('below') | I('at')) \
@@ -138,7 +138,7 @@ value_specifier_cem_phrase = (Optional(I('of')) \
 # Rules for finding multiple values in a single sentence
 temp_with_optional_unit = (Optional(lbrct).hide() + temp + Optional(units) + Optional(rbrct).hide())('ct')
 list_of_temperatures = (temp_with_optional_unit + Optional(OneOrMore(delim + temp_with_optional_unit)) + I('and') + temp_and_units)('temp_list')
-list_of_cems = (cem + Optional(OneOrMore(delim + cem)) +I('and') + cem + Optional(I('compounds')))('cem_list')
+list_of_cems = (cem + Optional(OneOrMore(delim + cem)) + I('and') + cem + Optional(I('compounds')))('cem_list')
 
 
 # List of curie temperature values
@@ -155,8 +155,9 @@ ct_phrase = (multiple_ct_phrase | cem_after_ct_and_value_phrase | ct_before_cem_
 class CtParser(BaseParser):
     """"""
     root = ct_phrase
+
     def interpret(self, result, start, end):
-        print(etree.tostring(result))
+        #print(etree.tostring(result))
         if result.tag == 'temp_list':
             last_unit = first(last(result.xpath('./ct_phrase/ct')).xpath('./units/text()'))
             for ct in result.xpath('./ct_phrase/ct'):
@@ -169,7 +170,6 @@ class CtParser(BaseParser):
                     curie_temp = CurieTemperature(value=first(ct.xpath('./value/text()')),
                                                 units=last_unit)
                 c.curie_temperatures = [curie_temp]
-                print("temp_list -> ", c)
                 yield c
 
         elif result.tag == 'respectively_phrase':
@@ -190,7 +190,6 @@ class CtParser(BaseParser):
                              labels=cem_el.xpath('./label/text()'),
                              curie_temperatures=[curie_temp])
                 idx += 1
-                print("respectively_phrase -> ", c)
                 yield c
 
         elif result.tag == 'multi_cem_phrase':
@@ -200,7 +199,6 @@ class CtParser(BaseParser):
                 c = Compound(names=cem_el.xpath('./name/text()'),
                              labels=cem_el.xpath('./label/text()'),
                              curie_temperatures=[curie_temp])
-                print("multi_cem_phrase -> ", c)
                 yield c
 
         elif result.tag == 'single_cem_multiple_ct_phrase':
@@ -212,7 +210,6 @@ class CtParser(BaseParser):
                                                   units=first(ct.xpath('./units/text()'))))
 
             c.curie_temperatures = curie_temps
-            print("single_cem_multiple_ct_phrase -> ", c)
             yield c
 
 
@@ -229,6 +226,5 @@ class CtParser(BaseParser):
             if cem_el is not None:
                 compound.names = cem_el.xpath('./name/text()')
                 compound.labels = cem_el.xpath('./label/text()')
-            print("ct_phrase -> ", compound)
             yield compound
 
