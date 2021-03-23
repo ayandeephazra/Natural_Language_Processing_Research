@@ -1,0 +1,273 @@
+
+/*
+	JavaScript functions for Prospect flavour HTML 
+	Version 2.0
+	NHu 24-Nov-2010
+	Version 2.1
+	NHu 18-Feb-2014 Dera
+		
+*/
+
+var browser = whichBrowser();
+var iIEversion = whichIEVersion();
+
+	function trim(str, chars) {
+		return ltrim(rtrim(str, chars), chars);
+	}
+
+	function ltrim(str, chars) {
+		chars = chars || "\\s";
+		return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+	}
+
+	function rtrim(str, chars) {
+		chars = chars || "\\s";
+		return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+	}
+
+
+	function printpage() {
+		window.print();
+	}
+
+
+	function jumpto(form)
+	{
+	var myindex=form.dest.selectedIndex
+	parent.location.href=(form.dest.options[myindex].value);
+	}
+
+	// Return false if IE = 6, 5 or 4
+	function whichIEVersion()
+	{
+		if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+		{ //test for MSIE x.x;
+			var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+		
+			if (ieversion < 8 )
+			//if (ieversion == 6 || ieversion == 5 || ieversion == 4)
+			{
+			return false
+			}
+			else
+			{
+			return true
+			}
+		}
+		else
+		{
+		return true
+		}
+	}
+
+
+
+	function whichVersion() {
+	var b_version=navigator.appVersion;
+	return parseFloat(b_version);
+	}
+
+	function whichBrowser() {
+	var agt=navigator.userAgent.toLowerCase();
+	if (agt.indexOf("opera") != -1) return 'Opera';
+	if (agt.indexOf("staroffice") != -1) return 'Star Office';
+	if (agt.indexOf("webtv") != -1) return 'WebTV';
+	if (agt.indexOf("beonex") != -1) return 'Beonex';
+	if (agt.indexOf("chimera") != -1) return 'Chimera';
+	if (agt.indexOf("netpositive") != -1) return 'NetPositive';
+	if (agt.indexOf("phoenix") != -1) return 'Phoenix';
+	if (agt.indexOf("firefox") != -1) return 'Firefox';
+	if (agt.indexOf("safari") != -1) return 'Safari';
+	if (agt.indexOf("skipstone") != -1) return 'SkipStone';
+	if (agt.indexOf("msie") != -1) return 'Internet Explorer';
+	if (agt.indexOf("netscape") != -1) return 'Netscape';
+	if (agt.indexOf("mozilla/5.0") != -1) return 'Mozilla';
+	if (agt.indexOf('\/') != -1) {
+	if (agt.substr(0,agt.indexOf('\/')) != 'mozilla') {
+	return navigator.userAgent.substr(0,agt.indexOf('\/'));}
+	else return 'Netscape';} else if (agt.indexOf(' ') != -1)
+	return navigator.userAgent.substr(0,agt.indexOf(' '));
+	else return navigator.userAgent;
+	}
+
+	function popitup(url,windowheight)
+	{
+		newwindow=window.open(url,'name','height=' + windowheight + ',width=620,resizable=yes,left=30,top=20');
+		if (window.focus)
+		{
+		newwindow.focus()
+		}
+		return false;
+	}
+
+	function getElementsByClassName(oElm, strTagName, strClassName)
+	{
+		var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+		var arrReturnElements = new Array();
+		strClassName = strClassName.replace(/\-/g, "\\-");
+		var oRegExp = new RegExp("(^|\\s)" + strClassName + "(\\s|$)");
+		var oElement;
+		for(var i=0; i < arrElements.length; i++)
+		{
+		oElement = arrElements[i];
+			if(oRegExp.test(oElement.className))
+			{
+			arrReturnElements.push(oElement);
+			}
+		}
+		return (arrReturnElements)
+	}
+
+	function getObj(name)
+	{
+	  if (document.getElementById)
+	  {
+	  return document.getElementById(name);
+	  }
+	  else if (document.all)
+	  {
+	  return document.all[name];
+	  }
+	  else if (document.layers)
+	  {
+	  return document.layers[name];
+	  }
+	}
+
+function toggleColour(sName,sNewVal)
+{
+
+	var sColor;
+	var strCurrVal;
+	var blToggle = false;
+
+		switch (sName)
+		{
+			
+            case "AN": sColor = "#E8E5DE"; break;/*biomedical*/
+			case "TC": sColor = "#DCE67F"; break;/*compounds*/
+			case "CH": sColor = "#F4CB89"; break;
+		}
+		var inpElement = getObj("inp" + sName);
+		if (null == inpElement)
+		{
+		}
+		else
+		{
+			strCurrVal = inpElement.getAttribute("value");//current value
+			if (null == sNewVal)
+			{
+				switch (strCurrVal)
+				{
+				case "on": inpElement.setAttribute("value","off");
+				sColor = "white";
+				toggleShow(getObj("btn" + sName));
+				break;
+				case "off":inpElement.setAttribute("value","on");
+				toggleHide(getObj("btn" + sName));
+				break;
+				}
+			blToggle = true;
+			}
+			else
+			{
+				if (sNewVal == strCurrVal)
+				{
+				}
+				else
+				{
+					switch (strCurrVal)
+					{
+					    case "on":inpElement.setAttribute("value","off");
+					    sColor = "white";
+					    toggleShow(getObj("btn" + sName));
+						blToggle = true;
+						break;
+					    toggleHide(getObj("btn" + sName));
+                        break;
+					    blToggle = true;
+				    }
+				}
+			}
+		}
+			if (blToggle)
+			{
+				var compoundElements = getElementsByClassName(document,"span",sName)
+				for(var i=0; i< compoundElements.length; i++)
+				{
+					var oElement = compoundElements[i];
+					oElement.style.background= sColor;
+				}
+			}
+}
+
+
+	function popupanno(goldbookid)
+	{
+	   open("http://goldbook.iupac.org/"+ goldbookid  + ".html","_blank")
+	}
+
+	function popupset(msid,xmlid,settype,inlinetext)
+	{
+
+	   if (browser == "Internet Explorer")
+		
+	   {
+		open("http://www.rsc.org/publishing/journals/prospect/chemsetinfo.asp?Procedure=getset&XMLID=" + xmlid +  "&settype=" + settype + "&inlinetext=" + escape(inlinetext) + "&MSID=" + msid,"_blank");
+	   }
+	   else
+	   {	
+		open("http://www.rsc.org/publishing/journals/prospect/chemsetinfo.asp?Procedure=getset&XMLID=" + xmlid  + "&settype=" + settype + "&inlinetext=" + inlinetext + "&MSID=" + msid,"_blank");
+	   }	
+
+	}
+
+	function popupOBO(id,msid,url)
+	{
+		if (typeof url  =="undefined")
+		{
+		open("http://www.rsc.org/publishing/journals/prospect/ontology.asp?id=" + id  + "&MSID=" + msid,"_blank")
+		}
+		else
+		{
+		open(url,"_blank")
+		}
+
+	}
+	
+	function toggleShow(btnElement)
+	{
+		var strVal = btnElement.innerText;
+		if (null == strVal)
+		{		
+			strVal= btnElement.textContent;
+			strVal= strVal.replace(/Hide/,'Show');
+			btnElement.textContent = strVal;
+		}
+		else
+		{
+			strVal= strVal.replace(/Hide/,'Show');				
+			btnElement.innerText = strVal;
+		}
+	}
+	
+	function toggleHide(btnElement)
+	{
+		/* Firefox uses textContent others use innerText */
+		var strVal = btnElement.innerText;
+		if (null == strVal)
+		{
+			
+			strVal= btnElement.textContent;
+			strVal= strVal.replace(/Show/,'Hide');
+			btnElement.textContent = strVal;
+		}
+		else
+		{
+			strVal = strVal.replace(/Show/,'Hide');
+			btnElement.innerText = strVal;
+		}
+	}
+	
+	
+	
