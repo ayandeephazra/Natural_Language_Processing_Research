@@ -59,7 +59,7 @@ prefix = (Optional(I('the') | I('a') | I('an') | I('its') | I('with')).hide()\
          + Optional(I('varies') + I('from')).hide() \
          + Optional(W('=') | W('~') | W('≈') | W('≃') |  I('of') | I('was') | I('is') | I('at') | I('near') | I('above') | I('below')).hide() \
          + Optional(I('reported') | I('determined')).hide()\
-         + Optional(I('as') | (I('to') + I('be'))).hide() \
+         + Optional(I('as') | I('for') | (I('to') + I('be'))).hide() \
          + Optional(I('in') + I('the') + I('range')).hide()\
          + Optional(I('of') | I('about') | I('approximately') | I('around') | (I('high') + I('as')) | (I('higher') + I('than'))).hide())
 
@@ -85,6 +85,7 @@ cem_before_ct_and_value_phrase = (Optional(cem | lenient_chemical_label) \
                  + Optional(I('ferromagnetic') | I('magnetic') | I('multiferroic') | I('ferroelectric')).hide() + Optional(lbrct).hide() + Optional(I('FM')) + Optional(rbrct).hide()
                  + Optional(I('ferromagnetically') | I('magnetically') | I('metamagnet') | I('metamagnetic') | I('ferromagnet')).hide() \
                  + Optional(I('ferromagnetism')).hide() + Optional(lbrct).hide() + Optional(I('FM-II')) + Optional(rbrct).hide()\
+                                  +Optional(I('insulator'))
                  + Optional(I('peak') | (Optional(I('ground')) + I('state'))).hide() \
                  + Optional(I('compound') | I('material')).hide() \
                  + Optional(delim).hide()\
@@ -109,7 +110,7 @@ ct_before_cem_and_value_phrase = (prefix \
                  + Optional(I('about')) \
                  + Optional(lbrct) \
                  + (ct_specifier_and_value | temp_and_units)
-                 + Optional(rbrct))('ct_phrase') + Optional(W("nanoparticle") )
+                 + Optional(rbrct))('ct_phrase') 
 
 # Phrases where the CEM is given after both the specifier and the value
 cem_after_ct_and_value_phrase = (Optional(I('below') | I('at')) \

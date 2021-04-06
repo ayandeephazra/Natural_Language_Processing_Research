@@ -89,13 +89,14 @@ cem_before_nt_and_value_phrase = (Optional((cem | lenient_chemical_label )) \
                  + Optional(lbrct) + Optional(I('helical') | R('canted') | I('complex') | I('metallic')).hide() + Optional(rbrct)\
                  + Optional(I('antiferromagnetic') | I('anti-ferromagnetic') | I('magnetic') | I('multiferroic')).hide() + Optional(lbrct).hide() + Optional(I('AFM')) + Optional(rbrct).hide()
                  + Optional(I('antiferromagnetically') | I('anti-ferromagnetically') | I('magnetically') | I('metamagnet') | I('metamagnetic') | I('anti-ferromagnet') | I('antiferromagnet')).hide() \
-                 + Optional(I('antiferromagnetism') | I('anti-ferromagnetism')).hide() + Optional(lbrct).hide() + Optional(I('AFM-II')) + Optional(rbrct).hide()\
+                 + Optional(I('antiferromagnetism') | I('anti-ferromagnetism')).hide() + Optional(lbrct).hide() + Optional(I('AFM-II') | I('AFM')) + Optional(rbrct).hide() + Optional(I('and') + I('insulator'))\
                  + Optional(I('peak') | (Optional(I('ground')) + I('state'))).hide() \
                  + Optional(I('compound') | I('material') | I('order') | I('ordering')).hide() \
                  + Optional(delim).hide()\
                  + Optional(I('at') + I('temperatures')).hide() \
                  + Optional(I('behavior')| I('behaviour') | (I('ordering') | I('ordered') | I('phase') + I('transition')) | R('^transition[s]*$') | (I('order-disorder') + I('transition'))).hide()\
                  + Optional(I('to') + I('paramagnetic')).hide() \
+                                  + Optional(I('showing'))\
                  + Optional(I('occurs') | (I('is') + I('displayed')))\
                  + Optional(I('below') | I('at') | I('above') | I('around') | I('near') | I('lower') | I('higher') | I('to')).hide()\
                  + Optional(I('where') | I('having') | I('with') | I('that')).hide()\
