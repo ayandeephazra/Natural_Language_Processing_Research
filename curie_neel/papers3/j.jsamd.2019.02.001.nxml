@@ -1,0 +1,1732 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2468217919300048</prism:url><dc:identifier>doi:10.1016/j.jsamd.2019.02.001</dc:identifier><eid>1-s2.0-S2468217919300048</eid><prism:doi>10.1016/j.jsamd.2019.02.001</prism:doi><pii>S2468-2179(19)30004-8</pii><dc:title>Role of electronegativity on the bulk modulus, magnetic moment and band gap of Co2MnAl based Heusler alloys </dc:title><prism:publicationName>Journal of Science: Advanced Materials and Devices</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>24682179</prism:issn><prism:volume>4</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>158</prism:startingPage><prism:endingPage>162</prism:endingPage><prism:pageRange>158-162</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2019-03-31</prism:coverDate><prism:coverDisplayDate>March 2019</prism:coverDisplayDate><prism:copyright>© 2019 The Authors. Publishing services by Elsevier B.V. on behalf of Vietnam National University, Hanoi.</prism:copyright><prism:publisher>The Authors. Publishing services by Elsevier B.V. on behalf of Vietnam National University, Hanoi.</prism:publisher><dc:creator>Om Kumar, Author-Shiv</dc:creator><dc:creator>Shukla, Vineeta</dc:creator><dc:creator>Srivastava, Sanjeev Kumar</dc:creator><dc:description>
+                  In this paper, we have presented the comparative study of mechanical, electrical and magnetic properties of Co2MnAl1−x
+                     Z
+                        x
+                      Heusler alloy with Z = Si, Ge and Ga and x = 0, 0.25, 0.75 and 1 using electronegativity (EN) model. We employed density functional theory for numerical calculations. It is found that Co2MnAl1−x
+                     Z
+                        x
+                      with Z = Ga, Ge follow the Vegard's law while Co2MnAl1−x
+                     Si
+                        x
+                      does not follow the same trend. Among all composition Co2MnAl.25Si.75 alloy is found to be more compressible. Electronic density distribution depicts the ionic nature of Co2MnAl1−x
+                     Z
+                        x
+                      alloy systems. The Co2MnAl1−x
+                     Z
+                        x
+                      with Z = Si, Ge possess larger magnetic moment and band gap with respect to Co2MnAl1−x
+                     Ga
+                        x
+                      system which results from the EN difference, degree of delocalization of valence electron, atomic size and atomic number, respectively.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Vietnam National University, Hanoi</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Heusler alloy</dcterms:subject><dcterms:subject>Lattice parameter</dcterms:subject><dcterms:subject>Bulk modulus (BM)</dcterms:subject><dcterms:subject>Magnetic moment</dcterms:subject><dcterms:subject>Band gap</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2468217919300048" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2468217919300048" rel="scidir"/></coredata><objects><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="58" size="11578">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="159" height="164" size="14533">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="149" height="164" size="29553">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="86" size="13160">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="58" size="11342">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="63" size="15085">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="711" height="188" size="66403">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="344" height="355" size="45473">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="344" height="379" size="82857">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="208" size="55351">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="711" height="188" size="64093">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="167" size="59752">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3150" height="831" size="365612">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1526" height="1574" size="202791">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1526" height="1682" size="433309">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2362" height="923" size="268407">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3150" height="833" size="358913">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="739" size="572553">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="125" height="34" size="632">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="304" height="45" size="1499">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-si1.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="4177459">https://api.elsevier.com/content/object/eid/1-s2.0-S2468217919300048-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85062108177</scopus-id><scopus-eid>2-s2.0-85062108177</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85062108177" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>314568</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Science: Advanced Materials and Devices</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSCIENCEADVANCEDMATERIALSDEVICES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190210">2019-02-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190210">2019-02-10</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190326">2019-03-26</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190326">2019-03-26</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-03-26T15:56:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2468217919300048</xocs:eid>
+      <xocs:pii-formatted>S2468-2179(19)30004-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2468217919300048</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jsamd.2019.02.001</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2468217919X00027</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190326">2019-03-26T16:13:22.939981Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190301</xocs:date-search-begin>
+      <xocs:date-search-end>20190331</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1549793519">2019-02-10T10:11:59.968021Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid highlightsabst orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2468-2179</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24682179</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>4</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>4</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 4, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>158</xocs:first-fp>
+      <xocs:last-lp>162</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>158</xocs:first-page>
+         <xocs:last-page>162</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201903</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 The Authors. Publishing services by Elsevier B.V. on behalf of Vietnam National University, Hanoi.</xocs:copyright-line>
+      <xocs:normalized-article-title>ROLEELECTRONEGATIVITYBULKMODULUSMAGNETICMOMENTBANDGAPCO2MNALBASEDHEUSLERALLOYS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OMKUMAR</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Calculation method</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author contributions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>HEUSLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1904</xocs:ref-pub-year>
+            <xocs:ref-first-fp>260</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CASPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>063001</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>CHERID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1850121</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2902</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2905</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>RAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>717</xocs:ref-first-fp>
+            <xocs:ref-last-lp>721</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>AKRICHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>42</xocs:ref-first-fp>
+            <xocs:ref-last-lp>50</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>JIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-article-number>085004</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>BLAHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AUGMENTEDPLANEWAVELOCALORBITALSPROGRAMFORCALCULATINGCRYSTALPROPERTIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>PERDEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3865</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7967</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7971</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1099</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1103</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>PUGACZOWAMICHALSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>629</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>HENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1648</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1653</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>KHMELEVSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6677</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>GALANAKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>174429</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>GRAF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>50</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OMKUMARX2019X158</xocs:refkey3>
+         <xocs:refkey4lp>OMKUMARX2019X158X162</xocs:refkey4lp>
+         <xocs:refkey4ai>OMKUMARX2019X158XA</xocs:refkey4ai>
+         <xocs:refkey5>OMKUMARX2019X158X162XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2019-02-05T00:46:05Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Vietnam National University, Hanoi</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/24682179_UNBOUNDED_FB">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 The Authors. Publishing services by Elsevier B.V. on behalf of Vietnam National University, Hanoi.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2468-2179(19)30004-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2468217919300048</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2468217919300048</xocs:eid>
+         <xocs:doi>10.1016/j.jsamd.2019.02.001</xocs:doi>
+         <xocs:cid>314568</xocs:cid>
+         <xocs:timestamp>2019-03-26T16:13:22.939981Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/MAIN/application/pdf/a5afbf7c08b5be26b70d73c71e58c0f2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1395058</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2468217919300048-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/PREVIEW/image/png/9bf16d79ff9699a1fef7f79a7ff7b0d9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59592</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr6/THUMBNAIL/image/gif/2dd3a3a55a85f9b7ddfc523bf39acca5/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11578</xocs:filesize>
+               <xocs:pixel-height>58</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr2/THUMBNAIL/image/gif/19b1f618675a3e356c88a133ce466cfb/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14533</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>159</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr1/THUMBNAIL/image/gif/eb9d5e6e89bcc84280dafb9362306f29/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29553</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>149</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr3/THUMBNAIL/image/gif/f1902016a9482e479b7896c8419a4058/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13160</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr4/THUMBNAIL/image/gif/f9da5ba8a2d1e069be665b157728d2c5/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11342</xocs:filesize>
+               <xocs:pixel-height>58</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr5/THUMBNAIL/image/gif/3364b877d22e2fa7109b05151b67031a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15085</xocs:filesize>
+               <xocs:pixel-height>63</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr6/DOWNSAMPLED/image/jpeg/1dafe06f863a4ff1029efd3b9e068c55/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>66403</xocs:filesize>
+               <xocs:pixel-height>188</xocs:pixel-height>
+               <xocs:pixel-width>711</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr2/DOWNSAMPLED/image/jpeg/16d2978e559af3c3865b89cec96d9914/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45473</xocs:filesize>
+               <xocs:pixel-height>355</xocs:pixel-height>
+               <xocs:pixel-width>344</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr1/DOWNSAMPLED/image/jpeg/df3429fce9fb19132b86846afd56b582/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>82857</xocs:filesize>
+               <xocs:pixel-height>379</xocs:pixel-height>
+               <xocs:pixel-width>344</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr3/DOWNSAMPLED/image/jpeg/8eb585f378075c1baeb79bceeb244991/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55351</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr4/DOWNSAMPLED/image/jpeg/bebd59c181d769fd4d78b57d4b3bbb9f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>64093</xocs:filesize>
+               <xocs:pixel-height>188</xocs:pixel-height>
+               <xocs:pixel-width>711</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr5/DOWNSAMPLED/image/jpeg/e25c5e23c74906c4e34a81339e44df05/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59752</xocs:filesize>
+               <xocs:pixel-height>167</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr6/HIGHRES/image/jpeg/514fcec05a8dd68fca0c089023852e0a/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>365612</xocs:filesize>
+               <xocs:pixel-height>831</xocs:pixel-height>
+               <xocs:pixel-width>3150</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr2/HIGHRES/image/jpeg/04270e8e9451f82855878ad3ae32381b/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>202791</xocs:filesize>
+               <xocs:pixel-height>1574</xocs:pixel-height>
+               <xocs:pixel-width>1526</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr1/HIGHRES/image/jpeg/0179c36961194f1c3f73fff3ec9832a0/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>433309</xocs:filesize>
+               <xocs:pixel-height>1682</xocs:pixel-height>
+               <xocs:pixel-width>1526</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr3/HIGHRES/image/jpeg/d02ddd0289d94b54d910689fc1028fee/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>268407</xocs:filesize>
+               <xocs:pixel-height>923</xocs:pixel-height>
+               <xocs:pixel-width>2362</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr4/HIGHRES/image/jpeg/c3d82aa3ea10d19f73adf74831ac3ec1/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>358913</xocs:filesize>
+               <xocs:pixel-height>833</xocs:pixel-height>
+               <xocs:pixel-width>3150</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/gr5/HIGHRES/image/jpeg/fff2d178568ebc4d13397aa92afccd46/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>572553</xocs:filesize>
+               <xocs:pixel-height>739</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/STRIPIN/image/gif/07afa94a2dc5f1807d5351511b1a9f05/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>632</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2468217919300048/STRIPIN/image/gif/96bc7e0cac2b5437ca6f3e575588d459/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1499</xocs:filesize>
+               <xocs:pixel-height>45</xocs:pixel-height>
+               <xocs:pixel-width>304</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2468217919300048-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10VL86SXX4Z/MAIN/application/pdf/d98f2a5791f99df92d43c84de3f7bb22/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10VL86SXX4Z/MAIN/application/pdf/d98f2a5791f99df92d43c84de3f7bb22/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>4177459</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>JSAMD</jid>
+            <aid>209</aid>
+            <ce:pii>S2468-2179(19)30004-8</ce:pii>
+            <ce:doi>10.1016/j.jsamd.2019.02.001</ce:doi>
+            <ce:copyright type="other" year="2019">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Crystal structure of Co<ce:inf loc="post">2</ce:inf>MnGa Heusler alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Calculated total energy as the function of volume of Co<ce:inf loc="post">2</ce:inf>MnGa/Al Heusler alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(a) Lattice constant (b) Bulk modulus in Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Si, Ge and Ga) alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Partial magnetic moment of Al, (b) magnetic moment of Ga, Ge, Si, (c) Band gap plot of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (Z = Si, Ge, Ga) Heusler alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Electron density plot for (a) Co<ce:inf loc="post">2</ce:inf>MnAl and (b) Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Ge<ce:inf loc="post">.75</ce:inf> alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Total magnetic moment, (b) partial magnetic moment of Co, (c) partial magnetic moment of Mn in Co<ce:inf loc="post">2</ce:inf>MnAlZ<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (Z = Si, Ge, Ga) Heusler alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2468217919300048/gr6"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:note-para id="ntpara0010" view="all">Peer review under responsibility of Vietnam National University, Hanoi.</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Original Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Role of electronegativity on the bulk modulus, magnetic moment and band gap of Co<ce:inf loc="post">2</ce:inf>MnAl based Heusler alloys</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2468217919300048-634afac10e8046a8ee44176ddd61d1b7">
+                  <ce:given-name>Author-Shiv</ce:given-name>
+                  <ce:surname>Om Kumar</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" orcid="0000-0001-7985-927X" author-id="S2468217919300048-20645bc09fdc0c8cb6fefe40b18382b2">
+                  <ce:given-name>Vineeta</ce:given-name>
+                  <ce:surname>Shukla</ce:surname>
+                  <ce:cross-ref refid="cor2" id="crosref0015">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3" author-id="S2468217919300048-ee5870d044fb0054b4a0bda63037d01e">
+                  <ce:given-name>Sanjeev Kumar</ce:given-name>
+                  <ce:surname>Srivastava</ce:surname>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2468217919300048-81700348495ade34ad55ec9966303537">
+                  <ce:textfn>Department of Physics, Indian Institute of Technology Kharagpur, Kharagpur, 721302, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Physics</sa:organization>
+                     <sa:organization>Indian Institute of Technology Kharagpur</sa:organization>
+                     <sa:city>Kharagpur</sa:city>
+                     <sa:postal-code>721302</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="5" month="1" year="2019"/>
+            <ce:date-revised day="2" month="2" year="2019"/>
+            <ce:date-accepted day="3" month="2" year="2019"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">In this paper, we have presented the comparative study of mechanical, electrical and magnetic properties of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> Heusler alloy with Z = Si, Ge and Ga and x = 0, 0.25, 0.75 and 1 using electronegativity (EN) model. We employed density functional theory for numerical calculations. It is found that Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> with Z = Ga, Ge follow the Vegard's law while Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> does not follow the same trend. Among all composition Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Si<ce:inf loc="post">.75</ce:inf> alloy is found to be more compressible. Electronic density distribution depicts the ionic nature of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> alloy systems. The Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> with Z = Si, Ge possess larger magnetic moment and band gap with respect to Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Ga<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> system which results from the EN difference, degree of delocalization of valence electron, atomic size and atomic number, respectively.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Heusler alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Lattice parameter</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Bulk modulus (BM)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Magnetic moment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Band gap</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">In last few years, Heusler alloys have become the promising material due to major applications in spintronics and memory shape devices <ce:cross-ref refid="bib1" id="crosref0020">[1]</ce:cross-ref>. In this system, the full Heusler compounds are characterized by the formula X<ce:inf loc="post">2</ce:inf>YZ that crystallize in the L2<ce:inf loc="post">1</ce:inf> structure while half Heusler alloys are referred as XYZ which crystallize in the cb<ce:inf loc="post">1</ce:inf> structure <ce:cross-refs refid="bib2 bib3" id="crosrefs0010">[2,3]</ce:cross-refs>. There are four wyckoff-positions which is given by P (0, 0, 0), Q (0.25, 0.25, 0.25), R (0.5, 0.5, 0.5) and S (0.75, 0.75, 0.75). Here X and Y elements are positioned in P, Q and R sites while main group element Z takes always place in S sites <ce:cross-ref refid="bib4" id="crosref0025">[4]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0035" view="all">The electronic structure of these Heusler alloys are obtained to range from metallic to semiconductor relying on their composition. Infact, full Heusler alloys are popular due to half-metallic nature means these alloys possess 100% spin polarization at the Fermi level. In similar way, the full Heusler alloy shows many attractive magnetic phenomena like localized and itinerant magnetism, helimagnetism, antiferromagnetism, Pauli paramagnetism or heavy fermionic behaviour <ce:cross-ref refid="bib5" id="crosref0030">[5]</ce:cross-ref>. Therefore, understanding of electrical, mechanical and magnetic behaviors of these alloys is very important for application point of view. It is well established that mechanical properties are defined in term of bulk modulus of compound. The bulk modulus (B) is an parameter of materials that defines the ability of a solid, within elastic region, to resist compression deformation. In microscopic framework, valence electrons play an important role in the compression process and attractive interaction between atom and valence electrons results from the electronegativity (EN) of atoms which are not only affect mechanical properties but also influence electrical and magnetic properties of materials <ce:cross-ref refid="bib6" id="crosref0035">[6]</ce:cross-ref>. Hence, magnetic moments and band gap are also considerably influenced by the delocalization degree of valence electrons. Among the Heusler materials, Cobalt-based Heusler alloys are very popular because of their high Curie temperature that make them favorable for various applications, e.g. tunneling magnetoresistance (TMR). Upto date, many Cobalt-based full Heusler alloys have been investigated as half metallic materials which is advantageous for spintronic devices. In addition, disordered phase like A<ce:inf loc="post">2</ce:inf>, B<ce:inf loc="post">2</ce:inf> or DO<ce:inf loc="post">3</ce:inf> of Heusler alloys <ce:cross-refs refid="bib7 bib8 bib9" id="crosrefs0015">[7–9]</ce:cross-refs> also have a great influence on their physical properties. Disorder can be found due to replacement of element in the parent alloys or the presence of defects which lead the structural, mechanical and electrical properties of Heusler alloys.</ce:para>
+                  <ce:para id="p0040" view="all">Keeping it mind, we aimed to study substitution effect of Ga, Ge and Si on mechanical, electrical and magnetic properties of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Si, Ge and Ga) Heusler alloy using density functional theory based method to search the materials of potential application.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Calculation method</ce:section-title>
+                  <ce:para id="p0045" view="all">The numerical investigations were accomplished by using the Density Functional Theory (DFT) based WIEN2k code <ce:cross-ref refid="bib10" id="crosref0040">[10]</ce:cross-ref>. The exchange correlation potential was characterized by the generalized gradient approximation (GGA) with the Perdew-Burke-Ernzerhof (PBE) function <ce:cross-ref refid="bib11" id="crosref0045">[11]</ce:cross-ref>. The plane wave basis set with an energy cut-off of 300 eV is used for all cases. The energy threshold between the core and the valence states and k points were set to 6.0 Rydberg (Ry) and 1000, respectively. The primitive cell was taken for Co<ce:inf loc="post">2</ce:inf>MnAl, Co<ce:inf loc="post">2</ce:inf>MnGa, Co<ce:inf loc="post">2</ce:inf>MnGe and Co<ce:inf loc="post">2</ce:inf>MnSi while 1 × 1 × 1 super cells were made for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Ge, Si, Ga except x = 0) alloy systems. In case of Co<ce:inf loc="post">2</ce:inf>MnGa alloy Co, Mn and Ga take place at wyckoff coordinates Mn (0, 0, 0), Co<ce:inf loc="post">1</ce:inf> (0.75, 0.75, 0.75), Co<ce:inf loc="post">2</ce:inf> (0.25, 0.25, 0.25) and Ga (0.5, 0.5, 0.5), respectively, as shown in <ce:cross-ref refid="fig1" id="crosref0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>. All compounds were optimized by using Hellmann-Feynman forces on atoms. We used lattice parameter a = 5.749 <ce:italic>Å</ce:italic> as we reported previously <ce:cross-ref refid="bib12" id="crosref0055">[12]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:para id="p0050" view="all">In order to evaluate the mechanical properties of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Si, Ge and Ga and x = 0.0, 0.25, 0.75, and 1.0 compositions) Heusler alloys, the volume optimization was performed by minimizing the total energy for a number of volumes of Ga, Si and Ge substituted alloys as shown in <ce:cross-ref refid="fig2" id="crosref0060">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>.</ce:para>
+                  <ce:para id="p0055" view="all">We found the equilibrium lattice parameters (a<ce:inf loc="post">0</ce:inf>) and the bulk modulus (B) from the Birch Murnaghan equation as given by <ce:cross-ref refid="bib13" id="crosref0065">[13]</ce:cross-ref> 
+                     <ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>E</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                       <mml:mi>o</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mi>V</mml:mi>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>E</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>V</mml:mi>
+                                       <mml:mi>B</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>B</mml:mi>
+                                       <mml:mo>'</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="true">(</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mi>B</mml:mi>
+                                             <mml:mo>'</mml:mo>
+                                             <mml:mo>−</mml:mo>
+                                             <mml:mn>1</mml:mn>
+                                          </mml:mrow>
+                                          <mml:mo stretchy="true">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>∗</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">[</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="true">(</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:mfrac>
+                                                      <mml:mrow>
+                                                         <mml:msub>
+                                                            <mml:mrow>
+                                                               <mml:mi>V</mml:mi>
+                                                            </mml:mrow>
+                                                            <mml:mrow>
+                                                               <mml:mn>0</mml:mn>
+                                                            </mml:mrow>
+                                                         </mml:msub>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mi>V</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                                <mml:mo stretchy="true">)</mml:mo>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>B</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="true">(</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mo>−</mml:mo>
+                                                   <mml:mfrac>
+                                                      <mml:mrow>
+                                                         <mml:msub>
+                                                            <mml:mrow>
+                                                               <mml:mi>V</mml:mi>
+                                                            </mml:mrow>
+                                                            <mml:mrow>
+                                                               <mml:mn>0</mml:mn>
+                                                            </mml:mrow>
+                                                         </mml:msub>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mi>V</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                                <mml:mo stretchy="true">)</mml:mo>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo>−</mml:mo>
+                                             <mml:mn>1</mml:mn>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">]</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where E<ce:inf loc="post">0</ce:inf>, B and B′ refer to equilibrium energy, bulk modulus and its first derivative at equilibrium volume V<ce:inf loc="post">0</ce:inf>, respectively. Generally, the bulk modulus B is defined by the following equation:<ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>B</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mi>V</mml:mi>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mo>∂</mml:mo>
+                                       <mml:mi>P</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>∂</mml:mo>
+                                       <mml:mi>V</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>V</mml:mi>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mo>∂</mml:mo>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                       <mml:mi>E</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>∂</mml:mo>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mi>V</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where P and V are the pressure and volume of the system, respectively.</ce:para>
+                  <ce:para id="p0060" view="all">It can be seen from <ce:cross-ref refid="fig3" id="crosref0070">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> (a) that with increasing Ge and Ga content, the lattice constant increases linearly. This higher value of the lattice parameter is a result of greater atomic radius of Ge and Ga atoms in compare to Al atom. However, Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> follow the opposite trend that is usual for Heusler alloys.</ce:para>
+                  <ce:para id="p0065" view="all">In any system bulk modulus (B) represents the hardness of compounds. Thus, bulk modulus variation for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Si, Ge and Ga) alloys have been shown in <ce:cross-ref refid="fig3" id="crosref0075">Fig. 3</ce:cross-ref> (b). It is clear that all Ge, Si and Ga substituted composition upshot bigger modulus relative to parent Co<ce:inf loc="post">2</ce:inf>MnAl alloy except only Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Si<ce:inf loc="post">.75</ce:inf> composition. Interestingly, all Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (where Z = Si, Ge and Ga) alloys follow the same trend. Initially on addition of 25% of Ge, Si or Ga in place of Al site (for example Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.75</ce:inf>Ge<ce:inf loc="post">.25</ce:inf> composition), bulk modulus increases. However, bulk modulus decreases for 75% substitution of Ge, Si or Ga and again increases for pure Co<ce:inf loc="post">2</ce:inf>MnSi, Co<ce:inf loc="post">2</ce:inf>MnGa and Co<ce:inf loc="post">2</ce:inf>MnGe alloys. Such kind of variation occurs according to the following order: Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> &gt; Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Ga<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> &gt; Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Ge<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>. Above variation in bulk modulus after the addition of 25% Si, Ge and Ga substitution might be the result of valence electrons difference (excluding core electrons), taking part in the compression process or EN difference Al (1.61 eV<ce:sup loc="post">1/2</ce:sup>), Ga (1.81 eV<ce:sup loc="post">1/2</ce:sup>), Si (1.90 eV<ce:sup loc="post">1/2</ce:sup>) and Ge (2.01 eV<ce:sup loc="post">1/2</ce:sup>) which controls the attractive and repulsive interaction between atom and valence electrons <ce:cross-refs refid="bib14 bib15" id="crosrefs0020">[14,15]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0070" view="all">Since EN value of Ga, Ge and Si are larger than that of Al atom, the average binding force of chemical bonds in the alloys increases when alloying Co<ce:inf loc="post">2</ce:inf>MnAl with Ga, Si and Ge, respectively. It is noteworthy that bulk modulus of alloys is expected to increase with increasing of these p-element content in Co<ce:inf loc="post">2</ce:inf>MnAl alloy according to simple chemical bonding formulation based on tight-binding model. In contrast, substitution of 75% Ge, Si or Ga in Co<ce:inf loc="post">2</ce:inf>MnAl alloy, B decreases that might be the result of increasing number of p-p and p-d bonds, which make them more rigid than 25% substitution of Ge, Si or Ga in parent alloys <ce:cross-ref refid="bib16" id="crosref0080">[16]</ce:cross-ref>. Among all compositions, Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Si<ce:inf loc="post">.75</ce:inf> is found to be more compressible. There may be two reasons: either sharp changes in B upon doping of Si might be related to local Al magnetic moment contribution (<ce:cross-ref refid="fig4" id="crosref0085">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/> a) or significant contraction of the lattice occurs on Si doping due to less variation in atomic number of Si and Al elements.</ce:para>
+                  <ce:para id="p0075" view="all">Another important parameter is electron density distribution. Basically, electronic charge density is useful entity for studying the nature of bond character in any materials. Moreover, it provides information on the charge transfer, bonding nature (e.g. the ionic, metallic and covalent bonding) in alloys. As we predicted earlier that atomic number, EN etc. plays an important role in above mentioned properties. For this purpose, we studied the electronic charge density distribution curve. Here only curve for Co<ce:inf loc="post">2</ce:inf>MnAl and Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Ge<ce:inf loc="post">.75</ce:inf> alloys have been shown in <ce:cross-ref refid="fig5" id="crosref0090">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>(a and b). The electronic charges are mainly distributed in the vicinity of atoms, and decreases away from the core region. The formation of well-defined spherically symmetric peaks centered on Co, Mn, Ge/Al atoms occurs due to the difference of electron density. The interstitial region between the Co, Mn and Ge/Al atom has no electrons at all which shows CoGe/Al and MnGe/Al bonds has a similar character with the ionic bond. This character is accompanied by a transfer of charge from the Co and Mn atoms to Ge or Co to Al atom because of different EN of elements except Mn to Al which possess almost same EN <ce:cross-ref refid="bib8" id="crosref0095">[8]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0080" view="all">To analysis the magnetic properties, total magnetic moment plots for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (Z = Si, Ge and Ga) alloys have been depicted in <ce:cross-ref refid="fig6" id="crosref0100">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/> (a). For Si and Ge substituents, total magnetic moment shows the increasing trend while Ga does not follow any trend. In general, the total moment of the half-metallic full-Heusler alloys follows the Slater-Pauling behavior: <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> = Z<ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf>-24 where Z<ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is the total number of valence electrons. The total number of electrons Z<ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is given by the sum of the number of spin-up (N↑) and spin-down (N↑) electrons (Z<ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> = N↑+N↓) and the total moment <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is given by the difference of the number of spin-up and spin-down electrons (<ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> = N↑−N↓) <ce:cross-ref refid="bib17" id="crosref0105">[17]</ce:cross-ref>. It is found that total moment follow the Slater-Pauling rule for Ge as well but shows a little deviation for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.75</ce:inf>Ge<ce:inf loc="post">.25</ce:inf> 1% and Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Si<ce:inf loc="post">.75</ce:inf> almost 9%. However, in case of Ga replacement, particularly 25% composition of Ga, major deviation occurred. For more details, <ce:cross-ref refid="fig6" id="crosref0110">Fig. 6</ce:cross-ref> (b, c) shows local magnetic moment plot of Co and Mn which have major contribution in total magnetic moment. Co contribution for Ge substituent varies nearly linear similar to Si but for Ga substituent it deviates for linear relation <ce:cross-ref refid="bib18" id="crosref0115">[18]</ce:cross-ref>. For more compressible composition Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Ge<ce:inf loc="post">.75</ce:inf>, Co contributes least. Partial moment of Co is maximum for Co<ce:inf loc="post">2</ce:inf>MnAl.<ce:inf loc="post">25</ce:inf>Ga.<ce:inf loc="post">75</ce:inf> alloy among all compositions. On other hand, Mn contribution does not vary much for Si and Ge substituents, but changes occur for Ga substituent that might be due to the less variation of EN values of Al and Ga. Moreover, Ga substituent shows much fluctuation in total as well as in partial moments. It is obvious from <ce:cross-ref refid="fig5" id="crosref0120">Fig. 5</ce:cross-ref> (a) that for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.75</ce:inf>Ga<ce:inf loc="post">.25</ce:inf> composition total moments decreases while total moment increases for 75% and 100% Ga substituted alloys. On other hand, Co, Mn and Ga moment contributions were least rather Al for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.75</ce:inf>Ga<ce:inf loc="post">.25</ce:inf> composition. In case of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Ga<ce:inf loc="post">.75</ce:inf>, total and partial moments follow the reverse trend. Firstly, it is anticipated that large fluctuation in Ga substituent can be outcome of the same number of valence electron in Al and Ga shells. Secondly, at 25% doping of Ga could not be enough for formation of number of p-d bonds that tends to reduce the Co, Mn moment. In contrast 75% substitution of Ga increases Co and Mn moment offer the large expansion of the lattice caused by the p-p or p-d bonds. It is found that the local moments of Si and Ge are negligibly small as in <ce:cross-ref refid="fig4" id="crosref0125">Fig. 4</ce:cross-ref> (a, b), but Ga substituent possess some partial moment. The moments of Al are the negative and small values, while the Co and Mn moments are the positive values and most of the moment come from Mn. This abnormal local moment of Mn arises from a small d-d wave function overlapping and hence larger exchange interaction due to the decreasing Mn<ce:glyph name="sbnd"/>Mn distances. <ce:cross-ref refid="fig4" id="crosref0130">Fig. 4</ce:cross-ref>(c) depicts the band gap for each composition. The band gap is also influenced by the EN term. Additionally, it depends on the distribution of valence electrons i.e. degree of delocalization of valence electrons. In all substituents EN is in order Ge &gt; Si &gt; Ga. Thus Ge then Si is more electronegative than Ga so that it interacts with the host atoms more strongly which offers large enough bonding-anti-bonding splitting than Ga substitution. Therefore, band gap is found to be maximum for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.75</ce:inf>Ge<ce:inf loc="post">.25</ce:inf> and minimum Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Ga<ce:inf loc="post">.75</ce:inf> composition <ce:cross-ref refid="bib15" id="crosref0135">[15]</ce:cross-ref>. It is available in literature that the semiconductor properties, band gap energy and lattice constant are strongly related with EN and pseudopotential radii i.e. difference in the atomic size. That means the variation in band gap with increasing Ge and Si content for Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (Z = Si, Ge) alloy might be the result of the competition between attractive and repulsive forces due to EN difference. Thus from application point of view, EN and atomic radius play important role for making good spintronics device.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0040">Conclusion</ce:section-title>
+                  <ce:para id="p0085" view="all">In brief, we performed the comparative study of mechanical, electrical and magnetic properties of Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Z<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> Heusler alloys (Z = Si, Ge and Ga and x = 0, 0.25, 0.75 and 1) using the EN model and WEIN2K code for numerical calculations. The electronic density distribution depicts the ionic nature of Co<ce:inf loc="post">2</ce:inf>MnA<ce:inf loc="post">l</ce:inf>
+                     <ce:inf loc="post">−x</ce:inf>Z<ce:inf loc="post">x</ce:inf> alloy systems. The alloys with Z = Ga, Ge follow the Vegard's law while Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> does not follow the same trend. The Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.25</ce:inf>Si<ce:inf loc="post">.75</ce:inf> alloy is found to more compressible than others. For the magnetic moment and the band gap, however, a similar behaviour is found for the alloys with Z = Si and Ge. They possess larger magnetic moment and band gap with respect to Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Ga<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> system. This finding is attributed to the EN difference, degree of delocalization of valence electron, atomic size and atomic number, respectively. They play an important role for making good spintronics devices.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0045">Author contributions</ce:section-title>
+                  <ce:para id="p0090" view="all">The equal work was performed by Shiv Om Kumar and Vineeta Shukla in writing and reviewing the manuscript and above work was done under the supervision of Sanjeev Kumar Srivastava.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0050">Acknowledgments</ce:section-title>
+               <ce:para id="p0095" view="all">Shiv Om Kumar and Vineeta Shukla are thankful to <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100008984" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">IIT Kharagpur</ce:grant-sponsor> and <ce:grant-sponsor id="gs2" sponsor-id="https://doi.org/10.13039/501100004541" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">MHRD</ce:grant-sponsor>, India for providing the necessary facilities and financial support, respectively.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0055">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Heusler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Über manganbronze und über die synthese magnetisierbarer legierungen aus unmagnetischen metallen</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>1904</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>260</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Shukla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferromagnetic behavior of Si substituted Co<ce:inf loc="post">2</ce:inf>MnAl<ce:inf loc="post">.</ce:inf>
+                                 <ce:inf loc="post">25</ce:inf>Si<ce:inf loc="post">.</ce:inf>
+                                 <ce:inf loc="post">75</ce:inf> full Heusler alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>225</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>134</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Casper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Graf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chadov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Balke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Felser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Half-Heusler compounds: novel materials for energy and spintronic applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Semicond. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>063001</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cherid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Benstaali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Abbad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bentata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lantri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Abbar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Theoretical prediction of half metallic ferromagnetic full-Heusler alloys Cs<ce:inf loc="post">2</ce:inf>CrGe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>260</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Z.</ce:given-name>
+                                 <ce:surname>Rahaman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of different physical aspects such as structural, mechanical, optical properties and Debye temperature of Fe<ce:inf loc="post">2</ce:inf>ScM (M= P and As) semiconductors: a DFT-based first principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mod. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1850121</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronegativity calculation of bulk modulus and band gap of ternary ZnO-based alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2902</sb:first-page>
+                              <sb:last-page>2905</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Rai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hashemifar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jamal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ghimire</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Khathing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Patra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Thapa</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study of Co<ce:inf loc="post">2</ce:inf>MnAl Heusler alloy as half metallic ferromagnet</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indian J. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>717</sb:first-page>
+                              <sb:last-page>721</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Akriche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Abidri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hiadsi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bouafia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sahli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Half-metallic properties and the robustness of Co<ce:inf loc="post">2</ce:inf>MnGe Heusler alloy under pressure: Ab-initio calculation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>42</sb:first-page>
+                              <sb:last-page>50</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic structure and magnetism of the Heusler alloy Co<ce:inf loc="post">2</ce:inf>MnSi<ce:inf loc="post">1-x</ce:inf>Al<ce:inf loc="post">x</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. D: Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:article-number>085004</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Blaha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Schwarz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Madsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kvasnicka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An Augmented Plane Wave+ Local Orbitals Program for Calculating Crystal Properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1999</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>2</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>ISBN 3-9501031</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Perdew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Burke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ernzerhof</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Generalized gradient approximation made simple</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>18</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3865</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Shukla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Ge substitution on electronic and magnetic properties of Co<ce:inf loc="post">2</ce:inf>Mn(Al<ce:inf loc="post">1-x</ce:inf>Ge<ce:inf loc="post">x</ce:inf>) Heusler alloy using first principles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Today: Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7967</sb:first-page>
+                              <sb:last-page>7971</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-P.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-D.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-W.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-B.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-Z.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Fe substitution on Ni<ce:inf loc="post">2</ce:inf>MnGe Heusler alloys: a first principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Supercond. Nov. Magnetism</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1099</sb:first-page>
+                              <sb:last-page>1103</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pugaczowa-Michalska</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparative study of compressibility of Ni<ce:inf loc="post">2</ce:inf>MnX (X= In, Sn, Sb) Heusler alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Phys. Pol.-Ser. A Gen. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>629</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Heng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Chua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prediction of semiconductor material properties by the properties of their constituent chemical elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1648</sb:first-page>
+                              <sb:last-page>1653</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Khmelevska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Khmelevskyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Ruban</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mohn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Magnetism and origin of non-monotonous concentration dependence of the bulk modulus in Fe-rich alloys with Si, Ge and Sn: a first-principles study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>29</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6677</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Galanakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dederichs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Papanikolaou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Slater-pauling behavior and origin of the half-metallicity of the full-Heusler alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>174429</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Graf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Felser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Parkin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simple rules for the understanding of Heusler compounds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>50</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

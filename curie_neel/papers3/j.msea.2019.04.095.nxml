@@ -1,0 +1,2692 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921509319305702</prism:url><dc:identifier>doi:10.1016/j.msea.2019.04.095</dc:identifier><eid>1-s2.0-S0921509319305702</eid><prism:doi>10.1016/j.msea.2019.04.095</prism:doi><pii>S0921-5093(19)30570-2</pii><dc:title>Mechanical characteristics of gallium sulfide crystals measured using micro- and nanoindentation </dc:title><prism:publicationName>Materials Science and Engineering: A</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09215093</prism:issn><prism:volume>757</prism:volume><prism:startingPage>101</prism:startingPage><prism:endingPage>106</prism:endingPage><prism:pageRange>101-106</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-05-29</prism:coverDate><prism:coverDisplayDate>29 May 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Borisenko, Elena</dc:creator><dc:creator>Borisenko, Dmitrii</dc:creator><dc:creator>Bdikin, Igor</dc:creator><dc:creator>Timonina, Anna</dc:creator><dc:creator>Singh, Budhendra</dc:creator><dc:creator>Kolesnikov, Nikolai</dc:creator><dc:description>
+                  Gallium sulfide single crystal is a potential material for nonlinear optics. Due to its high non-linearity it can be used as a material for IR and THz frequency converters. In the present work GaS bulk crystals of precise stoichiometry and high quality were melt grown using vertical zone melting. Elementary content of the crystals was tested using electron probe microanalysis, phase composition and unit cell parameters were studied using X-ray powder diffraction (XRD), morphology of the cleavage plane and layered structure of a cross section normal to the growth axis were studied using light microscopy, morphology of impression under an indenter tip was imaged by scanning electron microscopy (SEM) and atomic force microscopy (AFM). Various mechanical properties, such as hardness, Young modulus of nanoindentation, residual indentation depth, contributions of elastic and plastic parts to total deformation were studied in the nanoindentation experiments. Experiments on microindentation of GaS single crystals were carried out for comparison. It was found that nanoindentation hardness and elasticity modulus depend non-monotonously on peak load. The results confirm that despite of their layered structure, GaS crystals have high micro- and nanohardness and plastic deformation ability, which provide their suitability to be processed for optical elements.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Mechanical properties</dcterms:subject><dcterms:subject>Nanoindentation</dcterms:subject><dcterms:subject>Hardness</dcterms:subject><dcterms:subject>X-ray analysis</dcterms:subject><dcterms:subject>AIIIBVI single crystals</dcterms:subject><dcterms:subject>Melt growth</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0921509319305702" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921509319305702" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="14236">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="11067">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="214" height="164" size="14807">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="11509">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="13285">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="150" size="11459">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="172" height="164" size="18372">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="99" height="163" size="16489">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="221" size="49857">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="281" size="35075">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="297" size="47434">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="268" size="36742">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="284" size="42123">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="265" size="35451">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="299" size="40487">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="638" size="90075">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2567" height="979" size="433760">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1720" height="1245" size="139351">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1719" height="1315" size="219058">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1719" height="1186" size="140612">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1720" height="1260" size="210501">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1720" height="1175" size="146143">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1386" height="1323" size="320029">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="2828" size="903611">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="37" height="17" size="2820">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="117" height="19" size="2962">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="12" size="2746">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="100" height="15" size="2922">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="137" height="15" size="3024">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="219" height="24" size="3154">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="92" height="28" size="2965">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-si7.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="3470282">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509319305702-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85065021887</scopus-id><scopus-eid>2-s2.0-85065021887</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85065021887" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271387</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Science and Engineering: A</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSSCIENCEENGINEERINGA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190426">2019-04-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190426">2019-04-26</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190503">2019-05-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190503">2019-05-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-05-18T12:54:46</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921509319305702</xocs:eid>
+      <xocs:pii-formatted>S0921-5093(19)30570-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921509319305702</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.msea.2019.04.095</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921509319X00131</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200203">2020-02-03T05:24:57.42866Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190529</xocs:date-search-begin>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1556291690">2019-04-26T15:14:50.629171Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-5093</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09215093</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>757</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>757</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 757</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>101</xocs:first-fp>
+      <xocs:last-lp>106</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>101</xocs:first-page>
+         <xocs:last-page>106</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20190529</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>29 May 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-05-29</xocs:cover-date-start>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MECHANICALCHARACTERISTICSGALLIUMSULFIDECRYSTALSMEASUREDUSINGMICRONANOINDENTATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BORISENKO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Declaration of interests</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Data availability</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>HUBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3191</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7994</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7997</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>DAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>KOKH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-last-lp>330</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>BORISENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>KOLESNIKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>66</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHASECOMPOSITIONPROPERTIESINORGANICMATERIALSAPPLIEDRESEARCH</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SYNTHESISGROWTHGASE1XSXX01CRYSTALSMELT</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>ANDREEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1164</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>BELENKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>518</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SOVIETPHYSICSUSPEKHI</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>DAMOUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>853</xocs:ref-first-fp>
+            <xocs:ref-last-lp>855</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>HO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S210</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>ALLAKHVERDIEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3336</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3339</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1563</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1567</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>ORUDZHEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>619</xocs:ref-first-fp>
+            <xocs:ref-last-lp>625</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>POLIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2767</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2776</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>BALYTSKYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>706</xocs:ref-first-fp>
+            <xocs:ref-last-lp>709</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>BORISENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>WASMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>309</xocs:ref-first-fp>
+            <xocs:ref-last-lp>317</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>PANFILOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>157</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>FISHERCRIPPS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277p</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALENGINEERINGSERIES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>NANOINDENTATION</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>DELINCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3395</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3404</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>GUILLONNEAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2551</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2560</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>RATHEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>383</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>CHITARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13022</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13027</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1564</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1584</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>BHUKKAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1152</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>GOLOVIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1811</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>MCCANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>146</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NANOINDENTATIONGOLDSINGLECRYSTALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BORISENKOX2019X101</xocs:refkey3>
+         <xocs:refkey4lp>BORISENKOX2019X101X106</xocs:refkey4lp>
+         <xocs:refkey4ai>BORISENKOX2019X101XE</xocs:refkey4ai>
+         <xocs:refkey5>BORISENKOX2019X101X106XE</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-05-03T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-05-03T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-5093(19)30570-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921509319305702</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921509319305702</xocs:eid>
+         <xocs:doi>10.1016/j.msea.2019.04.095</xocs:doi>
+         <xocs:cid>271387</xocs:cid>
+         <xocs:timestamp>2020-02-03T05:24:57.42866Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-05-29</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/MAIN/application/pdf/5c3541f65d2cad4a0ba6ab820367bdbb/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2276089</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921509319305702-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/PREVIEW/image/png/2af6883e28068af21bdc0e356c8f7b36/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56400</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr1/THUMBNAIL/image/gif/7bccf14feb28f8e2cab44f37d20f407b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14236</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr2/THUMBNAIL/image/gif/d60682b02e448be63ae383d3846ddb6a/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11067</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr3/THUMBNAIL/image/gif/adb0d2185164843dea042aaea00e6a22/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14807</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr4/THUMBNAIL/image/gif/7008872dd1844fbd1cab1bf69b5a6456/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11509</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr5/THUMBNAIL/image/gif/6720e733899ae9df4cd49e6de2232016/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13285</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr6/THUMBNAIL/image/gif/11b0a985ba8a8cfff64ffaf13942a253/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11459</xocs:filesize>
+               <xocs:pixel-height>150</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr7/THUMBNAIL/image/gif/cc9c09b0255a11d4d68286cf85c4c061/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18372</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr8/THUMBNAIL/image/gif/8c71987280488cd2e5f8c72c1c8b8d54/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16489</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr1/DOWNSAMPLED/image/jpeg/781da6a07ef08c4ddbb896e51ec12d06/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49857</xocs:filesize>
+               <xocs:pixel-height>221</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr2/DOWNSAMPLED/image/jpeg/be06f7e516060707cd70cb882ea0e615/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35075</xocs:filesize>
+               <xocs:pixel-height>281</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr3/DOWNSAMPLED/image/jpeg/38eef30f2ce68895ff1432445b6b985c/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47434</xocs:filesize>
+               <xocs:pixel-height>297</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr4/DOWNSAMPLED/image/jpeg/ca5f14d2a35a713cca282dc7605c5973/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36742</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr5/DOWNSAMPLED/image/jpeg/a75b4388cfe426d965660f7172a0c5bf/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42123</xocs:filesize>
+               <xocs:pixel-height>284</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr6/DOWNSAMPLED/image/jpeg/c1bbda3d5ae7f9338fd1e7b93df4f493/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35451</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr7/DOWNSAMPLED/image/jpeg/5eeabaa37c8e2ceca73b8b5a78ea8d98/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>40487</xocs:filesize>
+               <xocs:pixel-height>299</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr8/DOWNSAMPLED/image/jpeg/154e92bb6b3c90dcee2cdc30f2bc9023/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>90075</xocs:filesize>
+               <xocs:pixel-height>638</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr1/HIGHRES/image/jpeg/aa72bb27a69f05b68d94ca955f4502a8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>433760</xocs:filesize>
+               <xocs:pixel-height>979</xocs:pixel-height>
+               <xocs:pixel-width>2567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr2/HIGHRES/image/jpeg/3b54de35fcb7c944c8f77705d1d887c5/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>139351</xocs:filesize>
+               <xocs:pixel-height>1245</xocs:pixel-height>
+               <xocs:pixel-width>1720</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr3/HIGHRES/image/jpeg/6d209dd392c5b3bae9b87b4dcb6bd9e4/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>219058</xocs:filesize>
+               <xocs:pixel-height>1315</xocs:pixel-height>
+               <xocs:pixel-width>1719</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr4/HIGHRES/image/jpeg/bd7022a84f03e153963506c6b5eba611/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>140612</xocs:filesize>
+               <xocs:pixel-height>1186</xocs:pixel-height>
+               <xocs:pixel-width>1719</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr5/HIGHRES/image/jpeg/6354d63906580b4aa1189c945b88e0bc/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>210501</xocs:filesize>
+               <xocs:pixel-height>1260</xocs:pixel-height>
+               <xocs:pixel-width>1720</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr6/HIGHRES/image/jpeg/bc2c25a319eef2ed71d74ad607bf7a48/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>146143</xocs:filesize>
+               <xocs:pixel-height>1175</xocs:pixel-height>
+               <xocs:pixel-width>1720</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr7/HIGHRES/image/jpeg/0459c43f92495d63c6c0ff94c33a5f22/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>320029</xocs:filesize>
+               <xocs:pixel-height>1323</xocs:pixel-height>
+               <xocs:pixel-width>1386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/gr8/HIGHRES/image/jpeg/09fba7f978e0cbb62e69b2d847c8193c/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>903611</xocs:filesize>
+               <xocs:pixel-height>2828</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/08e8986ce0bc6cee83f372298eec29c3/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2820</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>37</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/d69a23572d7251da68b2ecedc33f6007/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2962</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/34813f25a6b1b3edbfa631a5d9fca95c/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2746</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/6e301aae9ffdf33cf8fd11aeae5c1ab1/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2922</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>100</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/61a1839f2d7eee351ee6a92bd391dda0/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3024</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>137</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/1d40c43c071342135b594496a3ffe895/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3154</xocs:filesize>
+               <xocs:pixel-height>24</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509319305702/STRIPIN/image/gif/2136b176fcefcc4cb05c16edc36a5f7c/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2965</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>92</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509319305702-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>3470282</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10ZQKWGKFZM/MAIN/application/pdf/32cfaac171e42bfcb70e6cdfa4e1b93c/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>MSA</jid>
+            <aid>37845</aid>
+            <ce:pii>S0921-5093(19)30570-2</ce:pii>
+            <ce:doi>10.1016/j.msea.2019.04.095</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">a- GaS cleaved pieces; b- XRD diffraction pattern of powder ground from the above crystal.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">The dependence of <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">r</ce:inf>/<ce:italic>h</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> ratio on peak loading. The inset shows experimental load-displacement curve for GaS crystal, (0001) plane, peak load 30 mN.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">The dependence of elastic modulus of nanoindentation E<ce:inf loc="post">IT</ce:inf> (the present paper) and Young modulus [<ce:cross-ref refid="bib14" id="crosref0435">14</ce:cross-ref>] on pressure.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">The dependence of contact depth <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> and hardness of nanoindentation H<ce:inf loc="post">IT</ce:inf> on load. Experimental data are spline-connected.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">The dependencies of the ratios of plastic and elastic works to total work of deformation, the inset shows experimental curve for GaS sample at the peak load 5 mN, <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">plast</ce:inf> is plastic deformation, <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">elast</ce:inf> is elastic deformation, <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">total</ce:inf> is their sum, total deformation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">The dependencies of micro- and nano- Vickers hardness on indentation load.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">SEM image of impression of Vickers pyramid in GaS crystal at load 0.3 N.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">a-micrograph of GaS layered crystal, light microscopy, in reflection mode, b- AFM image of microindener Vickers pyramid impression (load 0.2 N), cleaved plane (0001).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0921509319305702/gr8"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Mechanical characteristics of gallium sulfide crystals measured using micro- and nanoindentation</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0921509319305702-2ad1e7e5a2ba6e8b7ca45fa2d3282940">
+                  <ce:given-name>Elena</ce:given-name>
+                  <ce:surname>Borisenko</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0015">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S0921509319305702-c180f973dd945acaa61658008211697f">
+                  <ce:given-name>Dmitrii</ce:given-name>
+                  <ce:surname>Borisenko</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0921509319305702-b73f53d8ba1bf72cce1e81fe720c2ea5">
+                  <ce:given-name>Igor</ce:given-name>
+                  <ce:surname>Bdikin</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" author-id="S0921509319305702-bf1e8ce0251297f6a81b0857c313f327">
+                  <ce:given-name>Anna</ce:given-name>
+                  <ce:surname>Timonina</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0921509319305702-755694d8e11c93d11868559bcdbce528">
+                  <ce:given-name>Budhendra</ce:given-name>
+                  <ce:surname>Singh</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0035">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" author-id="S0921509319305702-133711e0d97f9c1a3173bb5e94a1480c">
+                  <ce:given-name>Nikolai</ce:given-name>
+                  <ce:surname>Kolesnikov</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0921509319305702-afa493d374d4d1c34cf42dee002a8d4e">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Laboratory of Physical-Chemical Basis of Crystallization of the Institute of Solid State Physics, The Russian Academy of Sciences, 142432, Chernogolovka, Russia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Laboratory of Physical-Chemical Basis of Crystallization of the Institute of Solid State Physics</sa:organization>
+                     <sa:organization>The Russian Academy of Sciences</sa:organization>
+                     <sa:city>Chernogolovka</sa:city>
+                     <sa:postal-code>142432</sa:postal-code>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0921509319305702-ffe8a65fc5aa1e5c5cc9a62dd138856f">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>TEMA-NRD, Mechanical Engineering Department and Aveiro Institute of Nanotechnology (AIN), University of Aveiro, 3810-193, Aveiro, Portugal</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>TEMA-NRD</sa:organization>
+                     <sa:organization>Mechanical Engineering Department and Aveiro Institute of Nanotechnology (AIN)</sa:organization>
+                     <sa:organization>University of Aveiro</sa:organization>
+                     <sa:city>Aveiro</sa:city>
+                     <sa:postal-code>3810-193</sa:postal-code>
+                     <sa:country>Portugal</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="3" year="2019"/>
+            <ce:date-revised day="23" month="4" year="2019"/>
+            <ce:date-accepted day="25" month="4" year="2019"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Gallium sulfide single crystal is a potential material for nonlinear optics. Due to its high non-linearity it can be used as a material for IR and THz frequency converters. In the present work GaS bulk crystals of precise stoichiometry and high quality were melt grown using vertical zone melting. Elementary content of the crystals was tested using electron probe microanalysis, phase composition and unit cell parameters were studied using X-ray powder diffraction (XRD), morphology of the cleavage plane and layered structure of a cross section normal to the growth axis were studied using light microscopy, morphology of impression under an indenter tip was imaged by scanning electron microscopy (SEM) and atomic force microscopy (AFM). Various mechanical properties, such as hardness, Young modulus of nanoindentation, residual indentation depth, contributions of elastic and plastic parts to total deformation were studied in the nanoindentation experiments. Experiments on microindentation of GaS single crystals were carried out for comparison. It was found that nanoindentation hardness and elasticity modulus depend non-monotonously on peak load. The results confirm that despite of their layered structure, GaS crystals have high micro- and nanohardness and plastic deformation ability, which provide their suitability to be processed for optical elements.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Mechanical properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Nanoindentation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Hardness</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>X-ray analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>AIIIBVI single crystals</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Melt growth</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Crystals of AIIIBVI compounds are conventionally used in IR laser optics, they are applicable as materials for frequency conversion in IR and THz ranges [<ce:cross-refs refid="bib1 bib2 bib3" id="crosrefs0010">1–3</ce:cross-refs>]. Bulk single crystals of pure and doped GaSe, GaS are grown from melt [<ce:cross-refs refid="bib4 bib5 bib6" id="crosrefs0015">4–6</ce:cross-refs>]. Their crystal structure was studied in Refs. [<ce:cross-refs refid="bib7 bib8 bib9" id="crosrefs0020">7–9</ce:cross-refs>]. Four polytypes of GaSe are known [<ce:cross-ref refid="bib8" id="crosref0045">8</ce:cross-ref>], it is found that GaSe is mainly crystallized as ε-type from melt [<ce:cross-ref refid="bib5" id="crosref0050">5</ce:cross-ref>]. It is known that gallium sulfide is crystallized as hexagonal β-GaS from melt, which undergoes reversible polymorphic transition into ε-GaS under pressures from 3 to 6.5 GPa. The polymorphic transition proceeds as a change in the second coordination sphere involving an increase in the number of nearest gallium surrounding from 4 to 6 sulfur atoms [<ce:cross-ref refid="bib9" id="crosref0055">9</ce:cross-ref>]. Optical, photoelectric properties, photoluminescence of GaSe and GaS crystals were also studied profoundly [<ce:cross-ref refid="bib5" id="crosref0060">5</ce:cross-ref>,<ce:cross-ref refid="bib6" id="crosref0065">6</ce:cross-ref>,<ce:cross-refs refid="bib10 bib11 bib12 bib13" id="crosrefs0025">10–13</ce:cross-refs>]. At the same time, mechanical properties, plasticity, yield stress, ultimate strength of these materials are scarcely ever studied. It is fairly explicable, because gallium sulfides and selenides are layered semiconductors that cannot be subjected to traditional mechanical testing in compression, tension, torsion or bending useable for most metals and non-metals. There are some data on elastic and shear moduli of these materials [<ce:cross-ref refid="bib8" id="crosref0070">8</ce:cross-ref>,<ce:cross-refs refid="bib14 bib15 bib16" id="crosrefs0030">14–16</ce:cross-refs>]. First-principles calculations of elastic constants of GaS crystals rely on a plane-wave density functional theory [<ce:cross-ref refid="bib14" id="crosref0075">14</ce:cross-ref>], experimentally elastic constants values were obtained by Brillouin scattering method [<ce:cross-ref refid="bib15" id="crosref0080">15</ce:cross-ref>]. The results displayed significant anisotropy of the elastic modulus in the basis plane and normally to the basis [<ce:cross-ref refid="bib16" id="crosref0085">16</ce:cross-ref>]. The Young and shear moduli found experimentally differ considerably from paper to paper because of difficulty of precise measuring of elastic constants of the layered materials, since their cut or cleaved surface is neither ground, nor polished [<ce:cross-ref refid="bib8" id="crosref0090">8</ce:cross-ref>]. Besides, it should be taken into account that the most widely used Voigt, Reuss, and Hill approximations or their combinations provide us with noticeably widely spread values of bulk, shear and Young moduli [<ce:cross-ref refid="bib8" id="crosref0095">8</ce:cross-ref>,<ce:cross-ref refid="bib14" id="crosref0100">14</ce:cross-ref>,<ce:cross-ref refid="bib16" id="crosref0105">16</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0015" view="all">The AIIIBVI crystals are soft, layered, they tend to twinning, cracking, and exfoliation under an indenter pyramid, as a result of a surface scratching or cutting along the cleavage plane [<ce:cross-refs refid="bib17 bib18 bib19" id="crosrefs0035">17–19</ce:cross-refs>]. Experimental studies of mechanical properties of layered crystals of semiconductor compounds in the elastic-plastic zone are yet limited to microhardness measurements [<ce:cross-refs refid="bib17 bib18 bib19" id="crosrefs0040">17–19</ce:cross-refs>]. In this regard, it would be interesting to study potentials of nanoindentation of the layered crystals. Contrary to microindentation, loads in this case are far lower, an indenter penetrates a sample continuously, at a constant rate as load is increased. This method broadens possibilities of hardness measurements [<ce:cross-ref refid="bib20" id="crosref0110">20</ce:cross-ref>] and is applied successfully to studying of mechanical characteristics of steels and alloys [<ce:cross-ref refid="bib21" id="crosref0115">21</ce:cross-ref>], various minerals, and non-crystalline solids [<ce:cross-ref refid="bib22" id="crosref0120">22</ce:cross-ref>], organic compounds [<ce:cross-ref refid="bib23" id="crosref0125">23</ce:cross-ref>]. Nanoindentation of layered AIIIBVI crystals was once performed on GaS, GaSe, GaTe thin films [<ce:cross-ref refid="bib24" id="crosref0130">24</ce:cross-ref>]. Most frequently used approach for analysis of nanoindentation load-displacement curves at the loading and unloading stages is standard Oliver and Pharr method designed in 1992 [<ce:cross-ref refid="bib25" id="crosref0135">25</ce:cross-ref>]. This method was further developed to treat experimental and modeled load-displacement nanoindentation curves [<ce:cross-ref refid="bib22" id="crosref0140">22</ce:cross-ref>,<ce:cross-ref refid="bib27" id="crosref0145">27</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0020" view="all">In the present work experimental results of nanoindentation of GaS crystals will be considered, the standard methods of data treatment will be applied to obtain characteristics of hardness and plasticity of these crystals. The results of nanoindentation and microindentation of GaS will be analyzed and compared.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Materials and methods</ce:section-title>
+                  <ce:para id="p0025" view="all">Samples for the testing were prepared from a GaS crystal grown from melt in the Laboratory of Physical-Chemical Basis of Crystallization (ISSP RAS). High pressure vertical zone melting method was used for crystallization as described in Ref. [<ce:cross-ref refid="bib6" id="crosref0150">6</ce:cross-ref>]. Length of the crystals along the growth axis is 80–100 mm, their diameter is 12 mm. A few pieces of one GaS single crystal cleaved along (0001) plane are shown in <ce:cross-ref refid="fig1" id="crosref0155">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>a. X-ray diffraction pattern of the melt grown sample is shown in <ce:cross-ref refid="fig1" id="crosref0160">Fig. 1</ce:cross-ref>b, XRD was done on Siemens D-500 diffractometer, CuKα<ce:inf loc="post">1</ce:inf> source radiation.</ce:para>
+                  <ce:para id="p0030" view="all">The Siemens D500-BRAUN X-ray powder diffractometer is operated using Bragg-Brentano geometry and is designed for investigation of polycrystalline materials. The diffractometer is equipped with asymmetric focusing Johansson monochromator to separate Kα<ce:inf loc="post">1</ce:inf> radiation in the diffracted primary beam. The CuKα<ce:inf loc="post">2</ce:inf> radiation is suppressed almost completely by a <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mo stretchy="false">(</mml:mo>
+                           <mml:mn>10</mml:mn>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                           <mml:mo stretchy="false">)</mml:mo>
+                        </mml:mrow>
+                     </mml:math> SiO<ce:inf loc="post">2</ce:inf> monochromator crystal. Chromatic dispersion of the monochromated 98% pure CuKα<ce:inf loc="post">1</ce:inf> spectral line is further compensated by spatial separation of a part of the monochromator-diffracted beam.</ce:para>
+                  <ce:para id="p0035" view="all">The one-phase sample of hexagonal β-GaS (01-071-0009 PDF-2), space group P63/mmc (194) with the unit cell parameters a = 3.587 Å, с = 15.492 Å was grown, the experimental unit cell parameters are equal to the respective database values at the accuracy of 10<ce:sup loc="post">−3</ce:sup>Å, within the limits of the experimental measuring.</ce:para>
+                  <ce:para id="p0040" view="all">The samples for micro- and nanoindentation testing were cleaved across (0001) plane. Measurements were performed at room temperature. Microhardness was measured using a PMT-3 setup with a Vickers pyramid within the loads range from 0.1 to 0.5 N, manual approach to a sample and uplifting of the indenter were applied, time under pressure was 3 s. The nanoindentation measurements were performed on (0001) plane of GaS crystal using a sharp three-sided pyramidal Berkovich diamond tip having the nominal edge of radius 280 nm attached to a fully calibrated Nano indenter (TTX-NHT, CSM Instruments). The experiment was performed at different loads in the range from 5 to 150 mN with an approach speed of 2000 nm/min. The dwelling time and load/unload speed were kept at 10 s and 20 mN min<ce:sup loc="post">−1</ce:sup>, respectively.</ce:para>
+                  <ce:para id="p0045" view="all">The projected contact area of indentation can be calculated using Oliver and Pharr method [<ce:cross-refs refid="bib20 bib21 bib22" id="crosrefs0045">20–22</ce:cross-refs>] for Berkovich or Vickers pyramids by the formula<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>A</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>c</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>h</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo>⋅</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>g</mml:mi>
+                                          <mml:mi>ϑ</mml:mi>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>⋅</mml:mo>
+                                 <mml:mi>π</mml:mi>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> is a contact depth,<mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>ϑ</mml:mi>
+                        </mml:mrow>
+                     </mml:math> is angle of a pyramid tip (70.3° in the case of Berkovich and 68° in the case of Vickers pyramid).</ce:para>
+                  <ce:para id="p0050" view="all">Hardness of nanoindentation was calculated using equation<ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si4.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>H</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>I</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>max</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>A</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>c</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where H<ce:inf loc="post">
+                        <ce:italic>IT</ce:italic>
+                     </ce:inf> is hardness of nanoindentation, MPa; <ce:italic>F</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> is peak load of a nanoindentation test, N; <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> is the projected contact area, mm<ce:sup loc="post">2</ce:sup> [<ce:cross-ref refid="bib21" id="crosref0165">21</ce:cross-ref>,<ce:cross-ref refid="bib25" id="crosref0170">25</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0175">26</ce:cross-ref>]. However, for penetration depths lower than 20–30 nm, the diamond tip cannot be considered as a Berkovich indenter, because of its imperfect geometry, so Eq. <ce:cross-ref refid="fd1" id="crosref0180">(1)</ce:cross-ref> cannot be used to calculate the projected contact area [<ce:cross-ref refid="bib22" id="crosref0185">22</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0055" view="all">Besides the hardness of nanoindentation (H<ce:inf loc="post">
+                        <ce:italic>IT</ce:italic>
+                     </ce:inf>), Oliver and Pharr method applied to processing of the load-displacement curves provides relations for calculations of Vickers hardness of nanoindentation (HV), elastic modulus of nanoindentation (E<ce:inf loc="post">
+                        <ce:italic>IT</ce:italic>
+                     </ce:inf>) estimated from the linear part of unloading curve [<ce:cross-ref refid="bib20" id="crosref0190">20</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0195">26</ce:cross-ref>], Poisson ratio (ν), total work of indentation <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf>, work of plastic <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">
+                        <ce:italic>plast</ce:italic>
+                     </ce:inf> and elastic <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">
+                        <ce:italic>elast</ce:italic>
+                     </ce:inf> deformation according to the areas under the load-displacement curves and the relation between elastic and total work (<ce:cross-ref refid="fig5" id="crosref0200">Fig. 5</ce:cross-ref>)<ce:display>
+                        <ce:formula id="fd3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si5.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>n</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>I</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:mo>%</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>W</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>l</mml:mi>
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mi>s</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>W</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>o</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mi>l</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0060" view="all">All these data are included in a set of standard characteristics of nanoindentation stated by ISO 14577 and GOST 8.748-2011 [<ce:cross-ref refid="bib28" id="crosref0205">28</ce:cross-ref>]. It is known, for example [<ce:cross-ref refid="bib27" id="crosref0210">27</ce:cross-ref>], that applicability of Oliver and Pharr method for evaluation of nanoindentation characteristics is confined to materials in which « sink-in» impressions remain after lifting of an indenter, oppositely to « pile-ups » formation. The first case is associated with <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> &lt; <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">max</ce:inf>, while in the latter case the inequality is vice versa. As is seen from <ce:cross-ref refid="fig2" id="crosref0215">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>, GaS crystals belong to the first type, at least at loads in the range from 5 to 150 mN, so Oliver and Pharr method was used for calculations in the present work.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0030">Results</ce:section-title>
+                  <ce:para id="p0065" view="all">The contact depth <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> shown in <ce:cross-ref refid="fig2" id="crosref0220">Fig. 2</ce:cross-ref> can be calculated according to Refs. [<ce:cross-ref refid="bib23" id="crosref0225">23</ce:cross-ref>,<ce:cross-ref refid="bib27" id="crosref0230">27</ce:cross-ref>] as<ce:display>
+                        <ce:formula id="fd4">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si6.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>h</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>c</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>h</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>max</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mi>ε</mml:mi>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>F</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi>max</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>S</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mspace width="0.25em"/>
+                                       <mml:mspace width="0.25em"/>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mfrac>
+                                             <mml:mrow>
+                                                <mml:mi>d</mml:mi>
+                                                <mml:mi>F</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>d</mml:mi>
+                                                <mml:mi>h</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>h</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>h</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>max</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> is maximum depth of indenter penetration, <ce:italic>F</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> is maximum load, <ce:italic>S</ce:italic> is contact stiffness calculated by slope of the load-displacement curve at the initial stage of unloading. Since in indentation testing pyramidal indenters are generally treated as conical indenters, provided, they have the same area-to-depth ratio, <ce:italic>ε</ce:italic> is about 0.72 [<ce:cross-ref refid="bib20" id="crosref0235">20</ce:cross-ref>]. Otherwise, the contact depth can be found from a load-displacement curve at complete unloading, i.e. at the point where the curve crosses the displacement axis (inset in <ce:cross-ref refid="fig2" id="crosref0240">Fig. 2</ce:cross-ref>). Both these approaches can be used in manual calculation of the nanoindentation characteristics [<ce:cross-ref refid="bib23" id="crosref0245">23</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0250">26</ce:cross-ref>]. In the present work nonlinear curve fitting was applied to the load-displacement curves and thus obtained empirical parameters for the Oliver and Pharr relations were used to calculate <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf>, as well as related characteristics.</ce:para>
+                  <ce:para id="p0070" view="all">Apart from <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> and <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> used for H<ce:inf loc="post">IT</ce:inf> calculations, also residual impression depth <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">r</ce:inf>, which means an indentation depth after elastic recovery [<ce:cross-ref refid="bib20" id="crosref0255">20</ce:cross-ref>], is denoted in the inset to <ce:cross-ref refid="fig2" id="crosref0260">Fig. 2</ce:cross-ref>, and the ratio of this value to maximum penetration depth is plotted depending on peak load. The obtained results confirm that deformation is mostly plastic, and the ratio <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">r</ce:inf>/<ce:italic>h</ce:italic>
+                     <ce:inf loc="post">max</ce:inf> changes insignificantly, by about 1–3% in the loading range from 5 to 150 mN.</ce:para>
+                  <ce:para id="p0075" view="all">Another important characteristic of nanoindentation testing is elastic modulus, i.e. Young modulus of nanoindentation <ce:italic>E*</ce:italic> (E<ce:inf loc="post">IT</ce:inf>) [<ce:cross-ref refid="bib20" id="crosref0265">20</ce:cross-ref>,<ce:cross-ref refid="bib22" id="crosref0270">22</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0275">26</ce:cross-ref>]. It can be calculated using the relation [<ce:cross-ref refid="bib22" id="crosref0280">22</ce:cross-ref>]:<ce:display>
+                        <ce:formula id="fd5">
+                           <ce:label>(5)</ce:label>
+                           <mml:math altimg="si7.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>E</mml:mi>
+                                 <mml:mo>∗</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>S</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>⋅</mml:mo>
+                                 <mml:msqrt>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mi>π</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>A</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi>c</mml:mi>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:msqrt>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where the contact area <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> can be calculated by Eq. <ce:cross-ref refid="fd1" id="crosref0285">(1)</ce:cross-ref> using the contact depth <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>, contact stiffness <ce:italic>S</ce:italic> found from Eq. <ce:cross-ref refid="fd4" id="crosref0290">(4)</ce:cross-ref>. The elastic modulus of nanoindentation of GaS crystals depends on maximum load on indenter. The E<ce:inf loc="post">IT</ce:inf> changes from 1.8 to 6 GPa in the range from 5 to 150 mN. The dependencies of elastic modulus of nanoindentation E<ce:inf loc="post">IT</ce:inf> on local pressure in a contact area and of bulk Young modulus (<ce:italic>E</ce:italic>) on hydrostatic pressure are shown in <ce:cross-ref refid="fig3" id="crosref0295">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>. It is seen from <ce:cross-ref refid="fig3" id="crosref0300">Fig. 3</ce:cross-ref> that both characteristics increase as pressure increases. Since crystalline GaS undergoes reversible phase transition from β-to ε-GaS in the range of pressures from 3 to 20 GPa [<ce:cross-ref refid="bib9" id="crosref0305">9</ce:cross-ref>,<ce:cross-refs refid="bib14 bib15 bib16" id="crosrefs0050">14–16</ce:cross-refs>], Young modulus values under these pressures are associated with the high-pressure polymorphic type [<ce:cross-ref refid="bib14" id="crosref0310">14</ce:cross-ref>]. Pressures under the nanoindenter tip are far lower, but even if E<ce:inf loc="post">IT</ce:inf> and <ce:italic>E</ce:italic> are to be compared under atmospheric pressure, the elastic modulus of nanoindentation is about 40 times lower than bulk Young modulus.</ce:para>
+                  <ce:para id="p0080" view="all">Hardness of nanoindentation H<ce:inf loc="post">IT</ce:inf> also depends on load. The dependencies of contact depth <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> and H<ce:inf loc="post">IT</ce:inf> on load are shown in <ce:cross-ref refid="fig4" id="crosref0315">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>
+                     <ce:float-anchor refid="fig5"/>. Cubic spline function with the resolution of 3 pts in X direction was applied to interpolate the experimental data in <ce:cross-refs refid="fig4 fig5" id="crosrefs0055">Figs. 4 and 5</ce:cross-refs>. It follows from Eq. <ce:cross-ref refid="fd2" id="crosref0320">(2)</ce:cross-ref> and <ce:cross-ref refid="fig4" id="crosref0325">Fig. 4</ce:cross-ref> that hardness of nanoindentation is inversely proportional to <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> squared.</ce:para>
+                  <ce:para id="p0085" view="all">Overall, H<ce:inf loc="post">IT</ce:inf> firstly increases as load increases, and then decreases at high loads, above 120 mN.</ce:para>
+                  <ce:para id="p0090" view="all">In <ce:cross-ref refid="fig5" id="crosref0330">Fig. 5</ce:cross-ref> the dependencies of the ratios of plastic and elastic works to total work are plotted respectively as p<ce:inf loc="post">IT</ce:inf> = <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">plast</ce:inf>/<ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">total</ce:inf>, % and n<ce:inf loc="post">IT</ce:inf> = <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">elast</ce:inf>/<ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">total</ce:inf>, %. The n<ce:inf loc="post">IT</ce:inf> characteristics is one of the standards of nanoindentation testing [<ce:cross-ref refid="bib28" id="crosref0335">28</ce:cross-ref>]. Evidently, p<ce:inf loc="post">IT</ce:inf> = 1- n<ce:inf loc="post">IT</ce:inf>. Both values are shown in the figure, their dependencies on load confirm that plastic deformation prevails when loads more than 120 mN.</ce:para>
+                  <ce:para id="p0095" view="all">Increase in contribution to the total dissipation energy from plastic deformation in <ce:cross-ref refid="fig5" id="crosref0340">Fig. 5</ce:cross-ref> is associated with decrease in hardness of nanoindentation in <ce:cross-ref refid="fig4" id="crosref0345">Fig. 4</ce:cross-ref>. Vickers nanohardness (HV) (<ce:cross-ref refid="fig6" id="crosref0350">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>) is qualitatively similar to H<ce:inf loc="post">IT</ce:inf>. Vickers microhardness of GaS crystals measured in the range of loads from 100 to 300 mN, is also shown in <ce:cross-ref refid="fig6" id="crosref0355">Fig. 6</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0100" view="all">It should be noted that Vickers microhardness is by 3–4 times higher than HV of nanoindentation in the intersected range of testing loads.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0035">Discussion</ce:section-title>
+                  <ce:para id="p0105" view="all">One of the reasons for these differences between nano- and micro- HV hardness at the same values of indentation load may be due to different character of loading. During nanoindentation load increases continuously to a peak value, changing from minimum to maximum in the loading cycle and vice versa, reflecting relaxation of stresses, in the unloading cycle. At the same time microindentation is an impact loading-unloading procedure, while time under load may be a variable period. The latter parameter has a noticeable effect on microhardness [<ce:cross-ref refid="bib17" id="crosref0360">17</ce:cross-ref>]. It can be concluded from the microindentation testing that HV microhardness decreases due to plastic flow in the range of loads from 0.1 to 0.3 N. Pile-ups form in vicinity of an impression remained after lifting of Vickers pyramid as shown in <ce:cross-ref refid="fig7" id="crosref0365">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="fig7"/>, when load increases over 0.5 N, cracks forms and propagate from an indentation spot.</ce:para>
+                  <ce:para id="p0110" view="all">Experimentally observed decrease in hardness of nanoindentation at loads higher than 120 mN in GaS crystals is consistent with the “expanding cavity model”: the contacting surface of the indenter is encased by a hydrostatic rigid “core” that is surrounded by a hemispherical plastic zone. An increment of penetration of the indenter results in an expansion of the core and this in turn causes the plastic zone to increase in radius (according to Refs. [<ce:cross-ref refid="bib20" id="crosref0370">20</ce:cross-ref>,<ce:cross-ref refid="bib29" id="crosref0375">29</ce:cross-ref>]). When load is increased to provide mostly plastic flow, a ring of elastic zone ceases to restrain the plastic zone, plastic deformation prevails, and plastic flow continues without elastic resistance, which leads to material's softening. This description of plastic behavior of the crystals attendant to increase in indentation load is consistent with the data of <ce:cross-ref refid="fig4" id="crosref0380">Figs. 4</ce:cross-ref> and <ce:cross-ref refid="fig5" id="crosref0385">5</ce:cross-ref> that display softening of GaS crystal (decrease in H<ce:inf loc="post">IT</ce:inf>) with increase in <ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">plast</ce:inf>/<ce:bold>
+                        <ce:italic>W</ce:italic>
+                     </ce:bold>
+                     <ce:inf loc="post">total</ce:inf>, when peak loads become higher than 120 mN.</ce:para>
+                  <ce:para id="p0115" view="all">Gallium sulfide consist of layers (<ce:cross-ref refid="fig8" id="crosref0390">Fig. 8</ce:cross-ref>
+                     <ce:float-anchor refid="fig8"/>a), similar to gallium selenide crystals [<ce:cross-ref refid="bib17" id="crosref0395">17</ce:cross-ref>]. Packs of layers formed during crystallization have thickness 200–300 nm measured by AFM topology in GaSe [<ce:cross-ref refid="bib5" id="crosref0400">5</ce:cross-ref>]. Sizes of coherent scattering regions (CSR) derived from FWHM peak width in the diffraction pattern (<ce:cross-ref refid="fig1" id="crosref0405">Fig. 1</ce:cross-ref>b) confirm 200–300 nm as average height of packs in normal to (0001) direction in GaS. Thus, we can suggest that the character of mechanical response of the layered material to penetration of a nanoindenter in the elastic-plastic zone predetermines non-monotonous change of contact depth and of nanoindentation hardness as peak load increases (<ce:cross-ref refid="fig4" id="crosref0410">Fig. 4</ce:cross-ref>). It is evident from the AFM image of an impression of Vickers microindenter in GaS (<ce:cross-ref refid="fig8" id="crosref0415">Fig. 8</ce:cross-ref>b), it is not smooth, steps form on the surface of the impression slopes. As the indenter tip penetrates the crystal, it sustains variable mechanic resistance in the process of compaction of layered material with heterogeneous density. When loading is in predominantly plastic zone, as in the case of microindentation, decrease in hardness with increase in load is a general trend.</ce:para>
+                  <ce:para id="p0120" view="all">It would be interesting to compare the results on GaS nanoindentation with other works, but, as far as we know, the only one considering nanoindentation testing of AIIBVI materials is concerned with thin films [<ce:cross-ref refid="bib24" id="crosref0420">24</ce:cross-ref>]. Oppositely to nanoindentation of bulk GaS, in the case of GaS, GaSe, GaTe thin films load-displacement curves contained only elastic branch in loading and in unloading. Elastic modulus of nanoindentation of the GaS film approximated by the authors [<ce:cross-ref refid="bib24" id="crosref0425">24</ce:cross-ref>] to bulk Young modulus was 173 GPa. This is several times higher than Young modulus of GaS crystals calculated by other researchers theoretically or experimentally [<ce:cross-refs refid="bib14 bib15 bib16" id="crosrefs0060">14–16</ce:cross-refs>] and by more than 30 times higher than E<ce:inf loc="post">IT</ce:inf> of GaS crystals found in the present work (<ce:cross-ref refid="fig3" id="crosref0430">Fig. 3</ce:cross-ref>). From comparison between these results, one can make a conclusion that elastic modulus of nanoindentation is not an equivalent of Young modulus for GaS crystals.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0040">Conclusions</ce:section-title>
+                  <ce:para id="p0125" view="all">
+                     <ce:list id="olist0010">
+                        <ce:list-item id="o0010">
+                           <ce:label>1)</ce:label>
+                           <ce:para id="p0130" view="all">Nanoindentation technique in combination with Oliver and Pharr method for nanoindentation data treatment are applied for the first time to study elastic characteristics, plasticity, and hardness of GaS bulk crystals.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0015">
+                           <ce:label>2)</ce:label>
+                           <ce:para id="p0135" view="all">It is found that for gallium sulfide and gallium chalcogenides, in general, elastic modulus of nanoindentation E<ce:inf loc="post">IT</ce:inf> is non-equivalent to Young modulus. Both characteristics are dependant on pressure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0020">
+                           <ce:label>3)</ce:label>
+                           <ce:para id="p0140" view="all">Experimental results for loads in the range from 5 to 150 mN match well with the model description of expanding cavity under an indenter pyramid. Hardness of nanoindentation increases as load increases in the elastic-plastic zone. When peak loads exceed 120 mN, H<ce:inf loc="post">IT</ce:inf> decreases, which is due to softening in the prevailingly plastic deformation zone. Non-monotonous character of the nanoindentation hardness as a function of load is explained in view of layered structure of the crystal.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0025">
+                           <ce:label>4)</ce:label>
+                           <ce:para id="p0145" view="all">Vickers hardness of micro- and nanoindentation of GaS crystals was found to depend on load. A difference between nano- and microhardness at the same load is explained by different ways stress is applied to a sample: continuous in the case of nanoindentation and impact for microindentation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0030">
+                           <ce:label>5)</ce:label>
+                           <ce:para id="p0150" view="all">It is found that at loads above 0.3 N pile-ups and cracks form in the impressed area under an indenter and nearby. This puts the limits to applicability of Oliver and Pharr method for calculations of GaS hardness characteristics.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0045">Declaration of interests</ce:section-title>
+                  <ce:para id="p0155" view="all">None.</ce:para>
+               </ce:section>
+               <ce:section id="sec7" view="all">
+                  <ce:section-title id="sectitle0050">Data availability</ce:section-title>
+                  <ce:para id="p0160" view="all">The raw/processed data required to reproduce these findings cannot be shared at this time due to technical or time limitations.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0055">Acknowledgements</ce:section-title>
+               <ce:para id="p0165" view="all">This study was financially supported by Russian government contract (<ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">ISSP RAS, Russia</ce:grant-sponsor>).</ce:para>
+               <ce:para id="p0170" view="all">Igor Bdikin and Budhendra Singh (<ce:grant-sponsor id="gs2" sponsor-id="https://doi.org/10.13039/100007689" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Aveiro, Portugal</ce:grant-sponsor>) wish to acknowledge the <ce:grant-sponsor id="gs3" sponsor-id="https://doi.org/10.13039/501100001871" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Portuguese Foundation for Science and Technology</ce:grant-sponsor> for the financial support: <ce:grant-number refid="gs3">IF/00582/2015</ce:grant-number>, <ce:grant-number refid="gs3">BI (DOUTOR)/6323/2018)</ce:grant-number>, <ce:grant-number refid="gs3">UID/EMS/00481/2013-FCT</ce:grant-number>, <ce:grant-number refid="gs3">CENTRO-01-0145-FDER-022083</ce:grant-number> and <ce:grant-number refid="gs3">PEst-C/EME/UI0481/2013</ce:grant-number>.</ce:para>
+               <ce:para id="p0175" view="all">The authors are grateful to Valerii Orlov (ISSP RAS) for cooperation, Sergei Bozhko (ISSP RAS) for AFM topography.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0060">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brodschelm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tauser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Leitenstorfer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Generation and field-resolved detection of femtosecond electromagnetic pulses tunable up to 41 THz</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3191</sb:first-page>
+                              <sb:last-page>3193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://dx.doi.org/10.1063/1.126625" id="intref0011" xlink:type="simple">http://dx.doi.org/10.1063/1.126625</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Zh</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Sh</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Strong second-harmonic generation in atomic layered GaSe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7994</sb:first-page>
+                              <sb:last-page>7997</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/jacs.5b04305</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.G.</ce:given-name>
+                                 <ce:surname>Voevodina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu M.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S. Yu</ce:given-name>
+                                 <ce:surname>Sarkisov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modified GaSe crystal as a parametric frequency converter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00340-005-2024-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Kokh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu M.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Svetlichnyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.V.</ce:given-name>
+                                 <ce:surname>Lanskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Kokh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth of GaSe and GaS single crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cryst. Res. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                              <sb:last-page>330</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1002/crat.201100055" id="intref0012" xlink:type="simple">https://doi.org/10.1002/crat.201100055</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Timonina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.I.</ce:given-name>
+                                 <ce:surname>Nikolaichik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Tereshchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Kolesnikov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structure, phase composition, and some properties of melt grown GaSe:Er crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>496–497</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jcrysgro.2018.05.024" id="intref0013" xlink:type="simple">https://doi.org/10.1016/j.jcrysgro.2018.05.024</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Kolesnikov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Tereshchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Timonina</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and growth of GaSe<ce:inf loc="post">1</ce:inf> 
+                                 <ce:inf loc="post">
+                                    <ce:italic>– x</ce:italic>
+                                 </ce:inf>
+                                 <ce:italic>S</ce:italic>
+                                 <ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> 
+                                 <ce:italic>(x</ce:italic> = 0–1) crystals from melt</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Phase composition and properties, Inorganic Materials: Applied Research</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 9</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2018</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>66</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S2075113318010173</ce:doi>
+                        </sb:host>
+                        <sb:comment>no. 1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Yu M.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Kokh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.V.</ce:given-name>
+                                 <ce:surname>Lanskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Morozov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structural characterization of pure and doped GaSe by nonlinear optical method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>318</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1164</sb:first-page>
+                              <sb:last-page>1166</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jcrysgro.2010.10.194</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Belen'kiĭ</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Stopachinskiĭ</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Soviet Physics Uspekhi</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 26</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>AIP</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>497</sb:first-page>
+                              <sb:last-page>518</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>no. 6</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1070/PU1983v026n06ABEH004420" id="intref0010" xlink:type="simple">https://doi.org/10.1070/PU1983v026n06ABEH004420</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>D'Amour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Holzapfel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Polian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chevy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Crystal structure of a new high pressure polymorph of GaS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>853</sb:first-page>
+                              <sb:last-page>855</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Ho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Tiong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structural and luminescent property of gallium chalcogenides GaSe1-xSx layer compounds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci. Mater. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S207</sb:first-page>
+                              <sb:last-page>S210</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10854-007-9539-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Allakhverdiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Fernelius</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gashmizade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Goldstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Salaev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Salaeva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anisotropy of optical absorption in GaSe studied by midinfrared spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3336</sb:first-page>
+                              <sb:last-page>3339</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1063/1.1556175</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Yu-K.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch-Sh</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical properties of GaSe doped with Er</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1563</sb:first-page>
+                              <sb:last-page>1567</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://dx.doi.org/10.1063/1.1760238" id="intref0014" xlink:type="simple">http://dx.doi.org/10.1063/1.1760238</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu M.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Kokh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.V.</ce:given-name>
+                                 <ce:surname>Lanskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Svetlichnyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Doped GaSe crystals for laser frequency conversion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Light Sci. Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>12</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/lsa.2015.135</ce:doi>
+                        </sb:host>
+                        <sb:comment>e362</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Orudzhev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Kasumova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ab initio investigation of the pressure influence on elastic properties of the GaS layered compound</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Solid State</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>619</sb:first-page>
+                              <sb:last-page>625</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S1063783414030238</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Polian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Besson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Grimsditch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Vogt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elastic properties of GaS under high pressure by Brillouin scattering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2767</sb:first-page>
+                              <sb:last-page>2776</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.O.</ce:given-name>
+                                 <ce:surname>Balyts’kyi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elastic Characteristics of laminated gallium and indium chalcogenides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>706</sb:first-page>
+                              <sb:last-page>709</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>1068–820X/04/4005–0706</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Kolesnikov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Borisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Bozhko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microhardness and structural defects of GaSe layered semiconductor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>316</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>24</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jcrysgro.2010.12.021</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wasmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ballif</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gassilloud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Pouvreau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Michler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-M.</ce:given-name>
+                                 <ce:surname>Brequet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Solletti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Karirmi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schulz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cleavage fracture of brittle semiconductors from the nanometer to the centimeter scale</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>309</sb:first-page>
+                              <sb:last-page>317</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/adem.20050004</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Panfilov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Titov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fracture of single crystals having layered morphology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Fract.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                              <sb:last-page>157</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Fisher –Cripps</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoindentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>F.F.</ce:given-name>
+                                    <ce:surname>Ling</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Mechanical Engineering Series</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>third ed.</sb:edition>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Science+Business Media</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>277p</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Delince</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Jacques</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pardoen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Separation of size-dependent strengthening contributions in fine-grained Dual Phase steels by nanoindentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3395</sb:first-page>
+                              <sb:last-page>3404</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.actamat.2006.03.031</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Guillonneau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kermouche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Loubet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of mechanical properties by nanoindentation independently of indentation depth measurement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2551</sb:first-page>
+                              <sb:last-page>2560</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1557/jmr.2012.261</ce:doi>
+                        </sb:host>
+                        <sb:comment>Cambridge University Press (CUP)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Rathee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Martin Britto Dhas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bdikin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Singh Ahlawat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigations on crystal perfection, mechanical and thermo-electric properties of L-ornithine monohydrochloride single crystal: a promising material for nonlinear optical applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>383</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://dx.doi.org/10.1016/j.matchemphys.2017.08.004" id="intref0018" xlink:type="simple">http://dx.doi.org/10.1016/j.matchemphys.2017.08.004</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chitara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ya’akobovitz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elastic properties and breaking strengths of GaS, GaSe and GaTe nanosheets</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanoscale</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13022</sb:first-page>
+                              <sb:last-page>13027</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c8nr01065j</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Pharr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An improved technique for determining hardness and elastic modulus using load displacement sensing indentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1564</sb:first-page>
+                              <sb:last-page>1584</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhukkal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sinha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yadav</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Goel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bdikin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Glycine glutaric acid cocrystals: Morphological, optical, dielectric and mechanical properties via nanoindentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vacuum</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.vacuum.2018.04.043</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Pun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conditions of applying Oliver–Pharr method to the nanoindentation of particles in composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1147</sb:first-page>
+                              <sb:last-page>1152</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://dx.doi.org/10.1016/j.compscitech.2012.03.019" id="intref0017" xlink:type="simple">http://dx.doi.org/10.1016/j.compscitech.2012.03.019</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Yu I.</ce:given-name>
+                                 <ce:surname>Golovin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Tyurin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.G.</ce:given-name>
+                                 <ce:surname>Aslanyan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Pirozhkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Vasyukov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The physical and mechanical properties and local deformation micromechanisms in materials with different dependence of hardness on the depth of print</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Solid State</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1803</sb:first-page>
+                              <sb:last-page>1811</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S106378341709010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>McCann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoindentation of Gold Single Crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Ph.D. Thesis</sb:comment>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Virginia Polytechnic Institute and State University</sb:name>
+                                 <sb:location>Blackburg, Virginia</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>146</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

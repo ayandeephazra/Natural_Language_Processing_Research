@@ -1,0 +1,2521 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1369800119311679</prism:url><dc:identifier>doi:10.1016/j.mssp.2019.104746</dc:identifier><eid>1-s2.0-S1369800119311679</eid><prism:doi>10.1016/j.mssp.2019.104746</prism:doi><pii>S1369-8001(19)31167-9</pii><dc:title>Removal mechanism and surface quality of crystal semiconductor materials in scratching tests with Berkovich indenter </dc:title><prism:publicationName>Materials Science in Semiconductor Processing</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13698001</prism:issn><prism:volume>105</prism:volume><prism:startingPage>104746</prism:startingPage><prism:pageRange>104746</prism:pageRange><articleNumber>104746</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-01-31</prism:coverDate><prism:coverDisplayDate>January 2020</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Zhang, Cheng</dc:creator><dc:creator>Zhu, Hongtao</dc:creator><dc:creator>Jiang, Zhaoliang</dc:creator><dc:creator>Huang, Chuanzhen</dc:creator><dc:creator>Wang, Jun</dc:creator><dc:description>
+                  Crystal semiconductor materials have been applied in a wide range of technology applications for their unique physical and mechanical properties. The groove depths of crystal semiconductor materials increased with the increasing scratching load while the effects of scratching speeds on the groove depths were not significant. Unlike the indentation process, the surfaces were sheared by the scratching load, leading to plastic flow and “ridge” at the edge of the scratches in the ranging of 10–40 mN. Cracks were observed at the edge of surface and extended to the free surface when the scratching load reached 60 mN, even resulting in the removal of materials due to brittle fracture. Meanwhile, the critical load of elastic-plastic deformation of single crystal Si and Ge was 2.24 mN and 2.26 mN, respectively. The original Si–I was converted to β-Si, and then to Si-XII (R8) and body-centered cubic (BC8), eventually returned to the Si-XII structure in the scratching process. Micro-chips and fracture debris indicated that brittle fracture and shear fracture occurred in the scratching experiments. In order to obtain relatively good surface quality of crystal semiconductor materials, the scratching load should be controlled below 40 mN and the scratching speed should be about 4 μm/s.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Removal mechanism</dcterms:subject><dcterms:subject>Surface quality</dcterms:subject><dcterms:subject>Crystal semiconductor materials</dcterms:subject><dcterms:subject>Nanoscratching</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1369800119311679" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1369800119311679" rel="scidir"/></coredata><objects><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="145" height="163" size="19484">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="13025">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="20757">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="11097">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="148" size="18169">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="79" size="10866">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="34232">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="115" height="163" size="19252">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="9202">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="8747">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="14436">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="603" size="82377">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="277" size="33661">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="369" size="51662">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="211" size="43372">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="361" size="46589">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="208" size="30615">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="293" size="56601">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="887" size="153406">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="236" size="39500">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="238" size="37098">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="288" size="27235">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2670" size="754506">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr11_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1228" size="204467">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="1636" size="448510">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2567" height="934" size="293825">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="1598" size="410568">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2567" height="922" size="184425">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1298" size="535943">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="3927" size="1876970">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1046" size="245771">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1056" size="247646">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1276" size="224016">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="13433">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2103">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si6.svg?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="13409">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si10.svg?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="1927">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si8.svg?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="29216">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si9.svg?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2372">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si7.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="19152">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si3.svg?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2032">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si4.svg?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2270">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si5.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2217">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-si2.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1010237">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800119311679-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85072542828</scopus-id><scopus-eid>2-s2.0-85072542828</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85072542828" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271987</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Science in Semiconductor Processing</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSSCIENCEINSEMICONDUCTORPROCESSING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190924">2019-09-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190924">2019-09-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190924">2019-09-24</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190924">2019-09-24</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-10-24T22:56:08</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1369800119311679</xocs:eid>
+      <xocs:pii-formatted>S1369-8001(19)31167-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1369800119311679</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mssp.2019.104746</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1369800119X0013X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200918">2020-09-18T04:53:49.618553Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200101</xocs:date-search-begin>
+      <xocs:date-search-end>20200131</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1569343770">2019-09-24T16:49:30.546169Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1369-8001</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13698001</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>105</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>105</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 105</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>51</xocs:sort-order>
+      <xocs:first-fp>104746</xocs:first-fp>
+      <xocs:article-number>104746</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>104746</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202001</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>REMOVALMECHANISMSURFACEQUALITYCRYSTALSEMICONDUCTORMATERIALSINSCRATCHINGTESTSBERKOVICHINDENTER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental produces</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Groove depths of scratching</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Groove surfaces of scratching</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Elastic-plastic deformation of scratching</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cracks of scratching</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>230</xocs:ref-first-fp>
+            <xocs:ref-last-lp>234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>VENKATESH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>618</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2563</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>GENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>615</xocs:ref-first-fp>
+            <xocs:ref-last-lp>623</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>CHICHTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3788</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3795</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>RICHTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>526</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>262</xocs:ref-first-fp>
+            <xocs:ref-last-lp>271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>470</xocs:ref-first-fp>
+            <xocs:ref-last-lp>481</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>GOGOTSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>352</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>CHAVOSHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>393</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>389</xocs:ref-first-fp>
+            <xocs:ref-last-lp>398</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>847</xocs:ref-first-fp>
+            <xocs:ref-last-lp>850</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>BEAKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>575</xocs:ref-first-fp>
+            <xocs:ref-last-lp>582</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5469</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>BELAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NANOTRIBOLOGYMODELLINGATOMSSURFACESCOLLIDEENERGYTECHNOLOGYREVIEW</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>MYLVAGANAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>216</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>MYLVAGANAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>387</xocs:ref-first-fp>
+            <xocs:ref-last-lp>391</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICRONANOMECHANICSTESTINGTECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>HAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>106</xocs:ref-first-fp>
+            <xocs:ref-last-lp>114</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>OGINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>712</xocs:ref-first-fp>
+            <xocs:ref-last-lp>714</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BUILDINGNANOSTRUCTURESNANOPATTERNSBASEDMECHANICALETCHINGATOMICFORCEMICROSCOPE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2558</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2564</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>546</xocs:ref-first-fp>
+            <xocs:ref-last-lp>559</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>VODENITCHAROVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5411</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5424</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>GE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>261</xocs:ref-first-fp>
+            <xocs:ref-last-lp>266</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHANGX2020X104746</xocs:refkey3>
+         <xocs:refkey4ai>ZHANGX2020X104746XC</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-09-24T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-09-24T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-09-22T07:16:51.512Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1369-8001(19)31167-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1369800119311679</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1369800119311679</xocs:eid>
+         <xocs:doi>10.1016/j.mssp.2019.104746</xocs:doi>
+         <xocs:cid>271987</xocs:cid>
+         <xocs:timestamp>2020-09-18T04:53:49.618553Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/MAIN/application/pdf/f2a0f995c52de65fa34d1ad04cd6cfd7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3177235</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1369800119311679-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/PREVIEW/image/png/d3865cae66d8135751450516e60ef126/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55789</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr11/THUMBNAIL/image/gif/6a4b5fed3d2f6b62c71cd82033a8b9e6/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19484</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>145</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr9/THUMBNAIL/image/gif/65badb5ac88f44e47b483b97d5b358c6/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13025</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr10/THUMBNAIL/image/gif/862c1a5f6167a2239cbf6da08a9eb4cf/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20757</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr8/THUMBNAIL/image/gif/4cb3f179cec34c5d0948e45128fe1d18/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11097</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr7/THUMBNAIL/image/gif/673ed897252aba06ae0e3b11dd45cd07/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18169</xocs:filesize>
+               <xocs:pixel-height>148</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr2/THUMBNAIL/image/gif/b19457a4fe75d1ab503a4e45595241b7/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10866</xocs:filesize>
+               <xocs:pixel-height>79</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr1/THUMBNAIL/image/gif/0dad417661d3e75df46b28caa0e25f65/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>34232</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr6/THUMBNAIL/image/gif/3b992f0839049d646a94a5d203892826/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19252</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr5/THUMBNAIL/image/gif/911a1712ccee91c9e64b54ea412cff5c/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9202</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr4/THUMBNAIL/image/gif/d721e778baf496c9c96f27980877dc8b/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8747</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr3/THUMBNAIL/image/gif/bdf6fce4cf0c67e21389d8f4cf77c2ae/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14436</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr11/DOWNSAMPLED/image/jpeg/28b075c2db0cccecc8ee4a7ed95ef3a8/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>82377</xocs:filesize>
+               <xocs:pixel-height>603</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr9/DOWNSAMPLED/image/jpeg/10f68ba33100e878c884ec9cb22c7882/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33661</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr10/DOWNSAMPLED/image/jpeg/24272a2c5678ad1a45d4236a951de0ad/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>51662</xocs:filesize>
+               <xocs:pixel-height>369</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr8/DOWNSAMPLED/image/jpeg/196d4de2e5cd7523532eda4723d6370f/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43372</xocs:filesize>
+               <xocs:pixel-height>211</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr7/DOWNSAMPLED/image/jpeg/d260018ee10d2d82f147ecc4a58c01a4/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46589</xocs:filesize>
+               <xocs:pixel-height>361</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr2/DOWNSAMPLED/image/jpeg/c2912351e31e9433d3de50eb403afc60/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30615</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr1/DOWNSAMPLED/image/jpeg/0cdeae685321bf493ffc5caa76a6923d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56601</xocs:filesize>
+               <xocs:pixel-height>293</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr6/DOWNSAMPLED/image/jpeg/87ed6bcd958b48567611057c5f9ff080/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153406</xocs:filesize>
+               <xocs:pixel-height>887</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr5/DOWNSAMPLED/image/jpeg/1fee74c6b0654e05d103b037c5f79f73/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39500</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr4/DOWNSAMPLED/image/jpeg/0e32d4ea6019df23a8c3700c8aa9be49/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37098</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr3/DOWNSAMPLED/image/jpeg/ffd8c4efff684f09b23e5806adef5e5e/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27235</xocs:filesize>
+               <xocs:pixel-height>288</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr11_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr11/HIGHRES/image/jpeg/04b385a9dd19e5b622da4c7ef8fde33c/gr11_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>754506</xocs:filesize>
+               <xocs:pixel-height>2670</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr9/HIGHRES/image/jpeg/e8b15e2564d80017d879c417b12e71ca/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>204467</xocs:filesize>
+               <xocs:pixel-height>1228</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr10/HIGHRES/image/jpeg/d7ac236b9b7015c7850d21f5726f91e6/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>448510</xocs:filesize>
+               <xocs:pixel-height>1636</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr8/HIGHRES/image/jpeg/cee27c00439e92923f386790567ed76f/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>293825</xocs:filesize>
+               <xocs:pixel-height>934</xocs:pixel-height>
+               <xocs:pixel-width>2567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr7/HIGHRES/image/jpeg/0680f627794b30994e855122294293f2/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>410568</xocs:filesize>
+               <xocs:pixel-height>1598</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr2/HIGHRES/image/jpeg/7249425c30fc28f65714de7e89bd1bf6/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>184425</xocs:filesize>
+               <xocs:pixel-height>922</xocs:pixel-height>
+               <xocs:pixel-width>2567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr1/HIGHRES/image/jpeg/ada5a4e8e4aca64e09fbccb9634e5785/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>535943</xocs:filesize>
+               <xocs:pixel-height>1298</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr6/HIGHRES/image/jpeg/59d7440ef33d8770aa73f789e66f5c05/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1876970</xocs:filesize>
+               <xocs:pixel-height>3927</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr5/HIGHRES/image/jpeg/ddd25a625fa5bd3d30406c7c15563cb8/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>245771</xocs:filesize>
+               <xocs:pixel-height>1046</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr4/HIGHRES/image/jpeg/8b7a027f0522df0429d5346c4866fbc2/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>247646</xocs:filesize>
+               <xocs:pixel-height>1056</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/gr3/HIGHRES/image/jpeg/6eda11126c6746bac64de28899d539a7/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>224016</xocs:filesize>
+               <xocs:pixel-height>1276</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/7e021658a6b7a72b02b9089a79e73214/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>13433</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si6.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/589ed21ff9af60af199f6d67c42b2afe/si6.svg</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2103</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si10.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/205b0dead5753bcbc0bb46e095ce4d4d/si10.svg</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>13409</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si8.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/5ca70058f7a6c46754f38da67d7c11d5/si8.svg</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>1927</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si9.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/d666f75e44282c3e02851207b4df5a4b/si9.svg</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>29216</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si7.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/7663c373f14df7ab8ac3483c210f930b/si7.svg</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2372</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/d24e3b69a6fc82ce99efbc1befcd2dfe/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>19152</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si4.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/7ea815cfa00da6eb88ffe16106f7afa5/si4.svg</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2032</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si5.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/6ea6df6d8ffee5b5b309c11863e83c7e/si5.svg</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2270</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800119311679/STRIPIN/image/svg+xml/27fa4bdcb8331739a0cc7ed11f49a498/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2217</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800119311679-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1010237</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10VCB5BB179/MAIN/application/pdf/3ad6b6f583176c77776da3461c3060a8/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MATSCI</jid>
+            <aid>104746</aid>
+            <ce:article-number>104746</ce:article-number>
+            <ce:pii>S1369-8001(19)31167-9</ce:pii>
+            <ce:doi>10.1016/j.mssp.2019.104746</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Nanotest instrument details of Micro Materials Corporation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S1369800119311679/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) The 3D image of Berkovich indenter under 3000-fold 3D laser microscope; (b) Geometric sketch of Berkovich indenter.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S1369800119311679/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Single crystal Si with different loads under 2 μm/s scratching speed in scratching experiment under 400-fold 3D laser microscope.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S1369800119311679/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Maximum depths and plastic depths of (a) Single crystal Si; (b) Single crystal Ge under 10–40 mN with 2 μm/s scratching speed.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S1369800119311679/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Maximum depths and plastic depths of (a) Single crystal Si; (b) Single crystal Ge under 1–10 μm/s scratching speed with 10 mN scratching load.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S1369800119311679/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Groove surfaces of single crystal Si with the different normal loads (a) 10 mN; (b) 20 mN; (c) 40 mN with AFM technology.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S1369800119311679/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Groove surfaces of single crystal Si with the different normal loads (a) 10 mN; (b) 20 mN; (c) 40 mN with SEM technology.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0040" role="short">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:href="pii:S1369800119311679/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Theoretical model of deformation zone in the nanoscratching experiments (a) at the end of the Berkovich indenter; (b) along the Berkovich indenter.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0045" role="short">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:href="pii:S1369800119311679/gr8" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">Raman spectroscopy of single crystal Si before nanoscratching and the 20–40 mN nanoscratching loads.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0050" role="short">Fig. 9</ce:alt-text>
+               <ce:link locator="gr9" xlink:href="pii:S1369800119311679/gr9" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">Groove surfaces of single crystal Si with the different normal loads (a) 60 mN; (b) 80 mN; (c) 100 mN with SEM technology.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0055" role="short">Fig. 10</ce:alt-text>
+               <ce:link locator="gr10" xlink:href="pii:S1369800119311679/gr10" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">Debris around the scratches of single crystal Si with the different normal loads (a) 10 mN; (b) 20 mN; (c) 40 mN; (d) 60 mN; (e) 80 mN; (f) 100 mN under 400-fold 3D laser microscope.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0060" role="short">Fig. 11</ce:alt-text>
+               <ce:link locator="gr11" xlink:href="pii:S1369800119311679/gr11" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl1" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="tspara0010" view="all">Mechanical properties of single crystal Si and Ge.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0065" role="short">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <colspec colname="col3" colnum="3"/>
+                  <colspec colname="col4" colnum="4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mechanical properties</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Units</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Single crystal Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Single crystal Ge</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Density</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">g/cm<sup loc="post">3</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.35</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lattice parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Å</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.65</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Mohs Hardness</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Poisson's Ratio</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.278</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.26</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Elastic Modulus</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">GPa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">190</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">103</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl2" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0070">
+                  <ce:simple-para id="tspara0015" view="all">Experimental parameters of scratching experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0070" role="short">Table 2</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <colspec colname="col3" colnum="3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experimental parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Units</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Values</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Scratching load</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">mN</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10、20、40、60、80、100</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Scratching speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">μm/s</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1、2、4、6、8、10</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Scanning topography load</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">mN</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Home position of load</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">μm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Loading rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">mN/s</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Scratching distance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">μm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">70</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Removal mechanism and surface quality of crystal semiconductor materials in scratching tests with Berkovich indenter</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author author-id="S1369800119311679-a5f55edbed8318670ad43f685ab98602" id="au1">
+                  <ce:given-name>Cheng</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S1369800119311679-c11a050ab746f32aec62d3c7ed351e91" id="au2">
+                  <ce:given-name>Hongtao</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+                  <ce:cross-ref id="crosref0015" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0020" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S1369800119311679-7c5403000dab85986164c276a289c3d1" id="au3">
+                  <ce:given-name>Zhaoliang</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:cross-ref id="crosref0025" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0030" refid="cor2">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S1369800119311679-bf6f4b32b7fa3abf39404170dcb1c42b" id="au4">
+                  <ce:given-name>Chuanzhen</ce:given-name>
+                  <ce:surname>Huang</ce:surname>
+                  <ce:cross-ref id="crosref0035" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S1369800119311679-e6e9d1bd9e932006eb2a103e51d40e4b" id="au5">
+                  <ce:given-name>Jun</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="crosref0040" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation affiliation-id="S1369800119311679-4f1c493c14bfb412efda33120630a683" id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Center for Advanced Jet Engineering Technology (CaJET), Key Laboratory of High-efficiency and Clean Mechanical Manufacture (Ministry of Education), National Demonstration Center for Experimental Mechanical Engineering Education (Shandong University), School of Mechanical Engineering, Shandong University, Jinan, 250061, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Center for Advanced Jet Engineering Technology (CaJET)</sa:organization>
+                     <sa:organization>Key Laboratory of High-efficiency and Clean Mechanical Manufacture (Ministry of Education)</sa:organization>
+                     <sa:organization>National Demonstration Center for Experimental Mechanical Engineering Education (Shandong University)</sa:organization>
+                     <sa:organization>School of Mechanical Engineering</sa:organization>
+                     <sa:organization>Shandong University</sa:organization>
+                     <sa:city>Jinan</sa:city>
+                     <sa:postal-code>250061</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Center for Advanced Jet Engineering Technology (CaJET), Key Laboratory of High-efficiency and Clean Mechanical Manufacture (Ministry of Education), National Demonstration Center for Experimental Mechanical Engineering Education (Shandong University), School of Mechanical Engineering, Shandong University, Jinan, China, 250061</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation affiliation-id="S1369800119311679-bcea4270d96dfcb877467ae88019bbef" id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>School of Mechanical and Manufacturing Engineering, The University of New South Wales, Sydney, NSW, 2052, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Mechanical and Manufacturing Engineering</sa:organization>
+                     <sa:organization>The University of New South Wales</sa:organization>
+                     <sa:city>Sydney</sa:city>
+                     <sa:state>NSW</sa:state>
+                     <sa:postal-code>2052</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">School of Mechanical and Manufacturing Engineering, The University of New South Wales, Sydney, NSW 2052, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="5" year="2019"/>
+            <ce:date-revised day="15" month="8" year="2019"/>
+            <ce:date-accepted day="18" month="9" year="2019"/>
+            <ce:abstract class="author" id="abs0010" xml:lang="en" view="all"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Crystal semiconductor materials have been applied in a wide range of technology applications for their unique physical and mechanical properties. The groove depths of crystal semiconductor materials increased with the increasing scratching load while the effects of scratching speeds on the groove depths were not significant. Unlike the indentation process, the surfaces were sheared by the scratching load, leading to plastic flow and “ridge” at the edge of the scratches in the ranging of 10–40 mN. Cracks were observed at the edge of surface and extended to the free surface when the scratching load reached 60 mN, even resulting in the removal of materials due to brittle fracture. Meanwhile, the critical load of elastic-plastic deformation of single crystal Si and Ge was 2.24 mN and 2.26 mN, respectively. The original Si–I was converted to β-Si, and then to Si-XII (R8) and body-centered cubic (BC8), eventually returned to the Si-XII structure in the scratching process. Micro-chips and fracture debris indicated that brittle fracture and shear fracture occurred in the scratching experiments. In order to obtain relatively good surface quality of crystal semiconductor materials, the scratching load should be controlled below 40 mN and the scratching speed should be about 4 μm/s.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kwrds0010" xml:lang="en" view="all">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Removal mechanism</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Surface quality</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Crystal semiconductor materials</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Nanoscratching</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Single crystal silicon (Si) and germanium (Ge) are most significant semiconductors mainly owing to their unique physical and mechanical properties, for a wide range of technology applications including biomedical needles, solar cells, micro-/nano-electronic devices [<ce:cross-refs id="optQmhuItYn2d" refid="bib1 bib2 bib3">1–3</ce:cross-refs>]. These are high temperature resistant and better resistance to radiation performance [<ce:cross-ref id="optzGZU9qgygA" refid="bib4">4</ce:cross-ref>],[<ce:cross-ref id="optqoBrai29Jc" refid="bib5">5</ce:cross-ref>]. If not carefully managed in the machining process, the microstructural defects would take place in the crystal semiconductor materials. Therefore, there have been research hotspots in removal mechanisms with the single crystal semiconductor materials during the past decades. Many factors, such as normal loads, loading/unloading rates, tip radius, affected the quality of the finished surface under the nanoindentation [<ce:cross-ref id="optd6kDY77k5u" refid="bib6">6</ce:cross-ref>]. However, the nanoscratching could be considered as a sliding nanoindentation activity where the indenter applied both normal load and tangential load [<ce:cross-ref id="optk7U6MkOKeK" refid="bib7">7</ce:cross-ref>],[<ce:cross-ref id="optj9Jc4z6pUT" refid="bib8">8</ce:cross-ref>]. Systematic studies of scratch-induced deformation could lead to a comprehensive understanding of crystal semiconductor materials. In the scratching experiments, Gogotsi Y found that the material removal mechanism of silicon was similar to that in cutting/machining [<ce:cross-ref id="optrwPv4MNVZM" refid="bib6">6</ce:cross-ref>]. Furthermore, the nanoscratching of silicon was formed of Si–I, Si-XII and Si-III, and Si-III phase was found to be in minor quantity in the nanoscratching track [<ce:cross-ref id="optQv3WBG2tEF" refid="bib9">9</ce:cross-ref>]. Some researches were found that small remnants of Si-XII and Si-III phases were detected when the scratching load was greater than a threshold value as 9.5 mN at high scratching speed [<ce:cross-refs id="opthLwN88Nnj4" refid="bib10 bib11 bib12 bib13">10–13</ce:cross-refs>]. YQ Wu demonstrated the lateral load in nanoscratching played a key role in the amorphization of Si, resulting in a different phase transformation behavior [<ce:cross-ref id="optSFszUEoTHQ" refid="bib12">12</ce:cross-ref>]. Compared to the deformation of Si under nanoindentation, the critical load was always smaller in the scratching experiments, and the stress field generated by nanoscratching differed significantly from that by nanoindentation. Fang revealed that phase transformations and formation of microdefects were two dominant phenomenons in the nanoscratching process [<ce:cross-ref id="opt6VhyaYAAhk" refid="bib14">14</ce:cross-ref>]. Belak.J showed that the moving line contact between its tool and workpiece would lead to a higher energy transfer [<ce:cross-ref id="optoXGnlncFwe" refid="bib15">15</ce:cross-ref>]. Meanwhile, the deformation mechanisms of single crystal Si during nanoscratching processes have been studied by molecular dynamics (MD) method. Mylvaganam K studied the amorphous phase transformation and nanotwins were two major mechanisms of monocrystalline Si in nanoscratching by MD method [<ce:cross-ref id="opt9uw1JyE0lJ" refid="bib16">16</ce:cross-ref>]. The depth-of-cut and impingement direction of the indenter had a significant influence on the phase transformations in the initial impression region using MD method [<ce:cross-ref id="optwIEuxB1GkP" refid="bib17">17</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0015" view="all">The sole normal load employed in nanoindentation showed that the plastic removal mechanism was still plagued by controversy. To date, few researches have been investigated to deformation mechanisms on the crystal semiconductor materials in the scratching experiments. In order to learn the mechanism of surface formation of crystal semiconductor materials systematically from the scratching perspective, so as to make improvements on the processing quality, working performance and service life. As a result, the scratching experiments of crystal semiconductor materials were carried out by nanoscratching instrument, and the removal mechanism and surface quality were investigated experimentally in this paper.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Experimental produces</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0030">Materials and methods</ce:section-title>
+                     <ce:para id="p0020" view="all">As shown in <ce:cross-ref id="opt2fR4PlauVt" refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>, all nanoscratching experiments were carried out by Berkovich indenter made by Micro Materials Corporation (Nanotest Vantange, England). Berkovich indenter was chosen because it had the same surface area and projection area as Vickers indenter and eliminated the influence of Vickers indenter tip blade [<ce:cross-ref id="optOClIYF49RO" refid="bib18">18</ce:cross-ref>]. Besides, Berkovich indenter had a small radius of curvature at the tip, which was suitable for nanoscratching experiments. The triangular-pyramidal Berkovich indenter used in this paper was shown in <ce:cross-ref id="opt2ve1qP60yV" refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> (a) with 3000-fold 3D laser microscope, and its geometric shape was shown in <ce:cross-ref id="optIZm4Hut9YI" refid="fig2">Fig. 2</ce:cross-ref> (b). The apex and edge was indicated by the point O, A, B and C, and the projection apex was indicated by the point O’. The radius of curvature at the end of indenter (point O) was less than 20 nm, and the angle between side edge (OA) and center line (OO′) was 65.3°, and the angle between back edge (OB) and center line (OO’) was 77.05° [<ce:cross-ref id="optsmY7v4IlXH" refid="bib19">19</ce:cross-ref>]</ce:para>
+                     <ce:para id="p0025" view="all">The materials of workpieces were single crystal Si and Ge (Chengdu Zhonghong Technology Co., Ltd). The mechanical properties of crystal semiconductor materials were shown in <ce:cross-ref id="optK78lyknQny" refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>. Surfaces of workpieces have been polished and the diameter and thickness of these materials were 10 mm and 3 mm, respectively. To ensure the cleanliness of the workpiece sample, it is necessary to clean the workpiece sample before the experiment. Firstly, put the samples into the anhydrous ethanol and rinse with ultrasonic cleaning machine for 30 min. Then, rinse the samples with distilled water for 30 min. Finally , expose in the vacuum oven for drought.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0035">Characterization</ce:section-title>
+                     <ce:para id="p0030" view="all">Different from the indentation experiments, the main experiment parameters such as scratching loads and scratching speeds are shown in <ce:cross-ref id="opt5dDHVbOeSI" refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. In this paper, the process of scratching experiments is mainly divided into three stages including pre-scanning stage, scratching stage and post-scanning stage. In the pre-scanning stage, Berkovich indenter acts on the surface with a normal load of 0.1 mN, which is used to measure the roughness of the surface before scratching. In the scratching stage, Berkovich indenter is scratched on the surface according to set scratching loads. In the post-scanning stage, Berkovich indenter still acts on the surface with a normal load of 0.1 mN, measuring residual depth after the scratching process.</ce:para>
+                     <ce:para id="p0035" view="all">All surfaces were observed by atomic force microscope (AFM, Dimension Icon with ScanAsyst, Bruker Corporation) to achieve accurate measurements for depths of the grooves. A high magnification scanning electron microscope (SEM, ZEISS, OXFORD Instruments) was used to examine the micro-fracture and deformation in the scratching experiments. The phase identification of single crystal Si was characterized by a Bruker Senterra dispersive Raman microscope, and the spectrometer was excited by a 532 nm laser with an acquisition time of 10 seconds. The microchips and fractured debris along the grooves at different conditions were observed by 3D laser microscope (VK-X200K, KEYENCE, Japan).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0040">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0045">Groove depths of scratching</ce:section-title>
+                     <ce:para id="p0040" view="all">In the process of studying the scratching loads and scratching speeds for crystal semiconductor materials, two experimental conditions were studied. Under the first experimental condition, the main purpose was to study the effect of the scratching loads on the groove depths while the scratching speeds remained constant. <ce:cross-ref id="opt92UlvpP0vG" refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> showed the results of single crystal Si with different loads under 2 μm/s scratching speed. With the scratching loads increasing, the scratching depths of single crystal Si also increased with the 400-fold laser microscope. Meanwhile, it was found that the cracks with a large number of chips appeared on the surfaces under the scratching loads of 60–100 mN, indicating that it was not suitable to study the groove process under these loads. In the scratching stage, the groove depths of crystal semiconductor materials under scratching loads were named as the maximum depths. Because of the elastic-plastic behaviors, the Berkovich indenter still acted on the surface with a normal load, measuring residual groove depths after the scratching process in the post-scanning stage, which were called the plastic depths. As shown in <ce:cross-ref id="optGJziHdk46Z" refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>, the groove depths increased with the increasing scratching loads and the elastic recovery accounted for a large proportion in the range of 10–40 mN. Within this range, the plastic depth of single crystal Si was 50–150 nm, and of single crystal Ge was 80–200 nm, respectively.</ce:para>
+                     <ce:para id="p0045" view="all">Under the second experimental condition, the main purpose was to study the effect of the scratching speeds on the groove depths while the scratching loads kept constant. In similarity, the maximum depths and plastic depths of crystal semiconductor materials with different scratching speeds under 10 mN scratching load, as shown in <ce:cross-ref id="optWXwzoXNZbK" refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>. The effects of scratching speeds on the maximum depth and plastic depth of crystal semiconductor materials were not significant under different parameters. That is, scratching speeds had little effect on the groove depths with certain scratching loads, which was consistent with the conclusion reached by Ogino.T that the speed of etching had little impact on the surface morphology of single crystal Si by diamond probe [<ce:cross-ref id="optaRfhWvSdGr" refid="bib20">20</ce:cross-ref>]. However, the maximum depth and plastic depth of crystal semiconductor materials decreased a little when the scratching speed was higher than 4 μm/s. It was consistent with the conclusion that the etching depth was gradually declining with the increase of the etching speed, but the decrease was not large [<ce:cross-ref id="optuB4cYSNIZ9" refid="bib21">21</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0050">Groove surfaces of scratching</ce:section-title>
+                     <ce:para id="p0050" view="all">The groove surfaces of single crystal Si under 10–40 mN were observed with AFM technology, which were shown in <ce:cross-ref id="optGY7qXfCCgs" refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>. <ce:cross-ref id="optP8J8Y2GfSY" refid="fig6">Fig. 6</ce:cross-ref> showed that the material accumulation occurred in the groove formed by Berkovich indenter. Meanwhile, the plastic flow of the workpiece occurred at the slowest edge of the Berkovich indenter in all scratching experiments. As shown in <ce:cross-ref id="optwZwVXPlmOu" refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>, there was obvious plastic flow on the scratching surfaces resulted from the shear by the scratching load, and the direction of flow at the bottom of the groove was consistent with the scratching direction which presenting periodicity. At the edge of scratching, the material flowed plastically towards and ends at the free surface, forming a “ridge”, which was closely associated with the plastic extrusion of single crystal Si during nanoscratching [<ce:cross-ref id="optJTOuye5iwy" refid="bib7">7</ce:cross-ref>]. Scratches were formed by the shear flow and material accumulation at the front of Berkovich indenter. The groove surfaces after scratching were different under different scratching loads: no cracks were found around the scratching groove under 10–40 mN. Compared to other conditions, the scratching groove surfaces of single crystal Si were better under 40 mN load.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0055">Elastic-plastic deformation of scratching</ce:section-title>
+                     <ce:para id="p0055" view="all">When the applied load was small in the loading phase, the <ce:italic>p-h</ce:italic> curve completely conformed to the Pow-law relationship [<ce:cross-ref id="opt4yTmpvv01E" refid="bib22">22</ce:cross-ref>], that is, P = 1.9 h<ce:sup loc="post">1.5</ce:sup>. When the load was small, the tip of Berkovich indenter approximated sphere. According to the theory of Hertz elastic contact, the load is presented in the <ce:cross-ref id="optXvv86JmDRs" refid="fd1">Eq (1)</ce:cross-ref>:<ce:display>
+                           <ce:formula id="fd1">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.svg" alttext="Equation 1.">
+                                 <mml:mrow>
+                                    <mml:mtext>P</mml:mtext>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mn>4</mml:mn>
+                                    <mml:mo linebreak="goodbreak">/</mml:mo>
+                                    <mml:mn>3</mml:mn>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>R</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:msup>
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>3</mml:mn>
+                                          <mml:mo linebreak="badbreak">/</mml:mo>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>R</ce:italic> was the radius of curvature and <mml:math altimg="si2.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>r</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> was the reduced moduluspresented in the <ce:cross-ref id="optDY4pnsD1Bn" refid="fd2">Eq (2)</ce:cross-ref>:<ce:display>
+                           <ce:formula id="fd2">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si3.svg" alttext="Equation 2.">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:msup>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mn>1</mml:mn>
+                                                      <mml:mo linebreak="badbreak">−</mml:mo>
+                                                      <mml:msubsup>
+                                                         <mml:mrow>
+                                                            <mml:mi>γ</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>i</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mn>2</mml:mn>
+                                                         </mml:mrow>
+                                                      </mml:msubsup>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mrow>
+                                                            <mml:mi>E</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>i</mml:mi>
+                                                         </mml:mrow>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                                <mml:mo linebreak="badbreak">+</mml:mo>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mn>1</mml:mn>
+                                                      <mml:mo linebreak="badbreak">−</mml:mo>
+                                                      <mml:msubsup>
+                                                         <mml:mrow>
+                                                            <mml:mi>γ</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>m</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mn>2</mml:mn>
+                                                         </mml:mrow>
+                                                      </mml:msubsup>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mrow>
+                                                            <mml:mi>E</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>m</mml:mi>
+                                                         </mml:mrow>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:mn>1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0060" view="all">Where <mml:math altimg="si4.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>γ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and <mml:math altimg="si5.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> were Poisson's ratio and elastic modulus of the diamond indenter and <mml:math altimg="si6.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>γ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>m</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and <mml:math altimg="si7.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>m</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> were Poisson's ratio and elastic modulus of the crystal semiconductor materials. For the diamond indenter, <mml:math altimg="si5.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>E</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> = 1431 GPa, <mml:math altimg="si4.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>γ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> = 0.07.</ce:para>
+                     <ce:para id="p0065" view="all">Meanwhile, the shear modulus <mml:math altimg="si8.svg">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>τ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>c</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is presented as the <ce:cross-ref id="opt1ambunahVr" refid="fd3">Eq (3)</ce:cross-ref>:<ce:display>
+                           <ce:formula id="fd3">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si9.svg" alttext="Equation 3.">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>τ</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="badbreak">=</mml:mo>
+                                    <mml:mn>0.465</mml:mn>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>P</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>m</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mn>0.465</mml:mn>
+                                    <mml:msup>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mn>16</mml:mn>
+                                                      <mml:mi>P</mml:mi>
+                                                      <mml:msubsup>
+                                                         <mml:mrow>
+                                                            <mml:mi>E</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>r</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mn>2</mml:mn>
+                                                         </mml:mrow>
+                                                      </mml:msubsup>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mn>9</mml:mn>
+                                                      <mml:msup>
+                                                         <mml:mrow>
+                                                            <mml:mi>π</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mn>3</mml:mn>
+                                                         </mml:mrow>
+                                                      </mml:msup>
+                                                      <mml:msup>
+                                                         <mml:mrow>
+                                                            <mml:mi>R</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mn>2</mml:mn>
+                                                         </mml:mrow>
+                                                      </mml:msup>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>1</mml:mn>
+                                          <mml:mo linebreak="badbreak">/</mml:mo>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>that is, the <ce:cross-ref id="opt2G6H1nffqd" refid="fd4">Eq (4)</ce:cross-ref> presents as follow:<ce:display>
+                           <ce:formula id="fd4">
+                              <ce:label>(4)</ce:label>
+                              <mml:math altimg="si10.svg" alttext="Equation 4.">
+                                 <mml:mrow>
+                                    <mml:mtext>P</mml:mtext>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mn>1.21</mml:mn>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>π</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>R</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:msubsup>
+                                             <mml:mrow>
+                                                <mml:mi>τ</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>c</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msubsup>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mrow>
+                                                      <mml:mi>E</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mi>r</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0070" view="all">Bring the mechanical properties of crystal semiconductor materials in <ce:cross-ref id="optxWFnG2EqCN" refid="tbl1">Table 1</ce:cross-ref> into <ce:cross-ref id="optcdhdu0ps5m" refid="fd4">Eq (4)</ce:cross-ref>, it could be drawn that the critical load of elastic-plastic deformation of single crystal Si and Ge was 2.24 mN and 2.26 mN, respectively. All the scratching loads in this paper exceeded the critical load, indicating that the plastic deformation took place in the crystal semiconductor materials.</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref id="optQ7jKesX1VL" refid="fig8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/> presented the theoretical model of deformation zone at the end of the Berkovich indenter and along the Berkovich indenter. Amorphous phase and dislocation nucleation were the two main mechanisms in the nanomechanical scratching process, and amorphization occurred before stacking fault nucleation or twinning [<ce:cross-ref id="optR9NRNeq0MK" refid="bib23">23</ce:cross-ref>],[<ce:cross-ref id="optPGjG7KWrBV" refid="bib24">24</ce:cross-ref>]. The atom was left by the external force to leave the equilibrium position under a small load, and lattice distortion occurred in the scratching process. In theory, when the external force was unloaded, the atom that was originally under the loaded state would return to the equilibrium position and restore the original lattice shape, which was macroscopically represented by the elastic deformation and material recovery. Nanoscratching was considered as a sliding nanoindention event where the indenter applied both a normal and a tangential load [<ce:cross-ref id="opt1t1b5G8iyF" refid="bib11">11</ce:cross-ref>]. When the shear exceeded the yield limit, the lattice distortion of the atoms eventually led to the generation of dislocations, after which plastic deformation occurred. A common type of dislocation motion was along the slip plane within the crystal. Under the action of shear stress, the atoms gradually propagated and moved along the slip surface, causing the material to be permanently deformed and unrecoverable. Beside of the slip and dislocation mechanisms, structural phase transitions within the material also played a crucial role.</ce:para>
+                     <ce:para id="p0080" view="all">As shown in <ce:cross-ref id="optY61iJevYud" refid="fig9">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig9"/>, the Si (Si–I) peak at a wavenumber of 521 cm<ce:sup loc="post">−1</ce:sup> was predominant in material surface before scratching. The rhombohedral (R8) SiXII peak at a wavenumber of 353 cm<ce:sup loc="post">−1</ce:sup> in material surface after 20 mN and 40 mN scratching load. According to the literature, the transformed phases were body-centered cubic (BC8) Si-III and rhombohedral SiXII (R8) in groove surfaces [<ce:cross-ref id="optHo7J8MLS7V" refid="bib25">25</ce:cross-ref>]. The phase transition process was that the original Si–I was converted to β-Si, and then to Si-XII (R8) and body-centered cubic (BC8), eventually returned to the Si-XII structure during the unloading process. This was the reason that the peak of the BC8 structure was not found during the scratching process. Compared to the 20 mN and 40 mN scratching load, the peak of 40 mN higher than 20 mN was caused by the larger hydrostatic pressure. The atom underwent amorphization under shear stress, leaving an amorphous structure in the surface after scratching process.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0060">Cracks of scratching</ce:section-title>
+                     <ce:para id="p0085" view="all">When the scratching load reached 60 mN, cracks could be observed at the edge of surface and extended to the free surface, even leading to the removal of materials due to brittle fracture, which was displayed in <ce:cross-ref id="opt4RjRiCE3sw" refid="fig10">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="fig10"/>. With the increase of scratching load, the more obvious the cracks around the grooves were, the more cracks propagated to the free surface.</ce:para>
+                     <ce:para id="p0090" view="all">A large amount of debris could be found around the scratches of single crystal Si under different scratching loads by 3D laser microscope, as presented in <ce:cross-ref id="optyXBWaFce2a" refid="fig11">Fig. 11</ce:cross-ref>
+                        <ce:float-anchor refid="fig11"/>. It could be found that micro-chips and fracture debris were produced near the grooves in all scratching loads. With the increase of scratching load, the chip shapes around the grooves restrained by the scratching force also changed differently: from granular debris generated under 10–20 mN load (a-b) to strip debris generated under 40–60 mN load (c-d), finally agglomerated debris could be seen under 80–100 mN load (e-f).</ce:para>
+                     <ce:para id="p0095" view="all">From the morphology of debris of crystal semiconductor materials, the shapes of micro-chips were regular and mostly continuous strip, and a few of them were granular without edges and corners; while the shapes of brittle fracture debris were irregular with edges and corners. The different morphologies of micro-chips and fracture debris suggested that different forms of material fracture occurred during the scratching process including brittle fracture and shear fracture.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0065">Conclusion</ce:section-title>
+                  <ce:para id="p0100" view="all">The removal mechanism and surface quality of crystal semiconductor materials were investigated experimentally with Berkovich indenter in this paper. The main conclusions were drawn as follow:<ce:list id="olist0010">
+                        <ce:list-item id="o0010">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="p0105" view="all">The groove depths of crystal semiconductor materials increased with the increasing scratching loads while the effects of scratching speeds on the groove depths were not significant. In the 10–40 mN, the plastic depth of single crystal Si was 50–150 nm, and of single crystal Ge was 80–200 nm, respectively.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0015">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="p0110" view="all">The surfaces of crystal semiconductor materials were sheared by the scratching load, leading to plastic flow and “ridge” at the edge of the scratches in the 10–40 mN. Cracks could be observed at the edge of surface and extended to the free surface when the scratching load reached 60 mN, even leading to the removal of materials due to brittle fracture.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0020">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="p0115" view="all">The critical load of elastic-plastic deformation of single crystal Si and Ge was 2.24 mN and 2.26 mN, respectively. Structural phase transitions within the material played a crucial role, the original Si–I was converted to β-Si, and then to Si-XII (R8) and body-centered cubic (BC8), eventually returned to the Si-XII structure in the scratching process.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0025">
+                           <ce:label>4.</ce:label>
+                           <ce:para id="p0120" view="all">Micro-chips and fracture debris indicated that brittle fracture and shear fracture occurred in the scratching experiments. In order to obtain relatively good surface quality of crystal semiconductor materials, the scratching load should be controlled below 40 mN and the scratching speed should be about 4 μm/s.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0070">Acknowledgements</ce:section-title>
+               <ce:para id="p0125" view="all">This work was supported by the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100001809" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (Grant No.<ce:grant-number refid="gs1">51375276</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0075">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kuriagawa</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the ductile machining of silicon for micro electro-mechanical systems (MEMS), opto-electronic and optical applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>297</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>230</sb:first-page>
+                              <sb:last-page>234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Yan J, Yoshino M, Kuriagawa T, et al. On the ductile machining of silicon for micro electro-mechanical systems (MEMS), opto-electronic and optical applications [J]. Materials Science &amp; Engineering A (Structural Materials: Properties, Microstructure and Processing), 2001, 297(1-2):230-234.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.C.</ce:given-name>
+                                 <ce:surname>Venkatesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Inasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Toenshof</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Observations on polishing and ultraprecision machining of semiconductor substrate materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Ann. - Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>618</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">V.C.Venkatesh, I.Inasaki, H.K.Toenshof, et al. Observations on Polishing and Ultraprecision Machining of Semiconductor Substrate Materials [J]. CIRP Annals - Manufacturing Technology, 1995, 44(2):611-618.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Deal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Plummer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-quality single-crystal Ge on insulator by liquid-phase epitaxy on Si substrates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2563</sb:first-page>
+                              <sb:last-page>2565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Liu Y, Deal M D, Plummer J D. High-quality single-crystal Ge on insulator by liquid-phase epitaxy on Si substrates[J]. Applied Physics Letters, 2004, 84(14):2563-2565.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Geng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Depth prediction model of nano-grooves fabricated by AFM-based multi-passes scratching method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>313</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>18</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>615</sb:first-page>
+                              <sb:last-page>623</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Geng Y, Yan Y, Yu B, et al. Depth prediction model of nano-grooves fabricated by AFM-based multi-passes scratching method [J]. Applied Surface Science, 2014, 313(18):615-623.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Chichti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Delenne</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nano-mechanical properties of starch and gluten biopolymers from atomic force microscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. Polym. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3788</sb:first-page>
+                              <sb:last-page>3795</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Chichti E, George M, Delenne J Y, et al. Nano-mechanical properties of starch and gluten biopolymers from atomic force microscopy [J]. European Polymer Journal, 2013, 49(12): 3788-3795.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wolf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Belbruno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of semiconductors by nanoindentation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Phenom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95–96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                              <sb:last-page>526</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Richter A, Wolf B, Belbruno J. Investigation of Semiconductors by Nanoindentation [J]. Solid State Phenomena, 2004, 95-96:519-526.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Subsurface nanocracking in monocrystalline Si (0 0 1) induced by nanoscratching</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eng. Fract. Mech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>124–125</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>262</sb:first-page>
+                              <sb:last-page>271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Tang F, Zhang L. Subsurface nanocracking in monocrystalline Si (0 0 1) induced by nanoscratching [J]. Engineering Fracture Mechanics, 2014, 124-125:262-271.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation into nanoscratching mechanical response of AlCrCuFeNi high-entropy alloys using atomic simulations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>416</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>470</sb:first-page>
+                              <sb:last-page>481</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Wang Z, Li J, Fang Q H, et al. Investigation into nanoscratching mechanical response of AlCrCuFeNi high-entropy alloys using atomic simulations [J]. Applied Surface Science, 2017, 416:470-481.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gogotsi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Raman microspectroscopy analysis of pressure-induced metallization in scratching of silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Semicond. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>352</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Gogotsi Y. Raman microspectroscopy analysis of pressure-induced metallization in scratching of silicon [J]. Semiconductor Science and Technology, 2001, 16(5):345-352.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.Z.</ce:given-name>
+                                 <ce:surname>Chavoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Gallo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature nanoscratching of single crystal silicon under reduced oxygen condition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>684</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                              <sb:last-page>393</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Chavoshi S Z, Gallo S C, Dong H, et al. High temperature nanoscratching of single crystal silicon under reduced oxygen condition [J]. Materials Science and Engineering: A, 2017, 684: 385-393.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoindentation and nanoscratch characteristics of Si and GaAs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3–4</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>389</sb:first-page>
+                              <sb:last-page>398</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">TH Fang, W J Chang, C M Lin. Nanoindentation and nanoscratch characteristics of Si and GaAs [J]. Microelectronic Engineering, 2005, 77(3-4):389-398.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoscratch-induced phase transformation of monocrystalline Si</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>847</sb:first-page>
+                              <sb:last-page>850</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">YQ Wu, H Huang, J Zou, et al. Nanoscratch-induced phase transformation of monocrystalline Si [J]. Scripta Materialia, 2010, 63(8):847-850.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Beake</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.I.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Liskiewicz</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nano-scratch, nanoindentation and fretting tests of 5–80nm ta-C films on Si(100)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>301</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>575</sb:first-page>
+                              <sb:last-page>582</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">BD Beake, M I Davies, T W Liskiewicz, et al. Nano-scratch, nanoindentation and fretting tests of 5-80nm ta-C films on Si(100) [J]. Wear, 2013, 301(1-2):575-582.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prediction of the threshold load of dislocation emission in silicon during nanoscratching</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5469</sb:first-page>
+                              <sb:last-page>5476</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Fang Q H, Zhang L C. Prediction of the threshold load of dislocation emission in silicon during nanoscratching [J]. Acta Materialia, 2013, 61(14):5469-5476.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Belak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanotribology: Modelling Atoms when Surfaces Collide Energy and Technology Review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lawrence Livermore Laboratory</sb:name>
+                                 <sb:location>Livermore, CA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Belak.J, Nanotribology: Modelling Atoms When Surfaces Collide Energy and Technology Review (Lawrence Livermore Laboratory, Livermore, CA, 1994).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mylvaganam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanotwinning in monocrystalline silicon upon nanoscratching</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>216</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Mylvaganam K, Zhang L C. Nanotwinning in monocrystalline silicon upon nanoscratching [J]. Scripta Materialia, 2011, 65(3):214-216.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mylvaganam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoscratching-induced phase tansformation of monocrystalline silicon – the depth-of-cut effect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76–78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>387</sb:first-page>
+                              <sb:last-page>391</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Mylvaganam K, Zhang L C. Nanoscratching-Induced Phase Tansformation of Monocrystalline Silicon - The Depth-of-Cut Effect [J]. Advanced Materials Research, 2009, 76-78:387-391.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Taihua</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Micro/Nano Mechanics Testing Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Science Publishing Company</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>(In Chinese)</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Taihua Zhang. Micro/Nano Mechanics Testing Technology [M]. The Science Publishing Company, 2013. (In Chinese)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Instrumented indentation testing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Asm Handbook of Mechanical Testing &amp; Evaluation</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>106</sb:first-page>
+                              <sb:last-page>114</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Hay J. Instrumented indentation testing [J]. Asm Handbook of Mechanical Testing &amp; Evaluation, 2000, 30(2):106 - 114.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nishimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Shirakashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scratch nanolithography on Si surface using scanning probe microscopy: influence of scanning parameters on groove size</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>47</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>712</sb:first-page>
+                              <sb:last-page>714</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Ogino T, Nishimura S, Shirakashi J I. Scratch Nanolithography on Si Surface Using Scanning Probe Microscopy: Influence of Scanning Parameters on Groove Size [J]. Japanese Journal of Applied Physics, 2008, 24(47):712-714.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Guoyun</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Building Nanostructures and Nanopatterns Based on Mechanical Etching of Atomic Force Microscope</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Henan University</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>(In Chinese)</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Wu Guoyun. Building nanostructures and nanopatterns based on mechanical etching of atomic force microscope [D]. Henan University, 2011. (In Chinese)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pharr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An improved technique for determining hardness and elastic modulus using load and displacement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym. Sci. U. S. S. R.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2558</sb:first-page>
+                              <sb:last-page>2564</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Oliver.W, Pharr.G. An improved technique for determining hardness and elastic modulus using load and displacement [J]. Polymer Science U.s.s.r, 1992, 12(10):2558-2564.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tanaka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the mechanics and physics in the nano-indentation of silicon monocrystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jsme Int. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>546</sb:first-page>
+                              <sb:last-page>559</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Zhang L C, Tanaka H. On the Mechanics and Physics in the Nano-Indentation of Silicon Monocrystals [J]. Jsme International Journal, 1999, 42(4):546-559.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Vodenitcharova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new constitutive model for the phase transformations in mono-crystalline silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Solids Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>18–19</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5411</sb:first-page>
+                              <sb:last-page>5424</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Vodenitcharova T, Zhang L C. A new constitutive model for the phase transformations in mono-crystalline silicon [J]. International Journal of Solids &amp; Structures, 2004, 41(18-19):5411-5424.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Ge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation on critical crack-free cutting depth for single crystal silicon slicing with fixed abrasive wire saw based on the scratching machining experiments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Semicond. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>261</sb:first-page>
+                              <sb:last-page>266</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">M R Ge, H T Zhu, C Z Huang, et al. Investigation on critical crack-free cutting depth for single crystal silicon slicing with fixed abrasive wire saw based on the scratching machining experiments, Materials Science in Semiconductor Processing, Vol. 74, (2018), pp. 261-266.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

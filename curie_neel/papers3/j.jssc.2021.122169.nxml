@@ -1,0 +1,2475 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022459621002140</prism:url><dc:identifier>doi:10.1016/j.jssc.2021.122169</dc:identifier><eid>1-s2.0-S0022459621002140</eid><prism:doi>10.1016/j.jssc.2021.122169</prism:doi><pii>S0022-4596(21)00214-0</pii><dc:title>Assessment of the thermoelectric performance of layered semiconductor SrFCuTe with wide band-gap </dc:title><prism:publicationName>Journal of Solid State Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00224596</prism:issn><prism:startingPage>122169</prism:startingPage><prism:pageRange>122169</prism:pageRange><articleNumber>122169</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-04-02</prism:coverDate><prism:coverDisplayDate>Available online 2 April 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Jiang, Yumei</dc:creator><dc:creator>Zhang, Yuting</dc:creator><dc:creator>Xing, Juanjuan</dc:creator><dc:creator>Hu, Yibin</dc:creator><dc:creator>Yang, Xinxin</dc:creator><dc:creator>Zhang, Jiye</dc:creator><dc:creator>Guo, Kai</dc:creator><dc:creator>Luo, Jun</dc:creator><dc:description>
+                  The concept of “phonon-glass, electron-crystal” promotes the development of designing thermoelectric compounds through building functional blocks. Alternately stacking insulating [Sr2F2]2+ layers and conductive [Cu2Te2]2- layers along the c-axis can construct wide-band-gap semiconductor SrFCuTe with the ZrCuSiAs-type structure. The thermoelectric characterization reveal that this compound has considerably low p-type conductivity and thermal conductivity. Na substitution Sr can significantly improve the electrical transport properties due to the acceptor-doping effect, while it increases the electronic thermal conductivity simultaneously. The synergistic effect makes the thermoelectric figure of merit zT rise about 100% at 773 K. This work demonstrates that wide-band-gap semiconductors undergoing rational performance manipulation, worthy of reassessing for thermoelectric application.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Wide-band-gap semiconductor</dcterms:subject><dcterms:subject>Layered compound</dcterms:subject><dcterms:subject>SrFCuTe</dcterms:subject><dcterms:subject>p-type doping</dcterms:subject><dcterms:subject>Thermoelectric properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0022459621002140" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022459621002140?v=s5" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="545" size="129504">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="558" height="446" size="67966">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="558" height="419" size="76292">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="247" height="199" size="21467">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="558" height="220" size="43545">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="557" height="428" size="75902">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="163" size="11800">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="9335">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="9802">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="203" height="164" size="9988">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="86" size="6064">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="11798">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1728" height="2414" size="1281755">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2470" height="1974" size="502148">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2470" height="1854" size="563523">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1097" height="886" size="138457">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2470" height="974" size="327732">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2469" height="1898" size="437074">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459621002140-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272605</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291746</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Solid State Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSOLIDSTATECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210402">2021-04-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210402">2021-04-02</xocs:available-online-date>
+      <xocs:ew-transaction-id>2021-04-01T21:51:49</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022459621002140</xocs:eid>
+      <xocs:pii-formatted>S0022-4596(21)00214-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022459621002140</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jssc.2021.122169</xocs:doi>
+      <xocs:item-stage>S5</xocs:item-stage>
+      <xocs:item-version-number>S5.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:timestamp yyyymmdd="20210402">2021-04-02T01:36:28.6159Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210402</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1617330988">2021-04-02T02:36:28.6159Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment aiptxt articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-4596</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00224596</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:aip-text>In Press, Journal Pre-proof</xocs:aip-text>
+      <xocs:sort-order>0</xocs:sort-order>
+      <xocs:first-fp>122169</xocs:first-fp>
+      <xocs:article-number>122169</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>122169</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-text>Available online 2 April 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-04-02</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ASSESSMENTTHERMOELECTRICPERFORMANCELAYEREDSEMICONDUCTORSRFCUTEWIDEBANDGAP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JIANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Uncited References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>BELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1461</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1418</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1424</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SNYDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-last-lp>114</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1605884</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3346</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>THOMAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1553</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>525</xocs:ref-first-fp>
+            <xocs:ref-last-lp>540</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>AZOUGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32833</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32843</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2114</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>CHARKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>138</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>HOAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>91</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12"/>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>HIRAMATSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>326</xocs:ref-first-fp>
+            <xocs:ref-last-lp>334</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10007</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10013</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>PAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>157</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155497</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>VENKATASUBRAMANIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3091</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>PEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e47</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1900354</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20"/>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6367</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6377</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2900</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8355</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>PONCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121201</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JIANGX2021X122169</xocs:refkey3>
+         <xocs:refkey4ai>JIANGX2021X122169XY</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-04-01T09:18:05.103Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-4596(21)00214-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022459621002140</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022459621002140</xocs:eid>
+         <xocs:doi>10.1016/j.jssc.2021.122169</xocs:doi>
+         <xocs:cid>272605</xocs:cid>
+         <xocs:timestamp>2021-04-02T01:36:28.6159Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-04-02</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/MAIN/application/pdf/e5f2f8f85985538f14fe81f1e5ea36e7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4081295</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>28</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022459621002140-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/PREVIEW/image/png/48f6c1ad3b5647b659536a0daa4460cf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>29333</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr2/DOWNSAMPLED/image/jpeg/c22d035fd3c4707ad59bf000e2fb26f3/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>129504</xocs:filesize>
+               <xocs:pixel-height>545</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr1/DOWNSAMPLED/image/jpeg/61e3f86b68366263673e298d961b1f13/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67966</xocs:filesize>
+               <xocs:pixel-height>446</xocs:pixel-height>
+               <xocs:pixel-width>558</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr3/DOWNSAMPLED/image/jpeg/bb01ac834c5559f78cb5cd806718da36/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>76292</xocs:filesize>
+               <xocs:pixel-height>419</xocs:pixel-height>
+               <xocs:pixel-width>558</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/ga1/DOWNSAMPLED/image/jpeg/45520e3eeb7f91d5a9b6d7e5dfa71ad1/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21467</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>247</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr4/DOWNSAMPLED/image/jpeg/9fb33781e62cc23473d6b9ac16b029a5/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43545</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>558</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr5/DOWNSAMPLED/image/jpeg/d19d4edd57d1741754d208ccce7f4d3b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75902</xocs:filesize>
+               <xocs:pixel-height>428</xocs:pixel-height>
+               <xocs:pixel-width>557</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr2/THUMBNAIL/image/gif/4029c717a1a4382f7c254c3f672bee92/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11800</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr1/THUMBNAIL/image/gif/cbb7cd1635a0c54747691d9c5a2e107e/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9335</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr3/THUMBNAIL/image/gif/f6be40c02017889f3d6f61b7c6ac0087/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9802</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/ga1/THUMBNAIL/image/gif/ec530af066c2008708f3e752e43c0c67/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9988</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>203</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr4/THUMBNAIL/image/gif/740bab8b8d533cd758662b6d21ab349f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6064</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr5/THUMBNAIL/image/gif/1b3587739d29285e43c653d076610176/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11798</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr2/HIGHRES/image/jpeg/2bd1cadaec40db1906b9d5ea5cec7e1c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1281755</xocs:filesize>
+               <xocs:pixel-height>2414</xocs:pixel-height>
+               <xocs:pixel-width>1728</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr1/HIGHRES/image/jpeg/7a09a831c6e3faef7b996fa405b288d3/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>502148</xocs:filesize>
+               <xocs:pixel-height>1974</xocs:pixel-height>
+               <xocs:pixel-width>2470</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr3/HIGHRES/image/jpeg/91d3c06fb0d494b27b0884ee745075de/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>563523</xocs:filesize>
+               <xocs:pixel-height>1854</xocs:pixel-height>
+               <xocs:pixel-width>2470</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/ga1/HIGHRES/image/jpeg/027b414666c03f12a639a8957e2238ac/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>138457</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1097</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr4/HIGHRES/image/jpeg/9ebc6e6fe899d515fc65ab5005a00455/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>327732</xocs:filesize>
+               <xocs:pixel-height>974</xocs:pixel-height>
+               <xocs:pixel-width>2470</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459621002140-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459621002140/gr5/HIGHRES/image/jpeg/0882a503553a1557da132b4ce772b0d0/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>437074</xocs:filesize>
+               <xocs:pixel-height>1898</xocs:pixel-height>
+               <xocs:pixel-width>2469</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>YJSSC</jid>
+            <aid>122169</aid>
+            <ce:article-number>122169</ce:article-number>
+            <ce:pii>S0022-4596(21)00214-0</ce:pii>
+            <ce:doi>10.1016/j.jssc.2021.122169</ce:doi>
+            <ce:copyright type="full-transfer" year="2021">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Figure 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(a) Crystal structure of quaternary layered SrFCuTe. (b) XRD patterns for Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08) samples. (c) The lattice parameters of samples Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib8" id="crosref0335">
+                        <ce:sup loc="post">8</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, 0.02, 0.04, 0.06 and 0.08). (d) The optical band gap of pristine SrFCuTe deduced from the absorption spectra using the Kubelka-Munk relation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Figure 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Figure 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">The surface microstructures (a) and corresponding elemental distributions (b-e) of SrFCuTe bulk sample prepared by hot-pressed sintering.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Figure 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Figure 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(a) Temperature dependences of electrical conductivity for Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08), (b) carrier concentration and mobility of Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe depending on Na content, (c) Seebeck coefficient <ce:italic>S</ce:italic>, and (d) power factor <ce:italic>PF</ce:italic> as function of the temperature for Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe samples.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Figure 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Figure 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(a) XRD patterns for SrFCuTe under different temperatures, (b)Temperature dependence of carrier concentration and mobility for SrFCuTe</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Figure 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Figure 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Temperature dependence of (a) carrier thermal conductivity <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>, (b) lattice thermal conductivity <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>L</ce:italic>
+                     </ce:inf>, (c) total thermal conductivity <ce:italic>κ</ce:italic>, and (d) TE figure of merit <ce:italic>zT</ce:italic> for Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Figure 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0010" view="all">Carrier concentration <ce:italic>n</ce:italic>, Hall mobility <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>H</ce:italic>
+                     </ce:inf>, Seebeck coefficient <ce:italic>S</ce:italic>, lattice thermal conductivity <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>L</ce:italic>
+                     </ce:inf>, effective mass <ce:italic>m</ce:italic>*, and bang gap <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>g</ce:italic>
+                     </ce:inf> for Cu<ce:inf loc="post">2</ce:inf>Se<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib21" id="crosref0340">
+                        <ce:sup loc="post">21</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, BiOCuSe<ce:cross-ref refid="bib22" id="crosref0345">
+                        <ce:sup loc="post">22</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-ref refid="bib23" id="crosref0350">
+                        <ce:sup loc="post">23</ce:sup>
+                     </ce:cross-ref>, and Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se<ce:cross-ref refid="bib24" id="crosref0355">
+                        <ce:sup loc="post">24</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-ref refid="bib25" id="crosref0360">
+                        <ce:sup loc="post">25</ce:sup>
+                     </ce:cross-ref> at room temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compounds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>n</italic> (cm<sup loc="post">-3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>μ</italic>
+                           <inf loc="post">
+                              <italic>H</italic>
+                           </inf> (cm<sup loc="post">2</sup> V<sup loc="post">-1</sup> s<sup loc="post">-1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>S</italic> (<italic>μ</italic>V K<sup loc="post">-1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>κ</italic>
+                           <inf loc="post">
+                              <italic>L</italic>
+                           </inf> (W m<sup loc="post">-1</sup> K<sup loc="post">-1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>m</italic>*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">
+                              <italic>g</italic>
+                           </inf> (eV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ref.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" align="left">Cu<inf loc="post">2</inf>Se<br/>BiOCuSe<br/>Bi<inf loc="post">2</inf>O<inf loc="post">2</inf>Se<br/>SrFCuTe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.1×10<sup loc="post">20</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">17.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.3m<inf loc="post">e</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">[<cross-ref refid="bib21" id="crosref0365">21</cross-ref>]</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1×10<sup loc="post">18</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">349</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.65m<inf loc="post">e</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">[<cross-ref refid="bib22" id="crosref0370">22</cross-ref>,<cross-ref refid="bib23" id="crosref0375">23</cross-ref>]</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.3×10<sup loc="post">18</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">-220</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.28m<inf loc="post">e</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">[<cross-ref refid="bib24" id="crosref0380">24</cross-ref>,<cross-ref refid="bib25" id="crosref0385">25</cross-ref>]</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1×10<sup loc="post">20</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.96m<inf loc="post">e</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">This work</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Assessment of the thermoelectric performance of layered semiconductor SrFCuTe with wide band-gap</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0022459621002140-a6b3b261dc88a1a7109a91534e5b41f8">
+                  <ce:given-name>Yumei</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0022459621002140-c28ca1baf7507d22d49b11a631c3bc70">
+                  <ce:given-name>Yuting</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0022459621002140-ce3043057ae629bfba395706fb8fd434">
+                  <ce:given-name>Juanjuan</ce:given-name>
+                  <ce:surname>Xing</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S0022459621002140-7843504e9ab877815934f14c7fc4c274">
+                  <ce:given-name>Yibin</ce:given-name>
+                  <ce:surname>Hu</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0022459621002140-690bc3e126e20ce5d87352363fd9c147">
+                  <ce:given-name>Xinxin</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" author-id="S0022459621002140-0b63c3c655702de174f1be76706397b1">
+                  <ce:given-name>Jiye</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au7" author-id="S0022459621002140-a249fc675b705e46797835a54e2dcbdb">
+                  <ce:given-name>Kai</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0045">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au8" author-id="S0022459621002140-1b802bf1bf1e0dece0081f46b7af91b3">
+                  <ce:given-name>Jun</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0050">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0055">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0022459621002140-157610b0cb3c1fc46719c7f397a27009">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>School of Materials Science and Engineering, Shanghai University, 99 Shangda Road, Shanghai, 200444, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Shanghai University</sa:organization>
+                     <sa:address-line>99 Shangda Road</sa:address-line>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200444</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">School of Materials Science and Engineering, Shanghai University, 99 Shangda Road, Shanghai, 200444, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0022459621002140-c31f7e454bcd711e6e8fc10b20fdcd5c">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Materials Genome Institute, Shanghai University, 99 Shangda Road, Shanghai, 200444, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Materials Genome Institute</sa:organization>
+                     <sa:organization>Shanghai University</sa:organization>
+                     <sa:address-line>99 Shangda Road</sa:address-line>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200444</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Materials Genome Institute, Shanghai University, 99 Shangda Road, Shanghai, 200444, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="2" year="2021"/>
+            <ce:date-revised day="23" month="3" year="2021"/>
+            <ce:date-accepted day="28" month="3" year="2021"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The concept of “phonon-glass, electron-crystal” promotes the development of designing thermoelectric compounds through building functional blocks. Alternately stacking insulating [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers and conductive [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers along the <ce:italic>c</ce:italic>-axis can construct wide-band-gap semiconductor SrFCuTe with the ZrCuSiAs-type structure. The thermoelectric characterization reveal that this compound has considerably low p-type conductivity and thermal conductivity. Na substitution Sr can significantly improve the electrical transport properties due to the acceptor-doping effect, while it increases the electronic thermal conductivity simultaneously. The synergistic effect makes the thermoelectric figure of merit <ce:italic>zT</ce:italic> rise about 100% at 773 K. This work demonstrates that wide-band-gap semiconductors undergoing rational performance manipulation, worthy of reassessing for thermoelectric application.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">Quaternary layered compound SrFCuTe is a wide-band-gap semiconductor, which is constructed by covalent [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers and ionic [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers. Substituting Sr by Na in SrFCuTe can effectively improve the electrical conductivity, and enhance the thermoelectric properties.<ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459621002140/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Wide-band-gap semiconductor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Layered compound</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>SrFCuTe</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>p-type doping</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Thermoelectric properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Thermoelectric materials (TE) are capable of realizing the interconversion between heat and electricity, which offer an alternative route for improving the efficiency of fossil-energy conversion, as well as marketing electronic refrigeration<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-refs refid="bib1 bib2" id="crosrefs0010">
+                        <ce:sup loc="post">1-2</ce:sup>
+                     </ce:cross-refs>
+                     <ce:sup loc="post">]</ce:sup>. The conversion efficiency of TE materials fundamentally depends on the dimensionless figure of merit <ce:italic>zT</ce:italic> = <ce:italic>S</ce:italic>
+                     <ce:sup loc="post">2</ce:sup>
+                     <ce:italic>σT</ce:italic>/(<ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">L</ce:inf>+<ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>), where <ce:italic>S</ce:italic> is the Seebeck coefficient, <ce:italic>σ</ce:italic> the electrical conductivity, <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">L</ce:inf> the lattice thermal conductivity, <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> the carrier thermal conductivity, and <ce:italic>T</ce:italic> the absolute temperature<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib3" id="crosref0060">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. Typical TE compounds are narrow-band-gap semiconductor, which can balance the conflict of the electrical conductivity <ce:italic>σ</ce:italic> and the Seebeck coefficient <ce:italic>S</ce:italic> so as to achieve large power factors (<ce:italic>PF</ce:italic> = <ce:italic>S</ce:italic>
+                     <ce:sup loc="post">2</ce:sup>
+                     <ce:italic>σ</ce:italic>)<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib4" id="crosref0065">
+                        <ce:sup loc="post">4</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. However, the working temperature for a thermoelectric device normally relates to the band gap <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf> of the corresponding TE material according to the relation: <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf>/10<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf> &lt; <ce:italic>T</ce:italic> &lt; <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf>/5<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf> (<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf> is the Boltzmann constant). Therefore, traditional materials like PbTe and Bi<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf> with narrow band gap (PbTe: <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf> = 0.3 eV<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib5" id="crosref0070">
+                        <ce:sup loc="post">5</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>; Bi<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf>: <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf> = 0.15 eV<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib6" id="crosref0075">
+                        <ce:sup loc="post">6</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>) are restricted at lower working temperatures since intrinsic excitation aggravates the bipolar diffusion effect, which is unfavorable for high-temperature operations. As a consequence, oxides and nitrides with wide band-gap have recently begun to attract more attention as promising high temperature TE materials<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-refs refid="bib7 bib8 bib9" id="crosrefs0015">
+                        <ce:sup loc="post">7-9</ce:sup>
+                     </ce:cross-refs>
+                     <ce:sup loc="post">]</ce:sup>.</ce:para>
+                  <ce:para id="p0030" view="all">The layered compound SrFCuTe is formed by alternately stacking two different functional [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers and [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers along the <ce:italic>c</ce:italic>-axis, and eventually adopts the ZrCuSiAs-structure type with <ce:italic>P</ce:italic>4/<ce:italic>nmm</ce:italic> space group (no. 129, <ce:cross-ref refid="fig1" id="crosref0080">Fig.1(a)</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>)<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib10" id="crosref0085">
+                        <ce:sup loc="post">10</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. Within the [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layer, every F atom is coordinated by four Sr atoms, generating an irregular tetrahedron. These tetrahedrons connect each other by sharing vertices and edges. The [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers are considered as a charge reservoir and serves to scatter phonons due to the electron-localization characteristic evidenced by the ionic interaction. On the contrary, the conductive [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers provide an ideal conduction path for carrier transport as result of the covalent-bonding nature<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib11" id="crosref0090">
+                        <ce:sup loc="post">11</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. The construction idea satisfies the concept of “phonon-glass, electron-crystal”, which was proposed by G. A. Slack in 1995 to design high-performance TE compounds<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib12" id="crosref0095">
+                        <ce:sup loc="post">12</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. SrFCuTe is empirically predicted to be a wide band-gap semiconductor based on the following reasons: on one hand, the isostructural LaOCuTe is a semiconductor with a lager band gap of 2.4 eV<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib13" id="crosref0100">
+                        <ce:sup loc="post">13</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. On the other hand, in the context of the Cu 3d orbitals and Te 5p orbitals mainly contributing the valence band maximum, [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers substitute [La<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers would not fundamentally change the band structure<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib11" id="crosref0105">
+                        <ce:sup loc="post">11</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. Herein, we investigated the crystal structure and thermoelectric properties of quaternary layered compound SrFCuTe. Na was intended to substitute Sr in this wide-band-gap semiconductor, which prove to effectively improve the poor electrical conductivity and enhance the thermoelectric properties.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Experimental section</ce:section-title>
+                  <ce:para id="p0035" view="all">A series of samples with the chemical compositions Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06, and 0.08) were synthesized by solid-state reaction and annealing process. The starting materials were Sr (purity 99.99%), SrF<ce:inf loc="post">2</ce:inf> (purity 99.99%), Cu (purity 99.99%), Te (purity 99.999%) and Na (purity 99.9%), which were weighed according to the stoichiometric ratio and placed in a carbon paper-lined boron nitride crucible within a glove box filled with argon (O<ce:inf loc="post">2</ce:inf> &lt;1 ppm, H<ce:inf loc="post">2</ce:inf>O &lt;1 ppm). Subsequently, these crucibles were sealed in evacuated quartz tubes, and then heated to 1173 K for 3 days at a heating rate of 1 K/min. After cooling to the room temperature, the as-obtained products were pressed into disks followed by grinding into powders. The specimens were annealed for homogeneity at 823 K for 2 days at a heating rate of 1 K/min, and finally were sintered at 823 K under a uniaxial pressure of 50 MPa under vacuum atmosphere for 30 minutes to form dense bulk materials. The densities of bulk Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08) samples are around 5.4 g cm<ce:sup loc="post">-3</ce:sup>, closed to 90% of the theoretical density.</ce:para>
+                  <ce:para id="p0040" view="all">The crystal structure and phase purity of the polycrystalline samples with nominal compositions Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06, and 0.08) were investigated by room temperature powder X-ray diffraction (PXRD, Rigaku, Cu K<ce:italic>α</ce:italic> radiation, <ce:italic>λ</ce:italic> = 1.541854 Å). The measured 2<ce:italic>θ</ce:italic> range was from 10° to 80° with a step of 0.02°. Variable temperature PXRD patterns were collected on a powder X-ray diffractometer (SmartLab, Rigaku, Japan) to investigate the thermal stability from the room temperature to 773 K. The surface microstructures and elemental distribution were observed by a scanning electron microscope (SEM, ZEISS GeminiSEM 300), equipped with an energy spectrometer (EDX, Oxford X-MAX). The thermal conductivity was obtained according to the equation <ce:italic>κ</ce:italic> = <ce:italic>DC</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>p</ce:italic>
+                     </ce:inf>
+                     <ce:italic>d</ce:italic>, where <ce:italic>D</ce:italic> is the thermal diffusivity, <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>p</ce:italic>
+                     </ce:inf> is the specific heat and <ce:italic>d</ce:italic> is the density. The thermal diffusivity was measured by a laser flash diffuser (LFA 457, Netzsch, Germany). <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>p</ce:italic>
+                     </ce:inf> above the room temperature was estimated by the Dulong-Petit model. The density <ce:italic>d</ce:italic> was accessible by the Archimedes method. The Seebeck coefficient and electrical conductivity were simultaneously obtained on a rectangular sample by ZEM-3 (ULVAC, Japan). The Hall coefficients were collected from the Hall test system (Lake Shore 8400, USA), which could be used to calculate the carrier concentration and mobility. The optical band gap was deduced by the Kubelka-Munk relation, (<ce:italic>αhυ</ce:italic>)<ce:sup loc="post">2</ce:sup> ̴ <ce:italic>hυ</ce:italic>, where <ce:italic>α</ce:italic> is ultraviolet absorption coefficient measured by Hitachi U-3900H Spectrophotometer, <ce:italic>hυ</ce:italic> is the energy of the incident photon.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0040">Results and discussion</ce:section-title>
+                  <ce:para id="p0045" view="all">The crystal structure of SrFCuTe adopts the ZrCuSiAs type, which can be viewed as [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers and [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers stacking along <ce:italic>c</ce:italic>-axis (<ce:cross-ref refid="fig1" id="crosref0110">Fig.1(a)</ce:cross-ref>). One can expect that this compound has considerably low thermal conductivity like other isostructural quaternary compounds LaOZnSb<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib14" id="crosref0115">
+                        <ce:sup loc="post">14</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, NdOZnSb<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib15" id="crosref0120">
+                        <ce:sup loc="post">15</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup> and SrFZnSb<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib16" id="crosref0125">
+                        <ce:sup loc="post">16</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup> due to the weak interlayered interactions. As matter of fact, the natural superlattice structure favors the ultralow lattice thermal conductivity, which has been realized in Bi<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf>/Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf>
+                     <ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib17" id="crosref0130">
+                        <ce:sup loc="post">17</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, BiOCuSe<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib18" id="crosref0135">
+                        <ce:sup loc="post">18</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib19" id="crosref0140">
+                        <ce:sup loc="post">19</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>, Ge<ce:inf loc="post">2</ce:inf>Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">5</ce:inf>
+                     <ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib20" id="crosref0145">
+                        <ce:sup loc="post">20</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup> as well (<ce:cross-ref refid="tbl1" id="crosref0150">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>). <ce:cross-ref refid="fig1" id="crosref0155">Fig. 1</ce:cross-ref>(b) presents the XRD patterns of Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08) samples. The main diffraction peaks can be indexed to the tetragonal structure (PDF#183708) with only two weak diffraction peaks identified as SrF<ce:inf loc="post">2</ce:inf>, which is also observed in the literatures<ce:cross-ref refid="bib10" id="crosref0160">
+                        <ce:sup loc="post">10</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-ref refid="bib16" id="crosref0165">
+                        <ce:sup loc="post">16</ce:sup>
+                     </ce:cross-ref>. <ce:cross-ref refid="fig1" id="crosref0170">Fig. 1</ce:cross-ref>(c) presents the lattice parameters <ce:italic>a</ce:italic> and <ce:italic>c</ce:italic> of the literature and our Na-doped samples<ce:italic>,</ce:italic> obviously revealing lattice shrink as result of the smaller Na<ce:sup loc="post">+</ce:sup> substituting Sr<ce:sup loc="post">2+</ce:sup>. D. M. Hoat et al theoretically examined the band structure of SrFCuTe using the first principles calculations and found that SrFCuTe has direct band gap of 2.137eV with mBJ as the exchange potential<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib11" id="crosref0175">
+                        <ce:sup loc="post">11</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. Herein, the Kubelka - Munk relation, (<ce:italic>αhυ</ce:italic>)<ce:sup loc="post">2</ce:sup> ̴ <ce:italic>hυ</ce:italic> was applied, and the optical band gap of SrFCuTe by ultraviolet absorption spectrum was experimentally determined to be 2.42 eV (<ce:cross-ref refid="fig1" id="crosref0180">Fig. 1</ce:cross-ref>(d)) which is logical and close to the theoretical value. Therefore, layered SrFCuTe is a wide-band-gap semiconductor, and the electrical and thermal transport properties would be characterized and discussed in the following part.</ce:para>
+                  <ce:para id="p0050" view="all">The surface microstructures and corresponding elemental distributions of undoped SrFCuTe were examined by SEM combined with EDX measurements (<ce:cross-ref refid="fig2" id="crosref0185">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>). The bulk sample is dense, evidenced by a small amount of pores observed in the measured range. The scratches originate from the polishing process (<ce:cross-ref refid="fig2" id="crosref0190">Fig. 2</ce:cross-ref>(a)). Dark area indicates impurity phase, which has been identified as SrF<ce:inf loc="post">2</ce:inf> form the elemental distributions of Sr, F, Cu and Te (<ce:cross-ref refid="fig2" id="crosref0195">Fig. 2</ce:cross-ref>(b)). The results obtained are agreements with the XRD analysis.</ce:para>
+                  <ce:para id="p0055" view="all">
+                     <ce:cross-ref refid="fig3" id="crosref0200">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> displays the temperature dependence of electrical transport properties for samples Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08). Pristine SrFCuTe has higher carrier concentration but lower mobility than BiOCuSe and Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se (<ce:cross-ref refid="tbl1" id="crosref0205">Table 1</ce:cross-ref>). The electrical conductivities enhance in the entire temperature range as the content of Na increases (<ce:cross-ref refid="fig3" id="crosref0210">Fig. 3</ce:cross-ref>(a)). Especially, the room-temperature electrical conductivities increase significantly from 1840 S m<ce:sup loc="post">-1</ce:sup> for SrFCuTe to 40000 S m<ce:sup loc="post">-1</ce:sup> for Sr<ce:inf loc="post">0.92</ce:inf>Na<ce:inf loc="post">0.08</ce:inf>FCuTe, which results from the synchronous increase in carrier concentration and mobility, as shown in <ce:cross-ref refid="fig3" id="crosref0215">Fig. 3</ce:cross-ref>(b). Normally, high carrier concentration would result in strong electron-phonon scattering, detrimental to carrier mobility<ce:sup loc="post">[</ce:sup>
+                     <ce:cross-ref refid="bib26" id="crosref0220">
+                        <ce:sup loc="post">26</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">]</ce:sup>. Herein, Na, as an acceptor dopant, can effectively induce more holes in p-type SrFCuTe with substitution at Sr. Meanwhile, the interlayered interaction between [Sr<ce:inf loc="post">2</ce:inf>F<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2+</ce:sup> layers and [Cu<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">2</ce:inf>]<ce:sup loc="post">2-</ce:sup> layers could be modified, favoring the hole migration. In this case, the carrier mobility at room temperature increased from 1.21 cm<ce:sup loc="post">2</ce:sup> V<ce:sup loc="post">-1</ce:sup> S<ce:sup loc="post">-1</ce:sup> for <ce:italic>x</ce:italic> = 0 to 12.2 cm<ce:sup loc="post">2</ce:sup> V<ce:sup loc="post">-1</ce:sup> S<ce:sup loc="post">-1</ce:sup> for <ce:italic>x</ce:italic> = 0.08. As the temperature increases, the electrical conductivity descend, behaving as degenerate semiconductors. In contrast, the Seebeck coefficients of Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe increase with the rise of temperature (<ce:cross-ref refid="fig3" id="crosref0225">Fig. 3</ce:cross-ref>(c)). Moreover, the doping concentration-dependences of the Seebeck coefficients follow the opposite trend as the electrical conductivity. Further analysis reveal that all samples experience a sharp increase in the slope of Seebeck coefficient around 600 K and the values trend to be flat above 650 K. Variable temperature XRD measurements for the undoped sample SrFCuTe were carried out in <ce:cross-ref refid="fig4" id="crosref0230">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>(a), which show that the diffraction peaks shift to a lower angle upon the temperature rising, demonstrating the lattice expand with heating. More importantly, a small diffraction peak appears around 25<ce:sup loc="post">o</ce:sup> above 600 K, indicating the precipitation behavior at high temperature despite the fact that the phase is unknown. Unexpectedly, when cooling to the room temperature, this weak diffraction peak disappears and the precipitation dissolve into the matrix again. The precipitation effect plays key role in the abnormal variety of Seebeck coefficient at 600 K. <ce:cross-ref refid="fig4" id="crosref0235">Fig. 4</ce:cross-ref>(b) presents the temperature dependence of carrier concentration and mobility for sample SrFCuTe. The precipitation behavior results in a simultaneous decrease in carrier concentration and mobility, which causes a sharp increase in the Seebeck coefficients of samples Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08), beneficial for stabilizing high <ce:italic>PF</ce:italic> above 650 K. The power factors calculated from the formula <ce:italic>PF</ce:italic> = <ce:italic>S</ce:italic>
+                     <ce:sup loc="post">2</ce:sup>
+                     <ce:italic>σ</ce:italic> are shown in <ce:cross-ref refid="fig3" id="crosref0240">Fig. 3</ce:cross-ref>(d). The <ce:italic>PF</ce:italic> for pristine SrFCuTe is around 0.15 μW cm<ce:sup loc="post">-1</ce:sup> K<ce:sup loc="post">-2</ce:sup> below 550 K and subsequently increases with the rise of temperature. A maximum PF of 0.4 μW cm<ce:sup loc="post">-1</ce:sup> K<ce:sup loc="post">-2</ce:sup> is obtained at 750 K for SrFCuTe, which mainly results from the low mobility (<ce:cross-ref refid="tbl1" id="crosref0245">Table 1</ce:cross-ref>). After Na doping into SrFCuTe, the <ce:italic>PF</ce:italic> enhances in the entire temperature range as the increasing Na content. A maximum <ce:italic>PF</ce:italic> value of 1.44 μW cm<ce:sup loc="post">-1</ce:sup> K<ce:sup loc="post">-2</ce:sup> can be achieved at 750 K for Sr<ce:inf loc="post">0.92</ce:inf>Na<ce:inf loc="post">0.08</ce:inf>FCuTe, which is nearly four times higher than that for pristine SrFCuTe at the same temperature.</ce:para>
+                  <ce:para id="p0060" view="all">The temperature dependences of total, carrier and lattice thermal conductivity are displayed in <ce:cross-ref refid="fig5" id="crosref0250">Figure 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>. Obviously, Na is an effective dopant, which leads to the increase of hole concentration and electrical conductivity, and evenly the carrier thermal conductivity according to the Wiedemann-Franz law <ce:italic>κ</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = <ce:italic>LσT</ce:italic>. Due to a sudden drop in electrical conductivity at 600 K, the carrier thermal conductivity also decreases correspondingly, as shown in <ce:cross-ref refid="fig5" id="crosref0255">Fig. 5</ce:cross-ref>(a). The lattice thermal conductivity was calculated by subtracting the carrier contribution from the total thermal conductivity. With the increase of temperature, the lattice thermal conductivity is reduced (<ce:cross-ref refid="fig5" id="crosref0260">Fig. 5</ce:cross-ref>(b)). The lattice thermal conductivity increases with the increase of <ce:italic>x</ce:italic>, presumably due to the inaccurate value of Lorenz constant and lighter Na substitution Sr. As the temperature rises, the total thermal conductivity descends, which is dominated by the phonon-phonon scattering. Na doping can lead to the increase of hole concentration and mobility, which improve the electrical conductivity as well as the thermal conductivity. Due to the sudden drop in electrical conductivity at 600 K, the total thermal conductivity also decreases correspondingly. <ce:cross-ref refid="fig5" id="crosref0265">Fig. 5</ce:cross-ref>(d) presents <ce:italic>zT</ce:italic> depending on the temperature for Sr<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                     </ce:inf>Na<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>FCuTe (<ce:italic>x</ce:italic> = 0, 0.02, 0.04, 0.06 and 0.08). At low temperature, the <ce:italic>zT</ce:italic> values of all samples show little difference. However, at high temperature, due to the significant increase of power factor and decrease of thermal conductivity, the TE performance is greatly improved. Specifically, the maximum <ce:italic>zT</ce:italic> value for pristine SrFCuTe is only 0.06 and it is remarkably boosted to 0.11 for Sr<ce:inf loc="post">0.94</ce:inf>Na<ce:inf loc="post">0.06</ce:inf>FCuTe and Sr<ce:inf loc="post">0.92</ce:inf>Na<ce:inf loc="post">0.08</ce:inf>FCuTe at 773 K. This is a nearly 100% improvement over SrFCuTe.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0045">Conclusion</ce:section-title>
+                  <ce:para id="p0065" view="all">Quaternary layered compound SrFCuTe were synthesized by traditional solid-state reaction and annealing treatment. The pristine SrFCuTe has wide band-gap and low thermal conductivity. Na doping can significantly improve the electrical conductivity due to the simultaneous increase of carrier concentration and mobility. A maximum <ce:italic>zT</ce:italic> of 0.11 has been achieved at 773 K in Sr<ce:inf loc="post">0.94</ce:inf>Na<ce:inf loc="post">0.06</ce:inf>FCuTe and Sr<ce:inf loc="post">0.92</ce:inf>Na<ce:inf loc="post">0.08</ce:inf>FCuTe, which is nearly 100% higher than the pristine sample. This work demonstrates that some wide-band-gap semiconductors are worth to reassessing for thermoelectric application and provides a new possible direction for the search for new thermoelectric materials.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0050">Uncited References</ce:section-title>
+                  <ce:para id="p0070" view="all">[<ce:cross-ref refid="bib4" id="crosref0270">4</ce:cross-ref>]; [<ce:cross-ref refid="bib5" id="crosref0275">5</ce:cross-ref>]; [<ce:cross-ref refid="bib7" id="crosref0280">7</ce:cross-ref>]; [<ce:cross-ref refid="bib9" id="crosref0285">9</ce:cross-ref>]; [<ce:cross-ref refid="bib12" id="crosref0290">12</ce:cross-ref>]; [<ce:cross-ref refid="bib13" id="crosref0295">13</ce:cross-ref>]; [<ce:cross-ref refid="bib14" id="crosref0300">14</ce:cross-ref>]; [<ce:cross-ref refid="bib15" id="crosref0305">15</ce:cross-ref>]; [<ce:cross-ref refid="bib17" id="crosref0310">17</ce:cross-ref>]; [<ce:cross-ref refid="bib18" id="crosref0315">18</ce:cross-ref>]; [<ce:cross-ref refid="bib19" id="crosref0320">19</ce:cross-ref>]; [<ce:cross-ref refid="bib20" id="crosref0325">20</ce:cross-ref>]; [<ce:cross-ref refid="bib26" id="crosref0330">26</ce:cross-ref>].</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0055">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0075" view="all">
+                     <ce:bold>Yumei Jiang:</ce:bold> Writing – original draft. <ce:bold>Yuting Zhang:</ce:bold> Investigation, Formal analysis, Data curation. <ce:bold>Juanjuan Xing:</ce:bold> Investigation, Methodology. <ce:bold>Yibin Hu:</ce:bold> Investigation, Methodology. <ce:bold>Xinxin Yang:</ce:bold> Investigation, Methodology. <ce:bold>Jiye Zhang:</ce:bold> Validation. <ce:bold>Kai Guo:</ce:bold> Conceptualization, Supervision, Writing – review &amp; editing. <ce:bold>Jun Luo:</ce:bold> Project administration, Writing – review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0060">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="p0080" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0065">Acknowledgments</ce:section-title>
+               <ce:para id="p0085" view="all">This work was financially supported by the National Key Research and Development Program of China (No. 2018YFA0702100), the National Natural Science Foundation of China under Projects 21771123, and the Programme of Introducting Talents of Discipline to Universities (No. D16002).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0070">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.E.</ce:given-name>
+                                 <ce:surname>Bell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cooling, heating, generating power, and recovering waste heat with thermoelectric systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>321</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1457</sb:first-page>
+                              <sb:last-page>1461</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">L. E. Bell, Cooling, heating, generating power, and recovering waste heat with thermoelectric systems, Science 321 (2008) 1457-1461.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-F.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chetty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-M.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ohta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Pennycook</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High thermoelectric performance in low-cost SnS<ce:inf loc="post">0.91</ce:inf>Se<ce:inf loc="post">0.09</ce:inf> crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>365</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1418</sb:first-page>
+                              <sb:last-page>1424</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">W. He, D. Wang, H. Wu, Y. Xiao, Y. Zhang, D. He, Y. Feng, Y.-J. Hao, J.-F. Dong, R. Chetty, L. Hao, D. Chen, J. Qin, Q. Yang, X. Li, J.-M. Song, Y. Zhu, W. Xu, C. Niu, X. Li, G. Wang, C. Liu, M. Ohta, S. J. Pennycook, J. He, J.-F. Li, L.-D. Zhao, High thermoelectric performance in low-cost SnS0.91Se0.09 crystals, Science, 365 (2019), 1418-1424.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Toberer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Complex thermoelectric materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                              <sb:last-page>114</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">G. J. Snyder, E. S. Toberer, Complex thermoelectric materials, Nat. Mater. 7 (2008) 105-114.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Heremans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compromise and synergy in high-efficiency thermoelectric materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1605884</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">T. Zhu, Y. Liu, C. Fu, J. P. Heremans, G. J. Snyder, X. Zhao, Compromise and synergy in high-efficiency thermoelectric materials, Adv. Mater., 29 (2017), 1605884.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.I.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Biswas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Hogan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Uher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wolverton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Dravid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Kanatzidis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>All-scale hierarchical thermoelectrics: MgTe in PbTe facilitates valence band convergence and suppresses bipolar thermal transport for high performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3346</sb:first-page>
+                              <sb:last-page>3355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">L. D. Zhao, H. J. Wu, S. Q. Hao, C. I. Wu, X. Y. Zhou, K. Biswas, J. Q. He, T. P. Hogan, C. Uher, C. Wolverton, V. P. Dravid, M. G. Kanatzidis, All-scale hierarchical thermoelectrics: MgTe in PbTe facilitates valence band convergence and suppresses bipolar thermal transport for high performance, Energy Environ. Sci. 6 (2013) 3346-3355.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Rapke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Van Dover</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Mattheis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Surden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Schneemaper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Waszczak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Large electronic-density increase on cooling a layered metal: Doped Bi<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">3</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1553</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">G. A. Thomas, D. H. Rapke, R. B. Van Dover, L. F. Mattheis, W. A. Surden, L. F. Schneemaper, J. V. Waszczak, Large electronic-density increase on cooling a layered metal: Doped Bi2Te3, Phys. Rev. B 46 (1992), 1553.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxide materials for high temperature thermoelectric energy conversion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>525</sb:first-page>
+                              <sb:last-page>540</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">J. W. Fergus, Oxide materials for high temperature thermoelectric energy conversion, J. Eur. Ceram. Soc. 32 (2012) 525-540.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Azough</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gholinia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Alvarez-Ruiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Duran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Kepaptsoglou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Eggeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.M.</ce:given-name>
+                                 <ce:surname>Ramasse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Freer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Self-nanostructuring in SrTiO<ce:inf loc="post">3</ce:inf>: a novel strategy for enhancement of thermoelectric response in oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32833</sb:first-page>
+                              <sb:last-page>32843</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">F. Azough, A. Gholinia, D. T. Alvarez-Ruiz, E. Duran, D. M. Kepaptsoglou, A. S. Eggeman, Q. M. Ramasse, R. Freer, Self-nanostructuring in SrTiO3: a novel strategy for enhancement of thermoelectric response in oxides, ACS Appl. Mater. Interfaces 11 (2019) 32833-32843.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.D.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>An</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Esfarjani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shiomi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unexpectedly high cross-plane thermoelectric performance of layered carbon nitrides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2114</sb:first-page>
+                              <sb:last-page>2121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Z. D. Ding, M. An, S. Q. Mo, X. X. Yu, Z. L. Jin, Y. X. Liao, K. Esfarjani, J. T. Lu, J. Shiomi, N. Yang, Unexpectedly high cross-plane thermoelectric performance of layered carbon nitrides, J. Mater. Chem. A 7 (2019) 2114-2121.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.O.</ce:given-name>
+                                 <ce:surname>Charkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Urmanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Kazakov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and crystal structures of novel LaOAgS-type copper and silver fluoride chalcogenides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>516</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>134</sb:first-page>
+                              <sb:last-page>138</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">D. O. Charkin, A. V. Urmanov, S. M. Kazakov, Preparation and crystal structures of novel LaOAgS-type copper and silver fluoride chalcogenides, J. Alloys. Compd. 516 (2012) 134-138.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Hoat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.R.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Méndez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Systematic study of structural, electronic, optical and thermodynamic properties of SrFCuTe compound</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>270</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>91</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">D. M. Hoat, J. F. R. Silva, A. Mendez, Systematic study of structural, electronic, optical and thermodynamic properties of SrFCuTe compound, J. Solid State Chem. 270 (2019) 85-91.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="sref12">
+                        <ce:textref>G. A. Slack, D. M. Rowe (Eds), CRC Handbook of Thermoelectrics, CRC Press, Boca Raton, FL, 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hiramatsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yanagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kamiya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ueda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hirano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hosono</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Crystal Structures, Optoelectronic Properties, and Electronic Structures of Layered Oxychalcogenides MCuOCh (M = Bi, La; Ch = S, Se, Te): Effects of Electronic Configurations of M<ce:sup loc="post">3+</ce:sup> Ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>326</sb:first-page>
+                              <sb:last-page>334</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">H. Hiramatsu, H. Yanagi, T. Kamiya, K. Ueda, M. Hirano, H. Hosono, Crystal Structures, Optoelectronic Properties, and Electronic Structures of Layered Oxychalcogenides MCuOCh (M = Bi, La; Ch = S, Se, Te): Effects of Electronic Configurations of M3+ Ions, Chem. Mater. 39 (2008) 326-334.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Man</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Grin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical bonding and properties of "layered" quaternary antimonide oxide REOZnSb (RE = La, Ce, Pr, Nd)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Dalton Trans</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10007</sb:first-page>
+                              <sb:last-page>10013</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">K. Guo, Z. Y. Man, X. J. Wang, H. H. Chen, M. B. Tang, Z. J. Zhang, Y. Grin, J. T. Zhao, Chemical bonding and properties of "layered" quaternary antimonide oxide REOZnSb (RE = La, Ce, Pr, Nd), Dalton Trans. 40 (2011) 10007-10013.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-T.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of Ag doping on the thermoelectric properties of layered compound NdOZnSb</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>688</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                              <sb:last-page>157</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">M. Pan, K. Wang, W. Lv, D. Hu, K. Guo, X. Yang, J.-T. Zhao, Influence of Ag doping on the thermoelectric properties of layered compound NdOZnSb, J. Alloys. Compd. 688 (2016) 153-157.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermoelectric properties and thermal expansion of quaternary layered compound SrFZnSb</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>837</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155497</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Y. Hu, J. Zhang, Y. Li, C. Wang, K. Guo, J. Zhang, J. Luo, J. T. Zhao, Thermoelectric properties and thermal expansion of quaternary layered compound SrFZnSb, J. Alloys. Compd. 837 (2020) 155497.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Venkatasubramanian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lattice thermal conductivity reduction and phonon localization like behavior in superlattice structures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3091</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">R. Venkatasubramanian, Lattice thermal conductivity reduction and phonon localization like behavior in superlattice structures, Phys. Rev. B 61 (2000) 3091.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Pei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Barreteau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Berardan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Dragoe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High thermoelectric performance of oxyselenides: intrinsically low thermal conductivity of Ca-doped BiCuSeO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>NPG Asia Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e47</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Y. L. Pei, J. He, J. F. Li, F. Li, Q. Liu, W. Pan, C. Barreteau, D. Berardan, N. Dragoe, L. D. Zhao, High thermoelectric performance of oxyselenides: intrinsically low thermal conductivity of Ca-doped BiCuSeO, NPG Asia Mater. 5 (2013) e47.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Lan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synergistical enhancement of thermoelectric properties in n-type Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se by carrier engineering and hierarchical microstructure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1900354</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">X. Tan, Y. Liu, R. Liu, Z. Zhou, C. Liu, J. L. Lan, Q. Zhang, Y. H. Lin, C. W. Nan, Synergistical enhancement of thermoelectric properties in n-type Bi2O2Se by carrier engineering and hierarchical microstructure, Adv. Energy Mater. 9 (2019) 1900354.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="sref20">
+                        <ce:textref>W. Du, Y. Gu, K. Wang, X. Yang, J. Xing, K. Guo, J. Luo, J.-T. Zhao, Effective mass enhancement and thermal conductivity reduction for improving the thermoelectric properties of pseudo-binary Ge<ce:inf loc="post">2</ce:inf>Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">5</ce:inf>, Annalen der Physik, 2020, 1900390.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Blichfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hanus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Iversen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced thermoelectric performance through tuning bonding energy in Cu<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">1-<ce:italic>x</ce:italic>
+                                 </ce:inf>
+                                 <ce:italic>S</ce:italic>
+                                 <ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> liquid-like materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6367</sb:first-page>
+                              <sb:last-page>6377</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">K. Zhao, A. B. Blichfeld, H. Chen, Q. Song, T. Zhang, C. Zhu, D. Ren, R. Hanus, P. Qiu, B. B. Iversen, F. Xu, G. J. Snyder, X. Shi, L. Chen, Enhanced thermoelectric performance through tuning bonding energy in Cu2Se1-xSx liquid-like materials, Chem. Mater. 29 (2017) 6367-6377.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Band structure manipulated by high pressure-assisted Te doping realizing improvement in thermoelectric performance of BiCuSeO system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Materiomics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>659-656</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Z. Liu, X. Guo, R. Li, J. Qin, H. Li, X. Chen, X. Zhou, Band structure manipulated by high pressure-assisted Te doping realizing improvement in thermoelectric performance of BiCuSeO system, J. Materiomics 5 (2019) 659-656.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.–D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Berardan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.–F.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Dragoe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>BiCuSeO oxyselenides: new promising thermoelectric materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy. Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2900</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">L.-D. Zhao, J. He, D. Berardan, Y. Lin, J.-F. Li, C.-W. Nan, N. Dragoe, BiCuSeO oxyselenides: new promising thermoelectric materials, Energy. Environ. Sci. 7 (2014) 2900.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.B.M.</ce:given-name>
+                                 <ce:surname>Schröter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Ekahana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic structures and unusually robust bandgap in an ultrahigh-mobility layered oxide semiconductor Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8355</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">C. Chen, M. Wang, J. Wu, H. Fu, H. Yang, Z. Tian, T. Tu, H. Peng, Y. Sun, X. Xu, J. Jiang, N. B. M. Schroter, Y. Li, D. Pei, S. Liu, S. A. Ekahana, H. Yuan, J. Xue, G. Li, J. Jia, Z. Liu, B. Yan, H. Peng, Y. Chen, Electronic structures and unusually robust bandgap in an ultrahigh-mobility layered oxide semiconductor Bi2O2Se, Sci. Adv. 4 (2018) 8355.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Sb-doping on the electron-phonon transport properties of Bi<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>Se</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>858</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">N. Yang, L. Pan, C. Chen, Y. Wang, Effects of Sb-doping on the electron-phonon transport properties of Bi2O2Se, J. Alloys. Compd. 858 (2021) 157748.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Poncé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Margine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Giustino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards predictive many-body calculations of phonon-limited carrier mobilities in semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121201</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">S. Ponce, E. R. Margine, F. Giustino, Towards predictive many-body calculations of phonon-limited carrier mobilities in semiconductors, Phys. Rev. B 97 (2018) 121201.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

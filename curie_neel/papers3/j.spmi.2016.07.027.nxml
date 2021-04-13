@@ -1,0 +1,1980 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0749603616305134</prism:url><dc:identifier>doi:10.1016/j.spmi.2016.07.027</dc:identifier><eid>1-s2.0-S0749603616305134</eid><prism:doi>10.1016/j.spmi.2016.07.027</prism:doi><pii>S0749-6036(16)30513-4</pii><dc:title>Twisted bilayer blue phosphorene: A direct band gap semiconductor </dc:title><prism:publicationName>Superlattices and Microstructures</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>07496036</prism:issn><prism:volume>97</prism:volume><prism:startingPage>562</prism:startingPage><prism:endingPage>568</prism:endingPage><prism:pageRange>562-568</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-09-30</prism:coverDate><prism:coverDisplayDate>September 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Ospina, D.A.</dc:creator><dc:creator>Duque, C.A.</dc:creator><dc:creator>Correa, J.D.</dc:creator><dc:creator>Suárez Morell, Eric</dc:creator><dc:description>
+                  We report that two rotated layers of blue phosphorene behave as a direct band gap semiconductor. The optical spectrum shows absorption peaks in the visible region of the spectrum and in addition the energy of these peaks can be tuned with the rotational angle. These findings makes twisted bilayer blue phosphorene a strong candidate as a solar cell or photodetection device. Our results are based on ab initio calculations of several rotated blue phosphorene layers.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Phosphorene</dcterms:subject><dcterms:subject>Twisted</dcterms:subject><dcterms:subject>ab initio</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0749603616305134" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0749603616305134" rel="scidir"/></coredata><objects><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="127" height="164" size="12587">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="164" size="15147">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="121" height="164" size="13425">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="164" size="30661">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="143" height="163" size="18187">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="499" size="67544">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="512" size="76218">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="528" size="76305">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="570" size="177798">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="524" height="599" size="142649">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="21" height="16" size="175">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="111" height="16" size="399">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="111" height="17" size="400">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="16" size="172">https://api.elsevier.com/content/object/eid/1-s2.0-S0749603616305134-si3.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84979936635</scopus-id><scopus-eid>2-s2.0-84979936635</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84979936635" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272583</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Superlattices and Microstructures</xocs:srctitle>
+      <xocs:normalized-srctitle>SUPERLATTICESMICROSTRUCTURES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160728">2016-07-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160728">2016-07-28</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160803">2016-08-03</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160803">2016-08-03</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-04-26T23:27:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0749603616305134</xocs:eid>
+      <xocs:pii-formatted>S0749-6036(16)30513-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0749603616305134</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.spmi.2016.07.027</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0749603616X00080</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190427">2019-04-27T06:09:46.901424Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160901</xocs:date-search-begin>
+      <xocs:date-search-end>20160930</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1469688611">2016-07-28T06:50:11.494455Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0749-6036</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>07496036</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>97</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>97</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 97</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>63</xocs:sort-order>
+      <xocs:first-fp>562</xocs:first-fp>
+      <xocs:last-lp>568</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>562</xocs:first-page>
+         <xocs:last-page>568</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201609</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TWISTEDBILAYERBLUEPHOSPHORENEADIRECTBANDGAPSEMICONDUCTOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OSPINA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Method</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Geometry of the unit cell</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>DFT calculations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Summary and conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>NOVOSELOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-last-lp>669</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>NOVOSELOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10451</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10453</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4033</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4041</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>GEIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>425</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1989</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1995</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LOPESDOSSANTOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>256802</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>GUOHONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>SUAREZMORELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205404</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>BRIHUEGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>196802</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126801</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>CORREA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>642</xocs:ref-first-fp>
+            <xocs:ref-last-lp>647</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>MIWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115419</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>TRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235319</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>TRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235319</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>176802</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>XIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>073704</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>GHOSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115433</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>XIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>118702</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>ZDANOWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>757</xocs:ref-first-fp>
+            <xocs:ref-last-lp>769</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>DAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1289</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1293</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>SUAREZMORELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195421</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>SOLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2745</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2779</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>KLIMES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>022201</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OSPINAX2016X562</xocs:refkey3>
+         <xocs:refkey4lp>OSPINAX2016X562X568</xocs:refkey4lp>
+         <xocs:refkey4ai>OSPINAX2016X562XD</xocs:refkey4ai>
+         <xocs:refkey5>OSPINAX2016X562X568XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-08-03T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0749-6036(16)30513-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0749603616305134</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0749603616305134</xocs:eid>
+         <xocs:doi>10.1016/j.spmi.2016.07.027</xocs:doi>
+         <xocs:cid>272583</xocs:cid>
+         <xocs:timestamp>2019-04-27T06:09:46.901424Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/MAIN/application/pdf/7d50561dec8212080a18f11083dd1e20/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1275673</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0749603616305134-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/PREVIEW/image/png/5dc059ae8431083530109a94746bb375/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>45742</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr3/THUMBNAIL/image/gif/60fdbe366cf2324fc93aee9135bfc7a2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12587</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>127</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr2/THUMBNAIL/image/gif/c55aba1a9ab5cd8afbc799b0648840a9/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15147</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr5/THUMBNAIL/image/gif/7616c38aeb7c2f236ee623ed63551eba/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13425</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>121</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr1/THUMBNAIL/image/gif/8e0ad3745e6b9ce4b8f2287042159fef/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30661</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr4/THUMBNAIL/image/gif/606527a6a44f0b4a8ce41fcc34dc6780/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18187</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>143</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr3/DOWNSAMPLED/image/jpeg/aedb95277f159cbf34c42d4de2cf359a/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67544</xocs:filesize>
+               <xocs:pixel-height>499</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr2/DOWNSAMPLED/image/jpeg/0697f36294956d2d79aa1823baa9c76c/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>76218</xocs:filesize>
+               <xocs:pixel-height>512</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr5/DOWNSAMPLED/image/jpeg/039d939475c386f41bc566cf8625895f/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>76305</xocs:filesize>
+               <xocs:pixel-height>528</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr1/DOWNSAMPLED/image/jpeg/22f024836bbc78122e84027446dbf8a7/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>177798</xocs:filesize>
+               <xocs:pixel-height>570</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/gr4/DOWNSAMPLED/image/jpeg/c5147cd4d6198c55c94daaa4171cc941/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>142649</xocs:filesize>
+               <xocs:pixel-height>599</xocs:pixel-height>
+               <xocs:pixel-width>524</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/STRIPIN/image/gif/c89617e0fcfa703e123d189e65f102f6/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>175</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>21</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/STRIPIN/image/gif/a6e2f2fe6d61d11427eeca368760e0e4/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>399</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/STRIPIN/image/gif/0c402839d6f14e5c4119fe7644a89614/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>400</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0749603616305134-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0749603616305134/STRIPIN/image/gif/2b663e0bdc3d6db5dd0a38e9880ff8ff/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>172</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>YSPMI</jid>
+            <aid>4431</aid>
+            <ce:pii>S0749-6036(16)30513-4</ce:pii>
+            <ce:doi>10.1016/j.spmi.2016.07.027</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">(a) Two stacked AB blue phosphorene layers. (b) Lateral view of the two layers in AB stacking. (c) Twisted structure for a relative rotating angle of 9.34°. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:href="pii:S0749603616305134/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Bands structure for three different blue phosphorene structures (a) monolayer, (b) stacking AA and (c) stacking AB. The red arrow shows the indirect band gap. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:href="pii:S0749603616305134/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Total density of states for three different blue phosphorene structures (a) monolayer, (b) stacking AA and (c) stacking AB. Panel (d) is for the imaginary part of the dielectric function for monolayer, staking AA, and staking AB of blue phosphorene, the insert in the panel (d) shows the imaginary part of the dielectric function in different incident photon energy range. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:href="pii:S0749603616305134/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Bands structure of four twisted bilayer blue phosphorene structures, in each panel a different rotating angle (a) <ce:italic>θ</ce:italic> = 21.8°, (b) <ce:italic>θ</ce:italic> = 13.2°, (c) <ce:italic>θ</ce:italic> = 9.4° and (d) <ce:italic>θ</ce:italic> = 7.3°. The (red vertical) arrows show the band gap. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:href="pii:S0749603616305134/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Total density of states of four twisted bilayer blue phosphorene structures, in each panel a different rotating angle (a) <ce:italic>θ</ce:italic> = 21.8°, (b) <ce:italic>θ</ce:italic> = 13.2°, (c) <ce:italic>θ</ce:italic> = 9.4° and (d) <ce:italic>θ</ce:italic> = 7.3°. Panel (e) is for the imaginary part of the dielectric of four twisted bilayer blue phosphorene structures, the insert in the panel (e) shows the imaginary part of the dielectric function in different incident photon energy range. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:href="pii:S0749603616305134/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0010" view="all">Geometric parameters, band gap, and binding energy of several blue phosphorene configurations. <ce:italic>a</ce:italic> - lattice constant, <ce:italic>d</ce:italic> - maximal distance between layers and <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>b</ce:italic>
+                     </ce:inf> - binding energy by atom.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Table 1</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">System</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>a</italic>(Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Gap (eV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">d(Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">
+                              <italic>b</italic>
+                           </inf>(eV/atom)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Monolayer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.098</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Bilayer AA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.976</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.185</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.027</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Bilayer AB</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.645</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.993</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.017</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Twisted 21.8°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.330</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.188</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.021</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Twisted 13.2°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14.671</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.183</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.996</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.022</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Twisted 9.4°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.489</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.068</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.917</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.022</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Twisted 7.3°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.949</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.933</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−0.022</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Twisted bilayer blue phosphorene: A direct band gap semiconductor</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>D.A.</ce:given-name>
+                  <ce:surname>Ospina</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>C.A.</ce:given-name>
+                  <ce:surname>Duque</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" orcid="0000-0003-2307-6756">
+                  <ce:given-name>J.D.</ce:given-name>
+                  <ce:surname>Correa</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0025">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>Eric</ce:given-name>
+                  <ce:surname>Suárez Morell</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Grupo de Materia Condensada-UdeA, Instituto de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Grupo de Materia Condensada-UdeA</sa:organization>
+                     <sa:organization>Instituto de Física</sa:organization>
+                     <sa:organization>Facultad de Ciencias Exactas y Naturales</sa:organization>
+                     <sa:organization>Universidad de Antioquia UdeA</sa:organization>
+                     <sa:address-line>Calle 70 No. 52-21</sa:address-line>
+                     <sa:city>Medellín</sa:city>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Departamento de Ciencias Básicas, Universidad de Medellín, Medellín, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Departamento de Ciencias Básicas</sa:organization>
+                     <sa:organization>Universidad de Medellín</sa:organization>
+                     <sa:city>Medellín</sa:city>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Departamento de Física, Universidad Técnica Federico Santa María, Casilla 110-V, Valparaíso, Chile</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Departamento de Física</sa:organization>
+                     <sa:organization>Universidad Técnica Federico Santa María</sa:organization>
+                     <sa:address-line>Casilla 110-V</sa:address-line>
+                     <sa:city>Valparaíso</sa:city>
+                     <sa:country>Chile</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="19" month="7" year="2016"/>
+            <ce:date-accepted day="21" month="7" year="2016"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">We report that two rotated layers of blue phosphorene behave as a direct band gap semiconductor. The optical spectrum shows absorption peaks in the visible region of the spectrum and in addition the energy of these peaks can be tuned with the rotational angle. These findings makes twisted bilayer blue phosphorene a strong candidate as a solar cell or photodetection device. Our results are based on ab initio calculations of several rotated blue phosphorene layers.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Phosphorene</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Twisted</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>ab initio</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Starting with the synthesis of graphene <ce:cross-ref refid="bib1" id="crosref0035">[1]</ce:cross-ref> a new era of two dimensional (2D) materials have emerged. Among them we find hexagonal boron nitride, molybdenum disulphide, dichalcogenides, layered oxides <ce:cross-ref refid="bib2" id="crosref0040">[2]</ce:cross-ref>, silicene and more recently one layer of black phosphorous (phosphorene) <ce:cross-ref refid="bib3" id="crosref0045">[3]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0030" view="all">These materials, in general, have diverse properties, but some of them are semiconductors, a dream of stacking them in a certain order has become a reality resulting in structures with desired properties <ce:cross-ref refid="bib4" id="crosref0050">[4]</ce:cross-ref>. It has been possible not only to stack them in certain order but also rotate layers as well to exploit certain properties that twisted structures posses <ce:cross-ref refid="bib5" id="crosref0055">[5]</ce:cross-ref>. For instance in twisted bilayer graphene a plethora of interesting angle dependent properties have been found <ce:cross-refs refid="bib6 bib7 bib8 bib9 bib10 bib11 bib12 bib13" id="crosrefs0010">[6–13]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">Single layer phosphorene is a direct band gap semiconductor (2 <ce:italic>eV</ce:italic>). The addition of more layers reduce the value of the gap, allowing in principle to control its size which goes inverse with the layer number down to the value of the bulk (0.3 <ce:italic>eV</ce:italic>) <ce:cross-refs refid="bib3 bib14" id="crosrefs0015">[3,14]</ce:cross-refs>. Nonetheless the main optical absorption peak of monolayer phosphorene is in 1.2 <ce:italic>eV</ce:italic> due to the presence of excitons <ce:cross-ref refid="bib15" id="crosref0060">[15]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">On the other hand it has been shown in Ref. <ce:cross-ref refid="bib16" id="crosref0065">[16]</ce:cross-ref> that a displacement of some atoms in crystal phosphorene results in a honeycomb structure like graphene. The authors studied its stability by first principle methods and found that it can be as stable as phosphorene; this new 2D allotrope, named blue phosphorene, has a unit cell composed of two sublattices, like in honeycomb lattice but with the difference that the two atoms are not in the same horizontal plane, forming a periodically buckled topology. The blue phosphorene is a semiconductor with an indirect band gap of ∼ 2 <ce:italic>eV</ce:italic>.</ce:para>
+                  <ce:para id="p0045" view="all">Along this line a theoretical work based on first principles calculation proposes the use of blue phosphorene nanoribbons <ce:cross-ref refid="bib17" id="crosref0070">[17]</ce:cross-ref> to modulate the band gap, in this case the gap decreases for narrower nanoribbons. Nonetheless the system remains an indirect band gap semiconductor for either armchair or zigzag edges.</ce:para>
+                  <ce:para id="p0050" view="all">Another way to modulate the physical properties of blue phosphorene is changing the stacking. Two blue phosphorene layers stacked in AA or AB fashion have also shown a decrease in the band gap compared with the blue phosphorene monolayer. Unfortunately the band gap is also indirect <ce:cross-ref refid="bib18" id="crosref0075">[18]</ce:cross-ref> which is a real limitation to use this 2D allotrope in the solar cell industry due to the poor efficiency that characterizes indirect band gap semiconductors <ce:cross-ref refid="bib19" id="crosref0080">[19]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0055" view="all">In this article we show that twisted bilayer blue phosphorene (TBBP) is a direct band gap semiconductor at least in three of the four structures studied. The relative rotation angle (RRA) between layers modulates the value of the gap. The band gap goes from 0.95 <ce:italic>eV</ce:italic> for a RRA of 7.3° to a value of 1.6 <ce:italic>eV</ce:italic> for an angle of 21.8°. Unlike stacked AA and AB bilayer blue phosphorene, TBBP has absorption peaks in the visible range of the absorption spectra, and additionally the presence of flat valence bands in TBBP structures could improve the optical absorption probability. These findings makes TBBP a good candidate for a solar cell device, since an ideal solar cell device would be composed of a battery of stacked direct band gap semiconductors, each of them with a different value of the band gap and hopefully around 1.5 <ce:italic>eV</ce:italic> to take advantage of the solar spectrum <ce:cross-refs refid="bib20 bib21" id="crosrefs0020">[20,21]</ce:cross-refs>.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Method</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Geometry of the unit cell</ce:section-title>
+                     <ce:para id="p0060" view="all">Crystalline blue phosphorene is composed of a hexagonal lattice with a basis of two P atoms like the honeycomb structure of graphene. The results of relaxation processes determined by ab initio methods shows that the two atoms are not in the same plane. In fact, there is a vertical shift between them of 1.24 Å <ce:cross-ref refid="bib18" id="crosref0085">[18]</ce:cross-ref>. On the other hand, one of the ways of stacking two layers is in the Bernal or AB stacking. In bilayer graphene it is the most stable configuration. The unit cell of stacked AB blue phosphorene will have four atoms, two in each layer. One of the atoms at the top layer will have directly below it an atom of the bottom layer whereas the second atom of the upper layer will be located exactly above the center of a hexagon of the layer beneath, as shown in <ce:cross-ref refid="fig1" id="crosref0090">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>(a).</ce:para>
+                     <ce:para id="p0065" view="all">We consider a system composed of two coupled blue phosphorene layers when there is a RRA between them. The unit cell of the rotated structure was constructed following a procedure exposed in several previous works <ce:cross-refs refid="bib8 bib22" id="crosrefs0025">[8,22]</ce:cross-refs>. Starting from a stacked AB bilayer one rotates one layer from a point in the lattice to an equivalent location. This can be done by taking a vector <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mrow>
+                                 <mml:mover accent="true">
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mo>→</mml:mo>
+                                 </mml:mover>
+                              </mml:mrow>
+                              <mml:mo>=</mml:mo>
+                              <mml:mi>m</mml:mi>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>1</mml:mn>
+                              </mml:msub>
+                              <mml:mo>+</mml:mo>
+                              <mml:mi>n</mml:mi>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and rotating it around a line perpendicular to the layers passing through the origin to an equivalent position at <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mrow>
+                                 <mml:mover accent="true">
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mo>→</mml:mo>
+                                 </mml:mover>
+                              </mml:mrow>
+                              <mml:mo>=</mml:mo>
+                              <mml:mi>n</mml:mi>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>1</mml:mn>
+                              </mml:msub>
+                              <mml:mo>+</mml:mo>
+                              <mml:mi>m</mml:mi>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>, where <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>1</mml:mn>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and <mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mo>→</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> are the monolayer lattice vectors; <ce:italic>n</ce:italic>,<ce:italic>m</ce:italic> are integers. This way the rotational angle and all the relevant geometric information of the bilayer twisted cell can be expressed in terms of <ce:italic>n</ce:italic> and <ce:italic>m</ce:italic>.</ce:para>
+                     <ce:para id="p0070" view="all">In <ce:cross-ref refid="fig1" id="crosref0095">Fig. 1</ce:cross-ref>(a) we show the stacked AB blue phosphorene, in panel (b) a lateral view of the two layers where the buckled structure can be observed, and in panel (c) the twisted unit cell obtained doing a commensurate rotation. In this case we selected a hollow site of the stacked AB bilayer as a center of rotation, which is also the origin of the twisted unit cell. The hollow site is the point where an atom of the bottom layer have directly above a center of a hexagon of the top layer.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">DFT calculations</ce:section-title>
+                     <ce:para id="p0075" view="all">The calculations were performed within the density functional theory (DFT) approach, as implemented in the SIESTA code <ce:cross-ref refid="bib23" id="crosref0100">[23]</ce:cross-ref>. The Kohn-Sham orbitals were expanded in a localized orbitals basis set (double-<ce:italic>ξ</ce:italic>, single polarized in the present work). The twisted blue phosphorene bilayers were simulated considering cells with 28 (TBBP-28), 76 (TBBP-76), 148 (TBBP-148) and 244 (TBBP-244) atoms, corresponding to RRA (<ce:italic>θ</ce:italic>) of 21.8°, 13.2°, 9.4°, and 7.3° respectively, and with a vacuum region of 20 Å. For the exchange-correlation potential we employed vdw-KBM approach <ce:cross-ref refid="bib24" id="crosref0105">[24]</ce:cross-ref>, that includes the van der Waals (vdW) interactions within the self-consistent process. All structures were fully relaxed considering a force convergence tolerance of 0.01 eV/Å per atom. The Brillouin zone (BZ) was sampled by a 3×3×1 Monkhorst-Pack mesh that ensure the total energy convergence. The optical absorption spectrum is obtained through the imaginary part of the dielectric function, implemented in the SIESTA code using the dipolar approximation. This approximation does not take into account the many body effects as GW corrections and the electron-hole interaction. These calculations are prohibitive for such a big systems as TBBPs. So that, the dipolar approach is certainly a good first order approximation to understand the physical properties of TBBPs, in particular the optical absorption spectrum. All optical spectra were calculated with a Gaussian smearing of 0.06 <ce:italic>eV</ce:italic>. To ensure the convergence of the optical spectrum and the total density of states we employed a k-point grids of 51×51×1 for AA and AB stacking, 20×20×1 for RRAs of 21.8° and 13.2°, and 11×11×1 for RRAs of 9.4° and 7.3° respectively.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0045">Results</ce:section-title>
+                  <ce:para id="p0080" view="all">We have calculated the geometrical structure, the band structure, the total density of states, and the optical absorption of monolayer BP, bilayers stacked AA and AB of BP and TBBP with different RRA. The main geometric parameters and the band gap for each system are shown in <ce:cross-ref refid="tbl1" id="crosref0110">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. For the BP monolayer the results obtained by us for the lattice constant, and the band gap are consistent with a previous SIESTA calculations <ce:cross-ref refid="bib16" id="crosref0115">[16]</ce:cross-ref>. In the case of BP stacked AA and AB the results are in agreement with a previous calculation <ce:cross-ref refid="bib18" id="crosref0120">[18]</ce:cross-ref>, where PBE and DFT-D2 corrections were employed to incorporate a vdW interaction. There, the authors obtained a distance of 3.23 and 3.20 Å for AA and AB stacking, respectively. Our results for the binding energy of all structures show that the AA staking is more favourable than the AB and TBBP with a binding energy per atom of −0.027 eV. In the case of TBBP, the RRA does not make any perceptible variation in the binding energy per atom, the value obtained for all structures were −0.022 eV/atom. This results suggest that the TBBPs are more stable than the AB staking regardless of the RRA.</ce:para>
+                  <ce:para id="p0085" view="all">In <ce:cross-ref refid="fig2" id="crosref0125">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> we show the results of the DFT calculations of the band structure for monolayer and bilayer staked AA and AB of blue phosphorene, the red arrow indicates the indirect band gap. The three structures are indirect band gap semiconductors, the size of the gap varies from Ref. ∼ 0.6 to 2 <ce:italic>eV</ce:italic>.</ce:para>
+                  <ce:para id="p0090" view="all">The density of states (DOS) of the same three structures (<ce:cross-ref refid="fig3" id="crosref0130">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>(a)) shows clearly the evolution of the size of the band gap. The top valence band in the two bilayer systems is almost flat around the Γ point of the BZ, and the vHs below the Fermi level can be associated with this valence band. A strong absorption of a material at a given energy is usually associated with the presence of vHs in the DOS. The absorption spectra in <ce:cross-ref refid="fig3" id="crosref0135">Fig. 3</ce:cross-ref>(b) show strong absorptions peaks for energies around ∼ 4 <ce:italic>eV</ce:italic>, but below this energy and above the absorption edges there is not any strong absorption peak whatsoever. This fact is certainly similar to what is observed in other hexagonal flat structures as graphene which is transparent in the visible spectrum range.</ce:para>
+                  <ce:para id="p0095" view="all">We were interested to see what happens when we rotate the layers. According to our previous experience, many fascinating angle dependent properties may appear. We have calculated the band structure of four twisted structure by DFT, and the results are shown in <ce:cross-ref refid="fig4" id="crosref0140">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. It is possible to observe that the rotation angle changes the electronic properties of the system. in fact, for certain values of the relative rotation angle, the bilayer blue phosphorene becomes a direct band gap semiconductor. At least in three of the four structures the minimum distance between top valence band a lower conduction band lies at the same k-point. However the top valence band is almost flat throughout the whole BZ and, as long as the angle is smaller this effect is reinforced. One might explain such a behaviour as a result of the shrinking of the BZ. The flat region around the Γ point observed in stacked AB bilayer have become relatively larger in the reduced zone of the twisted structures. As a result of this band flatness, optical absorption peaks will appear near the band gap value with amplitudes larger than those appearing in the stacked AB and AA structures.</ce:para>
+                  <ce:para id="p0100" view="all">The value of the band gap changes with the angle. Likely, more results are needed in order to establish the full variation pattern but in accordance with the four cases investigated here it is possible to advance the decrease of the band gap as a function of the rotation angle. In <ce:cross-ref refid="tbl1" id="crosref0145">Table 1</ce:cross-ref> the values of the band gap for the angles studied are listed. It has a value of 1.33 <ce:italic>eV</ce:italic> for the larger angle, 21.8° and goes to 0.95 <ce:italic>eV</ce:italic> for a RRA of 7.3°. The distance between layers in the relaxed structures diminishes slightly as the angle gets lower. The latter is expected since our starting point was a stacked AB bilayer.</ce:para>
+                  <ce:para id="p0105" view="all">The DOS of the twisted structures, <ce:cross-ref refid="fig5" id="crosref0150">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>(a), express in another format the facts we were mentioning; that is, the slight dependence of the band gap with the angle and the presence of vHs just in the band edge of the valence bands. The absorption spectra in <ce:cross-ref refid="fig5" id="crosref0155">Fig. 5</ce:cross-ref>(b) reveal the presence of absorption peaks below 2 <ce:italic>eV</ce:italic>, the position of the peaks changes with the angle and follows in principle the same behaviour of the band gap. The intensity of the peaks diminishes also for lower angles.</ce:para>
+                  <ce:para id="p0110" view="all">Its is important to notice that we have not included many-electron effects in our calculations. The presence of these flat bands which is in many cases related with the appearance of many body effects as well as the difference of the experimental optical band gap with the theoretical (single electron calculations) in its cousin bilayer black phosphorene lead us to suggest that further studies of these structure should be made considering many body effects. However the task is complicated due to the large size of the unit cell.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0050">Summary and conclusions</ce:section-title>
+                  <ce:para id="p0115" view="all">We have studied by DFT calculations the electronic structure of two coupled layers of blue phosphorene and found that a relative rotation between layers changes the electronic properties of the system. Bilayer stacked AA or AB blue phosphorene are indirect band gap semiconductor while some of the twisted structures are direct band gap semiconductor and moreover the size of the band gap depends on the RRA. The absorption spectra show peaks in the visible range of the spectra which makes twisted bilayer blue phosphorene another candidate for solar cell applications. The dependence of the band gap with the angle suggests that stacking several of these structures together will increase the efficiency in solar cell devices as it will cover a wider range in energy of the solar spectrum as well as a larger interface.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0055">Acknowledgement</ce:section-title>
+               <ce:para id="p0120" view="all">The authors acknowledge financial support from the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Universidad de Medellín Research Office</ce:grant-sponsor> through Projects 746 and 747 and Chilean <ce:grant-sponsor id="gs2" sponsor-id="http://dx.doi.org/10.13039/501100002850" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">FONDECYT</ce:grant-sponsor> grant <ce:grant-number refid="gs2">11130129</ce:grant-number>. DAO and CAD are grateful to the Colombian Agencies CODI- Universidad de Antioquia (Estrategia de Sostenibilidad de la Universidad de Antioquia and project: ”Manipulación de propiedades optoelectrónicas de nanoestructuras semiconductoras por ondas acústicas superficiales.”), Facultad de Ciencias Exactas y Naturales-Universidad de Antioquia (CAD-exclusive dedication project 2015–2016), and El Patrimonio Autónomo Fondo Nacional de Financiamiento para la Ciencia, la Tecnología y la Innovación, Francisco José de Caldas.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0060">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Novoselov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Geim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Morozov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Dubonos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Grigorieva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Firsov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electric field effect in atomically thin carbon films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>306</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5696</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                              <sb:last-page>669</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Novoselov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Schedin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Booth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Khotkevich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Morozov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Geim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Two-dimensional atomic crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. U. S. A.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>30</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10451</sb:first-page>
+                              <sb:last-page>10453</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.T.</ce:given-name>
+                                 <ce:surname>Neal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Tomnek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phosphorene: an unexplored 2d semiconductor with a high hole mobility</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Nano</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4033</sb:first-page>
+                              <sb:last-page>4041</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>pMID: 24655084</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Geim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Grigorieva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Van der waals heterostructures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>499</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>425</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yankowitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fallahazad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.P.</ce:given-name>
+                                 <ce:surname>Movva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Larentis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Corbet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Taniguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Banerjee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>LeRoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tutuc</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Van der waals heterostructures with high accuracy rotational alignment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1989</sb:first-page>
+                              <sb:last-page>1995</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.B.</ce:given-name>
+                                 <ce:surname>Lopes dos Santos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.R.</ce:given-name>
+                                 <ce:surname>Peres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Castro Neto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Graphene bilayer with a twist: electronic structure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>256802</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guohong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Luican</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.B.</ce:given-name>
+                                 <ce:surname>Lopes dos Santos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Castro Neto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Reina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.Y.</ce:given-name>
+                                 <ce:surname>Andrei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Observation of van hove singularities in twisted graphene layers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Suárez Morell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Correa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vargas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pacheco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Barticevic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Flat bands in slightly twisted bilayer graphene: tight-binding calculations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Koshino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical absorption in twisted bilayer graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205404</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Brihuega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mallet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>González-Herrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Trambly de Laissardière</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Ugeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Magaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gómez-Rodríguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ynduráin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-Y.</ce:given-name>
+                                 <ce:surname>Veuillen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unraveling the intrinsic and robust nature of van hove singularities in twisted bilayer graphene by scanning tunneling microscopy and theoretical analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>196802</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-F.</ce:given-name>
+                                 <ce:surname>Dou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.-D.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-C.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Angle-dependent van hove singularities in a slightly twisted graphene bilayer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126801</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Correa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pacheco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Suárez Morell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical absorption spectrum of rotated trilayer graphene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>642</sb:first-page>
+                              <sb:last-page>647</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Miwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Venezuela</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Morell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Periodic arrays of intercalated atoms in twisted bilayer graphene: an <ce:italic>ab initio</ce:italic> investigation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115419</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Tran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Soklaski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layer-controlled band gap and anisotropic excitons in few-layer black phosphorus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235319</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Tran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Soklaski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layer-controlled band gap and anisotropic excitons in few-layer black phosphorus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B - Condens. Matter Mater. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235319</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Tománek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semiconducting layered blue phosphorus: a computational study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>176802</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Si</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A theoretical study of blue phosphorene nanoribbons based on first-principles calculations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>073704</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>arXiv:1405.4407</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nahas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhowmick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Agarwal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electric field induced gap modification in ultrathin blue phosphorus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115433</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Xiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards direct-gap silicon phases by the inverse band structure design approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>118702</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zdanowicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Rodziewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zabkowska-Waclawek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Theoretical analysis of the optimum energy band gap of semiconductors for fabrication of solar cells for applications in higher latitudes locations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sol. Energy Mater. Sol. Cells</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>757</sb:first-page>
+                              <sb:last-page>769</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(international Conference on Physics, Chemistry and Engineering)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.C.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bilayer phosphorene: effect of stacking order on bandgap and its potential applications in thin-film solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1289</sb:first-page>
+                              <sb:last-page>1293</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>pMID: 26274486</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Suárez Morell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vargas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chico</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Charge redistribution and interlayer coupling in twisted bilayer graphene under electric fields</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195421</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Soler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Artacho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Gale</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>García</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Junquera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ordejón</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sánchez-Portal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The siesta method for ab initio order- n materials simulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2745</sb:first-page>
+                              <sb:last-page>2779</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>arXiv:0111138</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Klimeš</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Bowler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Michaelides</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical accuracy for the van der Waals density functional</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>022201</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

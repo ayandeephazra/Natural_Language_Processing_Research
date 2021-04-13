@@ -1,0 +1,2624 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0030402619311714</prism:url><dc:identifier>doi:10.1016/j.ijleo.2019.163273</dc:identifier><eid>1-s2.0-S0030402619311714</eid><prism:doi>10.1016/j.ijleo.2019.163273</prism:doi><pii>S0030-4026(19)31171-4</pii><dc:title>Generalized scheme for coupling length reduction in photonic crystal based directional coupler designed with square lattice of dielectric rods in air background </dc:title><prism:publicationName>Optik</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00304026</prism:issn><prism:volume>198</prism:volume><prism:startingPage>163273</prism:startingPage><prism:pageRange>163273</prism:pageRange><articleNumber>163273</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2019-12-31</prism:coverDate><prism:coverDisplayDate>December 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier GmbH. All rights reserved.</prism:copyright><prism:publisher>Elsevier GmbH.</prism:publisher><dc:creator>Mandal, Susovan</dc:creator><dc:creator>Bose, Manas Kumar</dc:creator><dc:creator>Bose, Chayanika</dc:creator><dc:description>
+                  A general technique is proposed to reduce coupling length of optical couplers embedded in square latticed photonic crystals. In this approach, reduction in coupling length is achieved by engineering dispersion characteristics of coupled waveguide system with the introduction of an additional mode associated with special type of line defect. Two such line defects, namely type-I and type-II, are investigated and both the co-directional and contra-directional propagations are realized. The smallest coupling length achieved using the type-I is 2.05a, while that obtained using the type-II is 2.47a in contrast with the existing value of 28a for square lattice and 3.83a in the case of triangular lattice. Greater control over the resulting coupling length of a system is also attained. Frequency responses of the proposed couplers are finally verified using FDTD method.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Photonic crystal</dcterms:subject><dcterms:subject>Coupled resonator</dcterms:subject><dcterms:subject>Optical waveguide</dcterms:subject><dcterms:subject>Directional coupler</dcterms:subject><dcterms:subject>Coupling length</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0030402619311714" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0030402619311714" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="185" height="164" size="5546">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="148" size="11779">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="92" size="9766">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="5214">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="52" size="3991">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="6604">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="7631">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="13927">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="9086">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="8213">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="4943">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="267" size="16226">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="383" size="66358">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="237" size="44151">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="171" size="30937">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="133" size="25176">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="182" size="13345">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="314" size="46835">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="447" size="85207">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="210" size="18905">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="212" size="17145">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="212" size="30022">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="1181" size="109678">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1694" size="508611">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1049" size="359374">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr11_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="757" size="218811">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="590" size="150199">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="806" size="108964">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1389" size="372905">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="1979" size="624268">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="931" size="157162">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="938" size="137445">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2500" height="938" size="212531">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="47" height="37" size="210">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="164" height="40" size="628">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="94" height="40" size="400">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="62" height="39" size="271">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="33" height="35" size="183">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si14" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="47" size="307">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si14.gif?httpAccept=%2A%2F%2A</object><object ref="si15" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="95" height="39" size="400">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si15.gif?httpAccept=%2A%2F%2A</object><object ref="si16" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="134" height="40" size="563">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si16.gif?httpAccept=%2A%2F%2A</object><object ref="si17" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="95" height="35" size="370">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si17.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="43" height="37" size="225">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="277" height="39" size="914">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="369" height="43" size="1294">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="110" height="43" size="431">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="30" height="35" size="169">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="319" height="39" size="1055">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="109" height="52" size="448">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="40" size="191">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-si9.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="2902040">https://api.elsevier.com/content/object/eid/1-s2.0-S0030402619311714-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85071433735</scopus-id><scopus-eid>2-s2.0-85071433735</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85071433735" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273239</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291827</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Optik</xocs:srctitle>
+      <xocs:normalized-srctitle>OPTIK</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190831">2019-08-31</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190831">2019-08-31</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190831">2019-08-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190831">2019-08-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-09-25T00:44:49</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0030402619311714</xocs:eid>
+      <xocs:pii-formatted>S0030-4026(19)31171-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0030402619311714</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijleo.2019.163273</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0030402619X00182</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200221">2020-02-21T11:06:47.16845Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20191201</xocs:date-search-begin>
+      <xocs:date-search-end>20191231</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1567288856">2019-08-31T22:00:56.708674Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0030-4026</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00304026</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>198</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>198</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 198</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>47</xocs:sort-order>
+      <xocs:first-fp>163273</xocs:first-fp>
+      <xocs:article-number>163273</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>163273</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201912</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original research articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier GmbH. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>GENERALIZEDSCHEMEFORCOUPLINGLENGTHREDUCTIONINPHOTONICCRYSTALBASEDDIRECTIONALCOUPLERDESIGNEDSQUARELATTICEDIELECTRICRODSINAIRBACKGROUND</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MANDAL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Properties of coupled waveguides embedded in square lattice of DRAB type PhC</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Dispersion characteristics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>General theory of waveguide coupling</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Dispersion characteristics of type-I and type-II line defects</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of type-I line defect</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Spectral responses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of type-II line defect</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Co-directional coupler</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Spectral responses</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Contra-directional coupler</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>JOANNOPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTONICCRYSTALSMOLDINGFLOWLIGHT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>SOUKOULIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTONICCRYSTALSLIGHTLOCALIZATIONIN21STCENTURYVOL563</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>NORRISDAVID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>WINN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1573</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1575</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>SOLLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>523</xocs:ref-first-fp>
+            <xocs:ref-last-lp>526</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>CHUTINAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4488</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>MIZEIKIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2061</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2063</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>AKAHANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>944</xocs:ref-first-fp>
+            <xocs:ref-last-lp>947</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>28132815</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>CENTENO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>60</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>LIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>YARIV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>711</xocs:ref-first-fp>
+            <xocs:ref-last-lp>713</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>KOSHIBA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1970</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>MANZACCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>164</xocs:ref-first-fp>
+            <xocs:ref-last-lp>170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>SOLLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9429</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9431</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>ZIMMERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>387</xocs:ref-first-fp>
+            <xocs:ref-last-lp>392</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>SHARKAWY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1048</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1059</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>CHIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125113</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>ALBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>263</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>PRATHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MANDALX2019X163273</xocs:refkey3>
+         <xocs:refkey4ai>MANDALX2019X163273XS</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-08-31T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-08-31T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier GmbH. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-09-07T04:59:19.135Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0030-4026(19)31171-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0030402619311714</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0030402619311714</xocs:eid>
+         <xocs:doi>10.1016/j.ijleo.2019.163273</xocs:doi>
+         <xocs:cid>273239</xocs:cid>
+         <xocs:timestamp>2020-02-21T11:06:47.16845Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/MAIN/application/pdf/d022d8d6d39ababa3757d7f50208f442/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2066450</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0030402619311714-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/PREVIEW/image/png/664fe1690621fc7706fed7914914e0f3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49336</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr1/THUMBNAIL/image/gif/a0d7c9c0b1dd0abd906618a795c8bb3a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5546</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>185</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr10/THUMBNAIL/image/gif/a7aa06e3bd75d6fd1cb501a2712fb84b/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11779</xocs:filesize>
+               <xocs:pixel-height>148</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr11/THUMBNAIL/image/gif/c46cec215cf5dccda6d699ab58e5d516/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9766</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr2/THUMBNAIL/image/gif/a5c73f357f406df778167a9e6f240e2b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5214</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr3/THUMBNAIL/image/gif/fe71d276e6379e3a71729b8be43c66ef/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3991</xocs:filesize>
+               <xocs:pixel-height>52</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr4/THUMBNAIL/image/gif/d708a382e6d75718df9b8b47f8ab1928/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6604</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr5/THUMBNAIL/image/gif/fa46a14b3972b6fb643233aa042eb573/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7631</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr6/THUMBNAIL/image/gif/b1d5428e9d62f49ea902186282f22e28/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13927</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr7/THUMBNAIL/image/gif/565c43d7dde0e9c1bd23fdea435ece54/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9086</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr8/THUMBNAIL/image/gif/47f3b81fd7019a788903af2d0f371d72/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8213</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr9/THUMBNAIL/image/gif/7d15a9a71a0f3d63058954fb933cbd71/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4943</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr1/DOWNSAMPLED/image/jpeg/af38c81c9334ba8d45450b6d3caec91b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16226</xocs:filesize>
+               <xocs:pixel-height>267</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr10/DOWNSAMPLED/image/jpeg/aa79fa9b0c5c4f5b8a5536e04755f865/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>66358</xocs:filesize>
+               <xocs:pixel-height>383</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr11/DOWNSAMPLED/image/jpeg/a4100f173a094dce45ec31814e9a042b/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44151</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr2/DOWNSAMPLED/image/jpeg/7578cf3f38a35f657c647d11000f77aa/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30937</xocs:filesize>
+               <xocs:pixel-height>171</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr3/DOWNSAMPLED/image/jpeg/278504eafd86b35a8c5ab73719b887a5/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25176</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr4/DOWNSAMPLED/image/jpeg/aa9a627d16d70ef02cd7db62975e9022/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13345</xocs:filesize>
+               <xocs:pixel-height>182</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr5/DOWNSAMPLED/image/jpeg/a1b7f444885c5b363b8f7ccc1c5326ea/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46835</xocs:filesize>
+               <xocs:pixel-height>314</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr6/DOWNSAMPLED/image/jpeg/295a7f5bb478c664b2b0b9887dd3b75c/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>85207</xocs:filesize>
+               <xocs:pixel-height>447</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr7/DOWNSAMPLED/image/jpeg/5307d3dd78d5ddc65a6be17b8087f0a8/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18905</xocs:filesize>
+               <xocs:pixel-height>210</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr8/DOWNSAMPLED/image/jpeg/62078b6264c941869c02e141f25c0771/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17145</xocs:filesize>
+               <xocs:pixel-height>212</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr9/DOWNSAMPLED/image/jpeg/2c672ca747483a381936bdc6b4e56e38/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30022</xocs:filesize>
+               <xocs:pixel-height>212</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr1/HIGHRES/image/jpeg/61bfad758636ef43326613465b85c427/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>109678</xocs:filesize>
+               <xocs:pixel-height>1181</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr10/HIGHRES/image/jpeg/1c85c003049e2bb43745f7438121de67/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>508611</xocs:filesize>
+               <xocs:pixel-height>1694</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr11_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr11/HIGHRES/image/jpeg/30fe50d70c73af156a1a0c77565c966c/gr11_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>359374</xocs:filesize>
+               <xocs:pixel-height>1049</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr2/HIGHRES/image/jpeg/919dda492e3e0f72c028a6daf858121e/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>218811</xocs:filesize>
+               <xocs:pixel-height>757</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr3/HIGHRES/image/jpeg/3bf3cb39dc21b6270b182db77ea22ebd/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>150199</xocs:filesize>
+               <xocs:pixel-height>590</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr4/HIGHRES/image/jpeg/76b46376dadba8dec8f5ffbf56a7f881/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>108964</xocs:filesize>
+               <xocs:pixel-height>806</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr5/HIGHRES/image/jpeg/18655b2d7bfe4287f4809b8caa9b1c02/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>372905</xocs:filesize>
+               <xocs:pixel-height>1389</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr6/HIGHRES/image/jpeg/e02e575412365d05fc31fdbd91189ab4/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>624268</xocs:filesize>
+               <xocs:pixel-height>1979</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr7/HIGHRES/image/jpeg/b9cd60585e813d0d91dca643623e6195/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>157162</xocs:filesize>
+               <xocs:pixel-height>931</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr8/HIGHRES/image/jpeg/6e59b585d7cace04e45740181e7a5db3/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>137445</xocs:filesize>
+               <xocs:pixel-height>938</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/gr9/HIGHRES/image/jpeg/c44692a0ae5c0e9bc6a8302bd498f677/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>212531</xocs:filesize>
+               <xocs:pixel-height>938</xocs:pixel-height>
+               <xocs:pixel-width>2500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/7583ffd7c1a79753d53137b365249a6f/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>210</xocs:filesize>
+               <xocs:pixel-height>37</xocs:pixel-height>
+               <xocs:pixel-width>47</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/81d28eb1ad455373e9aa9454433a8b68/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>628</xocs:filesize>
+               <xocs:pixel-height>40</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/e873a4b217a335f08861f4dc126489c3/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>400</xocs:filesize>
+               <xocs:pixel-height>40</xocs:pixel-height>
+               <xocs:pixel-width>94</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/1edf6cf685f65beb03e695b64741925c/si12.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>271</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>62</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/ce45680f0594f41ceec217ec56d574cb/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>183</xocs:filesize>
+               <xocs:pixel-height>35</xocs:pixel-height>
+               <xocs:pixel-width>33</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si14.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/fdd22705e97eb7648eadfe3db83c8254/si14.gif</xocs:ucs-locator>
+               <xocs:file-basename>si14</xocs:file-basename>
+               <xocs:filename>si14.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>307</xocs:filesize>
+               <xocs:pixel-height>47</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si15.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/bfa2e029960a61804c500ddc1afa3aff/si15.gif</xocs:ucs-locator>
+               <xocs:file-basename>si15</xocs:file-basename>
+               <xocs:filename>si15.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>400</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>95</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si16.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/e9b94285188890a6512a681c3bb1923f/si16.gif</xocs:ucs-locator>
+               <xocs:file-basename>si16</xocs:file-basename>
+               <xocs:filename>si16.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>563</xocs:filesize>
+               <xocs:pixel-height>40</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si17.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/e406ac23fd0ce9277f3826adb99f963f/si17.gif</xocs:ucs-locator>
+               <xocs:file-basename>si17</xocs:file-basename>
+               <xocs:filename>si17.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>370</xocs:filesize>
+               <xocs:pixel-height>35</xocs:pixel-height>
+               <xocs:pixel-width>95</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/d6444310397116a0a485061c3f6e7549/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>225</xocs:filesize>
+               <xocs:pixel-height>37</xocs:pixel-height>
+               <xocs:pixel-width>43</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/0c5a243706c65927d6e457fc9641e272/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>914</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>277</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/ba362d2283496fd8c3d421a1dd378445/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1294</xocs:filesize>
+               <xocs:pixel-height>43</xocs:pixel-height>
+               <xocs:pixel-width>369</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/ec2a079791b0b65514da83c916144d9d/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>431</xocs:filesize>
+               <xocs:pixel-height>43</xocs:pixel-height>
+               <xocs:pixel-width>110</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/442bc2177c86b6e0e0e555c56dd85cd9/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>169</xocs:filesize>
+               <xocs:pixel-height>35</xocs:pixel-height>
+               <xocs:pixel-width>30</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/ff803c9354da2dd4168a8b963691e055/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1055</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/7d57a51c02691198b20030a88504d71e/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>448</xocs:filesize>
+               <xocs:pixel-height>52</xocs:pixel-height>
+               <xocs:pixel-width>109</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0030402619311714/STRIPIN/image/gif/50a9d67cb3b9b9b54b5b7dfa539d4fb8/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>191</xocs:filesize>
+               <xocs:pixel-height>40</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0030402619311714-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>2902040</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10JVG1NLH25/MAIN/application/pdf/523bbe4040ca6af5dd3391ef6e75d4e7/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>IJLEO</jid>
+            <aid>163273</aid>
+            <ce:article-number>163273</ce:article-number>
+            <ce:pii>S0030-4026(19)31171-4</ce:pii>
+            <ce:doi>10.1016/j.ijleo.2019.163273</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier GmbH</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">Width of PBG vs. <ce:italic>r</ce:italic>/<ce:italic>a</ce:italic> plot for TM modes supported by DRAB PhC with <ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> = 1500 nm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0035" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0030402619311714/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">A coupled waveguide system (a) structure, (b) dispersion characteristics for different radii (<ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf>) of rods in the first and second waveguides.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0040" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0030402619311714/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">(a) type-I line defect. (b) type-II <ce:italic>π</ce:italic>-shifted line defect.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0045" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0030402619311714/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">Dispersion characteristics of line defects for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0050" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0030402619311714/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">Coupled waveguides perturbed by type-I defect: (a) structure and (b) dispersion characteristics for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = 0.04<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.08<ce:italic>a</ce:italic> and (c) for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.04<ce:italic>a</ce:italic>, solid lines: type-I perturbed system, dashed lines: unperturbed coupled system.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0055" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S0030402619311714/gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0030" view="all">Power transmission spectra for the type-I perturbed system of non-identical (a) straight-straight and (b) straight-bent waveguides. Two dimensional power flow profiles for the perturbed system of non-identical (c) straight-straight and (d) straight-bent waveguides for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = 0.04<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.08<ce:italic>a</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0060" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S0030402619311714/gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0035" view="all">transmission spectra for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.135<ce:italic>a</ce:italic> and <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = 0.04<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.08<ce:italic>a</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0065" role="short">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:href="pii:S0030402619311714/gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="spar0040" view="all">Power transmission spectra of the perturbed system of coupled identical waveguides with <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>, <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.04<ce:italic>a</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0070" role="short">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:href="pii:S0030402619311714/gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="spar0045" view="all">Type-II line defect (<ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.11<ce:italic>a</ce:italic>) incorporated within a coupled waveguide: (a) structure, (b) Dispersion characteristics with (solid) and without (dotted) the line defect for <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> = <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">2</ce:inf> = 0.04<ce:italic>a</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0075" role="short">Fig. 9</ce:alt-text>
+               <ce:link locator="gr9" xlink:href="pii:S0030402619311714/gr9" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0050">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="spar0050" view="all">Power transmission spectra for the coupled identical (a) straight-straight waveguides and (b) straight-bent waveguides perturbed by the type-II line defect, and two dimensional power flow profiles for the (a) straight-straight and (b) straight-bent waveguides perturbed by type-II defect.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0080" role="short">Fig. 10</ce:alt-text>
+               <ce:link locator="gr10" xlink:href="pii:S0030402619311714/gr10" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0055">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="spar0055" view="all">(a) Spectral response and (b) two dimensional power flow profile of the contra-directional coupler.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0085" role="short">Fig. 11</ce:alt-text>
+               <ce:link locator="gr11" xlink:href="pii:S0030402619311714/gr11" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="spar0060" view="all">Summary of results and comparison with existing literature based on similar square lattice.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0090" role="short">Table 1</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Nature of coupling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" rowsep="1" namest="col2" nameend="col5" role="colgroup">Proposed scheme</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Existing schemes</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col2" nameend="col3" role="colgroup">Based on type-I Defect</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" namest="col4" nameend="col5" role="colgroup">Based on type-II Defect</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pair of Identical waveguides</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pair of non-identical waveguides</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pair of identical waveguides</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pair of non-identical waveguides</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Co-directional coupling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>L</italic>
+                           <inf loc="post">
+                              <italic>c</italic>
+                           </inf> = 2.05<italic>a</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>L</italic>
+                           <inf loc="post">
+                              <italic>c</italic>
+                           </inf> = 2.60<italic>a</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>L</italic>
+                           <inf loc="post">
+                              <italic>c</italic>
+                           </inf> = 2.47<italic>a</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" valign="middle" morerows="1">not feasible</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">48<italic>a</italic> 
+                           <cross-ref id="crf0005" refid="bib0070">[14]</cross-ref> 28<italic>a</italic> 
+                           <cross-ref id="crf0010" refid="bib0090">[18]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Contra-directional coupling</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" namest="col2" nameend="col3">Not feasible</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">
+                           <italic>L</italic>
+                           <inf loc="post">
+                              <italic>c</italic>
+                           </inf> = 2.47<italic>a</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">48<italic>a</italic> 
+                           <cross-ref id="crf0015" refid="bib0070">[14]</cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Original research article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Generalized scheme for coupling length reduction in photonic crystal based directional coupler designed with square lattice of dielectric rods in air background</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0030402619311714-571ca95b0e3ef3bab16c8c2e9469060e">
+                  <ce:given-name>Susovan</ce:given-name>
+                  <ce:surname>Mandal</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0025" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0030402619311714-db361ef26662435af3adb35856a3672d">
+                  <ce:given-name>Manas Kumar</ce:given-name>
+                  <ce:surname>Bose</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S0030402619311714-dbbe806cb0ffd664e8672e4003cf70c8">
+                  <ce:given-name>Chayanika</ce:given-name>
+                  <ce:surname>Bose</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0030402619311714-8e86483acc2e0974d183099b226e9f04">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>ECE Department, Heritage Institute of Technology Chowbaga Road, P.O East Kolkata Township, Anandapur, Kolkata 700107, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>ECE Department, Heritage Institute of Technology Chowbaga Road</sa:organization>
+                     <sa:address-line>P.O East Kolkata Township</sa:address-line>
+                     <sa:city>Anandapur</sa:city>
+                     <sa:state>Kolkata</sa:state>
+                     <sa:postal-code>700107</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0030402619311714-ec1f8fa8ea2607915e39ea3394139a3e">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Indian Railway Services of Signal Engineering (Retired) F-301, Rail Vihar, Block AF, New Town, Kolkata 700156, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Indian Railway Services of Signal Engineering (Retired) F-301</sa:organization>
+                     <sa:address-line>Rail Vihar, Block AF, New Town</sa:address-line>
+                     <sa:state>Kolkata</sa:state>
+                     <sa:postal-code>700156</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0030402619311714-6357eab33a91b3be22b4d4ddcd29bb3e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>ETCE Department, Jadavpur University 188, Raja S.C. Mallick Rd, Kolkata 700032, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>ETCE Department, Jadavpur University 188</sa:organization>
+                     <sa:address-line>Raja S.C. Mallick Rd</sa:address-line>
+                     <sa:state>Kolkata</sa:state>
+                     <sa:postal-code>700032</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="25" month="10" year="2018"/>
+            <ce:date-revised day="22" month="7" year="2019"/>
+            <ce:date-accepted day="21" month="8" year="2019"/>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0065" view="all">A general technique is proposed to reduce coupling length of optical couplers embedded in square latticed photonic crystals. In this approach, reduction in coupling length is achieved by engineering dispersion characteristics of coupled waveguide system with the introduction of an additional mode associated with special type of line defect. Two such line defects, namely type-I and type-II, are investigated and both the co-directional and contra-directional propagations are realized. The smallest coupling length achieved using the type-I is 2.05a, while that obtained using the type-II is 2.47a in contrast with the existing value of 28a for square lattice and 3.83a in the case of triangular lattice. Greater control over the resulting coupling length of a system is also attained. Frequency responses of the proposed couplers are finally verified using FDTD method.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Photonic crystal</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Coupled resonator</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Optical waveguide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Directional coupler</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Coupling length</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Photonic crystals (PhCs) play pivotal role in designing optical integrated circuit components, and has been a topic of interest in the field of integrated photonics <ce:cross-refs id="crfs0005" refid="bib0005 bib0010 bib0015">[1–3]</ce:cross-refs>. PhCs are three-dimensional composite dielectric structures, exhibiting periodically modulated refractive indices along any one, two or all three dimensions <ce:cross-refs id="crfs0010" refid="bib0020 bib0025 bib0030 bib0035">[4–7]</ce:cross-refs>. Such a periodic structure influences an optical wave in the same way as semiconductor crystal does to an electronic wave. This leads to creation of a photonic ban-gap (PBG). Incorporation of appropriate defects <ce:cross-refs id="crfs0015" refid="bib0040 bib0045 bib0050 bib0055 bib0060">[8–12]</ce:cross-refs> within an otherwise pure PhC causes additional states to appear within the PBG. Such defects facilitate realization of optical devices like couplers, filters, multiplexers (MUX), de-multiplexers (DMUX) etc. <ce:cross-refs id="crfs0020" refid="bib0065 bib0070 bib0075 bib0080">[13–16]</ce:cross-refs> in integrated form. A major category of such PhC based devices relies on efficient coupling mechanisms that require a finite coupling length in terms of lattice spacing. In literature, coupling length for waveguides embedded in triangular lattice for dielectric medium with refractive index 3.4 is found as large as 3.8a <ce:cross-ref id="crf0040" refid="bib0085">[17]</ce:cross-ref> while that in square lattice is larger than 25<ce:italic>a</ce:italic> 
+                     <ce:cross-refs id="crfs0025" refid="bib0070 bib0090">[14,18]</ce:cross-refs>, <ce:italic>a</ce:italic> being the lattice constant. A short coupling length ensures reduced lattice space as well as propagation loss, and thus becomes instrumental in designing compact and efficient devices suitable for integration. In case of a square lattice, due to its inherent geometric dispositions a large coupling length is essential for effective coupling. The triangular lattice, on the other hand, offered much smaller coupling length and drew attention of most of the researchers leaving the square lattice, the simplest one, less explored in this particular field. In designing PhC based compact integrated modules the straight forward approach of downscaling device dimensions adopted in semiconductor device technology is not found appropriate as the operating frequency undergoes shift with such scaling. Therefore, some effective alternatives are required to be tried out for square lattice.</ce:para>
+                  <ce:para id="par0010" view="all">In this work, we propose a general scheme for the reduction of coupling length in systems of two waveguides embedded in square lattice of dielectric rods in air background (DRAB). The scheme also facilitates greater control on coupling length and is useful in designing co-directional and contra-directional couplers of dimensions much smaller than those reported earlier. It will be further shown that the coupled modes can also be guided through a sharp 90° bend. The overall scheme adds new degree of freedom in designing compact directional couplers embedded in square lattice and makes compatible with optical ICs. Simulations to obtain structural parameters along with frequency responses are done based on finite difference time domain (FDTD) method using CST microwave studio, an industry leading electromagnetic solution software.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Properties of coupled waveguides embedded in square lattice of DRAB type PhC</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Dispersion characteristics</ce:section-title>
+                     <ce:para id="par0015" view="all">A square lattice of DRAB type PhC supports different sets of transverse magnetic (TM) Bloch modes for different values of packing density (PD) <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mo>∝</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>r</mml:mi>
+                              <mml:mi>a</mml:mi>
+                           </mml:mfrac>
+                        </mml:math>, <ce:italic>r</ce:italic> being the rod's radius embedded in square lattice of lattice constant <ce:italic>a</ce:italic>. For such modes a plot of normalized mode frequency (<mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mi>ω</mml:mi>
+                                 <mml:mi>a</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mi>π</mml:mi>
+                                 <mml:mi>c</mml:mi>
+                              </mml:mrow>
+                           </mml:mfrac>
+                        </mml:math>) vs <ce:italic>r</ce:italic>/<ce:italic>a</ce:italic>, called gap-map <ce:cross-ref id="crf0045" refid="bib0005">[1]</ce:cross-ref>, is first simulated for wavelength <ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> = 1500 nm and refractive index 3.4. From this gap-map, width of PBG vs. <ce:italic>r</ce:italic>/<ce:italic>a</ce:italic> plot as shown in <ce:cross-ref id="crf0050" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/> is derived. The figure indicates that the widest PBG appears at <ce:italic>r</ce:italic>/<ce:italic>a</ce:italic> = 0.164 and the corresponding normalized mid-gap frequency <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mi>ω</mml:mi>
+                                 <mml:mi>a</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mi>π</mml:mi>
+                                 <mml:mi>c</mml:mi>
+                              </mml:mrow>
+                           </mml:mfrac>
+                        </mml:math> is found from the gap-map to be 0.39. Thus, <ce:italic>a</ce:italic> = 0.39<ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> and <ce:italic>r</ce:italic> = 0.164<ce:italic>a</ce:italic> fully describe the desired two dimensional (2-D) PhC designed for 1500 nm.</ce:para>
+                     <ce:para id="par0020" view="all">A line defect is produced by altering radii of rods along a particular row within such pure PhC, thereby supporting additional modes to exist within the PBG. It serves as waveguide within the 2-D PhC. A coupled waveguide system consisting of two such waveguides is shown in <ce:cross-ref id="crf0055" refid="fig0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>a.</ce:para>
+                     <ce:para id="par0025" view="all">Considering each line defect as a linear array of coupled resonator, the dispersion characteristic can quantitatively be expressed as <ce:cross-refs id="crfs0030" refid="bib0095 bib0100">[19,20]</ce:cross-refs>
+                        <ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mi mathvariant="normal">Ω</mml:mi>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mi>y</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>ω</mml:mi>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>c</mml:mi>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:munderover>
+                                    <mml:mo>∑</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mi>l</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mi>N</mml:mi>
+                                 </mml:munderover>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:msub>
+                                    <mml:mi>c</mml:mi>
+                                    <mml:mi>l</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo>cos</mml:mo>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>lk</mml:mi>
+                                    <mml:mi>y</mml:mi>
+                                 </mml:msub>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>whereas that of a coupled waveguide is written as<ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si4.gif" overflow="scroll">
+                                 <mml:msup>
+                                    <mml:mi mathvariant="normal">Ω</mml:mi>
+                                    <mml:mo>±</mml:mo>
+                                 </mml:msup>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mi>y</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="normal">Ω</mml:mi>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mi>y</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>±</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mfenced open="[" close="]">
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>β</mml:mi>
+                                             <mml:mi>INN</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:munderover>
+                                             <mml:mo>∑</mml:mo>
+                                             <mml:mrow>
+                                                <mml:mi>m</mml:mi>
+                                                <mml:mo>=</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                             <mml:mi>M</mml:mi>
+                                          </mml:munderover>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:msub>
+                                             <mml:mi>γ</mml:mi>
+                                             <mml:mi>m</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>cos</mml:mo>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>mk</mml:mi>
+                                             <mml:mi>y</mml:mi>
+                                          </mml:msub>
+                                          <mml:mi>a</mml:mi>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>d</ce:italic> is the spacing between two elements in a line defect, <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>y</ce:italic>
+                        </ce:inf> represents the wave number along <ce:italic>y</ce:italic> direction, <ce:italic>c</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>l</ce:italic>
+                        </ce:inf> is the coupling coefficient between <ce:italic>n</ce:italic>th and (<ce:italic>n</ce:italic> + <ce:italic>l</ce:italic>)th point-defects. The coupling coefficient between the <ce:italic>n</ce:italic>th element in one waveguide and its immediate nearest neighbour (INN) in the other waveguide is represented by <ce:italic>β</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>INN</ce:italic>
+                        </ce:inf>, whereas that due to its <ce:italic>m</ce:italic>th nearest neighbour is described by <ce:italic>γ</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>m</ce:italic>
+                        </ce:inf>. Eq. <ce:cross-ref id="crf0060" refid="eq0010">(2)</ce:cross-ref> illustrates that when an isolated waveguide gets coupled with a second one, its resonant mode splits into two called the fundamental modes of the coupled system. The lower and upper frequency modes are, respectively, known as even and odd modes. <ce:cross-ref id="crf0065" refid="fig0010">Fig. 2</ce:cross-ref>b presents dispersion characteristics of such a coupled waveguide system for different sets of radii of elements of the waveguides. In obtaining the dispersion characteristics a super cell approach is used <ce:cross-ref id="crf0070" refid="bib0105">[21]</ce:cross-ref> in the FDTD simulation. The super cell, as indicated in <ce:cross-ref id="crf0075" refid="fig0010">Fig. 2</ce:cross-ref>a with periodic boundary condition along <ce:italic>y</ce:italic> direction simulates effectively an infinite structure along that direction.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">General theory of waveguide coupling</ce:section-title>
+                     <ce:para id="par0030" view="all">A waveguide should operate in the region of nearly constant slope (i.e., <ce:italic>dω</ce:italic>/<ce:italic>dk</ce:italic> = constant), in order to avoid group-velocity dispersion <ce:cross-ref id="crf0080" refid="bib0005">[1]</ce:cross-ref> (<ce:italic>d</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>
+                        <ce:italic>ω</ce:italic>/<ce:italic>dk</ce:italic>
+                        <ce:sup loc="post">2</ce:sup> ≠ 0). Again, for a structure with finite dimension, the guided modes around the centre of PBG are more strongly confined than those closer to the band edges. Therefore, for the purpose of coupling, modes around the centre of PBG are of interest in order to minimize radiation loss during propagation. According to the standard theory, the EM energy propagating through one waveguide can be completely coupled with the other for coupling length <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mi>L</mml:mi>
+                              <mml:mi>c</mml:mi>
+                           </mml:msub>
+                           <mml:mo>=</mml:mo>
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mi>q</mml:mi>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mi>π</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mi>k</mml:mi>
+                              </mml:mrow>
+                           </mml:mfrac>
+                        </mml:math>, <ce:italic>q</ce:italic> = 0, 1, 2⋯. Obviously, <ce:italic>q</ce:italic> = 0 yields the minimum coupling length. Here, Δ<ce:italic>k</ce:italic> = |<ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>e</ce:italic>
+                        </ce:inf> − <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>o</ce:italic>
+                        </ce:inf>| is the difference between even (<ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>e</ce:italic>
+                        </ce:inf>) and odd (<ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>o</ce:italic>
+                        </ce:inf>) wave numbers associated with even and odd modes respectively, at a given frequency. It is evident from <ce:cross-ref id="crf0085" refid="fig0010">Fig. 2</ce:cross-ref>b that separation between the fundamental modes, i.e. Δ<ce:italic>k</ce:italic> gradually reduces for higher frequencies, thereby making <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> larger. To get small <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> for couplers operating at mid-gap frequencies, even and odd modes must maintain reasonable separation near the centre of the PBG. As suggested by Eq. <ce:cross-ref id="crf0090" refid="eq0010">(2)</ce:cross-ref>, an additional line defect can modify the above dispersion characteristics [<ce:cross-ref id="crf0095" refid="fig0010">Fig. 2</ce:cross-ref>b] if placed between the pair of waveguides. We, therefore, examine two different kinds of line defects, namely type-I and type-II. The dispersion characteristics of such defects and their influences on the fundamental modes of the coupled waveguides are investigated in the next section.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0035">Dispersion characteristics of type-I and type-II line defects</ce:section-title>
+                  <ce:para id="par0035" view="all">
+                     <ce:cross-ref id="crf0100" refid="fig0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig0015"/> illustrates two special line defects realized by introducing additional rods within the pure 2-D periodic structure. The type-II line defect [<ce:cross-ref id="crf0105" refid="fig0015">Fig. 3</ce:cross-ref>b] is obtained by translating each rod of type-I line defect [<ce:cross-ref id="crf0110" refid="fig0015">Fig. 3</ce:cross-ref>a] by <ce:italic>d</ce:italic>/2, leading a <ce:italic>π</ce:italic> shift in corresponding reciprocal lattice.</ce:para>
+                  <ce:para id="par0040" view="all">Dispersion relation for type-I line defect can be expressed by Eq. <ce:cross-ref id="crf0115" refid="eq0005">(1)</ce:cross-ref> with a different set of coupling coefficients <mml:math altimg="si6.gif" overflow="scroll">
+                        <mml:msubsup>
+                           <mml:mi>c</mml:mi>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo>′</mml:mo>
+                        </mml:msubsup>
+                     </mml:math> and that for type-II line defect is obtained after translating phase of the cosine by <ce:italic>π</ce:italic>, which modifies Eq. <ce:cross-ref id="crf0120" refid="eq0005">(1)</ce:cross-ref> as<ce:display>
+                        <ce:formula id="eq0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si7.gif" overflow="scroll">
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">Ω</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>type</mml:mi>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>II</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>k</mml:mi>
+                                 <mml:mi>y</mml:mi>
+                              </mml:msub>
+                              <mml:mo stretchy="false">)</mml:mo>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>ω</mml:mi>
+                                 <mml:mn>0</mml:mn>
+                              </mml:msub>
+                              <mml:mo>−</mml:mo>
+                              <mml:msubsup>
+                                 <mml:mi>c</mml:mi>
+                                 <mml:mn>0</mml:mn>
+                                 <mml:mo>′</mml:mo>
+                              </mml:msubsup>
+                              <mml:mo>+</mml:mo>
+                              <mml:munderover>
+                                 <mml:mo>∑</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mi>l</mml:mi>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>1</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mi>N</mml:mi>
+                              </mml:munderover>
+                              <mml:mn>2</mml:mn>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:msup>
+                                       <mml:mi>c</mml:mi>
+                                       <mml:mo>′</mml:mo>
+                                    </mml:msup>
+                                 </mml:mrow>
+                                 <mml:mi>l</mml:mi>
+                              </mml:msub>
+                              <mml:mo>cos</mml:mo>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>lk</mml:mi>
+                                 <mml:mi>y</mml:mi>
+                              </mml:msub>
+                              <mml:mi>d</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>Thus, dispersion characteristic of the type-II line defect yields negative group velocity (i.e., <mml:math altimg="si8.gif" overflow="scroll">
+                        <mml:mfrac>
+                           <mml:mrow>
+                              <mml:mi>d</mml:mi>
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">Ω</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>type</mml:mi>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:mi>II</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>dk</mml:mi>
+                                 <mml:mi>y</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:mfrac>
+                        <mml:mo>&lt;</mml:mo>
+                        <mml:mn>0</mml:mn>
+                     </mml:math>), while that for type-I is positive. These are supported by <ce:cross-ref id="crf0125" refid="fig0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig0020"/> that illustrates dispersion characteristics simulated with radius of defect rod <ce:italic>r</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> = 0.15<ce:italic>a</ce:italic>.</ce:para>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0040">Effect of type-I line defect</ce:section-title>
+                     <ce:para id="par0045" view="all">
+                        <ce:cross-ref id="crf0130" refid="fig0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>a presents structure of a coupled waveguide system perturbed by type-I line defect, while</ce:para>
+                     <ce:para id="par0050" view="all">
+                        <ce:cross-ref id="crf0135" refid="fig0025">Fig. 5</ce:cross-ref>b and c present its dispersion characteristics, respectively, for non-identical and identical waveguides. Figures reveal that a third mode (shown as auxiliary mode) appearing due to the defect increases separation between the fundamental modes, and the larger separation is attained in the case of identical waveguides. These modes remain well separated for <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>d</ce:italic>
+                        </ce:inf> in the range 0.11<ce:italic>a</ce:italic> ≤ <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>d</ce:italic>
+                        </ce:inf> ≤ 0.15<ce:italic>a</ce:italic>. <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>d</ce:italic>
+                        </ce:inf> = 0.15<ce:italic>a</ce:italic> is thus chosen for simulation. In the case of non-identical waveguides the minimum possible value of Δ<ce:italic>k</ce:italic> (in a unit of <mml:math altimg="si9.gif" overflow="scroll">
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mi>π</mml:mi>
+                              </mml:mrow>
+                              <mml:mi>a</mml:mi>
+                           </mml:mfrac>
+                        </mml:math>) is obtained, from <ce:cross-ref id="crf0140" refid="fig0025">Fig. 5</ce:cross-ref>b, as (0.50–0.3077), i.e. 0.1923 for a coupling frequency corresponding to <mml:math altimg="si10.gif" overflow="scroll">
+                           <mml:mi>ω</mml:mi>
+                           <mml:mi>a</mml:mi>
+                           <mml:mo>/</mml:mo>
+                           <mml:mn>2</mml:mn>
+                           <mml:mi>π</mml:mi>
+                           <mml:mi>c</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>0.3739</mml:mn>
+                           <mml:mrow>
+                              <mml:mfenced open="(" close=")">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mi>π</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mi>c</mml:mi>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:mfenced>
+                           </mml:mrow>
+                        </mml:math>, which corresponds to a frequency of 191.6 THz. Therefore, <mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mi>L</mml:mi>
+                              <mml:mi>c</mml:mi>
+                           </mml:msub>
+                           <mml:mrow>
+                              <mml:mfenced open="(" close=")">
+                                 <mml:mrow>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mi>π</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">|</mml:mo>
+                                          <mml:mi mathvariant="normal">Δ</mml:mi>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:mo stretchy="false">|</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:mfenced>
+                           </mml:mrow>
+                        </mml:math> comes out to be 2.6<ce:italic>a</ce:italic>. Similarly, <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> = 2.05<ce:italic>a</ce:italic> is obtained for coupling frequency of 0.3724 (190.82 THz) in the case of identical waveguide.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:section-title id="sect0045">Spectral responses</ce:section-title>
+                     <ce:para id="par0055" view="all">
+                        <ce:cross-ref id="crf0145" refid="fig0030">Figs. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/>a and b illustrate spectral responses of the perturbed system having two non-identical waveguides embedded in two ways: (i) they are parallel to each other and (ii) one of them has a 90° bend.</ce:para>
+                     <ce:para id="par0060" view="all">
+                        <ce:cross-ref id="crf0150" refid="fig0030">Fig. 6</ce:cross-ref>c and d present corresponding 2-D power transmission profiles. The transmission peaks appear at 194.5 THz instead of 191.6 THz, the design frequency obtained from dispersion characteristics of an infinite structure simulated by FDTD method. The deviation arises due to decrease in effective dielectric constant caused by the finite dimensions of the structure. It is apparent from <ce:cross-ref id="crf0155" refid="fig0030">Fig. 6</ce:cross-ref>c and d that the defect's length decides <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf>. Since, <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> is basically determined from the separation of the fundamental modes, and the separation and therefore the frequency of guided wave can be manoeuvred simply by altering the radii of the defect rods; radii of the defect rods permit additional control over the coupling length. This is illustrated for a different <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>d</ce:italic>
+                        </ce:inf> in <ce:cross-ref id="crf0160" refid="fig0035">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig0035"/>, which shows that the peak appears at 200 THz, i.e. the coupling frequency shifts by 5.5 THz.</ce:para>
+                     <ce:para id="par0065" view="all">The coupling lengths determined by the proposed scheme have fractional parts, which can not be exactly realized by the above defects. However, such fractional parts can be taken care by using the concept of PD. Considering <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> = 2.6<ce:italic>a</ce:italic> as an example, PD for the integer part (i.e., 2<ce:italic>a</ce:italic>) is related to <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>d</ce:italic>
+                        </ce:inf> and <ce:italic>a</ce:italic> as PD<mml:math altimg="si12.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow/>
+                              <mml:mi>I</mml:mi>
+                           </mml:msub>
+                           <mml:mo>∝</mml:mo>
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mi>d</mml:mi>
+                                 </mml:msub>
+                              </mml:mrow>
+                              <mml:mi>a</mml:mi>
+                           </mml:mfrac>
+                        </mml:math>. Defining a new parameter <ce:italic>a</ce:italic>′ = 0.6<ce:italic>a</ce:italic> for the fractional part, a new rod of radius <mml:math altimg="si13.gif" overflow="scroll">
+                           <mml:msubsup>
+                              <mml:mi>r</mml:mi>
+                              <mml:mi>d</mml:mi>
+                              <mml:mo>′</mml:mo>
+                           </mml:msubsup>
+                        </mml:math> is introduced at lattice site immediately after 2<ce:italic>a</ce:italic> in such a way that PD at this site remains same as PD<ce:inf loc="post">
+                           <ce:italic>I</ce:italic>
+                        </ce:inf>. Therefore,<ce:display>
+                           <ce:formula id="eq0020">
+                              <ce:label>(4)</ce:label>
+                              <mml:math altimg="si14.gif" overflow="scroll">
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msubsup>
+                                          <mml:mi>r</mml:mi>
+                                          <mml:mi>d</mml:mi>
+                                          <mml:mo>′</mml:mo>
+                                       </mml:msubsup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mi>a</mml:mi>
+                                          <mml:mo>′</mml:mo>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>r</mml:mi>
+                                          <mml:mi>d</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mi>a</mml:mi>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>or, equivalently <mml:math altimg="si15.gif" overflow="scroll">
+                           <mml:msubsup>
+                              <mml:mi>r</mml:mi>
+                              <mml:mi>d</mml:mi>
+                              <mml:mo>′</mml:mo>
+                           </mml:msubsup>
+                           <mml:mo>=</mml:mo>
+                           <mml:msup>
+                              <mml:mi>a</mml:mi>
+                              <mml:mo>′</mml:mo>
+                           </mml:msup>
+                           <mml:mo stretchy="false">(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mi>d</mml:mi>
+                                 </mml:msub>
+                              </mml:mrow>
+                              <mml:mi>a</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo stretchy="false">)</mml:mo>
+                        </mml:math>. Thus, <mml:math altimg="si13.gif" overflow="scroll">
+                           <mml:msubsup>
+                              <mml:mi>r</mml:mi>
+                              <mml:mi>d</mml:mi>
+                              <mml:mo>′</mml:mo>
+                           </mml:msubsup>
+                        </mml:math> for the present case is obtained as 0.09<ce:italic>a</ce:italic>. The rod used for such an adjustment is indicated in <ce:cross-ref id="crf0165" refid="fig0030">Fig. 6</ce:cross-ref>c. Power transmission spectra for the coupled identical waveguide structure perturbed by type-I defect is presented in <ce:cross-ref id="crf0170" refid="fig0040">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig0040"/>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0050">Effect of type-II line defect</ce:section-title>
+                     <ce:section id="sec0045" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title id="sect0055">Co-directional coupler</ce:section-title>
+                        <ce:para id="par0070" view="all">A study with non-identical waveguides perturbed by the type-II defect exhibits group velocity dispersion around the frequency of interest. We therefore, focus on the system of coupled identical waveguides. A structure and dispersion characteristics of such a system are presented in <ce:cross-ref id="crf0175" refid="fig0045">Fig. 9</ce:cross-ref>
+                           <ce:float-anchor refid="fig0045"/>. Unlike the type-I perturbed systems, the useful range of <ce:italic>r</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>d</ce:italic>
+                           </ce:inf> is found as 0.09<ce:italic>a</ce:italic> ≤ <ce:italic>r</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>d</ce:italic>
+                           </ce:inf> ≤ 0.13<ce:italic>a</ce:italic>, and <ce:italic>r</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>d</ce:italic>
+                           </ce:inf> = 0.11<ce:italic>a</ce:italic> is chosen for further study.</ce:para>
+                        <ce:para id="par0075" view="all">The even mode attains negative slope in presence of defect and thus supports negative group velocity. The value of <ce:italic>k</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>y</ce:italic>
+                           </ce:inf> at which the slope gets changed can be altered by varying <ce:italic>r</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>d</ce:italic>
+                           </ce:inf>. Therefore, such system can support both forward and backward propagating coupled waves. This feature can be exploited to design both co-directional and contra-directional couplers using a coupled identical waveguide structure perturbed by type-II line defect. For the frequency indicated in <ce:cross-ref id="crf0180" refid="fig0045">Fig. 9</ce:cross-ref>b, Δ<ce:italic>k</ce:italic> is maximized by choosing <ce:italic>k</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>e</ce:italic>
+                           </ce:inf> in the region of negative slope and <ce:italic>L</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>c</ce:italic>
+                           </ce:inf> = 2.47<ce:italic>a</ce:italic> is obtained. Consequently, another value of <ce:italic>k</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>e</ce:italic>
+                           </ce:inf> in the positive slope region also becomes collinear with that coupling frequency. As a result, wave coupled at <mml:math altimg="si16.gif" overflow="scroll">
+                              <mml:mn>0.369</mml:mn>
+                              <mml:mrow>
+                                 <mml:mfenced open="(" close=")">
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                             <mml:mi>π</mml:mi>
+                                             <mml:mi>c</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mi>a</mml:mi>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:mfenced>
+                              </mml:mrow>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>189</mml:mn>
+                           </mml:math> THz propagates simultaneously in forward and backward directions.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:section-title id="sect0060">Spectral responses</ce:section-title>
+                     <ce:para id="par0080" view="all">
+                        <ce:cross-ref id="crf0185" refid="fig0050">Figs. 10</ce:cross-ref>
+                        <ce:float-anchor refid="fig0050"/>a and b present spectral response of the coupled system when two straight waveguides and a pair of straight and bent waveguides are coupled via type-II line defect. Corresponding 2-D power flow profiles are shown in <ce:cross-ref id="crf0190" refid="fig0050">Fig. 10</ce:cross-ref>c and d. As <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf> in the present case is 2.47<ce:italic>a</ce:italic>, introduction of an additional rod of radius <mml:math altimg="si17.gif" overflow="scroll">
+                           <mml:msubsup>
+                              <mml:mi>r</mml:mi>
+                              <mml:mi>d</mml:mi>
+                              <mml:mo>′</mml:mo>
+                           </mml:msubsup>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>0.052</mml:mn>
+                           <mml:mi>a</mml:mi>
+                        </mml:math> is essential to realize the fractional part in <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>c</ce:italic>
+                        </ce:inf>. Such a rod can be seen in <ce:cross-ref id="crf0195" refid="fig0050">Fig. 10</ce:cross-ref>c and d.</ce:para>
+                     <ce:section id="sec0055" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title id="sect0065">Contra-directional coupler</ce:section-title>
+                        <ce:para id="par0085" view="all">The similar structure used in designing the co-directional coupler can also be used to design a contra-directional coupler (i.e., for same <ce:italic>L</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>c</ce:italic>
+                           </ce:inf>) by simply providing path in the backward direction while blocking that in the forward direction. <ce:cross-ref id="crf0200" refid="fig0055">Fig. 11</ce:cross-ref>
+                           <ce:float-anchor refid="fig0055"/>a illustrates spectral response of a contra-directional coupler designed on the basis of the proposed scheme.</ce:para>
+                        <ce:para id="par0090" view="all">The 2-D power flow profile shown in <ce:cross-ref id="crf0205" refid="fig0055">Fig. 11</ce:cross-ref>b clearly demonstrates the contra-directional operation. The results obtained in the present work are summarized in <ce:cross-ref id="crf0210" refid="tbl0005">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0005"/> with mention to existing literature.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0060" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0070">Conclusion</ce:section-title>
+                  <ce:para id="par0095" view="all">A simple and novel technique is proposed for designing on-chip couplers embedded in square lattice. It describes ways to engineer dispersion characteristics by perturbing coupled waveguide systems with special line defects. The couplers designed using type-I line defect possess coupling length as small as 2.6<ce:italic>a</ce:italic> and 2.05<ce:italic>a</ce:italic> while that for type-II line defect is 2.47<ce:italic>a</ce:italic>. Thus, present results indicate enormous reduction in coupling length over those reported in literature for square lattice (larger than 20<ce:italic>a</ce:italic>). The achieved lengths are even shorter than that for existing co-directional coupler with triangular lattice (3.83<ce:italic>a</ce:italic>). Therefore, the proposed technique emerges as an efficient one in realising couplers much more compact than existing ones. It also provides guidelines to design contra-directional couplers with minimum additional complexity. In addition, there exists scope for further tuning of the resulting coupling length through modification of defect elements.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0075">Acknowledgement</ce:section-title>
+               <ce:para id="par0100" view="all">Financial supports provided by <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Heritage Institute of Technology</ce:grant-sponsor>, Kolkata, India and UGC (UPE-II), India are gratefully acknowledged.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0080">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Joannopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Winn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Meade</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic Crystals: Molding the Flow of Light</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd Edition</sb:edition>
+                              <sb:date>2011</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Princeton University Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Soukoulis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystals and light localization in the 21st century, Vol. 563</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Science &amp; Business Media</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Norris David</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystals: a view of the future</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/nmat1844</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Winn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Fink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Joannopoulos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Omnidirectional reflection from a one-dimensional photonic crystal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1573</sb:first-page>
+                              <sb:last-page>1575</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Solli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hickmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study of the properties of 2d photonic crystal structures as a function of the air-filling fraction and refractive index contrast</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>523</sb:first-page>
+                              <sb:last-page>526</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.optmat.2010.10.041</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chutinan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Noda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Waveguides and waveguide bends in two-dimensional photonic crystal slabs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4488</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Mizeikis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Seet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Juodkazis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Misawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Three-dimensional woodpile photonic crystal templates for the infrared spectral range</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>17</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2061</sb:first-page>
+                              <sb:last-page>2063</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Akahane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Asano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.-S.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Noda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-q photonic nanocavity in a two-dimensional photonic crystal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>425</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6961</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>944</sb:first-page>
+                              <sb:last-page>947</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Benisty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Olivier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rattier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Weisbuch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Krauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>De La Rue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Houdré</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Oesterle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-loss channel waveguides with two-dimensional photonic crystal boundaries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>18</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>28132815</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Centeno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Felbacq</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Guiding waves with photonic crystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>60</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Yüce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Combrié</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>De Rossi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Mosk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dispersion of coupled mode-gap cavities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4488</sb:first-page>
+                              <sb:last-page>4491</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yariv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Scherer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coupled-resonator optical waveguide:? A proposal and analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>711</sb:first-page>
+                              <sb:last-page>713</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>E. Centeno, B. Guizal, D. Felbacq, Multiplexing and demultiplexing with photonic crystals, J. Opt. A: Pure Appl. Opt. 1 (5) (1999) L10.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Koshiba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wavelength division multiplexing and demultiplexing with photonic crystal waveguide couplers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lightwave Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1970</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Manzacca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Paciotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marchese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Moreolo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Cincotti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>2d photonic crystal cavity-based wdm multiplexer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Photon. Nanostruct.-Fundamentals Appl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>164</sb:first-page>
+                              <sb:last-page>170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Solli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>McCormick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hickmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystal polarizers and polarizing beam splitters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9429</sb:first-page>
+                              <sb:last-page>9431</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kamp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Forchel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>März</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystal waveguide directional couplers as wavelength selective optical filters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>230</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>387</sb:first-page>
+                              <sb:last-page>392</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sharkawy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Prather</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Soref</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electro-optical switching using coupled photonic crystal waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1048</sb:first-page>
+                              <sb:last-page>1059</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.-S.</ce:given-name>
+                                 <ce:surname>Chien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-F.</ce:given-name>
+                                 <ce:surname>Hsieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-C.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tight-binding theory for coupled photonic crystal waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125113</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Albert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jouanin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cassagne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Monge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystal modelling using a tight-binding wannier function method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Quantum Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1-3</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>263</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Prather</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photonic crystals: An engineering perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Photon. News</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

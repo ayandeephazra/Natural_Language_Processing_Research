@@ -1,0 +1,1434 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405896315000750</prism:url><dc:identifier>doi:10.1016/j.ifacol.2015.05.074</dc:identifier><eid>1-s2.0-S2405896315000750</eid><prism:doi>10.1016/j.ifacol.2015.05.074</prism:doi><pii>S2405-8963(15)00075-0</pii><dc:title>Metropolis Monte Carlo based Relaxation of Atomistic III-V Semiconductor Models </dc:title><prism:publicationName>IFAC-PapersOnLine</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>24058963</prism:issn><prism:volume>48</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>550</prism:startingPage><prism:endingPage>555</prism:endingPage><prism:pageRange>550-555</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-12-31</prism:coverDate><prism:coverDisplayDate>2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><prism:issueName>8th Vienna International Conferenceon Mathematical Modelling- MATHMOD 2015</prism:issueName><dc:creator>Detz, Hermann</dc:creator><dc:creator>Strasser, Gottfried</dc:creator><dc:description>
+                  We present atomistic simulations of III-V semiconductor materials. These provide an effective way to investigate structural properties of semiconductors at a nanometric scale. The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10%. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally. In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain. The Metropolis Monte Carlo approach also allows modelling at higher temperatures. The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Monte Carlo simulatons</dcterms:subject><dcterms:subject>Convergence analysis</dcterms:subject><dcterms:subject>III-V Semiconductors</dcterms:subject><dcterms:subject>Elastic Properties</dcterms:subject><dcterms:subject>Structural Properties</dcterms:subject><dcterms:subject>Thermal Expansion</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2405896315000750" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405896315000750" rel="scidir"/></coredata><scopus-id>84954154067</scopus-id><scopus-eid>2-s2.0-84954154067</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84954154067" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>313346</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291882</xocs:ssid>
+         <xocs:ssid type="subj">291883</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>IFAC-PapersOnLine</xocs:srctitle>
+      <xocs:normalized-srctitle>IFACPAPERSONLINE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150610">2015-06-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150617">2015-06-17</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150610">2015-06-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150617">2015-06-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-09-09T16:46:57</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2405896315000750</xocs:eid>
+      <xocs:pii-formatted>S2405-8963(15)00075-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2405896315000750</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ifacol.2015.05.074</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2405896315X00024</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150909">2015-09-09T16:45:06.115105-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150101</xocs:date-search-begin>
+      <xocs:date-search-end>20151231</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1433957878">2015-06-10T17:37:58.521176Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2405-8963</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24058963</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>48</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>48</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 48, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>120</xocs:sort-order>
+      <xocs:first-fp>550</xocs:first-fp>
+      <xocs:last-lp>555</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>550</xocs:first-page>
+         <xocs:last-page>555</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2015</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">8th Vienna International Conferenceon Mathematical Modelling</ce:title>
+            <ce:subtitle id="tt002">MATHMOD 2015</ce:subtitle>
+            <ce:editors>
+               <ce:author-group id="aa001">
+                  <ce:author id="aa002">
+                     <ce:given-name>Felix</ce:given-name>
+                     <ce:surname>Breitenecker</ce:surname>
+                  </ce:author>
+                  <ce:author id="aa003">
+                     <ce:given-name>Andreas</ce:given-name>
+                     <ce:surname>Kugi</ce:surname>
+                  </ce:author>
+                  <ce:author id="aa004">
+                     <ce:given-name>Inge</ce:given-name>
+                     <ce:surname>Troch</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>METROPOLISMONTECARLOBASEDRELAXATIONATOMISTICIIIVSEMICONDUCTORMODELS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DETZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>DARWISH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2611</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>GORMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>063701</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>DEUTSCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>201102</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>DEUTSCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7215</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>NDEBEKABANDOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>191105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>BOLOGNESI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2631</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2639</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>POWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>270</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>POWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115202</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>STILLINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5262</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>STRINGFELLOW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2182</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>DETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123508</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>DETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>085011</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4071</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4076</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>ICHIMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>431</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>TITANTAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123508</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>RAMMOHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>191</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>KARNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>RATHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>126</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0001"/>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>662</xocs:ref-first-fp>
+            <xocs:ref-last-lp>664</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2011</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8983</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8988</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>TERSOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9902</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9905</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>PETKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4089</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4092</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205212</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DETZX2015X550</xocs:refkey3>
+         <xocs:refkey4lp>DETZX2015X550X555</xocs:refkey4lp>
+         <xocs:refkey4ai>DETZX2015X550XH</xocs:refkey4ai>
+         <xocs:refkey5>DETZX2015X550X555XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2405-8963(15)00075-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2405896315000750</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2405896315000750</xocs:eid>
+         <xocs:doi>10.1016/j.ifacol.2015.05.074</xocs:doi>
+         <xocs:cid>313346</xocs:cid>
+         <xocs:timestamp>2015-09-09T16:45:06.115105-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2405896315000750-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405896315000750/MAIN/application/pdf/c6dfc0297ecae93f7bffda7ffef45b12/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405896315000750/MAIN/application/pdf/c6dfc0297ecae93f7bffda7ffef45b12/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1179176</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2405896315000750-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405896315000750/PREVIEW/image/png/00e51fd7aab246e69d873ca93f9a2b79/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405896315000750/PREVIEW/image/png/00e51fd7aab246e69d873ca93f9a2b79/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>101781</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ScienceDirect IFAC-PapersOnLine 48-1 (2015) 550â€“555 Available online at www.sciencedirect.com 2405-8963 Â© 2015, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved. Peer review under responsibility of International Federation of Automatic Control. 10.1016/j.ifacol.2015.05.074 Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555 Â© 2015, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved. Metropolis Monte Carlo based Relaxation of Atomistic III-V Semiconductor Models Hermann Detz âˆ— Gottfried Strasser âˆ—âˆ— âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: hermann.detz@tuwien.ac.at). âˆ—âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: gottfried.strasser@tuwien.ac.at). Abstract:We present atomistic simulations of III-V semiconductor materials. These provide an effective way to investigate structural properties of semiconductors at a nanometric scale. The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10 %. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally. In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain. The Metropolis Monte Carlo approach also allows modelling at higher temperatures. The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials. Keywords: Monte Carlo simulatons, Convergence analysis, III-V Semiconductors, Elastic Properties, Structural Properties, Thermal Expansion 1. INTRODUCTION Atomistic models of semiconductor materials, based on empirical interaction potentials, were shown to be a pow- erful tool, complementary to ab-initio density functional theory (DFT) models and continuum-based models like SchroÂ¨dinger-Poisson solvers or finite element models for a variety of applications [I.-H. Tan et al. (1990); M. Karner et al. (2007); L.R. Ram-Mohan and J.R. Meyer (1995); A.M. Darwish et al. (2004)]. While DFT models provide an accurate description of electronic ground state prop- erties, they are typically limited to a few hundred atoms due to the high computational effort required [Y.-S. Kim et al. (2010); S.-H. Wei and A. Zunger (1998a)]. On the other hand, continuum models allow larger geometries, which can even cover whole electronic devices, but they do not reflect atomistic effects of semiconductor crystals. Atomistic models cover length scales in between, which are for example required to provide an in-depth description of nanometric device geometries or processes at the surface during the epitaxial growth of heterostructures. Since ef- fects like interface roughness scattering or dopant migra- tion can influence the characteristics of electronic devices significantly, optimized models, which include an accurate structural description, are beneficial for further device op- timization [C. Deutsch et al. (2013b); C. Ndebeka-Bandou et al. (2013); C. Deutsch et al. (2013a)]. The structural model, presented in this work, is suitable for III-V semiconductor materials, which are applied in a wide range of electronic and optoelectronic devices. The empirical interaction potential form was proven to be reliable for binary III-V materials [D. Powell et al. (2007); P. Rathi et al. (2012)]. However, ternary alloys which can be lattice-matched to InP substrates, recently gained technological relevance for a wide range of applications [C.R. Bolognesi et al. (2001); C. Deutsch et al. (2013a)]. Therefore InxGa1-xAs and GaAs1-xSbx are used as model materials throughout this study. 2. SIMULATION ENVIRONMENT The simulations, discussed in this work, are all performed on cubes of zincblende lattices with an edge length of six unit cells, as sketched in figure 1. First atoms of both, cation and anion sublattice, are placed on the correspond- ing ideal coordinates. Periodic boundary conitions are applied in all three spatial dimensions to avoid finite size effects. The atoms are coupled through empirical potential functions, described in section 2.1, which provide a metric for the bond energy. The total energy is minimized through a MMC based solver, as outlined in section 2.2. 2.1 Empirical Interaction Potential Empirical interaction models allow an enourmous reduc- tion of the computational effort [Tersoff (1988); F.H. Still- inger and T.A. Weber (1985)], compared to DFT simula- tions. This work is based on the Tersoff potential, which was originally created for elemental semiconductors and later extended for III-V materials. Electron density func- tionals are approximated with simple exponential func- tions for repulsive and attractive forces, which are given in terms 1 and 2. 8th Vienna International Conference on Mathematical Modelling February 18 - 20, 2015. Vienna University of Technology, Vienna, Austria Copyright Â© 2015, IFAC 550 etropolis onte arlo based elaxation of to istic III- Se iconductor odels Hermann Detz âˆ— Gottfried Strasser âˆ—âˆ— âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: hermann.detz@tuwien.ac.at). âˆ—âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: gottfried.strasser@tuwien.ac.at). Abstract:We present atomistic simulations of III-V semiconductor materials. These provide an effective way to investigate structural properties of semiconductors at a nanometric scale. The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10 %. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally. In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain. The Metropolis Monte Carlo approach also allows modelling at higher temperatures. The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials. Keywords: Monte Carlo simulatons, Convergence analysis, III-V Semiconductors, Elastic Properties, Structural Properties, Thermal Expansion 1. INTRODUCTION Atomistic models of semiconductor materials, based on empirical interaction potentials, were shown to be a pow- erful tool, complementary to ab-initio density functional theory (DFT) models and continuum-based models like SchroÂ¨dinger-Poisson solvers or finite element models for a variety of applications [I.-H. Tan et al. (1990); M. Karner et al. (2007); L.R. Ram-Mohan and J.R. Meyer (1995); A.M. Darwish et al. (2004)]. While DFT models provide an accurate description of electronic ground state prop- erties, they are typically limited to a few hundred atoms due to the high computational effort required [Y.-S. Kim et al. (2010); S.-H. Wei and A. Zunger (1998a)]. On the other hand, continuum models allow larger geometries, which can even cover whole electronic devices, but they do not reflect atomistic effects of semiconductor crystals. Atomistic models cover length scales in between, which are for example required to provide an in-depth description of nanometric device geometries or processes at the surface during the epitaxial growth of heterostructures. Since ef- fects like interface roughness scattering or dopant migra- tion can influence the characteristics of electronic devices significantly, optimized models, which include an accurate structural description, are beneficial for further device op- timization [C. Deutsch et al. (2013b); C. Ndebeka-Bandou et al. (2013); C. Deutsch et al. (2013a)]. The structural model, presented in this work, is suitable for III-V semiconductor materials, which are applied in a wide range of electronic and optoelectronic devices. The empirical interaction potential form was proven to be reliable for binary III-V materials [D. Powell et al. (2007); P. Rathi et al. (2012)]. However, ternary alloys which can be lattice-matched to InP substrates, recently gained technological relevance for a wide range of applications [C.R. Bolognesi et al. (2001); C. Deutsch et al. (2013a)]. Therefore InxGa1-xAs and GaAs1-xSbx are used as model materials throughout this study. 2. SIMULATION ENVIRONMENT The simulations, discussed in this work, are all performed on cubes of zincblende lattices with an edge length of six unit cells, as sketched in figure 1. First atoms of both, cation and anion sublattice, are placed on the correspond- ing ideal coordinates. Periodic boundary conitions are applied in all three spatial dimensions to avoid finite size effects. The atoms are coupled through empirical potential functions, described in section 2.1, which provide a metric for the bond energy. The total energy is minimized through a MMC based solver, as outlined in section 2.2. 2.1 Empirical Interaction Potential Empirical interaction models allow an enourmous reduc- tion of the computational effort [Tersoff (1988); F.H. Still- inger and T.A. Weber (1985)], compared to DFT simula- tions. This work is based on the Tersoff potential, which was originally created for elemental semiconductors and later extended for III-V materials. Electron density func- tionals are approximated with simple exponential func- tions for repulsive and attractive forces, which are given in terms 1 and 2. 8th Vienna International Conference on Mathematical Modelling February 18 - 20, 2015. Vienna University of Tech ology, Vienna, Austria Copy ight Â© 2015, IFAC 550 Metropolis Monte Carlo based Relaxation of Atomistic III-V Semiconductor Models Hermann Detz âˆ— Gottfried Strasser âˆ—âˆ— âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: hermann.detz@tuwi .ac.at). âˆ—âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: gottfried.strasser@tuwie .ac.at). Abstract:We present atomistic simulations of III-V semiconductor materials. These provide an effec ive way to inv s igate structural pr perties of semiconductors at a n nometric scale. The crystal structure is relaxed using a Met olis M nt Carlo scheme, where chemical bonds ar described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties lik th bulk and shear modulus with errors ar und 5 and 10 %. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming fr m the constituent binary compounds, which was also observe experimentally. I contrast to this, CuPt-ordered structures, which can form spontaneously during pitaxial processe , were hown o exhibit a distinct fourfold bond length pattern leading to built-in strain. The M tropolis Monte Carlo approa h also allows modelling at higher t mperatures. The asymmetry of the empirical potential fun tion le ds to thermal expansion, although thi effect i in g neral overestimated due to the missing Coulomb inter ction, which is characteri tic of III-V mat ials. Keywords: Monte Carlo simulatons, Convergence analysis, III-V Semiconductors, Elastic Properties, Structur l Properties, Thermal Expansion 1. INTRODUCTION Atomistic models of semiconductor materials, based on empirical interaction potentials, we e shown to be a pow- rful tool, complementary o ab-initio densi y functional theory (DFT) mod ls nd continuum-based models like SchroÂ¨dinger-Poisson solvers or finite element models for a variety of applications [I.-H. Tan et al. (1990); M. Karner et al. (2007); L.R. Ram-Moh and J.R. Meyer (1995); A.M. Darwish et al. (2004)]. While DFT models provide an accurate description of electronic ground state prop- erties, they ar typically limited to a few hundred atoms due to t e high computational eff rt required [Y.-S. Kim et al. (2010); S.-H. Wei and A. Zunger (1998a)]. On the o her hand, continuum models allow larger geometries, w ich c even cover whole lectronic devices, but th y do not reflect atomistic effects of semiconductor crys als. Atomistic models cover l ngth scales in between, which re for example required to provide n in-dep h description of nanometric d vice geometries or processes at the surface during the epitaxial grow h of heterostructures. Since ef- fects like interf ce roughness scat ing or dopant migra tion can influence the c aracteristics of electronic devices sig ificantly, optimiz d models, which include an accurate tructural description, are b neficial for further device op- timization [C. Deutsch et al. (2013b); C. Ndebeka-Bandou et al. (2013); C. Deutsch et al. (2013a)]. The structural model, presented in this work, is suitable for III-V semiconductor materials, w ich are applied in a wide rang of electronic and optoelectronic devices. The empirical interaction potential f rm was pro en to b reliable for binary III-V materials [D. Powell et al. (2007); P. Rathi et al. (2012)]. However, ternary alloys which can be lattice-matched to InP substrates, recently gained technological relevance for a wide nge of applications [C.R. Bolognesi t al. (2001); C. Deutsch et l. (2013a)]. Therefore InxGa1-xAs and GaAs1-xSbx are used as model materials throughout this study. 2. SIMULATION ENVIRONMENT The simulations, discussed in this work, are all performed on cubes of zi cblende lattices with an edge length of six u it cells, as sketched in figure 1. First atoms of both, cation and nion sublattice, are placed on the correspond- ing ideal coordinates. Periodic boundary conitions are applied in all three spatial dimensi ns to avoid finite siz effects. The atoms are coupled through empirical po ntial fun ions, described in section 2.1, which provide a me ric for the bon energy. The total energy is minimized through a MMC based solver, as outlined in section 2.2. 2.1 Empirical Interaction Potential Empirical interaction models allow an enourmous reduc- tion of the compu ational effort [Tersoff (1988); F.H. Still inger and T.A. Weber (1985)], compared to DFT simula tions. This work is based on the Tersoff p tential, which was originally created for elem ntal semic nductors and later extended for III-V mat rials. Electron density func- tionals are approximated with simpl expon tial f i s for repulsive and attractive forces, which are given in terms 1 and 2. 8th Vienna International Conference on Mathematical Modelling February 18 - 20, 2015. Vien a U iv rsity of Technology, Vien a, Austri Copyright  15, I 550 etropolis onte Carlo based Relaxation of Atomistic III-V Semiconductor odels Hermann Detz âˆ— Gottfried Strasser âˆ—âˆ— âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: hermann.detz@tuwien.ac.at). âˆ—âˆ—Vienna University of Technology, Vienna, 1040, Austria (e-mail: gottfried.strasser@tuwien.ac.at). Abstract:We present atomistic simulations of III-V semiconductor materials. These provide an effective way to investigate structural properties of semiconductors at a nanometric scale. The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10 %. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally. In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain. The Metropolis Monte Carlo approach also allows modelling at higher temperatures. The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials. Keywords: Monte Carlo simulatons, Convergence analysis, III-V Semiconductors, Elastic Properties, Structural Properties, Thermal Expansion 1. INTRODUCTION Atomistic models of semiconductor materials, based on empirical interaction potentials, were shown to be a pow- erful tool, complementary to ab-initio density functional theory (DFT) models and continuum-based models like SchroÂ¨dinger-Poisson solvers or finite element models for a variety of applications [I.-H. Tan et al. (1990); M. Karner et al. (2007); L.R. Ram-Mohan and J.R. Meyer (1995); A.M. Darwish et al. (2004)]. While DFT models provide an accurate description of electronic ground state prop- erties, they are typically limited to a few hundred atoms due to the high computational effort required [Y.-S. Kim et al. (2010); S.-H. Wei and A. Zunger (1998a)]. On the other hand, continuum models allow larger geometries, which can even cover whole electronic devices, but they do not reflect atomistic effects of semiconductor crystals. Atomistic models cover length scales in between, which are for example required to provide an in-depth description of nanometric device geometries or processes at the surface during the epitaxial growth of heterostructures. Since ef- fects like interface roughness scattering or dopant migra- tion can influence the characteristics of electronic devices significantly, optimized models, which include an accurate structural description, are beneficial for further device op- timization [C. Deutsch et al. (2013b); C. Ndebeka-Bandou et al. (2013); C. Deutsch et al. (2013a)]. The structural model, presented in this work, is suitable for III-V semiconductor materials, which are applied in a wide range of electronic and optoelectronic devices. The empirical interaction potential form was proven to be reliable for binary III-V materials [D. Powell et al. (2007); P. Rathi et al. (2012)]. However, ternary alloys which can be lattice-matched to InP substrates, recently gained technological relevance for a wide range of applications [C.R. Bolognesi et al. (2001); C. Deutsch et al. (2013a)]. Therefore InxGa1-xAs and GaAs1-xSbx are used as model materials throughout this study. 2. SIMULATION ENVIRONMENT The simulations, discussed in this work, are all performed on cubes of zincblende lattices with an edge length of six unit cells, as sketched in figure 1. First atoms of both, cation and anion sublattice, are placed on the correspond- ing ideal coordinates. Periodic boundary conitions are applied in all three spatial dimensions to avoid finite size effects. The atoms are coupled through empirical potential functions, described in section 2.1, which provide a metric for the bond energy. The total energy is minimized through a MMC based solver, as outlined in section 2.2. 2.1 Empirical Interaction Potential Empirical interaction models allow an enourmous reduc- tion of the computational effort [Tersoff (1988); F.H. Still- inger and T.A. Weber (1985)], compared to DFT simula- tions. This work is based on the Tersoff potential, which was originally created for elemental semiconductors and later extended for III-V materials. Electron density func- tionals are approximated with simple exponential func- tions for repulsive and attractive forces, which are given in terms 1 and 2. 8th Vienna International Conference on Mathematical Modelling February 18 - 20, 2015. Vienna University of Technology, Vienna, Austria Copyright Â© 2015, IFAC 550  Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555 551 x y z Fig. 1. Sketch of the simulation box, consisting of 1728 atoms, forming an In0.5Ga0.5As alloy in a zincblende lattice. VA = SDe S âˆ’ 1e âˆ’Î² âˆš 2/S(rijâˆ’re) (1) VR = De S âˆ’ 1e âˆ’Î²âˆš2S(rijâˆ’re) (2) Additional angular terms (3 - 6) ensure tetrahedral bind- ing, as found in the zincblende lattice of III-V semicon- ductors materials. bij = [1 + (Î³Î¶ij(rij) n ] âˆ’1/2n (3) Î¶ij = âˆ‘ k  =i,j fcutoff (rik)gijk(Î¸ijk)Ï‰ijk (4) gijk = 1 + ( c d )2 âˆ’ c 2 d2 + (hâˆ’ cos(Î¸ijk)2 (5) Ï‰ijk = e Î»3(rijâˆ’rik)3 (6) Finally, the total energy of a system is calculated through the summation over all bond pairs, as shown in term 7. E = 1 2 âˆ‘ i =j fcutoff (rij) [VR(rij)âˆ’ bij(rij)VA(rij)] (7) Corresponding parameter sets for elemental semiconduc- tors and binary III-V compounds are readily available [D. Powell et al. (2007); Powell (2006); Ichimura (1996)]. Contributions to the total energy are limited to the nearest neighbors by a smooth cut-off function. 2.2 Metropolis Monte Carlo Relaxation The atoms are initially placed in an ideal zincblende lattice, which is then allowed to relax with respect to the total energy by a Metropolis Monte Carlo algorithm. Possible trial moves are the displacement of a random atom or scaling operations on the whole simulation box. Trial moves leading to lower energy are accepted in any case. Moves with a higher energy final state are accepted according to a Boltzmann distribution in the case of non- zero temperatures, as shown in term 8. P ([0, 1]) &gt; exp (âˆ’âˆ†E kBT ) â†’ accept (8) 3. ELASTIC AND STRUCTURAL PROPERTIES Different material properties, which were determined from the simulations, as outlined in section 2, were used to validate the model with respect to experimental results. This section provides an overview on earlier works, which investigate the elastic properties, as well as the bond length distribution in models of bulk ternary III-V alloys. 3.1 Bulk and Shear Moduli of Ternary III-V Materials The potential parameter sets, as described in section 2.1 are fitted to reproduce the elastic properties of binary III- V compounds. We recently also demonstrated the suit- ability of such parameter sets in models of technologically relevant ternary III-V alloys, like InxGa1-xAs, InxAl1-xAs or GaAs1-xSbx, which can be lattice-matched to InP sub- strates for alloy compositions around 50 % [H. Detz and G. Strasser (2013b)]. Calculated bulk and shear moduli for InxGa1-xAs and GaAs1-xSbx are plotted in figure 2. Both parameters reproduce the almost linear behavior of experimental data. The error for the bulk modulus was found to be well below 5 %, while errors at the order of 10 % have to be expected upon shear deformations [H. Detz and G. Strasser (2013b)]. 3.2 Bond Lengths in Random Alloys The atomic structure of ternary III-V alloys is known to deviate from the ideal zincblende lattice due to the different bond lengths of the constituent binaries, leading to a bimodal bond length distribution [V. Petkov et al. (1999); J.T. Titantah et al. (2007)]. Structures, which were relaxed with the method, as described in section 2, also resembled this behavior. Calculated composition- dependent bond lengths, obtained from Gaussian fits to the histogram data, are plotted in figure 3 [H. Detz and G. Strasser (2013a)]. The bond length for each binary constituent of ternary III-V alloys shows a linear dependence on the alloy com- position. Mean bond lenghts line up with the linear in- terpolation, as calculated by Vegardâ€™s law, which can be observed experimentally. 3.3 Bond Lenghts in CuPt-ordered Structures A variety of ternary III-V alloys was found to crystallize in spontaneously ordered structures under certain condi- tions during epitaxial growth [G.B. Stringfellow and G.S. Chen (1991)]. The presence of ordered domains can lead to altered material parameters like a reduced bandgap or transport anisotropies, which in turn can influence device behavior [B.P. Gorman et al. (2005); S.-H. Wei MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 551 552 Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555  0.5  0.55  0.6  0.65  0.7  0.75  0.8 B ul k  M od ul us  (M ba r) InGaAs BM GaAsSb BM  0.1  0.15  0.2  0.25  0.3  0.35  0.4 0.0 0.2 0.4 0.6 0.8 1.0 Sh ea r  M od ul us  (M ba r) Composition InGaAs SM GaAsSb SM Fig. 2. Calculated bulk and shear moduli of InxGa1-xAs and GaAs1-xSbx. All plots show an almost linear de- pendence on the composition, as commonly observed in experimental data. and A. Zunger (1990, 1998b)]. In particular CuPt-ordered phases, where the constituent binaries are stacked along the (111) crystal axis were observe for In0.5Ga0.5As and GaAs0.5Sb0.5, although experimental studies reveal only weak traces due to limited domain size or different domain orientations. Atomistic models provide a powerful tool to study such ordering effects. The arrangement of e.g. InAs and GaAs layers along the (111) direction, forming CuPt-ordered In0.5Ga0.5As, leads to a distinct bond length distribution, differing from the broad bimodal pattern of random alloys. One binary is strained compressively within the [111] planes and there- fore expands perpendicular to these, while the other bi- nary undergoes the opposite deformation. This is reflected in a sharp bond length distribution, which consists of four peaks with an area ratio of 1:3:3:1, corresponding to three in-plane bonds and one perpendicular for each of the constituent binaries. The corresponding bond length distribution is shown in figure 4. This behavior leads to inherent strain, reaching up to âˆ’1.8 % in the case of GaAs0.5Sb0.5. The difference between random and ordered structures also becomes apparent through the peak width of the cor- responding bond length distributions. Ternary zincblende lattices with randomly positioned species in one of the  2.4  2.45  2.5  2.55  2.6  2.65  2.7 B on d  Le ng th  (Ã… ) In-As Ga-As Vegard's law Mean  2.4  2.45  2.5  2.55  2.6  2.65  2.7 0.0 0.2 0.4 0.6 0.8 1.0 B on d  Le ng th  (Ã… ) Composition Ga-Sb Ga-As Vegard's law Mean Fig. 3. Bond lengths vs composition for InxGa1-xAs and GaAs1-xSbx. Both materials show a bimodal distribu- tion, which on average fulfills the linear interpolation according to Vegardâ€™s law. sublattices, lead to broad peaks, which are shown in figure 4 for comparison. The resulting peak widths are inversely proportional to the bulk moduli of the materials, as plot- ted in figure 5. In contrast to this, softer materials, like GaAs0.5Sb0.5, with a CuPt structure show much sharper peaks. 4. THERMAL EXPANSION The asymmetry of the potential function, which occurs due to the different decay lengths of attractive and repulsive forces, inherently enables the simulation of thermal ex- pansion in such materials. The acceptance for trial moves with a positive energy balance becomes larger at elevated temperatures due to the Metropolis criterion. Due to this, the mean value for the bond length shifts towards higher values, where the potential function is less steep. In a macroscopic picture, this behavior can be measured as thermal expansion. Figure 6 shows calculated mean bond lengths for GaAs, InAs and GaSb at different temperatures. As expected from experimental data, the temperature dependence of the bond lengths follows a linear trend. Thermal expansion coefficients for the different materials were then derived from linear fits to the mean bond lengths of five inde- pendent simulation runs at temperatures between 100 and 350 K. MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 552  Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555 553  0.5  0.55  0.6  0.65  0.7  0.75  0.8 B ul k  M od ul us  (M ba r) InGaAs BM GaAsSb BM  0.1  0.15  0.2  0.25  0.3  0.35  0.4 0.0 0.2 0.4 0.6 0.8 1.0 Sh ea r  M od ul us  (M ba r) Composition InGaAs SM GaAsSb SM Fig. 2. Calculated bulk and shear moduli of InxGa1-xAs and GaAs1-xSbx. All plots show an almost linear de- pendence on the composition, as commonly observed in experimental data. and A. Zunger (1990, 1998b)]. In particular CuPt-ordered phases, where the constituent binaries are stacked along the (111) crystal axis were observe for In0.5Ga0.5As and GaAs0.5Sb0.5, although experimental studies reveal only weak traces due to limited domain size or different domain orientations. Atomistic models provide a powerful tool to study such ordering effects. The arrangement of e.g. InAs and GaAs layers along the (111) direction, forming CuPt-ordered In0.5Ga0.5As, leads to a distinct bond length distribution, differing from the broad bimodal pattern of random alloys. One binary is strained compressively within the [111] planes and there- fore expands perpendicular to these, while the other bi- nary undergoes the opposite deformation. This is reflected in a sharp bond length distribution, which consists of four peaks with an area ratio of 1:3:3:1, corresponding to three in-plane bonds and one perpendicular for each of the constituent binaries. The corresponding bond length distribution is shown in figure 4. This behavior leads to inherent strain, reaching up to âˆ’1.8 % in the case of GaAs0.5Sb0.5. The difference between random and ordered structures also becomes apparent through the peak width of the cor- responding bond length distributions. Ternary zincblende lattices with randomly positioned species in one of the  2.4  2.45  2.5  2.55  2.6  2.65  2.7 B on d  Le ng th  (Ã… ) In-As Ga-As Vegard's law Mean  2.4  2.45  2.5  2.55  2.6  2.65  2.7 0.0 0.2 0.4 0.6 0.8 1.0 B on d  Le ng th  (Ã… ) Composition Ga-Sb Ga-As Vegard's law Mean Fig. 3. Bond lengths vs composition for InxGa1-xAs and GaAs1-xSbx. Both materials show a bimodal distribu- tion, which on average fulfills the linear interpolation according to Vegardâ€™s law. sublattices, lead to broad peaks, which are shown in figure 4 for comparison. The resulting peak widths are inversely proportional to the bulk moduli of the materials, as plot- ted in figure 5. In contrast to this, softer materials, like GaAs0.5Sb0.5, with a CuPt structure show much sharper peaks. 4. THERMAL EXPANSION The asymmetry of the potential function, which occurs due to the different decay lengths of attractive and repulsive forces, inherently enables the simulation of thermal ex- pansion in such materials. The acceptance for trial moves with a positive energy balance becomes larger at elevated temperatures due to the Metropolis criterion. Due to this, the mean value for the bond length shifts towards higher values, where the potential function is less steep. In a macroscopic picture, this behavior can be measured as thermal expansion. Figure 6 shows calculated mean bond lengths for GaAs, InAs and GaSb at different temperatures. As expected from experimental data, the temperature dependence of the bond lengths follows a linear trend. Thermal expansion coefficients for the different materials were then derived from linear fits to the mean bond lengths of five inde- pendent simulation runs at temperatures between 100 and 350 K. MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 552  0  500  1000  1500 B on d  Pa ir s InGaAs random InGaAs CuPt  0  500  1000  1500 2.2 2.3 2.4 2.5 2.6 2.7 2.8 B on d  Pa ir s Bond Length (Ã…) GaAsSb random GaAsSb CuPt Fig. 4. Bondlength distribution in random and CuPt- ordered In0.5Ga0.5As and GaAs0.5Sb0.5. The broad bimodal distribution of random alloys (gray lines) is replaced by four sharp peaks corresponding to the bonds inline with and perpendicular to the (111) planes for both constituent binaries. 0.000 0.002 0.004 0.006 0.008 0.64 0.66 0.68 0.70 FW H M  o f B on d  Le ng th s Bulk Modulus (Mbar) Random CuPt InGaAs GaAsSb Fig. 5. FWHM of bond length distribution in random and CuPt-ordered In0.5Ga0.5As and GaAs0.5Sb0.5. A lower bulk modulus leads to broader peaks in random alloys but to sharper peaks in CuPt-ordered structures.  2.35  2.4  2.45  2.5  2.55 5.46e-06 K-1 GaAs  2.5  2.55  2.6  2.65  2.7 B on d  Le ng th  (Ã… ) 7.69e-06 K-1 InAs  2.5  2.55  2.6  2.65  2.7 0 100 200 300 400 9.70e-06 K-1 GaSb Fig. 6. Temperature dependent bond lengths for GaAs, InAs and GaSb. The thermal expansion coefficients were obtained from linear fits in the range between 100 and 400 K for five independent simulation runs. 4.0e-06 6.0e-06 8.0e-06 1.0e-05 GaAs InAs GaSb Li n.  T he rm . E xp . C oe ï¬€.  (1 /K ) Experimental Simulation Fig. 7. Experimental and calculated linear thermal ex- pansion coefficients for GaAs, InAs and GaSb. The simplified interaction potentials commonly lead to too high thermal expansion coefficients. Despite the almost accurate datapoint for GaAs, the thermal expansion in binary III-V materials is in general overestimated by this method, as outlined in figure 7. Although the thermal expansion coefficients are correct by orders of magnitude, they do not provide an accurate description for the materials investigated. This discrepancy can most probably be explained by the restriction to nearest neighbor atoms for the total energy calculation. Particularly, this can be attributed to to the missing long-range Coulomb interaction between cations MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 553 554 Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555 and anions [Powell (2006); D. Powell et al. (2006)]. An improved description of phonon spectra and consequently thermal expansion would require modifications to the potential functions, described in section 2.1. 5. CONCLUSION This work demonstrates that atomistic simulations, based on empirical interaction potentials, are a viable way to model III-V semiconductor materials. Despite the crude approximation, compared to DFT models, we were able to obtain elastic parameters of ternary alloys typically within 10 % accuracy. The model was also shown to reproduce the bimodal bond length distribution in random alloys, while CuPt-ordered structures led to a distinct four peak distribution. Thermal expansion is generally overestimated using Ter- soff parameter sets, which are optimized to reproduce elas- tic behavior. The simplifications in this empirical model do not take the ionic contribution of cation and anion sublat- tice into account and therefore neglect an attractive long- range term. This behavior could potentially be corrected by modifications to the MMC algorithm. The simplicity of this model allows an extension to het- erojunctions, superlattices or more complex structures like self-assembled quantum dots or nanowires, which are be- yond the scope of ab-initio models. This technique there- fore can be considered complementary to other modelling techniques by bridging the gap between ab-initio and con- tinuum methods. ACKNOWLEDGEMENTS H.D. is a recipient of an APART Fellowship of the Aus- trian Academy of Sciences. The authors furthermore ac- knowledge financial support by the Austrian Science Fund (FWF): P26100-N27 (H2N) and F2503-N17 (IRON) and by the Austrian Nanoinitiative project PLATON 35N. REFERENCES A.M. Darwish, A.J. Bayba, and H.Al Hung (2004). Ther- mal resistance calculation of AlGaN-GaN devices. IEEE Trans. Microw. Theory Techn., 52(11), 2611. B.P. Gorman, A.G. Norman, R. Lukic-Zrnic, C.L. Lit- tler, H.R. Moutinho, T.D. Golding, and A.G. Birdwell (2005). Atomic ordering-induced band gap reductions in GaAsSb epilayers grown by molecular beam epitaxy. J. Appl. Phys., 97(6), 063701. C. Deutsch, H. Detz, M. Krall, M. Brandstetter, T. Zeder- bauer, A.M. Andrews, W. Schrenk, G. Strasser, and K. Unterrainer (2013a). Dopant migration effects in terahertz quantum cascade lasers. Appl. Phys. Lett., 102(20), 201102. C. Deutsch, H. Detz, T. Zederbauer, A.M. Andrews, P. Klang, T. Kubis, G. Klimeck, M.E. Schuster, W. Schrenk, G. Strasser, and K. Unterrainer (2013b). Prob- ing scattering mechanisms with symmetric quantum cascade lasers. Optics Express, 21(6), 7209â€“7215. C. Ndebeka-Bandou, F. Carosella, R. Ferreira, and G. Bastard (2013). Importance of the localization for inter-subband scattering rates in quasi two-dimensional structures. Appl. Phys. Lett., 102(19), 191105. C.R. Bolognesi, M.M.W. Dvorak, P. Yeo, X.G. Xu, and S.P. Watkins (2001). InP/GaAsSb/InP dou- ble HBTs: a new alternative for InP-based DHBTs. IEEE Trans. Electron Devices, 48(11), 2631â€“2639. doi: 10.1109/16.960389. D. Powell, M.A. Migliorato, and A.G. Cullis (2006). The Tersoff potential for phonons in GaAs. Physica E, 32, 270. D. Powell, M.A. Migliorato, and A.G. Cullis (2007). Op- timized tersoff potential parameters for tetrahedrally bonded III-V semiconductors. Phys. Rev. B, 75(11), 115202. F.H. Stillinger and T.A. Weber (1985). Computer simula- tion of local order in condensed phases of silicon. Phys. Rev. B, 31(8), 5262â€“5271. G.B. Stringfellow and G.S. Chen (1991). Atomic ordering in III/V semiconductor alloys. J. Vac. Sci. Technol. B, 9(4), 2182â€“2188. H. Detz and G. Strasser (2013a). Atomistic modeling of bond lengths in random and ordered III-V alloys. J. Appl. Phys., 114(12), 123508. H. Detz and G. Strasser (2013b). Modeling the elastic properties of the ternary III-V alloys InGaAs, InAlAs and GaAsSb using Tersoff potentials for binary com- pounds. Semicond. Sci. Technol., 28(8), 085011. I.-H. Tan, G.L. Snider, L.D. Chang, and E.L. Hu (1990). A self-consistent solution of SchroÂ¨dinger-Poisson equations using a nonuniform mesh. J. Appl. Phys., 68(8), 4071â€“ 4076. Ichimura, M. (1996). Stillinger-Weber potentials for III-V compound semiconductors and their applicaiton to the critical thickness calculation for InAs/GaAs. Phys. Stat. Sol. (A), 153, 431. J.T. Titantah, D. Lamoen, M. Schowalter, and A. Rose- nauer (2007). Bond length variation in Ga1-xInxAs crys- tals from the Tersoff potential. J. Appl. Phys., 101(12), 123508. L.R. Ram-Mohan and J.R. Meyer (1995). Multiband finite element modeling of wavefunction-engineered electro- optical devices. J. Nonlinear Optic. Phys. Mat., 4(1), 191. M. Karner, A. Gehring, S. Holzer, M. Pourfath, M. Wag- ner, W. Goes, M. Vasicek, O. Baumgartner, C. Kern- stock, K. Schnass, G. Zeiler, T. Grasser, H. Kosina, and S. Selberherr (2007). A multi-purpose SchroÂ¨dinger- Poisson solver for TCAD applications. J. Comput. Electron., 6, 179. P. Rathi, S. Sikder, and J. Adhikari (2012). Structural characterization of III-V zinc blende compound semi- conductors using Monte Carlo simulations. Comp. Mat. Sci., 65, 122â€“126. Powell, D. (2006). Elasticity, Lattice Dynamics and Parameterisation Techniques for the Tersoff Potential Applied to Elemental and Type III-V Semiconductors. Ph.D. thesis, University of Sheffield. S.-H. Wei and A. Zunger (1990). Band-gap narrowing in ordered and disordered semiconductor alloys. Appl. Phys. Lett., 56(7), 662â€“664. S.-H. Wei and A. Zunger (1998a). Calculated natural band offsets of all II-VI and III-V semiconductors: Chemical trends and the role of cation d orbitals. Appl. Phys. Lett., 72, 2011. MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 554  Hermann Detz et al. / IFAC-PapersOnLine 48-1 (2015) 550â€“555 555 S.-H. Wei and A. Zunger (1998b). Fingerprints of CuPt ordering in III-V semiconductor alloys: Valence-band splittings, band-gap reduction, and x-ray structure fac- tors. Phys. Rev. B, 57(15), 8983â€“8988. Tersoff, J. (1988). Empirical interatomic potential for silicon with improved elastic properties. Phys. Rev. B, 38(14), 9902â€“9905. V. Petkov, I-K. Jeong, J.S. Chung, M.F. Thorpe, S. Kycia, and S.J.L. Billinge (1999). High real space resolution measurement of the local structure of ga1-xinx using x- ray diffraction. Phys. Rev. Lett., 83(20), 4089â€“4092. Y.-S. Kim, M. Marsman, G. Kresse, F. Tran, and P. Blaha (2010). Towards efficient band structure and effective mass calculations for III-V direct band-gap semiconductors. Phys. Rev. B, 82(20), 205212. MATHMOD 2015 February 18 - 20, 2015. Vienna, Austria 555 errainer (2013b). Prob- ing scattering mechanisms with symmetric quantum cascade lasers. Optics Express, 21(6), 7209â€“7215. C. Ndebeka-Bandou, F. Carosella, R. Ferreira, and G. Bastard (2013). Importance of the localization for inter-subband scattering rates in quasi two-dimensional structures. Appl. Phys. Lett., 102(19), 191105. C.R. Bolognesi, M.M.W. Dvorak, P. Yeo, X.G. Xu, and S.P. Watkins (2001). InP/GaAsSb/InP dou- ble HBTs: a new alternative for InP-based DHBTs. IEEE Trans. Electron Devices, 48(11), 2631â€“2639. doi: 10.1109/16.960389. D. Powell, M.A. Migliorato, and A.G. Cullis (2006). The Tersoff potential for phonons in GaAs. Physica E, 32, 270. D. Powell, M.A. Migliorato, and A.G. Cullis (2007). Op- timized tersoff potential parameters for tetrahedrally bonded III-V semiconductors. Phys. Rev. B, 75(</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>IFACOL</jid>
+            <aid>74</aid>
+            <ce:pii>S2405-8963(15)00075-0</ce:pii>
+            <ce:doi>10.1016/j.ifacol.2015.05.074</ce:doi>
+            <ce:copyright type="unknown" year="2015"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0001">Metropolis Monte Carlo based Relaxation of Atomistic III-V Semiconductor Models</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001">
+                  <ce:given-name>Hermann</ce:given-name>
+                  <ce:surname>Detz</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0002">
+                  <ce:given-name>Gottfried</ce:given-name>
+                  <ce:surname>Strasser</ce:surname>
+                  <ce:cross-ref id="crf0002" refid="aff0002">
+                     <ce:sup loc="post">**</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001">
+                  <ce:label>*</ce:label>
+                  <ce:textfn id="cetextfn0001">Vienna University of Technology, Vienna, 1040, Austria.</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Vienna University of Technology</sa:organization>
+                     <sa:city>Vienna</sa:city>
+                     <sa:postal-code>1040</sa:postal-code>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002">
+                  <ce:label>**</ce:label>
+                  <ce:textfn id="cetextfn0002">Vienna University of Technology, Vienna, 1040, Austria.</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Vienna University of Technology</sa:organization>
+                     <sa:city>Vienna</sa:city>
+                     <sa:postal-code>1040</sa:postal-code>
+                     <sa:country>Austria</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara0001" view="all">We present atomistic simulations of III-V semiconductor materials. These provide an effective way to investigate structural properties of semiconductors at a nanometric scale. The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials. The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10%. Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally. In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain. The Metropolis Monte Carlo approach also allows modelling at higher temperatures. The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0001">Monte Carlo simulatons</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0002">Convergence analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0003">III-V Semiconductors</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0004">Elastic Properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0005">Structural Properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0006">
+                  <ce:text id="cetext0006">Thermal Expansion</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibsec1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec2" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>Darwish, 2004</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Darwish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bayba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Al Hung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal resistance calculation of AlGaN-GaN devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Microw. Theory Techn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2611</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>Gorman, 2005</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Gorman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Norman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lukic-Zrnic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Lit- tler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Moutinho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Golding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Birdwell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomic ordering-induced band gap reductions in GaAsSb epilayers grown by molecular beam epitaxy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>063701</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>Deutsch, 2013</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Deutsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Detz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Brandstetter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zeder- bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Andrews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schrenk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Strasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Unterrainer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dopant migration effects in terahertz quantum cascade lasers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>201102</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>Deutsch, 2013</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Deutsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Detz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zederbauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Andrews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Klang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kubis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Klimeck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Schuster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Schrenk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Strasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Unterrainer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Probing scattering mechanisms with symmetric quantum cascade lasers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optics Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7209</sb:first-page>
+                              <sb:last-page>7215</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Ndebeka-Bandou, 2013</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ndebeka-Bandou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Carosella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ferreira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bastard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Importance of the localization for inter-subband scattering rates in quasi two-dimensional structures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>191105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>Bolognesi, 2001</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Bolognesi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.W.</ce:given-name>
+                                 <ce:surname>Dvorak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yeo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Watkins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>InP/GaAsSb/InP double HBTs: a new alternative for InP-based DHBTs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Electron Devices</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2631</sb:first-page>
+                              <sb:last-page>2639</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/16.960389</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>Powell, 2006</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Migliorato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Cullis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Tersoff potential for phonons in GaAs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>270</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>Powell, 2007</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Migliorato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Cullis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimized tersoff potential parameters for tetrahedrally bonded III-V semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115202</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>Stillinger, 1985</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Stillinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Computer simulation of local order in condensed phases of silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5262</sb:first-page>
+                              <sb:last-page>5271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Stringfellow, 1991</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Stringfellow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomic ordering in III/V semiconductor alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2182</sb:first-page>
+                              <sb:last-page>2188</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>Detz, 2013</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Detz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Strasser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomistic modeling of bond lengths in random and ordered III-V alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123508</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>Detz, 2013</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Detz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Strasser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling the elastic properties of the ternary III-V alloys InGaAs, InAlAs and GaAsSb using Tersoff potentials for binary compounds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Semicond. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>085011</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>Tan, 1990</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.-H.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Snider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.L.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A self-consistent solution of Schrodinger-Poisson equations using a nonuniform mesh</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4071</sb:first-page>
+                              <sb:last-page>4076</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>Ichimura, 1996</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Ichimura</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stillinger-Weber potentials for III-V compound semiconductors and their applicaiton to the critical thickness calculation for InAs/GaAs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Stat. Sol. (A)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>431</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Titantah, 2007</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Titantah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lamoen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schowalter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rose- nauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bond length variation in Gai_<ce:inf loc="post">x</ce:inf>In<ce:inf loc="post">x</ce:inf>As crystals from the Tersoff potential</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123508</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>Ram-Mohan, 1995</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Ram-Mohan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Meyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multiband finite element modeling of wavefunction-engineered electrooptical devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nonlinear Optic. Phys. Mat.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>191</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>Karner, 2007</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Karner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gehring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Holzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pourfath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wagner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Goes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vasicek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Baumgartner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kern- stock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Schnass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zeiler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Grasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kosina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Selberherr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A multi-purpose Schrodinger- Poisson solver for TCAD applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Comput. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>Rathi, 2012</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rathi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Adhikari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structural characterization of III-V zinc blende compound semiconductors using Monte Carlo simulations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comp. Mat. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                              <sb:last-page>126</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>Powell, 2006</ce:label>
+                     <ce:other-ref id="othref0001">
+                        <ce:textref>Powell, D. (2006). <ce:italic>Elasticity, Lattice Dynamics and Parameterisation Techniques for the Tersoff Potential Applied to Elemental and Type III-V Semiconductors. Ph.D. thesis, University of Sheffield</ce:italic>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Wei, 1990</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zunger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Band-gap narrowing in ordered and disordered semiconductor alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>662</sb:first-page>
+                              <sb:last-page>664</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>Wei, 1998</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zunger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Calculated natural band offsets of all II-VI and III-V semiconductors: Chemical trends and the role of cation d orbitals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2011</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>Wei, 1998</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zunger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fingerprints of CuPt ordering in III-V semiconductor alloys: Valence-band splittings, band-gap reduction, and x-ray structure factors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>15</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8983</sb:first-page>
+                              <sb:last-page>8988</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>Tersoff, 1988</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Tersoff</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Empirical interatomic potential for silicon with improved elastic properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9902</sb:first-page>
+                              <sb:last-page>9905</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>Petkov, 1999</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Petkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I-K.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Thorpe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kycia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.L.</ce:given-name>
+                                 <ce:surname>Billinge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High real space resolution measurement of the local structure of gai_<ce:inf loc="post">x</ce:inf>in<ce:inf loc="post">x</ce:inf> using x- ray diffraction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4089</sb:first-page>
+                              <sb:last-page>4092</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Kim, 2010</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Marsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kresse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Blaha</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards efficient band structure and effective mass calculations for III-V direct band-gap semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205212</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

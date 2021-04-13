@@ -1,0 +1,2452 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0038110119304666</prism:url><dc:identifier>doi:10.1016/j.sse.2019.107660</dc:identifier><eid>1-s2.0-S0038110119304666</eid><prism:doi>10.1016/j.sse.2019.107660</prism:doi><pii>S0038-1101(19)30466-6</pii><dc:title>Analytic model of spalling technique for thickness-controlled separation of single-crystalline semiconductor layers </dc:title><prism:publicationName>Solid-State Electronics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00381101</prism:issn><prism:volume>163</prism:volume><prism:startingPage>107660</prism:startingPage><prism:pageRange>107660</prism:pageRange><articleNumber>107660</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2020-01-31</prism:coverDate><prism:coverDisplayDate>January 2020</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Park, Honghwi</dc:creator><dc:creator>Lim, Changhee</dc:creator><dc:creator>Lee, Chang-Ju</dc:creator><dc:creator>Choi, Muhan</dc:creator><dc:creator>Jung, Sunghwan</dc:creator><dc:creator>Park, Hongsik</dc:creator><dc:description>
+                  Thickness-controlled separation of a thin layer of single-crystalline semiconductors from its bulk substrate has been developed for the co-integration of compound semiconductors with silicon-based integrated circuit chips and the fabrication of high-performance flexible devices. Recently, a controlled spalling technique that can mechanically separate single-crystalline semiconductor layers has been actively demonstrated because of the process simplicity and the less limitation on the use of materials. Here, we developed an analytic model that can precisely estimate the spalling depth. In this model, the spalling depth was calculated from the thermodynamic equilibrium condition in which total strain energy accumulated in a separated layer is balanced with the crystal binding energy. We experimentally investigated the dependence of the spalling depth on the stressor layer thickness and stress, and we compared the empirical results with the proposed analytic model. We also verified that the crack initiation angle of the spalling process is determined by the binding energy contrast in the main crystal orientations in the semiconductor.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Thickness-controlled layer separation</dcterms:subject><dcterms:subject>Spalling technique</dcterms:subject><dcterms:subject>Analytic model</dcterms:subject><dcterms:subject>Thermodynamic equilibrium condition</dcterms:subject><dcterms:subject>Crack initiation angle</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0038110119304666" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0038110119304666" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="13593">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="fx2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="15314">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx2.sml?httpAccept=%2A%2F%2A</object><object ref="fx3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="12084">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx3.sml?httpAccept=%2A%2F%2A</object><object ref="fx4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="16123">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx4.sml?httpAccept=%2A%2F%2A</object><object ref="fx5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="12434">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx5.sml?httpAccept=%2A%2F%2A</object><object ref="fx6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="164" size="16965">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="14481">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="11673">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="14409">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="9907">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="4382">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="5019">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx2.jpg?httpAccept=%2A%2F%2A</object><object ref="fx3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="4864">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx3.jpg?httpAccept=%2A%2F%2A</object><object ref="fx4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="5893">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="4688">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="111" height="155" size="6593">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="708" height="480" size="71486">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="330" height="144" size="13093">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="600" height="434" size="68489">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="596" height="438" size="57242">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="11550">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="14574">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="13352">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="18839">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="13245">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="295" height="413" size="19411">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-fx6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3136" height="2127" size="525954">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1024" height="448" size="53298">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2656" height="1919" size="501606">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2641" height="1943" size="420267">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="154944">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="21736">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="31957">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="27623">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-si3.svg?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="34506">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-si4.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="473375">https://api.elsevier.com/content/object/eid/1-s2.0-S0038110119304666-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85072693082</scopus-id><scopus-eid>2-s2.0-85072693082</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85072693082" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271497</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid-State Electronics</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATEELECTRONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190910">2019-09-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190910">2019-09-10</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190928">2019-09-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190928">2019-09-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-15T20:44:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0038110119304666</xocs:eid>
+      <xocs:pii-formatted>S0038-1101(19)30466-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0038110119304666</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sse.2019.107660</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0038110119X00118</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200922">2020-09-22T07:57:07.679686Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200101</xocs:date-search-begin>
+      <xocs:date-search-end>20200131</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1568160212">2019-09-11T00:03:32.184924Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref vitae</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0038-1101</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00381101</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>163</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>163</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 163</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>16</xocs:sort-order>
+      <xocs:first-fp>107660</xocs:first-fp>
+      <xocs:article-number>107660</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>107660</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202001</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>KCS 2019</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANALYTICMODELSPALLINGTECHNIQUEFORTHICKNESSCONTROLLEDSEPARATIONSINGLECRYSTALLINESEMICONDUCTORLAYERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PARK</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>538</xocs:ref-first-fp>
+            <xocs:ref-last-lp>541</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010"/>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1577</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>KONAGAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>YOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>329</xocs:ref-first-fp>
+            <xocs:ref-last-lp>334</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>YONEHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2108</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2110</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035"/>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>BURGHARTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>BEDELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-article-number>152002</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>SHAHRJERDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-last-lp>320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>BEDELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>141</xocs:ref-first-fp>
+            <xocs:ref-last-lp>147</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>SHAHRJERDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>600</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>SWEET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-article-number>011096</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>BEDELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>025103</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>833</xocs:ref-first-fp>
+            <xocs:ref-last-lp>836</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>JACCODINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1963</xocs:ref-pub-year>
+            <xocs:ref-first-fp>524</xocs:ref-first-fp>
+            <xocs:ref-last-lp>527</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090"/>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>STONEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1909</xocs:ref-pub-year>
+            <xocs:ref-first-fp>172</xocs:ref-first-fp>
+            <xocs:ref-last-lp>175</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>THOULESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1333</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>SUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1337</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1353</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>HUTCHINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>191</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>NIX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2217</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>THOULESS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1507</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>JAMES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MACMILLANSCHEMICALPHYSICALDATA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>HOPCROFT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="opt1CvKwLQLq8">
+            <xocs:ref-normalized-surname>CHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PARKX2020X107660</xocs:refkey3>
+         <xocs:refkey4ai>PARKX2020X107660XH</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-09-28T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-09-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-09-18T03:21:21.335Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>NRF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Foundation of Korea</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0038-1101(19)30466-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0038110119304666</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0038110119304666</xocs:eid>
+         <xocs:doi>10.1016/j.sse.2019.107660</xocs:doi>
+         <xocs:cid>271497</xocs:cid>
+         <xocs:timestamp>2020-09-22T07:57:07.679686Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/MAIN/application/pdf/54a1d2bfecac601667f36f53d006a1c8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4017200</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0038110119304666-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/PREVIEW/image/png/1b73487f75d9a0b8509a44a528729c04/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52966</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx1/THUMBNAIL/image/gif/5d4595bce22246c633bbe2741345e1d9/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13593</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx2/THUMBNAIL/image/gif/35ae0a412bd4f0f44657f3a016f4e244/fx2.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15314</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx3/THUMBNAIL/image/gif/e9ffc0fcb31ae85c1c51853f77a4d9cc/fx3.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12084</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx4/THUMBNAIL/image/gif/d5ac137440aff1c8d9b8f22d15588c92/fx4.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16123</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx5/THUMBNAIL/image/gif/e57cb501155e10c809a7a4292b4644ff/fx5.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12434</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx6/THUMBNAIL/image/gif/0b1a497b5ce2f484232f79714deff059/fx6.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16965</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr1/THUMBNAIL/image/gif/7b3860eb5ea7169cf54cd7e28cab6d48/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14481</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr2/THUMBNAIL/image/gif/6f127142d8fd5a6a807f65c870a49a1d/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11673</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr3/THUMBNAIL/image/gif/ff430dda30cdafa666a68c39784d71b6/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14409</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr4/THUMBNAIL/image/gif/5e49bbcbf36b4ae17291de115c3f571c/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9907</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx1/DOWNSAMPLED/image/jpeg/b196155c6eaf5a90984a35379b7739ee/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>4382</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx2/DOWNSAMPLED/image/jpeg/b8673ae67201cc2a50d74b3a3c591405/fx2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>5019</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx3/DOWNSAMPLED/image/jpeg/d55e5047ea2c2478a950d76e6d8e454c/fx3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>4864</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx4/DOWNSAMPLED/image/jpeg/c4bc7203e933e0ae8c8d4b9aad7a07d2/fx4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>5893</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx5/DOWNSAMPLED/image/jpeg/72c2d81ea96289c130e1aea29c6becec/fx5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>4688</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx6/DOWNSAMPLED/image/jpeg/3d222ff7f8321bf594b093af21d9db17/fx6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>6593</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr1/DOWNSAMPLED/image/jpeg/447e54ba17041c79c4887ed53aae31ea/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71486</xocs:filesize>
+               <xocs:pixel-height>480</xocs:pixel-height>
+               <xocs:pixel-width>708</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr2/DOWNSAMPLED/image/jpeg/f6fc843680d752490a730e042dc276fd/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13093</xocs:filesize>
+               <xocs:pixel-height>144</xocs:pixel-height>
+               <xocs:pixel-width>330</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr3/DOWNSAMPLED/image/jpeg/77b97eccc2cb4f84fc6eec1a7ccd8d2b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68489</xocs:filesize>
+               <xocs:pixel-height>434</xocs:pixel-height>
+               <xocs:pixel-width>600</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr4/DOWNSAMPLED/image/jpeg/2614c879354a877dcabb173bb35ef3b4/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57242</xocs:filesize>
+               <xocs:pixel-height>438</xocs:pixel-height>
+               <xocs:pixel-width>596</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx1/HIGHRES/image/jpeg/541e84d91b4983c90a37e66b1a743405/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>11550</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx2/HIGHRES/image/jpeg/ffa400c022be4bdfd4fabcff3085fa86/fx2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx2</xocs:file-basename>
+               <xocs:filename>fx2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14574</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx3/HIGHRES/image/jpeg/5912b989eb9434611ddcdbce4afd3f19/fx3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx3</xocs:file-basename>
+               <xocs:filename>fx3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13352</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx4/HIGHRES/image/jpeg/e0bba85b2fdace5bceb6079801ec1da1/fx4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx4</xocs:file-basename>
+               <xocs:filename>fx4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18839</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx5/HIGHRES/image/jpeg/b5aa549e2fba73fb42cdb23aa249eb17/fx5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx5</xocs:file-basename>
+               <xocs:filename>fx5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13245</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-fx6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/fx6/HIGHRES/image/jpeg/754eefc47761c07b425a69792369b271/fx6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx6</xocs:file-basename>
+               <xocs:filename>fx6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19411</xocs:filesize>
+               <xocs:pixel-height>413</xocs:pixel-height>
+               <xocs:pixel-width>295</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr1/HIGHRES/image/jpeg/ae8ff47fca2d5314aa084046102c73cd/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>525954</xocs:filesize>
+               <xocs:pixel-height>2127</xocs:pixel-height>
+               <xocs:pixel-width>3136</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr2/HIGHRES/image/jpeg/11c8e192a8023befd1e1ab65a0b7d229/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53298</xocs:filesize>
+               <xocs:pixel-height>448</xocs:pixel-height>
+               <xocs:pixel-width>1024</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr3/HIGHRES/image/jpeg/1d4aad8482c596014bb13900d7ed3fdd/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>501606</xocs:filesize>
+               <xocs:pixel-height>1919</xocs:pixel-height>
+               <xocs:pixel-width>2656</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/gr4/HIGHRES/image/jpeg/c81cbbabae22003b8b6b8976af0e7417/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>420267</xocs:filesize>
+               <xocs:pixel-height>1943</xocs:pixel-height>
+               <xocs:pixel-width>2641</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/a140a193a01c769ad499c294aeba5c67/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>154944</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/STRIPIN/image/svg+xml/47e2d77493b0b7be0bbc023307c755b1/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>21736</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/STRIPIN/image/svg+xml/fbc33959309356bc372abe9692218753/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>31957</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/STRIPIN/image/svg+xml/88eeb7e54e980acfbf3b56b91c9b7c75/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>27623</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-si4.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0038110119304666/STRIPIN/image/svg+xml/cfca8eb5a6e5777dfa0d33404bf875db/si4.svg</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>34506</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0038110119304666-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>473375</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10654SCDNCJ/MAIN/application/pdf/2837629a6fa5ce814f86dfa6201b5250/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>SSE</jid>
+            <aid>107660</aid>
+            <ce:article-number>107660</ce:article-number>
+            <ce:pii>S0038-1101(19)30466-6</ce:pii>
+            <ce:doi>10.1016/j.sse.2019.107660</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0045" view="all">(a) A schematic of the spalling process for the separation of single-crystalline semiconductor layers. The thickness-controlled semiconductor layer is released from the substrate by the deposited stressor film. (b) A schematic of the crack trajectory and mechanism of the spalling process. Under strong misfit stress in the stressor film and substrate, the crack is initiated with both stress intensity factors (<ce:italic>K<ce:inf loc="post">Ⅰ</ce:inf>
+                     </ce:italic> and <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic>) and propagated parallel to the film/substrate interface at a specific depth where the vertical stress intensity is dominant (i.e. <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic> = 0). (c) Images of the released silicon (1 0 0) layer (thickness of ~10 μm) and the remaining bulk silicon substrate after the spalling process. (d) and (e) Cross-sectional SEM image of the released silicon layer and the surface of the bulk silicon substrate after the separation of the thin layer. Scale bar is 10 μm. (f) AFM image of the separated silicon surface (RMS roughness of 0.42 nm), indicating that the spalling process enables the separation of the single-crystalline semiconductor layers with an atomically flat surface. Scale bar is 3 μm.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00005" locator="gr1" xlink:href="pii:S0038110119304666/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0050" view="all">(a) A cross-sectional SEM image of the edge of the silicon (1 0 0) substrate at which the crack was initiated. The measured angle of the inclined plane after the crack initiation was 54.7°, indicating that the crack was initiated along the (1 1 1) plane due to the weakest crystal binding energy among crystallographic planes. (b) A schematic of the crystallographic planes of single-crystalline silicon and the angle between the (1 0 0) and (1 1 1) planes.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00010" locator="gr2" xlink:href="pii:S0038110119304666/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0055" view="all">(a) SEM images of Ni films sputtered at 3 mT (left) and 5 mT (right) with the thickness of around 1 μm, showing that the average grain size of the Ni film sputtered at 3 mT was larger than that of the film sputtered at 5 mT. Scale bar is 500 nm. (b) Residual tensile stress in a sputtered Ni film as a function of the thickness under different deposition conditions. The solid lines are the fitting curves. (c) The spalling depth of the separated silicon layers depending on the Ni thickness (dots) and the spalling depth estimated from the Suo and Hutchinson (S–H) model for an infinitely thick and a 675-μm-thick silicon substrate (solid and dashed lines, respectively), showing that the actual spalling depth had a different Ni-thickness-dependence from that by S–H models.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00015" locator="gr3" xlink:href="pii:S0038110119304666/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0060" view="all">(a) A schematic of the compressive and bending stress in a substrate induced by the tensile stress of a stressor film. The spalling depth can be determined from the thermodynamic equilibrium condition in which the strain energy accumulated in the stressor film and the separated substrate layer is balanced with the crystal binding energy. (b) The total strain energy accumulated in Ni films with thicknesses of 5.6 and 6.95 μm and the substrate from the surface to a specific depth. The spalling depth is determined from the substrate depth corresponding to the intersection of the total accumulated strain energy plot (solid lines) and the crystal binding energy plot (dashed line). (c) Residual stress in a sputtered Ni film as a function of the thickness. (d) The spalling depth of separated silicon (1 0 0) layers calculated from the proposed analytic model as a function of the Ni thickness (solid line), showing a good agreement with the experimental results (dots).</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk00020" locator="gr4" xlink:href="pii:S0038110119304666/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Analytic model of spalling technique for thickness-controlled separation of single-crystalline semiconductor layers</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author biographyid="bg005" id="au005" author-id="S0038110119304666-fe8c31386ccceb927a1bff7ae2187ced">
+                  <ce:given-name>Honghwi</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref id="c0005" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author biographyid="bg015" id="au010" author-id="S0038110119304666-8d63584afd94763059692b3df0675d0c">
+                  <ce:given-name>Changhee</ce:given-name>
+                  <ce:surname>Lim</ce:surname>
+                  <ce:cross-ref id="c0010" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author biographyid="bg025" id="au015" author-id="S0038110119304666-d1520c3efd29c5df646917e7a40ec6a5">
+                  <ce:given-name>Chang-Ju</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref id="c0015" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author biographyid="bg030" id="au020" author-id="S0038110119304666-2e780604f5d700d63fd7c65ff55105a2">
+                  <ce:given-name>Muhan</ce:given-name>
+                  <ce:surname>Choi</ce:surname>
+                  <ce:cross-ref id="c0020" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author biographyid="bg010" id="au025" author-id="S0038110119304666-991501125131a480266e2262c9ad118c">
+                  <ce:given-name>Sunghwan</ce:given-name>
+                  <ce:surname>Jung</ce:surname>
+                  <ce:cross-ref id="c0025" refid="af010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0030" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author biographyid="bg020" id="au030" author-id="S0038110119304666-2bb811ab202cbf73b11b5021010d8015">
+                  <ce:given-name>Hongsik</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref id="c0035" refid="af005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="c0040" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0038110119304666-1974b160093bb77dd28026e40fab5733">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>School of Electronics Engineering, Kyungpook National University, Daegu 41566, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Electronics Engineering</sa:organization>
+                     <sa:organization>Kyungpook National University</sa:organization>
+                     <sa:city>Daegu</sa:city>
+                     <sa:postal-code>41566</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">School of Electronics Engineering, Kyungpook National University, Daegu 41566, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S0038110119304666-ca9a2bb1b786f68c3aa9efcae7b9ff95">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Mechanical Engineering, Dankook University, Yongin-si, Gyenggi-do 16890, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:organization>Dankook University</sa:organization>
+                     <sa:city>Yongin-si</sa:city>
+                     <sa:state>Gyenggi-do</sa:state>
+                     <sa:postal-code>16890</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Department of Mechanical Engineering, Dankook University, Yongin-si, Gyenggi-do 16890, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            
+            <ce:abstract class="author" id="ab010" xml:lang="en" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Thickness-controlled separation of a thin layer of single-crystalline semiconductors from its bulk substrate has been developed for the co-integration of compound semiconductors with silicon-based integrated circuit chips and the fabrication of high-performance flexible devices. Recently, a controlled spalling technique that can mechanically separate single-crystalline semiconductor layers has been actively demonstrated because of the process simplicity and the less limitation on the use of materials. Here, we developed an analytic model that can precisely estimate the spalling depth. In this model, the spalling depth was calculated from the thermodynamic equilibrium condition in which total strain energy accumulated in a separated layer is balanced with the crystal binding energy. We experimentally investigated the dependence of the spalling depth on the stressor layer thickness and stress, and we compared the empirical results with the proposed analytic model. We also verified that the crack initiation angle of the spalling process is determined by the binding energy contrast in the main crystal orientations in the semiconductor.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Thickness-controlled layer separation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Spalling technique</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Analytic model</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Thermodynamic equilibrium condition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Crack initiation angle</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Processing techniques for the fabrication of inorganic-material-based flexible devices and integrated circuits with heterogeneous semiconductors have been actively studied for high-performance electronic and photonic device applications. Accordingly, various methods have been developed to fabricate thin layers of single-crystalline semiconductors and co-integrate compound semiconductors on silicon. Commonly used techniques are the backside grinding method after wafer-to-wafer bonding <ce:cross-ref id="c0045" refid="b0005">[1]</ce:cross-ref> and Smart Cut™ <ce:cross-ref id="c0050" refid="b0010">[2]</ce:cross-ref>, which are typically used for manufacturing silicon-on-insulator (SOI) wafers. As alternative approaches, techniques for the chemical or mechanical separation of thin semiconductor layers using a sacrificial layer have also been developed, including epitaxial layer lift-off (ELO) <ce:cross-refs id="r0005" refid="b0015 b0020 b0025">[3–5]</ce:cross-refs>, epitaxial layer transfer (ELTRAN) <ce:cross-refs id="r0010" refid="b0030 b0035">[6,7]</ce:cross-refs>, and their variants <ce:cross-ref id="c0055" refid="b0040">[8]</ce:cross-ref>. ELO is a technique for separating a selective layer by chemically removing the sacrificial layer embedded between the epitaxially grown active layer and the substrate. The critical issue of this technique is a low throughput in wafer-scale processes because of the extremely slow lateral etching rate of the sacrificial layer. ELTRAN is a layer separation technique that mechanically exfoliates an epitaxially grown active layer by physically breaking a weakly bonded sacrificial layer underneath the active layer. Although it is a fast layer separation process, this techniques is allowed for limited materials and the growth of a sophisticated sacrificial layer with mechanically weak bonding is a complicated process.</ce:para>
+                  <ce:para id="p0030" view="all">Recently, an alternative mechanical exfoliation process called the controlled spalling technique has been developed and applied to the fabrication of flexible electronic <ce:cross-refs id="r0015" refid="b0045 b0050">[9,10]</ce:cross-refs> or photonic <ce:cross-refs id="r0020" refid="b0055 b0060 b0065">[11–13]</ce:cross-refs> devices. In this process, a thin single-crystalline semiconductor layer is mechanically separated via the stress induced with a stressor film deposited on the semiconductor. This technique offers great potential for the fast separation of thin wafer-scale single-crystalline layers via a relatively simple and cost-effective process. Thus, it has been applied for the thin layer separation of silicon (Si) <ce:cross-refs id="r0025" refid="b0045 b0050 b0055 b0060 b0065">[9–13]</ce:cross-refs>, germanium (Ge) <ce:cross-refs id="r0030" refid="b0045 b0055">[9,11]</ce:cross-refs>, various III-V compound semiconductors <ce:cross-refs id="r0035" refid="b0055 b0070 b0075">[11,14,15]</ce:cross-refs>, and two-dimensional materials <ce:cross-ref id="c0060" refid="b0080">[16]</ce:cross-ref>. However, an analytic model to explain the relation between the thickness of the separated layers (called the spalling depth) and stressor film properties such as film thickness and stress is still under study.</ce:para>
+                  <ce:para id="p0035" view="all">In this work, we suggest an analytic model that can precisely estimate the spalling depth and explain the relation between the spalling depth and the stressor film properties. The spalling depth is calculated from the thermodynamic equilibrium condition in which the total accumulated strain energy of the stressor film and the separated semiconductor layer is balanced with the crystal binding energy of the substrate. We compared the proposed model with experimental results for the spalling of single-crystalline Si (1 0 0) layers, and we also verified that the crack initiation angle of the spalling process was determined by the binding energy contrast in the main crystal orientations in the semiconductor.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st025">Experimental details</ce:section-title>
+                  <ce:para id="p0040" view="all">To develop the analytic model for the spalling process and to compare the model with the experimental results, we separated single-crystalline Si (1 0 0) layers under various processing conditions. We prepared single-crystalline Si (1 0 0) with a thickness of 675 μm, after which the sample was cleaned by the standard RCA cleaning process. Since the spalling process requires strong misfit stress for crack initiation and layer separation, we used a nickel (Ni) film as a suitable stressor layer because it has high internal tensile stress <ce:cross-ref id="c0065" refid="b0075">[15]</ce:cross-ref>. Prior to the Ni deposition, a 20-nm-thick titanium (Ti) layer was deposited to promote the adhesion between the Ni film and Si substrate. The Ni film was then deposited by DC magnetron sputtering with a system power of 300 W. In order to control the residual stress of the Ni film and investigate the dependence of the spalling depth on the stress, we deposited the Ni layers at two different working pressures (3 and 5 mT). After the deposition of the stressor film, we separated the thin Si layer from the bulk substrate using a thermal release tape or polyimide (PI) tape as a handling layer.</ce:para>
+                  <ce:para id="p0045" view="all">
+                     <ce:cross-ref id="c0070" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>(a) shows a schematic of the thickness-controlled spalling technique. In this process, the thickness of the separated semiconductor layer is determined by the thickness and residual stress of the stressor film, because the stressor film induces strong misfit stress in the film/substrate and the stress induces the fracture in the substrate. <ce:cross-ref id="c0075" refid="f0005">Fig. 1</ce:cross-ref>(b) briefly explains the crack trajectory and the mechanism of the spalling process based on the Suo and Hutchinson (S–H) fracture model <ce:cross-ref id="c0080" refid="b0105">[21]</ce:cross-ref>. Two major factors, <ce:italic>K<ce:inf loc="post">Ⅰ</ce:inf>
+                     </ce:italic> and <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic>, indicate ‘opening mode’ and ‘shear mode’ stress intensity with the vertical and lateral stress directions, respectively. Due to the misfit stress induced with the stressor film, the crack is initiated near the edge of the substrate when an external force is applied by using a handling layer. After initiation, the crack seeks a specific depth where <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic> = 0 and propagates parallel to the film/substrate interface because the vertical stress intensity is dominant. In accordance with such a fracture mechanism, the thin Si layer was completely released with the spalling depth from its substrate as shown in <ce:cross-ref id="c0085" refid="f0005">Fig. 1</ce:cross-ref>(c) – (e), resulting in uniform thickness and a flat surface over the entire separated layer. Its surface roughness was evaluated by the atomic force microscopy (AFM) measurement as shown in <ce:cross-ref id="c0090" refid="f0005">Fig. 1</ce:cross-ref>(f). The root-mean-squared (RMS) roughness of the separated Si surface was 0.42 nm, indicating that the spalling process enables the separation of the semiconductor layers with an atomically flat surface.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st030">Results and discussion</ce:section-title>
+                  <ce:para id="p0050" view="all">To investigate the crack initiation and its trajectory in the spalling process, we observed the edge of the Si (1 0 0) substrate after the separation of the thin Si layer. <ce:cross-ref id="c0095" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>(a) shows a cross-sectional scanning electron microscopy (SEM) image of the edge of the substrate after the spalling process. This image indicates that the crack was initiated on the surface with a certain angle and propagated parallel to the film/substrate interface with a uniform depth. The measured angle between the surface of the substrate and the inclined plane of the crack initiation region was 54.7°, which exactly matches the angle between the (1 0 0) and (1 1 1) planes of the crystal lattice structure of Si as shown in <ce:cross-ref id="c0100" refid="f0010">Fig. 2</ce:cross-ref>(b). This result could be explained by the binding energy contrast in the main crystal orientations of Si because the crystal binding energy of {1 1 1} planes is lower than those of {1 0 0} and {1 1 0} planes in single-crystalline Si. The crystal binding energy values reported in literature are 2.13 J/m<ce:sup loc="post">2</ce:sup> for the {1 0 0} planes, 1.51 J/m<ce:sup loc="post">2</ce:sup> for the {1 1 0} planes, and 1.23 J/m<ce:sup loc="post">2</ce:sup> for the {1 1 1} planes <ce:cross-ref id="c0105" refid="b0085">[17]</ce:cross-ref>. This result implies that the crack was initiated along the (1 1 1) plane due to the weakest crystal binding energy among the crystallographic planes and the crack propagated with a uniform depth along the main crystal plane, (1 0 0), when the crack reached a specific depth.</ce:para>
+                  <ce:para id="p0055" view="all">To investigate the effect of the thickness and stress of the stressor film on the spalling depth, we deposited Ni films of varying thicknesses at two different working pressures and evaluated the spalling depth difference of the separated Si layers. Typically, the grain size of the sputter-deposited films is affected by the working pressure <ce:cross-ref id="optkN88ssP1yH" refid="bib131">[27]</ce:cross-ref>. <ce:cross-ref id="c0110" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>(a) shows SEM images of the Ni films sputtered at working pressures of 3 and 5 mT. As expected, the average grain size of the Ni film sputtered at 3 mT was larger than that of sputtered at 5 mT, which results in a difference in the residual stresses of the films because the stresses are mainly relaxed at the grain boundaries <ce:cross-ref id="c0115" refid="b0115">[23]</ce:cross-ref>. The residual stress of the Ni films was estimated with a multi-beam optical sensor (MOS) system <ce:cross-ref id="c0120" refid="b0090">[18]</ce:cross-ref> based on Stoney’s method <ce:cross-ref id="c0125" refid="b0095">[19]</ce:cross-ref>. For this measurement, the residual stress of a deposited film is calculated from the curvature change in the film/substrate estimated from the spacing between the multi-beams. The relation between the residual stress of the film and the beam spacing is given by <ce:cross-ref id="c0130" refid="b0090">[18]</ce:cross-ref>
+                     <ce:display>
+                        <ce:formula id="e0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mi>f</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mfenced close=")" open="(">
+                                       <mml:mrow>
+                                          <mml:mfrac>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">Δ</mml:mi>
+                                                <mml:mi>d</mml:mi>
+                                             </mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>d</mml:mi>
+                                                <mml:mn>0</mml:mn>
+                                             </mml:msub>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>Y</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:msub>
+                                       <mml:msubsup>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi>s</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msubsup>
+                                       <mml:mi>c</mml:mi>
+                                       <mml:mi>o</mml:mi>
+                                       <mml:mi>s</mml:mi>
+                                       <mml:mi>α</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>12</mml:mn>
+                                       <mml:mrow>
+                                          <mml:mfenced close=")" open="(">
+                                             <mml:mrow>
+                                                <mml:mn>1</mml:mn>
+                                                <mml:mo>-</mml:mo>
+                                                <mml:msub>
+                                                   <mml:mi>v</mml:mi>
+                                                   <mml:mi>s</mml:mi>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                       </mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where σ<ce:inf loc="post">f</ce:inf>, <ce:italic>Δd</ce:italic>, <ce:italic>d<ce:inf loc="post">0</ce:inf>
+                     </ce:italic>, <ce:italic>Y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>, <ce:italic>v<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>, <ce:italic>t<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>, <ce:italic>t<ce:inf loc="post">f</ce:inf>
+                     </ce:italic>, <ce:italic>α</ce:italic>, and <ce:italic>L</ce:italic> are the residual stress of the film, the difference in beam spacing due to the stress-induced curvature, the initial beam spacing before film deposition, Young’s modulus of the substrate, Poisson’s ratio of the substrate, the thickness of the substrate, the thickness of the film, the detection angle, and the detection length, respectively. <ce:cross-ref id="c0135" refid="f0015">Fig. 3</ce:cross-ref>(b) shows the residual tensile stress induced with the Ni film as a function of its thickness at two different working pressures. The film stresses measured by the MOS system decreased as the film thickness increased and the stress of the Ni film sputtered at 3 mT was larger than that of the film sputtered at 5 mT. After the Ni deposition, we separated the Si layers and measured the thickness of the separated layers from cross-sectional SEM images. <ce:cross-ref id="c0140" refid="f0015">Fig. 3</ce:cross-ref>(c) shows the spalling depth of the separated Si layers as a function of the Ni thickness at two different working pressures (red and blue dots). The black solid line in <ce:cross-ref id="c0145" refid="f0015">Fig. 3</ce:cross-ref>(c) indicates the theoretical spalling depth calculated from Suo and Hutchinson (S–H) model which has been typically used for the analysis of the spalling process <ce:cross-refs id="r0040" refid="b0100 b0105 b0110">[20–22]</ce:cross-refs>. In the S–H model, the spalling depth is determined as a specific depth at which the <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic> stress intensity factor is reduced to zero. The fracture toughness (<ce:italic>K<ce:inf loc="post">ⅠC</ce:inf>
+                     </ce:italic>) of the material is the <ce:italic>K<ce:inf loc="post">Ⅰ</ce:inf>
+                     </ce:italic> stress intensity factor at the spalling depth where <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic> = 0. Based on the S–H model, the spalling depth can be calculated from the following condition in which <ce:italic>K<ce:inf loc="post">Ⅱ</ce:inf>
+                     </ce:italic> = 0 <ce:cross-refs id="r0045" refid="b0105 b0110">[21,22]</ce:cross-refs>.<ce:display>
+                        <ce:formula id="e0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.svg">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>K</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">II</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>σ</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                       <mml:msub>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>t</mml:mi>
+                                             <mml:mi>f</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>d</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="italic">spall</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mfenced close="]" open="[">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                          <mml:mi>n</mml:mi>
+                                          <mml:mn>52</mml:mn>
+                                          <mml:mo>.</mml:mo>
+                                          <mml:msup>
+                                             <mml:mn>07</mml:mn>
+                                             <mml:mo>°</mml:mo>
+                                          </mml:msup>
+                                          <mml:mo linebreak="badbreak">-</mml:mo>
+                                          <mml:msqrt>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msqrt>
+                                          <mml:mrow>
+                                             <mml:mfenced close=")" open="(">
+                                                <mml:mrow>
+                                                   <mml:mn>1</mml:mn>
+                                                   <mml:mo>-</mml:mo>
+                                                   <mml:mfrac>
+                                                      <mml:msub>
+                                                         <mml:mi>t</mml:mi>
+                                                         <mml:mi>f</mml:mi>
+                                                      </mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:msub>
+                                                            <mml:mi>t</mml:mi>
+                                                            <mml:mi>f</mml:mi>
+                                                         </mml:msub>
+                                                         <mml:mo>+</mml:mo>
+                                                         <mml:msub>
+                                                            <mml:mi>d</mml:mi>
+                                                            <mml:mrow>
+                                                               <mml:mi mathvariant="italic">spall</mml:mi>
+                                                            </mml:mrow>
+                                                         </mml:msub>
+                                                      </mml:mrow>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                             </mml:mfenced>
+                                          </mml:mrow>
+                                          <mml:mi>c</mml:mi>
+                                          <mml:mi>o</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mn>52</mml:mn>
+                                          <mml:mo>.</mml:mo>
+                                          <mml:msup>
+                                             <mml:mn>07</mml:mn>
+                                             <mml:mo>°</mml:mo>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mn>0</mml:mn>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>t<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> and <ce:italic>d<ce:inf loc="post">spall</ce:inf>
+                     </ce:italic> are the stressor film thickness and the spalling depth of the separated layer, respectively. In this model, it is assumed that the stressor film and the substrate have the same elastic modulus and the substrate thickness is infinite. <ce:cross-ref id="c0150" refid="f0015">Fig. 3</ce:cross-ref>(c) shows there were considerable differences between the experimental results and the S–H model. First, the theoretical spalling depth calculated from the S–H model linearly increases with the Ni film thickness (i.e. <ce:italic>d<ce:inf loc="post">spall</ce:inf>
+                     </ce:italic> = 2.86<ce:italic>t<ce:inf loc="post">f</ce:inf>
+                     </ce:italic>), but the actual spalling depth was not a linear function of the film thickness. Second, the spalling depth from the S–H model is independent of the stress on the Ni film because the spalling depth is determined solely based on the Ni film thickness as derived in Eq. <ce:cross-ref id="c0155" refid="e0010">(2)</ce:cross-ref>. However, the actual spalling depth was larger when the residual stress on the Ni film was higher. For more accurate estimation of the spalling depth, a modified S–H model with consideration of the substrate thickness has also been suggested <ce:cross-ref id="c0160" refid="b0120">[24]</ce:cross-ref>. The dashed line in <ce:cross-ref id="c0165" refid="f0015">Fig. 3</ce:cross-ref>(c) indicates the theoretical spalling depth from the modified S–H model with the Si substrate thickness of 675 µm. However, the experimental results still had the considerably different dependence of the spalling depth on the Ni thickness and stress, compared to the modified S–H model. We therefore developed an alternative analytic model to precisely estimate the spalling depth and to explain the dependence of the spalling depth on the Ni film properties.</ce:para>
+                  <ce:para id="p0060" view="all">The proposed analytic model for the spalling process was developed based on the thermodynamic equilibrium condition of the film/substrate structure in which the total strain energy accumulated in the Ni film and the separated Si layer is balanced with the crystal binding energy of the Si (1 0 0) plane. First, we estimated the stresses in the substrate induced by the tensile stress of the stressor film to calculate the elastic strain energy accumulated in the substrate. A schematic of the magnitude and direction of the stresses induced in the substrate is illustrated in <ce:cross-ref id="c0170" refid="f0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>(a). The total stress in the substrate induced by the stressor film is composed of compressive stress and bending stress <ce:cross-ref id="c0175" refid="b0115">[23]</ce:cross-ref>. For estimation of the spalling depth from a given film thickness and its tensile stress, we formulated an equation from the relation between the stress-induced strain energy and the crystal binding energy. The most important assumption for this model is that the substrate is separated at the ‘<ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>’ point when the total accumulated strain energy from the surface of the film (<ce:italic>y</ce:italic> = <ce:italic>t<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>/2 + <ce:italic>t<ce:inf loc="post">f</ce:inf>
+                     </ce:italic>) to the separation point (<ce:italic>y</ce:italic> = <ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>) of the substrate reaches the crystal binding energy of the substrate (<ce:italic>γ<ce:inf loc="post">S</ce:inf>
+                     </ce:italic>). The total strain energy in the stressor film (<ce:italic>U<ce:inf loc="post">F</ce:inf>
+                     </ce:italic>) and that in the substrate accumulated from the surface to the specific separation point (<ce:italic>U<ce:inf loc="post">S</ce:inf>
+                     </ce:italic>) are respectively given by the following equations:<ce:display>
+                        <ce:formula id="e0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si3.svg">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>U</mml:mi>
+                                    <mml:mi>F</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:mfrac>
+                                 <mml:msubsup>
+                                    <mml:mo>∫</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:msub>
+                                             <mml:mi>t</mml:mi>
+                                             <mml:mi>s</mml:mi>
+                                          </mml:msub>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:msub>
+                                             <mml:mi>t</mml:mi>
+                                             <mml:mi>s</mml:mi>
+                                          </mml:msub>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mfrac>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mi>ε</mml:mi>
+                                    <mml:mi>f</mml:mi>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mi>f</mml:mi>
+                                 </mml:msub>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>y</mml:mi>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mo>-</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>v</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:msub>
+                                          <mml:mi>Y</mml:mi>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:msub>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mi>f</mml:mi>
+                                 </mml:msub>
+                                 <mml:msubsup>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi>f</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msubsup>
+                                 <mml:mo>,</mml:mo>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="e0020">
+                           <mml:math altimg="si4.svg">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>U</mml:mi>
+                                    <mml:mi>S</mml:mi>
+                                 </mml:msub>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:mfrac>
+                                 <mml:msubsup>
+                                    <mml:mo>∫</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>y</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:msub>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:msub>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mfrac>
+                                 </mml:msubsup>
+                                 <mml:msub>
+                                    <mml:mi>ε</mml:mi>
+                                    <mml:mi>s</mml:mi>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mi>s</mml:mi>
+                                 </mml:msub>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>y</mml:mi>
+                                 <mml:mo linebreak="goodbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mfenced close=")" open="(">
+                                          <mml:mrow>
+                                             <mml:mn>1</mml:mn>
+                                             <mml:mo>-</mml:mo>
+                                             <mml:msub>
+                                                <mml:mi>v</mml:mi>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:msub>
+                                          <mml:mi>Y</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mfrac>
+                                    <mml:msubsup>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mi>f</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msubsup>
+                                    <mml:msub>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>s</mml:mi>
+                                    </mml:msub>
+                                 </mml:mfrac>
+                                 <mml:msubsup>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi>f</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msubsup>
+                                 <mml:mrow>
+                                    <mml:mfenced close="]" open="[">
+                                       <mml:mrow>
+                                          <mml:mfrac>
+                                             <mml:mn>7</mml:mn>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:mfrac>
+                                          <mml:mo linebreak="badbreak">-</mml:mo>
+                                          <mml:mn>12</mml:mn>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mfenced close=")" open="(">
+                                                   <mml:mrow>
+                                                      <mml:mfrac>
+                                                         <mml:msub>
+                                                            <mml:mi>y</mml:mi>
+                                                            <mml:mi>s</mml:mi>
+                                                         </mml:msub>
+                                                         <mml:msub>
+                                                            <mml:mi>t</mml:mi>
+                                                            <mml:mi>s</mml:mi>
+                                                         </mml:msub>
+                                                      </mml:mfrac>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                             </mml:mrow>
+                                             <mml:mn>3</mml:mn>
+                                          </mml:msup>
+                                          <mml:mo linebreak="badbreak">-</mml:mo>
+                                          <mml:mn>6</mml:mn>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mfenced close=")" open="(">
+                                                   <mml:mrow>
+                                                      <mml:mfrac>
+                                                         <mml:msub>
+                                                            <mml:mi>y</mml:mi>
+                                                            <mml:mi>s</mml:mi>
+                                                         </mml:msub>
+                                                         <mml:msub>
+                                                            <mml:mi>t</mml:mi>
+                                                            <mml:mi>s</mml:mi>
+                                                         </mml:msub>
+                                                      </mml:mfrac>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                             </mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msup>
+                                          <mml:mo linebreak="badbreak">-</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mfenced close=")" open="(">
+                                                <mml:mrow>
+                                                   <mml:mfrac>
+                                                      <mml:msub>
+                                                         <mml:mi>y</mml:mi>
+                                                         <mml:mi>s</mml:mi>
+                                                      </mml:msub>
+                                                      <mml:msub>
+                                                         <mml:mi>t</mml:mi>
+                                                         <mml:mi>s</mml:mi>
+                                                      </mml:msub>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                             </mml:mfenced>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where σ<ce:inf loc="post">f</ce:inf> (σ<ce:inf loc="post">s</ce:inf>), <ce:italic>ε<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> (<ce:italic>ε<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>), <ce:italic>Y<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> (<ce:italic>Y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>), and <ce:italic>v<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> (<ce:italic>v<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>) are the biaxial stress, elastic strain, Young’s modulus, and Poisson’s ratio of the film (substrate), respectively. From this approach, we can calculate the <ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic> point that satisfies the thermodynamic equilibrium condition (<ce:italic>γ<ce:inf loc="post">S</ce:inf>
+                     </ce:italic> = <ce:italic>U<ce:inf loc="post">F</ce:inf>
+                     </ce:italic> + <ce:italic>U<ce:inf loc="post">S</ce:inf>
+                     </ce:italic>) for the separation at <ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>. The spalling depth is then simply calculated from <ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic> and the given substrate thickness (i.e. <ce:italic>d<ce:inf loc="post">spall</ce:inf>
+                     </ce:italic> = <ce:italic>t<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>/2 – <ce:italic>y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic>). The detailed derivation of these equations is described in the <ce:cross-ref id="c0180" refid="s0030">Supplementary material</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0065" view="all">To verify whether the proposed analytic model can precisely estimate the thickness of the separated layers, we calculated the spalling depth using the thickness and stress of the Ni film sputtered at the working pressure of 5 mT. <ce:cross-ref id="c0185" refid="f0020">Fig. 4</ce:cross-ref>(b) shows examples for estimating the spalling depth of the Si (1 0 0) layers separated by the Ni films with thicknesses of 5.6 and 6.95 μm. For the calculation, we inserted well-known physical parameters (Young’s modulus, Poisson’s ratio, crystal binding energy) in the equations for the Ni film and the Si (1 0 0) substrate, such as <ce:italic>Y<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> = 200 GPa, <ce:italic>v<ce:inf loc="post">f</ce:inf>
+                     </ce:italic> = 0.31, <ce:italic>Y<ce:inf loc="post">s</ce:inf>
+                     </ce:italic> = 130 GPa, <ce:italic>v<ce:inf loc="post">s</ce:inf>
+                     </ce:italic> = 0.28, and <ce:italic>γ<ce:inf loc="post">S</ce:inf>
+                     </ce:italic> = 2.13 J/m<ce:sup loc="post">2</ce:sup> 
+                     <ce:cross-refs id="r0050" refid="b0085 b0125 b0130">[17,25,26]</ce:cross-refs>. The elastic strain energies of the Ni films were calculated using Eq. <ce:cross-ref id="c0190" refid="e0015">(3)</ce:cross-ref> with the thickness and measured stress of the films (469.4 MPa for the 5.6-μm-thick Ni film and 421.0 MPa for the 6.95-μm-thick Ni film). The calculated strain energies of the 5.6-μm-thick and 6.95-μm-thick Ni films were 2.128 and 2.125 J/m<ce:sup loc="post">2</ce:sup>, respectively. For both Ni thicknesses, the total accumulated strain energy gradually increased as the depth from the substrate surface is larger due to the increase in the strain energy accumulated in the substrate. The spalling depth is determined from the substrate depth at which the total strain energy accumulated in the Ni film and substrate reaches the crystal binding energy of the Si (1 0 0) plane (2.13 J/m<ce:sup loc="post">2</ce:sup>). As shown in <ce:cross-ref id="c0195" refid="f0020">Fig. 4</ce:cross-ref>(b), the spalling depths estimated from the analytic model were 2.55 μm and 5.33 μm for the Ni thicknesses of 5.6 and 6.95 μm, respectively. These values are in good agreement with the experimental results (2.56 μm and 5.25 μm for the 5.6- μm-thick and 6.95-μm-thick Ni films, respectively).</ce:para>
+                  <ce:para id="p0070" view="all">For more practical application of the proposed analytic model, we need to estimate the spalling depth as a function of the Ni thickness. Thus, we obtained the relation between the tensile stress and the thickness of the Ni film from the fitting curve of the measured film stress data as shown in <ce:cross-ref id="c0200" refid="f0020">Fig. 4</ce:cross-ref>(c). Based on the Ni stress and thickness values, we calculated the spalling depth as a function of the Ni thickness as shown in the solid line in <ce:cross-ref id="c0205" refid="f0020">Fig. 4</ce:cross-ref>(d). The spalling depth estimated by the proposed analytic model also showed a good agreement with the experimental results [dots in <ce:cross-ref id="c0210" refid="f0020">Fig. 4</ce:cross-ref>(d)]. Both the theoretical and empirical spalling depths had a similar dependence on the Ni thicknesses, and the coefficient of determination (<ce:italic>R<ce:sup loc="post">2</ce:sup>
+                     </ce:italic>) between the analytic model and experimental results was approximately 0.97. This implies that the proposed analytic model can precisely estimate the spalling depth from the given relation between the thickness and stress of a stressor film. The evaluation of the residual stress of Ni films as a function of the thickness might be tedious because the stress values should be measured for multiple Ni films of varying thickness. However, once the relation between the stress and thickness has been accurately evaluated, we can precisely estimate the thickness of the separated Si (1 0 0) layer from the process condition for the deposition of the stressor film (working pressure and deposition time). Therefore, we believe that the proposed analytic model based on the previously described thermodynamic equilibrium condition provides an effective means of developing a thickness-controlled spalling technique that could become one of the standard processes for the co-integration of heterogeneous semiconductors and the fabrication of high-performance flexible devices.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st035">Conclusion</ce:section-title>
+                  <ce:para id="p0075" view="all">We developed an analytic model to precisely estimate the spalling depth and to explain its dependence on the stressor film thickness and stress. In this model, the spalling depth is calculated from the thermodynamic equilibrium condition in which the total strain energy accumulated in the stressor film and the separated semiconductor layer is balanced with the crystal binding energy of the substrate. We verified the proposed analytic model can precisely estimate the spalling depth of Si (1 0 0) layers by comparing the theoretical spalling depths with the experimental results. We also observed that the crack initiation angle of the spalling process is determined by the binding energy contrast in the main crystal orientations in the semiconductor.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st040">Acknowledgement</ce:section-title>
+               <ce:para id="p0080" view="all">This work was supported in part by the <ce:grant-sponsor id="gp005" sponsor-id="http://dx.doi.org/10.13039/501100003725" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Research Foundation of Korea</ce:grant-sponsor> (NRF) grant funded by the Korea government (MSIT) (<ce:grant-number refid="gp005">2017R1A4A1015565</ce:grant-number>), and the Bio &amp; Medical Technology Development Program of the NRF funded by the <ce:grant-sponsor id="gp010" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Ministry of Science &amp; ICT</ce:grant-sponsor> (<ce:grant-number refid="gp010">2017M3A9G8083382</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="s0025" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st045">Supplementary data</ce:section-title>
+                  <ce:para id="p0085" view="all">Supplementary data to this article can be found online at <ce:inter-ref id="ir005" xlink:href="https://doi.org/10.1016/j.sse.2019.107660" xlink:type="simple">https://doi.org/10.1016/j.sse.2019.107660</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st050">Supplementary data</ce:section-title>
+                  <ce:para id="p0090" view="all">The following are the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary Data 1</ce:label>
+                           <ce:link id="lk00025" locator="mmc1" xlink:href="pii:S0038110119304666/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st055">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Loh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Bera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bendability of single-crystal Si MOSFETs investigated on flexible substrate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Electron Dev Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>538</sb:first-page>
+                              <sb:last-page>541</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">H. Y. Li, L. H. Guo, W. Y. Loh, L. K. Bera, Q. X. Zhang, N. Hwang, et al., Bendability of Single-Crystal Si MOSFETs Investigated on Flexible Substrate, IEEE Electron. Dev. Lett. 27, 538–541 (2006).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="h0010">
+                        <ce:textref>M. Bruel, Process for the production of thin semiconductor material films, US Patent 5,374,564 (1994).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-W.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-T.</ce:given-name>
+                                 <ce:surname>Shiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Sadana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epitaxial lift off process for gallium arsenide substrate reuse and flexible electronics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1577</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">C. -W. Cheng, K. -T. Shiu, N. Li, S. -J. Han, L. Shi, and D. K. Sadana, Epitaxial lift off process for gallium arsenide substrate reuse and flexible electronics, Nat. Commun. 4, 1577 (2013).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Konagai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sugimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High efficiency GaAs thin film solar cells by peeled film technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Cryst Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>277</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">M. Konagai, M. Sugimoto, and K. Takahashi, High efficiency GaAs thin film solar cells by peeled film technology, J. Cryst. Growth 45, 277–280 (1978).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Chun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Meitl</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>GaAs photovoltaics and optoelectronics using releasable multilayer epitaxial assemblies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>465</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>329</sb:first-page>
+                              <sb:last-page>334</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">J. Yoon, S. Jo, I. S. Chun, I. Jung, H. –S. Kim, M. Meitl, et al., GaAs photovoltaics and optoelectronics using releasable multilayer epitaxial assemblies, Nature 465, 329–334 (2010).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yonehara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sakaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epitaxial layer transfer by bond and etch back of porous Si</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Phys Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2108</sb:first-page>
+                              <sb:last-page>2110</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">T. Yonehara, K. Sakaguchi, and N. Sato, Epitaxial layer transfer by bond and etch back of porous Si, Appl. Phys. Lett. 64, 2108–2110 (1994).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="h0035">
+                        <ce:textref>Kajari-Schroder S, Kasenwieter J, Hensena J, Brendel R. Lift-off of free-standing layers in the kerfless porous silicon process, Energy Procedia 38, Silicon PV, Hamelin, Germany, 919–925 (2013).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Burghartz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Appel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Rempp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zimmermann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new fabrication and assembly process for ultrathin chips</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans Electron Dev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">J. N. Burghartz, W. Appel, H. D. Rempp, and M. Zimmermann, A new fabrication and assembly process for ultrathin chips, IEEE Trans. Electron. Dev. 56, 321–327 (2009).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lauro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shahrjerdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Ott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sadana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layer transfer by controlled spalling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Phys D-Appl Phys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:article-number>152002</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">S. W. Bedell, K. Fogel, P. Lauro, D. Shahrjerdi, J. A. Ott, and D. Sadana, Layer transfer by controlled spalling, J. Phys. D-Appl. Phys. 46, 152002 (2013).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shahrjerdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extremely flexible nanoscale ultrathin body silicon integrated circuits on plastic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                              <sb:last-page>320</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">D. Shahrjerdi and S. W. Bedell, Extremely Flexible Nanoscale Ultrathin Body Silicon Integrated Circuits on Plastic, Nano Lett. 13, 315–320 (2012).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shahrjerdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hekmatshoar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lauro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Ott</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kerf-Less removal of Si, Ge, and III–V layers by controlled spalling to enable low-cost PV technologies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE J Photovolt</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>141</sb:first-page>
+                              <sb:last-page>147</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">S. W. Bedell, D. Shahrjerdi, B. Hekmatshoar, K. Fogel, P. A. Lauro, J. A. Ott, et al., Kerf-Less removal of Si, Ge, and III–V layers by controlled spalling to enable low-cost PV technologies, IEEE J. Photovolt. 2, 141–147 (2012).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Shahrjerdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Khakifirooz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanically flexible nanoscale silicon integrated circuits powered by photovoltaic energy harvesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Electron</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">D. Shahrjerdi, S. W. Bedell, A. Khakifirooz, and K. Cheng, Mechanically flexible nanoscale silicon integrated circuits powered by photovoltaic energy harvesters, Solid-State Electron. 117, 117–122 (2016).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.-S.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.A.</ce:given-name>
+                                 <ce:surname>Eom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-S.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kerf-less exfoliated thin silicon wafer prepared by nickel electrodeposition for solar cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Front Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>600</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">H. –S. Yang, J. Kim, S. Kim, N. S. A. Eom, S. Kang, C. –S. Han, et al., Kerf-less exfoliated thin silicon wafer prepared by nickel electrodeposition for solar cells, Front. Chem. 6, 600 (2019).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Sweet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Schulte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Steiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Controlled exfoliation of (100) GaAs-based devices by spalling fracture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Phys Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:article-number>011096</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">C. A. Sweet, K. L. Schulte, J. D. Simon, M. A. Steiner, N. Jain, D. L. Young, et al., Controlled exfoliation of (100) GaAs-based devices by spalling fracture, Appl. Phys. Lett. 108, 011096 (2016).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Lauro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Ott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Sadana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layer transfer of bulk gallium nitride by controlled spalling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Phys Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>025103</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">S. W. Bedell, P. A. Lauro, J. A. Ott, K. Fogel, and D. K. Sadana, Layer transfer of bulk gallium nitride by controlled spalling, Appl. Phys. Lett. 122, 025103 (2017).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Hannon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Bedell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Sadana</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layer-resolved graphene transfer via engineered strain layers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>342</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>833</sb:first-page>
+                              <sb:last-page>836</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">J. Kim, H. Park, J. B. Hannon, S. W. Bedell, K. Fogel, D. K. Sadana, et al., Layer-resolved graphene transfer via engineered strain layers, Science 342, 833–836 (2013).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Jaccodine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface Energy of Germanium and Silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1963</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>524</sb:first-page>
+                              <sb:last-page>527</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">R. J. Jaccodine, Surface Energy of Germanium and Silicon, J. Electrochem. Soc. 110, 524–527 (1963).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="h0090">
+                        <ce:textref>Chason E. Resolution and sensitivity of stress measurement with the k-Space Multi-beam Optical Sensor (MOS) System, Sandia National Laboratories (2010). Available: http://www.k-space.com/Products/MOSinfo.html#papers.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stoney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The tension of metallic films deposited by electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc R Soc Lond Ser A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1909</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>172</sb:first-page>
+                              <sb:last-page>175</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">G. Stoney, The tension of metallic films deposited by electrolysis, Proc. R. Soc. London Ser. A 82, 172–175 (1909).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Thouless</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Ashby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The edge cracking and spalling of brittle plates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Metall</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1333</sb:first-page>
+                              <sb:last-page>1341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">M. D. Thouless, A. G. Evans, M. F. Ashby, and J. W. Hutchinson, The edge cracking and spalling of brittle plates, Acta Metall. 35, 1333–1341 (1987).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Suo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Steady-state cracking in brittle substrates beneath adherent films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Solids Struct</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1337</sb:first-page>
+                              <sb:last-page>1353</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">Z. Suo and J. W. Hutchinson, Steady-state cracking in brittle substrates beneath adherent films, Int. J. Solids Struct. 25, 1337–1353 (1989).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Suo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mixed mode cracking in layered materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv Appl Mech</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>191</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">J. W. Hutchinson and Z. Suo, Mixed Mode Cracking in Layered Materials, Adv. Appl. Mech. 29, 63–191 (1991).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Nix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical properties of thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall Mater Trans A-Phys Metall Mater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2217</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">W. D. Nix, Mechanical properties of thin films, Metall. Mater. Trans. A-Phys. Metall. Mater. Sci. 20, 2217 (1989).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Thouless</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comment on the spalling and edge-cracking of plates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr Metall Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1507</sb:first-page>
+                              <sb:last-page>1510</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">M. D. Thouless and A. G. Evans, Comment on the spalling and edge-cracking of plates, Scr. Metall. Mater. 24, 1507–1510 (1990).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>James</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Lord</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Macmillan’s chemical and physical data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Macmillan Press</sb:name>
+                                 <sb:location>London; Basingstoke</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">A. M. James, and M. P. Lord, Macmillan's chemical and physical data, London; Basingstoke: Macmillan Press (1992).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Hopcroft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Nix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Kenny</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>What is the Young’s Modulus of silicon?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Microelectromech Syst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">M. A. Hopcroft, W. D. Nix, and T. W. Kenny, What is the Young's Modulus of Silicon?, J. Microelectromech. Syst. 19, 229–238 (2010).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib131">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="opt1CvKwLQLq8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>KY</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BS</ce:given-name>
+                                 <ce:surname>Teo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Ar pressure on grain size of magnetron sputter-deposited Cu thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IET Sci. Meas. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1049/iet-smt:20060110</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctbib131">Chan KY, Teo BS. Effect of Ar pressure on grain size of magnetron sputter-deposited Cu thin films. IET Sci. Meas. Technol. 2007;1(2):87–90. doi:10.1049/iet-smt:20060110.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+            <ce:biography id="bg005" view="all">
+               <ce:link id="lk00030" locator="fx1" xlink:href="pii:S0038110119304666/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0015" view="all">
+                  <ce:bold>Honghwi Park</ce:bold> received the B.S. degree from Kyungpook National University (KNU), Daegu, South Korea, in 2016. He is currently pursuing the Combined M.S./Ph.D. degree at KNU. His research interests are focused on monolithic Si-photonic chips and low-power/high-speed optoelectronic devices.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg010" view="all">
+               <ce:link id="lk00035" locator="fx5" xlink:href="pii:S0038110119304666/fx5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0020" view="all">
+                  <ce:bold>Sunghwan Jung</ce:bold> received the B.S. degree from the University of Iowa, Iowa City, in 1993, and the M.S. and Ph.D. degrees in mechanical engineering from Massachusetts Institute of Technology (MIT), Cambridge, in 1995 and 2007, respectively. From 1996 to 2002, he was a senior research engineer at Samsung Advanced Institute of Technology. From 2006 to 2009, he was a senior scientist at Atomate Corporation. He is currently an associate professor with Dankook University, Yongin-si, Korea. His current research interests include ultrasonic cavitation peening, fracture mechanics, design and fabrication of microelectromechanical systems (MEMS), microfluidics, and carbon nanotube synthesis.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg015" view="all">
+               <ce:link id="lk00040" locator="fx2" xlink:href="pii:S0038110119304666/fx2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0025" view="all">
+                  <ce:bold>Changhee Lim</ce:bold> received the M.S. degree from Kyungpook National University (KNU), Daegu, South Korea, in 2018. He is currently an application engineer on Metrology &amp; Inspection at Applied Materials.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg020" view="all">
+               <ce:link id="lk00045" locator="fx6" xlink:href="pii:S0038110119304666/fx6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0030" view="all">
+                  <ce:bold>Hongsik Park</ce:bold> received the Ph.D. degree from Brown University in 2011. He was a researcher at Samsung Advanced Institute of Technology, Korea from 1999 to 2006. He also worked at IBM T. J. Watson Research Center as a research staff member from 2011 to 2014. He is currently an associate professor at the School of Electronics Engineering at Kyungpook National University (KNU), Korea. His research interests are focused on integration of nanomaterial-based devices with conventional Si devices for Si photonics and integrated sensor applications.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg025" view="all">
+               <ce:link id="lk00050" locator="fx3" xlink:href="pii:S0038110119304666/fx3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0035" view="all">
+                  <ce:bold>Chang-Ju Lee</ce:bold> received the Ph.D. degree from Kyungpook National University (KNU), Daegu, South Korea, in 2019. He is currently a postdoctoral researcher at KNU. His research interests are focused on monolithic Si-photonic chips and nanomaterial-based devices.</ce:simple-para>
+            </ce:biography>
+            <ce:biography id="bg030" view="all">
+               <ce:link id="lk00055" locator="fx4" xlink:href="pii:S0038110119304666/fx4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+               <ce:simple-para id="sp0040" view="all">
+                  <ce:bold>Muhan Choi</ce:bold> is currently an associate professor at the School of Electronics Engineering in Kyungpook National University (KNU). He received the Ph.D. degree from Sogang Univ. in 2003. From 2005 to 2008, he was a postdoctoral researcher in Advance Telecommunication Research Institute International (ATR) in Kyoto, Japan. From 2009 to 2010, he was a senior researcher in Korea Advanced Institute of Science and Technology (KAIST). Prior to joining KNU, he worked as a senior researcher in Electronics Telecommunication Research Institute (ETRI) for 2 years. His main research interest is in the development of micro/nano photonics device based on metamaterial and active device for terahertz imaging.</ce:simple-para>
+            </ce:biography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

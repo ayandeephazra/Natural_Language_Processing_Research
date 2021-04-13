@@ -1,0 +1,958 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022024897003886</prism:url><dc:identifier>doi:10.1016/S0022-0248(97)00388-6</dc:identifier><eid>1-s2.0-S0022024897003886</eid><prism:doi>10.1016/S0022-0248(97)00388-6</prism:doi><pii>S0022-0248(97)00388-6</pii><dc:title>Development of finite element computer program for dislocation density analysis of bulk semiconductor single crystals during Czochralski growth </dc:title><prism:publicationName>Journal of Crystal Growth</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00220248</prism:issn><prism:volume>183</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>81</prism:startingPage><prism:endingPage>88</prism:endingPage><prism:pageRange>81-88</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1998-01-01</prism:coverDate><prism:coverDisplayDate>1 January 1998</prism:coverDisplayDate><prism:copyright>Copyright © 1998 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Miyazaki, N.</dc:creator><dc:creator>Okuyama, S.</dc:creator><dc:description>
+                  A finite element computer program was developed for continuous simulation of the dislocation density in a bulk single crystal during Czochralski (CZ) growth process. In this computer program, the shape of crystal-melt interface and the temperature in a crystal at an arbitrary time were determined by linear interpolation of the discrete results which were obtained by a heat conduction analysis of a CZ single crystal growth system. A dislocation kinetic model called the Haasen-Sumino model was used as the constitutive equation of a single crystal. Dislocation density analyses were performed using this computer program for 8 in. diameter Si, InP and GaAs bulk single crystals. The present analyses indicate W-type dislocation density distributions across the diameter in InP and GaAs single crystals which can be observed in the actual CZ growth of InP and GaAs.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0022024897003886" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022024897003886" rel="scidir"/></coredata><scopus-id>0031674884</scopus-id><scopus-eid>2-s2.0-0031674884</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0031674884" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271622</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Crystal Growth</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALCRYSTALGROWTH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19990419">1999-04-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19990419">1999-04-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T15:32:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022024897003886</xocs:eid>
+      <xocs:pii-formatted>S0022-0248(97)00388-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022024897003886</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0022-0248(97)00388-6</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022024899X00042</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:05:58.519244-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19980101</xocs:date-search-begin>
+      <xocs:year-nav>1998</xocs:year-nav>
+      <xocs:indexeddate epoch="924480000">1999-04-19T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-0248</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00220248</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>183</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>183</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 183, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>81</xocs:first-fp>
+      <xocs:last-lp>88</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>81</xocs:first-page>
+         <xocs:last-page>88</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19980101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 January 1998</xocs:cover-date-text>
+      <xocs:cover-date-start>1998-01-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1998</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Classical semiconductors</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1998 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>DEVELOPMENTFINITEELEMENTCOMPUTERPROGRAMFORDISLOCATIONDENSITYANALYSISBULKSEMICONDUCTORSINGLECRYSTALSDURINGCZOCHRALSKIGROWTH</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MIYAZAKI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>JORDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>593</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>MIYAZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>102</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>HAASEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>461</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>YONENAGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>685</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>VOLKL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>136</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>MAROUDAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>399</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>499</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1650</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>MIYAZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>MIYAZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>513</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADVANCESINENGINEERINGPLASTICITYAPPLICATIONSAEPA96</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>JORDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>559</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>JORDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>631</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>BRANTLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>534</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>FUJIOKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>KAWASE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>228</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>BARRETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>WIJARANAKULA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3306</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MIYAZAKIX1998X81</xocs:refkey3>
+         <xocs:refkey4lp>MIYAZAKIX1998X81X88</xocs:refkey4lp>
+         <xocs:refkey4ai>MIYAZAKIX1998X81XN</xocs:refkey4ai>
+         <xocs:refkey5>MIYAZAKIX1998X81X88XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-0248(97)00388-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022024897003886</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022024897003886</xocs:eid>
+         <xocs:doi>10.1016/S0022-0248(97)00388-6</xocs:doi>
+         <xocs:cid>271622</xocs:cid>
+         <xocs:timestamp>2010-12-04T15:36:22.155787-05:00</xocs:timestamp>
+         <xocs:cover-date-start>1998-01-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022024897003886-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022024897003886/MAIN/application/pdf/c5d7cd1ac9f17ab7f6fdc82d57f6c926/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022024897003886/MAIN/application/pdf/c5d7cd1ac9f17ab7f6fdc82d57f6c926/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1130006</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022024897003886-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022024897003886/PREVIEW/image/png/614dca64e4fa1265b56ce68d82a937e4/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022024897003886/PREVIEW/image/png/614dca64e4fa1265b56ce68d82a937e4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53720</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">~   10UONALO'   CRYSTAL  ~ GROWTH   ~   ELSEVIER Journal of Crystal Growth 183 (1998) 81-88     Development of finite element computer program for dislocation density analysis of bulk semiconductor single crystals during  Czochralski growth  N. Miyazaki*, S. Okuyama   Department ofMaterials Process Engineering, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-81, Japan   Received 17 February 1997; accepted 28 May 1997   Abstract     A finite element computer program was developed for continuous simulation of the dislocation density in a bulk single crystal  during Czochralski (CZ) growth process. In this computer program, the shape of crystal-melt interface and the temperature in a  crystal at an arbitrary time were determined by linear interpolation of the discrete results which were obtained by a heat  conduction analysis of a CZ single crystal growth system. A dislocation kinetic model called the Haasen-Sumino model was used  as the constitutive equation of a single crystal. Dislocation density analyses were performed using this computer program for  8 in. diameter Si, InP and GaAs bulk single crystals. The present analyses indicate W-type dislocation density distributions  across the diameter in InP and GaAs single crystals which can be observed in the actual CZ growth of InP and GaAs.  1. Introduction tronic or optical devices. They are usually producd by the Czochralski (CZ) method. InP and GaAs  Dislocation-free or low-dislocation-density bulk single crystals have low critical resolved shear stresemiconductor crystals  are required for substrates ses and are easy to generate and multiply dislocaf high performance electronic devices, because  disions due to thermal stress during the CZ growth, locations existing in substrate have adverse effects so that it is  difficult to produce their dislocationn the performance of electronic devices. Bulk free bulk single crystals. As for a Si  single crystal, semiconductor single crystals such as Si, InP and although dislocation-free CZ growth technique has GaAs are  important for substrate materials of elec-been established for a bulk single crystal of up to 8 in. diameter, growing  dislocation-free bulk single crystals of larger diameter such as 12 or 16 in reains to be solved in future. A computer  program for simulating dislocation density in a bulk single  *Corresponding author. Fax: + 81 92 642 3531; e-mail: crystal during CZ growth process would be  miyazaki@apex.chem-eng.kyushu-u.ac.jp. a powerful tool for development of dislocation-free  0022-0248/98/$19.00 zr;l 1998 Elsevier Science B.V. All rights reserved PH S0022-0248(97)00388-6   N. Miyazaki. S. Okuyama / Journal of Crystal Growth 183 (1998) 81-88   or low-dislocation-density bulk semiconductor crystal growth technology.   It is known that thermal stress during CZ growth plays an important role in the generation of disloations especially in the  cases of InP and GaAs which have low critical resolved shear stresses. Qualitative relation between dislocation density and  thermal stress in such single crystals have been studied so far by comparing resolved shear stresses obtained from an elastic  thermal stress analysis with critical-resolved shear stress [1,2]. In elevated temperature, solids undergo time-dependent  inelasic deformation. Hereafter such deformation is called creep in the present paper. The constitutive equation for single  crystals are known as the Haasen-Sumino model [3,4J, in which the creep strain rate is related to dislocation density. The  dislocation density during CZ growth process could be quantitatively predicted by using this model together with a thermal  stress analysis. Alhough the dislocation density obtained from anaytical methods [5-7J and quasi-static finite element  analyses [8-lOJ have been reported so far, all these analyses assume a constant pulling rate and constant radius of a bulk  single crystal and give only steady-state values of dislocation density. These steady-state methods are only simple models of  the actual CZ growth process and cannot be applied to the actual CZ growth process, in which the pulling rate and radius of a  bulk single crystal are dynamically changed. However, there has been very few studies concerning the time variations of  dislocations density and stress.  In our previous studies [11, 12J, the time varitions of dislocation density and stress were obained from transient  analyses using the Haasen-Sumino model to examine the effect of initial dislocation density and time scale of dislocaion  multiplication. These analyses were performed under the condition that the temperature distribuion in a crystal and the  crystal shape are unhanged. As an advanced step of the previous studies, we developed a finite element computer program for  transient and continuous simulation of the dislocation density in a bulk single crystal durng CZ growth process using the  Haasen-Sumino model. Dislocation density analyses were perormed using this computer program for 8 in. diaeter Si, InP and  GaAs single crystals to show the effectiveness of this computer program.  2. Method of analysis     2.1. Constitutive equation for creep   Total strain rate sij is assumed to be given by   (1)   where sii' lit and sii are elastic strain rate, thermal strain rate and creep strain rate, respectively. The creep strain rate  liii can be obtained by extending the Haasen-Sumino model [3,4J to a multiaxial stress state in the same way as the isotropic  flow theory of plasticity. Then, Bij can be written as [9J  'C   is  Cti = ii: (2)   where   SijSij  JI 2 -_ 2. (4)   In the above equations, aij, Sij and J~ are stresses, deviatoric stresses and the second invariant of the deviatoric stress,  respectively. Dislocation density is denoted by Nm-and its rate is given by   = su; e-Q1kT(j?; -DJN: -'dY   (5)   In Eqs. (2) and (5), Nm and liii are set equal to zero when j?; -DJN: -'d ~ O. From Eq. (5), Nm is always equal to zero when  the initial dislocation densityNmOiszero,sothat itisnecessarytoassume non-zero Nmo. It has not been clear how much  dislocations are introduced in a single crystal just after solidification of melt. So we assumed that the initial dislocation  density at the single crystal newly created from melt is very small. According to our previous study [l1J, the effect of  initial dislocation density assumed in the analysis on the final results of dislocation density is small for small values of    N. Miyazaki, S. Okuyama j Journal of Crystal Growth 183 (1998) 81--88   Table 1 Parameters in the Haasen-Sumino model   Nm  density of moving dislocation  ern"?    Q  Peierls potential  eV    k  Boltzmann's constant  8.617xlO-5eVjK    T  absolute temperature  K    K  material constant  cm/dyn    D  strain hardening factor  dynjcm    ko  material constant  cm2p+ l/dynPS    !d  drag-stress  dyn.crrr'    p  material constant    A  material constant  1.0      Nm O: So we used a small value of Nrna, i.e., Nrna = 1.0x 10-3 em -2 in all cases of the present analyses. The Td in the above  equations is a dragtress caused by the interaction between dislocation density and impurity atoms and was set equal to  3.61 x 107 dyn/cm ' (1 MPa = 107 dyn/cm"), which was given by Tsai [8] for Si, in all cases of the present analyses.   The notation in the Haasen-Sumino model is summarized in Table 1. Material parameters in the Haasen-Sumino model are given in  Table 2 for Si [6], InP [5] and GaAs [7].    2.2. Elastic constants and thermal expansion coefficients   In addition to the material parameters for the Haasen-Sumino model, we require the elastic contants C11, C12andC44  ,andthethermalexpansion coefficient rJ. for the respective single crystals. These material properties used are quoted from  literaures. They are given as follows.  (a) Si single crystal [13]:   Cll = 16.564 x lO11 exp( -9.4 x lO-s(T -298.15)),     Table 2   C12 = 6.394x lO11exp( -9.8x lO-s(T -298.15)), C44 =7.951xto11exp( -8.3x to-S(T -298.15)),   o:  = 3.725 x 10-6(1.0 -exp( -5.88 x to-3 (T -124.0))) + 5.548 x 1O-10T;   (b) InP single crystal [14]: C11 = 10.76 X 1011 -1.397 x io-r, C12 = 6.080 X 1011 -8.344x 107T,   = 4.233 X 1011 -4.035 x 11 7T,  C4 4   rJ. = 4.896 X 10-6-5.164x 1O-9T   + 6.048 x 1O-12T2;   (c) GaAs single crystal [15]: C11 = 12.16x toll -1.39 x 108T,   C12 = 5.43 X 1011 -5.76 x 107 y,   C44 =6.18Xtoll -7.01x 107T,   (X = 4.68 X to-6 + 3.82x 1O-9T;   where the units of Cij and Tare dyn/cnr' and K, respectively. In the present analyses, bulk single crystals were assumed to be  isotropic, so that only the Young's modulus and Poisson's ratio in the  {III} plane calculated from C11, C12 and C4 4 [16] were used because they are invariant in this plane.     2.3. Method for continuous simulation of CZ growth process   Dislocation density analyses were performed for 8 in. diameter Si, InP and GaAs bulk single crysals. Fig. 1 shows the  temperature distribution and    Material properties in the Haasen-Sumino model for Si, InP and GaAs single crystals   TmQ p D K ko   Si 1685 2.2 1.1 4.3x 103 3.1xlO-7 6.815x 10-3 InP 1331 1.0 1.4 3.0 x 103 1.2 x 10-5 5.57xlO-S GaAs 1511 1.5 1.7 3.1 x 103 7.0x  10-6 3.59xlO-S  N. Miyazaki, S. Okuyama / Journal of Crystal Growth 183 (1998) 81-88   o    -5+--...-...--1 o 5 10 15 35min  0  5 10 87min  15  0  5 10 191min  15  0  5 10 312min  15  0  5 10 451min  15  0  5 10 15  607min  r [em]  Fig. 1. Temperature distributions in bulk single crystal.      crystal shape at the several stages of CZ crystal growth obtained from a transient heat conduction analysis of a Si single  crystal [17]. The temperature distributions in InP and GaAs single crystals were so determined that the temperature difference  from the solid-liquid interface, the temperature at which is the melting point T m of each single crystal, is the same as that  of a Si single crystal shown in Fig. 1. The melting points Tm of Si, InP and GaAs are, respectively, 1685, 1331 and 1511 K.  Although the temperature distributions used for InP and GaAs are not the actual ones, using such temperature distributions  would be justified because the purose of the present analysis is not a simulation of the actual growth process of InP or  GaAs but to demonstrate the effectiveness of the computer proram developed in the present study. For this purose, we  examined how the computer program provides the difference in dislocation density among Si, InP and GaAs, whether it provides  Wype dislocation density distributions along the diaeter in InP and GaAs single crystals, as can be observed in actually  grown single crystals, and whether it provides reasonable values of dislocaion density.  The results of a heat conduction analysis are obtained at discrete time steps. In the present case, the temperature  distribution and crystal shape are obtained only at a 17 min interval. We divided a time interval between two adjacent time  steps into several sub-steps in order to deal with the growth process as continuously as possible. The shape of crystal-melt  interface and the temperature in a crystal at an arbitrary sub-step were deterined by linear interpolation of the results at  two adjacent time steps.  The incremental form of a finite element equilibium equation for a creep problem given as follows is solved at time steps in  each sub-step:  (6)   where K, I1U, 11Ft and I1Fc denote a stiffness matrix, an incremental nodal displacement vector, an inrementalload vector  due to thermal strain and an incremental load vector due to creep strain, respecively, and I1Fc is a function of the  Haasen-Sumino type creep strain rate given by Eq. (2). Solving Eq. (6) at each time step and integrating (5), we can obtain  such state variables as displacements, strains, stresses and dislocation density.  Fig. 2 shows a finite element mesh at the final stage, i.e., at 607 min after CZ growth starts. As mentioned before, no  anisotropic effect was conidered, so that a half of a bulk single crystal was modeled by the eight-noded isoparametric  element for an axisymmetric body. The total numbers of elements and nodes are 1539and 4976,respectively. The finite element  mesh shown in Fig. 2 includes all the shape of crystal-melt interface obtained from a heat conduction analysis, and the finite  elements    N Miyazaki, S. Okuyama / Journal of Crystal Growth I fl3 (l998j 81-fl8   Fig, 2. Finite element mesh at 607 min.   are activated downward as CZ growth process proceeds.   3. Results and discussion   Fig. 3 shows the dislocation density distributions for Si, InP and GaAs bulk semiconductor single crystals at 35, 87, 191,  312,451 and 607 min after crystal growth starts. High dislocation density apears at the central and peripheral regions of  the InP and GaAs single crystals. On the other hand, dislocation density remains the lowest level of the gray scale in the  whole region of a Si bulk single crystal. Therefore, InP and GaAs single crystals are much easier to multiply dislocations  than a Si single crystal.  Fig. 4 shows the dislocation density distributions across the diameter in InP and GaAs single crystals at the height (z) of 25  em and at the time of 607 min after crystal growth starts. The results indicate W-type dislocation density distributions  across the diameter. In actual single crystals, the dislocation densities and dislocation density patern can be evaluated by  visualizing dislocations as etch pits obtained from the chemical etching of single crystals. Experimental results of etch pit  denity (EPD) for InP and GaAs single crystals [18, 19] indicate W-type distributions across the diameter. Therefore, the  calculated dislocation denity distributions for InP and GaAs single crystals agree well with dislocation distribution  patterns observed in actual single crystals.  Fig. 5 shows the time variations of the maximum dislocation density for the respective single crystals. In all cases, the  dislocation density increases rapdly from the start of crystal growth to 100 min, and then it keeps nearly constant. Up to  100 min, the crystal diameter increases and the location where the maximum dislocation density occurs moves downward. After  100 min, crystal diameter is unchanged keeping about 8 in., and the location where the maximum dislocation density occurs  alays remains near the shoulder point.  Although the dislocation density values of InP and GaAs single crystals depend on heating condiions of a CZ furnace, crystal  diameter and dopants, they ranges, roughly speaking, from 104 to 106 em -2 according to measured EPD data [18, 19]. The  calculated dislocation density values are not so bad, compared with measured EPD data. On the other hand, dislocation-free Si  bulk single crystals of 8 in. diameter are usually producd by CZ growth, so that the present result for a Si single crystal  does not agree actual CZ-Si growth. One of the reason for the disagreement consists in the reliability of material constants  near the melting point. Wijaranakula [20] used the Young's modulus of a Si single crystal calculated from the critical  resolved shear stress in the thermal stress analysis of CZ-Si growth, and reached a conclusion that a dislocation-free Si bulk  single crystal can be obtained by CZ growth. The Young's modulus at elevated temperature used by him is much lower than that  of the present analysis.    86  N. Miyazaki. S. Okuyama / Journal of Crystal Growth 183 (1998) 8J-88    55  6.0x10 6    4  5.0x106 4.0x106    5 3 ~ N 25 2  3.0x106 2.0x106    1.0xl0 6    5 0  - 0 em     0 (a)  5 10 35min  15  0  5 10 87min  15  0  5 10 191min  15  0 5 10 3 12min  15  0  5 10 15 45 1min  0  5 10 15 607min  r[em)  55 5 4  \  6.0x106 5.0x106 4.0x106    5 3s: N 25 2  ~. ~ .,..  3.0x106 2.0x10 6 1.0xl0 6    0    0  em,2     0 (b)  5 10 35min  15  0  5 10 87min  15  0  5 10 191min  15  0 5 10 312min  15  0  5 10 451min  15  0  5 10 15 607min  r[em)  55  6.0x106    5,Ox106    4.0x106    3.0.106    2.0x106    1.0x106    0    em,2    (e)   0  5 10 35min  15  0  5 10 87min  15  0  5 10 191min  15  0  5 10 3 12min  15  0  5 10 15 45 1min  0  5 10 15 607min  r [em)  Fig. 3. Dislocation density distributions: (a) Si, (b) InP, (c) GaAs.      N. Miyazaki, S. Okuyama i Journa l of Crystal Growth 183 (1998) 81-88         4.51\ 106-:r,:=====;-----------m --InP  4.01\106   -GaAs     1  s:3.51\ 106 -:1 ...----....J .~ 3.01\106   c   ~ 2.51\106     s   .~ 2.01\ 106 ....I~~-5    Vi 1.5xI06":1-___   is     246 810 Radial distancel cm]   Fig. 4. Dislocation density distributions across radius at z = 25 em.   1.01\107r  ;::;======~:===;=~=====j  ,r GaAs InP 1.01\1061   ~ 1.01\105 1/-.r----"----------1  Si   E 1.01\104 ,     "!   ~   o 1.01\1 03  ' &lt;;j   .g 1.01\102   c   .2 1.01\10'     ~   Vi   Ci 1.01\10.1   1.0xl0   I.Ox I0.3 -ll.-rr-r-"...,n-r-rr'T"'MrTTTT'T"'M..".TT'"TT"1,..",  'I II   o  100 200 300 400 500 600 Time [min]   Fig. 5. Time variations of dislocation density.   4. Concluding remarks   A computer program developed for transient and continuous simulation of dislocation density in a bulk single crystal during CZ  growth process gave reasonable results both qualitatively and quantitatively for the dislocation density analyses of InP and  GaAs single crystals. This computer program could be used as a powerful tool for the research and development of high quality  bulk single crystals of compound bulk single crystals such as InP and GaAs. By using the computer program developed in this  study, we could perform the dislocation density analysis of the whole process of CZ growth including the radius increasefrom  aseedtoaconstantradius,thesteady growth with a constant radius, the separation of a bulk single crystal from melt, and the  coolingown of a bulk single crystal, if the temperature data are provided by transient heat conduction analysis of a bulk  single crystal. Such an analysis cannot be done using the steady-state analysis methods.  Acknowledgements   This study was partially supported by a Grantn-Aid for Science Research from the Ministry of Education and Culture, and the  Kurata Research Grant.  References   [IJ A.S. Jordan,R.Caruso,A.R.Von Nelda, TheBellSystem   Tech. J. 59 (1980) 593.   [2J N. Miyazaki, H. Uchida, T. Munakata, T. Fujioka, Y.   Sugino, J. Crystal Growth 125 (1992) 102.   [3J P. Haasen, Z. Phys. 167 (1962) 461.   [4J I. Yonenaga, K.Sumino, Phys.Status.Solidi.(a)50(1978)   685. [5J J. Yolkl, G. Muller, J. Crystal Growth 97 (1989) 136. [6J c.r.Tsai, OW. Dillon Jr., R.I. DeAngelis, J. Eng. Mater.   Technol. 112 (1991) 183.   [7] D. Maroudas, R.A. Brown, J. Crystal Growth 108 (1991)   399.   [8] C.T. Tsai, J. Crystal Growth 113 (1991) 499. [9J C.T. Tsai, M.W. Yao, A.I. Chait, 1. Crystal Growth 125 (1992) 69.   [10J  c.r. Tsai, N. Gulluoglu, C.S. Hartley, J. Appl. Phys. 73 (1993) 1650.   [11]  N. Miyazaki, H. Uchida, T. Munakata, K. Fujioka, Y. Sugino, Mech. Mater. Electron. Packaging AMD-195 (1994) 59.   [12]  N. Miyazaki, S. Okuyama,AdvancesinEngineeringPlasicity and its Applications AEPA'96, Pergamon, Oxford, 1996, p. 513.   [13J  INSPEC, Properties of Silicon. EMIS Data Rev. Ser. 4 (1988) 14.   [14]  A.S. Jordan, J. Crystal Growth 71 (1985) 559.     N. Miyazaki, S. Okuyama / Journal 0/ Crystal Growth 183 (1998) 81-88   [15] A.S. Jordan, 1. Crystal Growth 49 (1980) 631. [19J D.L. Barrett, S. McGuigan, H.M. Hobgood, G.W.   [16]  W.A. Brantley, 1. App!. Phys. 44 (1973) 534. Eldridge, R.N. Thomas, J. Crystal Growth 70 (1984)   [17]  K. Fujioka, W. Nakayama, Y. Sugino, Trans. Japan Soc. 179. Mech. Eng. Ser. B 58 (1992) 3173. [20J W. Wijaranakula, J.  Electrochem. Soc. 140 (1993)  [18]  T. Kawase, T. Arai, Y. Miura, T. Iwasaki, N. 3306. Yamabayashi, M. Tatsumi, S. Murai, K. Tada, S. Akai, Sumitomo  Electric Tech. Rev. 29 (1990) 228.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>CRYS</jid>
+            <aid>97003886</aid>
+            <ce:pii>S0022-0248(97)00388-6</ce:pii>
+            <ce:doi>10.1016/S0022-0248(97)00388-6</ce:doi>
+            <ce:copyright type="unknown" year="1998"/>
+         </item-info>
+         <head>
+            <ce:title>Development of finite element computer program for dislocation density analysis of bulk semiconductor single crystals during Czochralski growth</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Miyazaki</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Okuyama</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Materials Process Engineering, Kyushu University, 6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-81, Japan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Fax: + 81 92 642 3531</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="17" month="2" year="1997"/>
+            <ce:date-accepted day="28" month="5" year="1997"/>
+            <ce:abstract id="ab1" class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">A finite element computer program was developed for continuous simulation of the dislocation density in a bulk single crystal during Czochralski (CZ) growth process. In this computer program, the shape of crystal-melt interface and the temperature in a crystal at an arbitrary time were determined by linear interpolation of the discrete results which were obtained by a heat conduction analysis of a CZ single crystal growth system. A dislocation kinetic model called the Haasen-Sumino model was used as the constitutive equation of a single crystal. Dislocation density analyses were performed using this computer program for 8 in. diameter Si, InP and GaAs bulk single crystals. The present analyses indicate W-type dislocation density distributions across the diameter in InP and GaAs single crystals which can be observed in the actual CZ growth of InP and GaAs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </head>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Jordan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Caruso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Von Neida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Bell System Tech. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>593</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Miyazaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Uchida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Munakata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fujioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sugino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>125</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>102</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Haasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>167</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>461</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Yonenaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sumino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Status. Solidi. (a)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>685</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Völkl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>136</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.W.</ce:given-name>
+                                 <ce:surname>Dillon</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>DeAngelis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eng. Mater. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Maroudas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>399</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>499</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Chait</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>125</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Gulluoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Hartley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1650</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Miyazaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Uchida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Munakata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fujioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sugino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mech. Mater. Electron. Packaging</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>AMD-195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Miyazaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Okuyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Advances in Engineering Plasticity and its Applications AEPA'96</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1996</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>513</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>INSPEC</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Properties of Silicon, EMIS Data Rev. Ser.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Jordan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>559</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Jordan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>631</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Brantley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>534</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fujioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Nakayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sugino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trans. Japan Soc. Mech. Eng. Ser. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kawase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Arai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Miura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Iwasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yamabayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tatsumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Murai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Akai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sumitomo Electric Tech. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>228</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Barrett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>McGuigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Hobgood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Eldridge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.N.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crystal Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wijaranakula</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3306</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
