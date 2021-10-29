@@ -1,0 +1,8 @@
+We present atomistic simulations of III-V semiconductor materials.
+These provide an effective way to investigate structural properties of semiconductors at a nanometric scale.
+The crystal structure is relaxed using a Metropolis Monte Carlo scheme, where chemical bonds are described through empirical interaction potentials.
+The method provides a simplified structural model, which allows to determine elastic properties like the bulk and shear modulus with errors around 5 and 10%.
+Simulations on random alloys led to a composition-dependent bimodal bond length distribution, stemming from the constituent binary compounds, which was also observed experimentally.
+In contrast to this, CuPt-ordered structures, which can form spontaneously during epitaxial processes, were shown to exhibit a distinct fourfold bond length pattern leading to built-in strain.
+The Metropolis Monte Carlo approach also allows modelling at higher temperatures.
+The asymmetry of the empirical potential function leads to thermal expansion, although this effect is in general overestimated due to the missing Coulomb interaction, which is characteristic of III-V materials. 

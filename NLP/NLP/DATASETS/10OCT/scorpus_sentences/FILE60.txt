@@ -1,0 +1,1 @@
+In every increment the solution is first progressed in time in a Lagrangian step (determining the displacements at nodes) and subsequently mapped back to the Eulerian mesh in the so-called remap step (the nodes are moved back to their original position in case they have moved by a significant magnitude)
