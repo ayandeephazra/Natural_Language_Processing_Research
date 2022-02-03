@@ -56,7 +56,7 @@ with open("file.txt", "r", encoding="utf-8") as file:
                     a = totalRawCount
                 flag5 = 1
 
-                if float(words[len(words) - 1]) > 0.5:
+                if float(words[len(words) - 1]) > 0.1:
                     positives = positives + 1
                     str = " ".join(words[1:len(words) - 2])
 
@@ -67,7 +67,7 @@ with open("file.txt", "r", encoding="utf-8") as file:
                         # tp = tp + 1
 
                     if flag == 1 and (
-                            str.find("GPa") != -1 or str.find("gpa") != -1 or str.find("range of") != -1 or str.find(
+                            str.find("GPa") != -1 or str.find("gpa") != -1 or str.find("Gpa") != -1 or str.find("range of") != -1 or str.find(
                         "ranges of") != -1):
                         tp = tp + 1
 
@@ -80,12 +80,14 @@ with open("file.txt", "r", encoding="utf-8") as file:
                     negatives = negatives + 1
                     str = " ".join(words[1:len(words) - 2])
                     flag2 = 0
-                    if str.find("mulk moduli") != -1 or str.find("bulk modulus") != -1 or str.find("K 0") != -1 \
+                    if str.find("bulk moduli") != -1 or str.find("bulk modulus") != -1 or str.find("K 0") != -1 \
                             or str.find("K0") != -1 or str.find("B=") != -1 or str.find("B =") != -1:
                         flag2 = 1
                         # fn = fn + 1
 
-                    if flag2 == 1 and (str.find("GPa") != -1 or str.find("gpa") != -1):
+                    if flag2 == 1 and (
+                            str.find("GPa") != -1 or str.find("gpa") != -1 or str.find("Gpa") != -1 or str.find("range of") != -1 or str.find(
+                            "ranges of") != -1):
                         fn = fn + 1
 
                 string = " ".join(words[1:len(words) - 3])
