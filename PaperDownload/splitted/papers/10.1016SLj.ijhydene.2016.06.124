@@ -1,0 +1,1833 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319916318638</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2016.06.124</dc:identifier><eid>1-s2.0-S0360319916318638</eid><prism:doi>10.1016/j.ijhydene.2016.06.124</prism:doi><pii>S0360-3199(16)31863-8</pii><dc:title>Enhancing solid oxide fuel cell performance by electrode reactivation through wet chemical treatments </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>03603199</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>31</prism:issueIdentifier><prism:startingPage>13619</prism:startingPage><prism:endingPage>13624</prism:endingPage><prism:pageRange>13619-13624</prism:pageRange><prism:number>31</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-08-17</prism:coverDate><prism:coverDisplayDate>17 August 2016</prism:coverDisplayDate><prism:copyright>© 2016 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Hydrogen Energy Publications LLC. Published by Elsevier Ltd.</prism:publisher><dc:creator>Yu, Shancheng</dc:creator><dc:creator>Chen, Han</dc:creator><dc:creator>Guo, Lucun</dc:creator><dc:description>
+                  The high-temperature sintering usually has adverse effects on surface chemistry/morphology of solid oxide fuel cell electrodes, hiding the intrinsic electrocatalytic activity of the materials used. Here we demonstrate the universal reactivation of the sintered electrodes using solution chemical treatments, resulting in a remarkable improvement in electrode performance. For example, the area specific resistance values were reduced by 73.0% and 29.4% for the HCl-treated strontium-doped LaMnO3 (LSM) cathode and NaOH-treated nickel cermet anode, respectively. A 33% increase in peak power density of the cell with activated electrodes shows that activation treatment has great potential to become a strategically important process during manufacturing.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide fuel cell</dcterms:subject><dcterms:subject>Solution chemical treatment</dcterms:subject><dcterms:subject>Electrode reactivation</dcterms:subject><dcterms:subject>Surface chemistry/morphology</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319916318638" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319916318638" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="31" height="31" size="4617">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="88" height="164" size="19135">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="14972">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="117" size="21233">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="7" height="7" size="10695">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="998" size="142127">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="669" height="469" size="81919">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="310" size="80822">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="31" height="31" size="11540">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="4420" size="1018533">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2961" height="2078" size="382198">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1540" height="822" size="277466">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="3158528">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319916318638-mmc1.doc?httpAccept=%2A%2F%2A</object></objects><scopus-id>84977637470</scopus-id><scopus-eid>2-s2.0-84977637470</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84977637470" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160627">2016-06-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160627">2016-06-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160721">2016-07-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160721">2016-07-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-08-31T21:19:19</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319916318638</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(16)31863-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319916318638</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2016.06.124</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319916X00328</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170831">2017-08-31T21:21:29.889781-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160817</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1467032029">2016-06-27T12:53:49.910053Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>31</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>31</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 41, Issue 31</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>32</xocs:sort-order>
+      <xocs:first-fp>13619</xocs:first-fp>
+      <xocs:last-lp>13624</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>13619</xocs:first-page>
+         <xocs:last-page>13624</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160817</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>17 August 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-08-17</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Fuel Cells &amp; Applications</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ENHANCINGSOLIDOXIDEFUELCELLPERFORMANCEBYELECTRODEREACTIVATIONTHROUGHWETCHEMICALTREATMENTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>MINH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>563</xocs:ref-first-fp>
+            <xocs:ref-last-lp>588</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>JACOBSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>660</xocs:ref-first-fp>
+            <xocs:ref-last-lp>674</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1037</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1043</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>SHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18392</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18404</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>SENGODAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>209</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>BOULFRAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>ZHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7066</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7071</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ABBAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>891</xocs:ref-first-fp>
+            <xocs:ref-last-lp>897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>SHOLKLAPPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2141</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8613</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8620</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>WINCEWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>280</xocs:ref-first-fp>
+            <xocs:ref-last-lp>296</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A1183</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>COFFEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1361</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1369</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2659</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2664</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>JUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5370</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5378</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>REN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>LEHMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2836</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2843</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>379</xocs:ref-first-fp>
+            <xocs:ref-last-lp>389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>PRIMDAHL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3409</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3419</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>HUBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-last-lp>88</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>SU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>167</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>SU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1024</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1033</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YUX2016X13619</xocs:refkey3>
+         <xocs:refkey4lp>YUX2016X13619X13624</xocs:refkey4lp>
+         <xocs:refkey4ai>YUX2016X13619XS</xocs:refkey4ai>
+         <xocs:refkey5>YUX2016X13619X13624XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-07-21T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(16)31863-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319916318638</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319916318638</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2016.06.124</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2017-08-31T21:21:29.889781-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-08-17</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/MAIN/application/pdf/cd815fec85314127e7ca680b324a5bfc/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/MAIN/application/pdf/cd815fec85314127e7ca680b324a5bfc/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1290660</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319916318638-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/PREVIEW/image/png/f9fb20a1b2990cd9f6ebb58a337be703/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/PREVIEW/image/png/f9fb20a1b2990cd9f6ebb58a337be703/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49129</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/fx1/THUMBNAIL/image/gif/5b7c7dd9a1bed9cca7dd1f62496df5ea/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/fx1/THUMBNAIL/image/gif/5b7c7dd9a1bed9cca7dd1f62496df5ea/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4617</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>31</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr1/THUMBNAIL/image/gif/50fe483d1898e46cb3325aa18674560a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr1/THUMBNAIL/image/gif/50fe483d1898e46cb3325aa18674560a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19135</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>88</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr2/THUMBNAIL/image/gif/04b57c64c68f68704c23a10cae7c824c/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr2/THUMBNAIL/image/gif/04b57c64c68f68704c23a10cae7c824c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14972</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr3/THUMBNAIL/image/gif/d7dea14d231a7d08bf1ec47268b2f8cc/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr3/THUMBNAIL/image/gif/d7dea14d231a7d08bf1ec47268b2f8cc/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21233</xocs:filesize>
+               <xocs:pixel-height>117</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/fx1/DOWNSAMPLED/image/jpeg/442249d31c577b7f97297ef9b362602f/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/fx1/DOWNSAMPLED/image/jpeg/442249d31c577b7f97297ef9b362602f/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10695</xocs:filesize>
+               <xocs:pixel-height>7</xocs:pixel-height>
+               <xocs:pixel-width>7</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr1/DOWNSAMPLED/image/jpeg/99b1cfaa09f8cd00fc5e3fd7265238c6/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr1/DOWNSAMPLED/image/jpeg/99b1cfaa09f8cd00fc5e3fd7265238c6/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>142127</xocs:filesize>
+               <xocs:pixel-height>998</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr2/DOWNSAMPLED/image/jpeg/f81f631ecbb54cc219f0245f60c9807e/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr2/DOWNSAMPLED/image/jpeg/f81f631ecbb54cc219f0245f60c9807e/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>81919</xocs:filesize>
+               <xocs:pixel-height>469</xocs:pixel-height>
+               <xocs:pixel-width>669</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr3/DOWNSAMPLED/image/jpeg/155580e5c4c2f79387792ad63a6121de/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr3/DOWNSAMPLED/image/jpeg/155580e5c4c2f79387792ad63a6121de/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80822</xocs:filesize>
+               <xocs:pixel-height>310</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/fx1/HIGHRES/image/jpeg/0a9a26d50a0ca82e8cd6168e52e161fd/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/fx1/HIGHRES/image/jpeg/0a9a26d50a0ca82e8cd6168e52e161fd/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>11540</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>31</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr1/HIGHRES/image/jpeg/1defe5706976561b73daa44190f3e7b7/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr1/HIGHRES/image/jpeg/1defe5706976561b73daa44190f3e7b7/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1018533</xocs:filesize>
+               <xocs:pixel-height>4420</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr2/HIGHRES/image/jpeg/428b0f93cea74d0dbceaf2b623d7e865/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr2/HIGHRES/image/jpeg/428b0f93cea74d0dbceaf2b623d7e865/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>382198</xocs:filesize>
+               <xocs:pixel-height>2078</xocs:pixel-height>
+               <xocs:pixel-width>2961</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/gr3/HIGHRES/image/jpeg/c0a7d8d615857b164852b6ef3061b0c0/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/gr3/HIGHRES/image/jpeg/c0a7d8d615857b164852b6ef3061b0c0/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>277466</xocs:filesize>
+               <xocs:pixel-height>822</xocs:pixel-height>
+               <xocs:pixel-width>1540</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319916318638-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319916318638/mmc1/MAIN/application/msword/846bc98bab810574c80648596ff525f8/mmc1.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319916318638/mmc1/MAIN/application/msword/846bc98bab810574c80648596ff525f8/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>3158528</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>18496</aid>
+            <ce:pii>S0360-3199(16)31863-8</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2016.06.124</ce:doi>
+            <ce:copyright type="society" year="2016">Hydrogen Energy Publications LLC</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">FE-SEM images of (a) the untreated, (b) HCl-treated, and (c) H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>-treated LSM electrodes. FE-SEM images of (d) the untreated, (e) HCl-treated, and (f) H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>-treated LSM-YSZ electrodes. (g) Surface atomic concentration ratios of the corresponding positions marked in the FE-SEM images.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:href="pii:S0360319916318638/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) I–V and I–P curves, (b) Nyquist and (c) Bode plots of impedance spectra of the electrolyte-supported Ni-YSZ/YSZ/LSM-YSZ cells with the treated (■) and untreated (<ce:inline-figure baseline="0.0">
+                        <ce:link locator="fx1" xlink:type="simple" xlink:href="pii:S0360319916318638/fx1"/>
+                     </ce:inline-figure>) electrodes at 800 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:href="pii:S0360319916318638/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">A schematic illustration of the deactivation and reactivation evolutions of the SOFC electrodes during the high temperature preparation and wet chemical solution treatment.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:href="pii:S0360319916318638/gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="tspara0010" view="all">Area specific resistance (ASR) of the electrodes obtained from electrochemical impedance spectroscopy on the different symmetric cells at 800 °C and the percentage change of the ASR values for the treated electrode compared to that for the corresponding untreated electrode. Wet H<ce:inf loc="post">2</ce:inf> for anode measurement and air for cathode measurement.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1" colwidth="13*"/>
+                  <colspec colnum="2" colname="col2" colwidth="11*"/>
+                  <colspec colnum="3" colname="col3" colwidth="13*"/>
+                  <colspec colnum="4" colname="col4" colwidth="15*"/>
+                  <colspec colnum="5" colname="col5" colwidth="16*"/>
+                  <colspec colnum="6" colname="col6" colwidth="16*"/>
+                  <colspec colnum="7" colname="col7" colwidth="9*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" namest="col1" nameend="col2">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col7">Area specific resistance (ASR) (Ω cm<sup loc="post">2</sup>), percentage change</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Untreated</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HCl treated</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HNO<inf loc="post">3</inf> treated</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaOH treated</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H<inf loc="post">2</inf>O<inf loc="post">2</inf> treated</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LSM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.85, 73.0%↓<cross-ref refid="tbl1fna" id="crosref0110">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.05, 70.0%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.96, 42.1%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.08, 69.6%↓</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">LSCM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Anode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.93</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.73, 21.7%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.74, 20.5%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.96, 2.7%↑<cross-ref refid="tbl1fnb" id="crosref0115">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.43, 53.1%↑</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.86, 47.0%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.19, 52.2%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.26, 5.3%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.21, 59.8%↓</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LSM-YSZ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.482</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.233, 51.8%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.281, 41.7%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.351, 27.2%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.191, 60.5%↓</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NiO-YSZ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Anode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.895</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.674, 24.7%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.787, 12.1%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.632, 29.4%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.633, 29.3%↓</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">LSCM-YSZ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Anode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.677</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.486, 28.2%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.487, 28.1%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.688, 1.6%↑</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.606, 10.5%↓</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.11, 36.4%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.26, 34.8%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.31, 23.9%↓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.80, 18.7%↓</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">ASR decreases compared to the corresponding untreated electrode.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl1fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="ntpara0015" view="all">ASR increases compared to the corresponding untreated electrode.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dhead0010">
+               <ce:textfn>Short Communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="title0010">Enhancing solid oxide fuel cell performance by electrode reactivation through wet chemical treatments</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Shancheng</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Han</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Lucun</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>College of Materials Science and Engineering, Nanjing Tech University, No. 5 Xinmofan Road, Nanjing, Jiangsu, 210009, PR China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Nanjing Tech University</sa:organization>
+                     <sa:address-line>No. 5 Xinmofan Road</sa:address-line>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:state>Jiangsu</sa:state>
+                     <sa:postal-code>210009</sa:postal-code>
+                     <sa:country>PR China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>
+                     <ce:italic>Corresponding author</ce:italic>. Tel.: +86 025 83587261; fax: +86 025 83306152.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="2" year="2016"/>
+            <ce:date-revised day="8" month="6" year="2016"/>
+            <ce:date-accepted day="12" month="6" year="2016"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The high-temperature sintering usually has adverse effects on surface chemistry/morphology of solid oxide fuel cell electrodes, hiding the intrinsic electrocatalytic activity of the materials used. Here we demonstrate the universal reactivation of the sintered electrodes using solution chemical treatments, resulting in a remarkable improvement in electrode performance. For example, the area specific resistance values were reduced by 73.0% and 29.4% for the HCl-treated strontium-doped LaMnO<ce:inf loc="post">3</ce:inf> (LSM) cathode and NaOH-treated nickel cermet anode, respectively. A 33% increase in peak power density of the cell with activated electrodes shows that activation treatment has great potential to become a strategically important process during manufacturing.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Solution chemical treatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Electrode reactivation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Surface chemistry/morphology</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Solid oxide fuel cells (SOFCs) typically consisting of an ionic-conducting ceramic and two porous electrodes are electrochemical devices that directly convert chemical energy into electricity without combustion and mechanical processes <ce:cross-ref refid="bib1" id="crosref0015">[1]</ce:cross-ref>. The electrodes play a crucial role in the performance of the SOFCs since they provide the interface between the chemical energy associated with fuel oxidation and electrical power. The primary electrode reactions, including the oxidation of the fuel and the reduction of the oxidant, occur mainly on the surface of the electrode catalysts <ce:cross-refs refid="bib2 bib3" id="crosrefs0010">[2,3]</ce:cross-refs>. Therefore, the electrodes with a high surface catalytic activity are of great importance to the SOFCs. Over the past decades, significant efforts have been devoted to enhancing the electrode performance, especially in the search for more efficient electrode catalyst materials. Perovskite-type Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3−δ</ce:inf> (BSCF) and layered double perovskite LnBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> (Ln: rare earth) are effective as cathode catalysts using ceria or lanthanum gallate based electrolytes <ce:cross-refs refid="bib4 bib5" id="crosrefs0015">[4,5]</ce:cross-refs>. Layered perovskite PrBaMn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> and LaCrO<ce:inf loc="post">3</ce:inf>-based anodes could be alternative anode materials with high tolerance to coking and poisoning <ce:cross-refs refid="bib6 bib7" id="crosrefs0020">[6,7]</ce:cross-refs>. Another approach for enhancing the electrode performance is to design novel electrode architectures. Nano-architectured electrodes prepared from ceramic nanoparticles or nanofibers have large surface-to-volume ratio and enhanced surface electrocatalytic activity <ce:cross-refs refid="bib8 bib9" id="crosrefs0025">[8,9]</ce:cross-refs>. The electrode performance also can be enhanced by surface modification through a solution-based infiltration process. The discrete catalyst nanoparticles or continuous catalyst nanofilms added to the internal surfaces of the porous electrodes enhance the kinetics of the electrode processes <ce:cross-refs refid="bib10 bib11" id="crosrefs0030">[10,11]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">At present, the high-temperature treatment steps (typically at 900–1300 °C) are still required to achieve a reasonable bonding between the electrode and electrolyte layers, and electrode particles for the charge transport in the mainstream manufacturing processes of the electrodes <ce:cross-ref refid="bib12" id="crosref0020">[12]</ce:cross-ref>. Such high temperature has two major adverse effects on the microstructure and performance of the electrode. First, the sintering and grain growth of the primary particles lead to a decrease in the electrode surface area <ce:cross-ref refid="bib13" id="crosref0025">[13]</ce:cross-ref>. Second, the cations and impurities may segregate to the surface and interfaces, blocking the surface active catalytic sites <ce:cross-refs refid="bib14 bib15" id="crosrefs0035">[14,15]</ce:cross-refs>. Therefore, it is difficult to retain the intrinsic properties of the selected material and the electrode performance may be much lower than expected. The reactivation phenomenon of the sintered electrode was first observed on LSM-based cathode after applying cathodic current/polarization potentials <ce:cross-ref refid="bib16" id="crosref0030">[16]</ce:cross-ref>. Based on a comparative study on the electrodes with and without dilute acid etching, Jiang et al. suggested that the surface-segregated SrO has a significant inhibiting effect on the surface exchange process of the electrode reactions and attributed the activation effect to the incorporation of SrO into LSM lattice <ce:cross-ref refid="bib17" id="crosref0035">[17]</ce:cross-ref>. The similar acid/alkali solution etching experiments have also been performed to investigate the effect of surface Sr segregation on the cathode performance by other researches <ce:cross-refs refid="bib18 bib19" id="crosrefs0040">[18,19]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0040" view="all">Herein, we present the reactivation of the sintered SOFC electrodes and the improvement of cell performance by wet chemical treating the electrodes. The possible generality of this approach was examined through investigating the performance of several typical SOFC electrodes treated with different solutions.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:para id="p0045" view="all">The La<ce:inf loc="post">0.75</ce:inf>Sr<ce:inf loc="post">0.25</ce:inf>Cr<ce:inf loc="post">0.5</ce:inf>Mn<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">3−δ</ce:inf> (LSCM) has been prepared by solid-state reaction using La<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, SrCO<ce:inf loc="post">3</ce:inf>, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. The stoichiometric quantities of reactants were ball-milled with ethanol for 8 h, and then calcined in air at 1400 °C for 24 h. Commercial powders of YSZ, NiO, and LSM were also selected as electrode materials. The symmetric cells used for electrode polarization resistance measurements. The YSZ substrates with a thickness of ∼1 mm were prepared by die-pressing YSZ powder (TERIO Co., China) and sintering at 1500 °C for 2 h in air. To prepare the electrode, the electrode powders were ball-milled with a terpineol-based organic vehicle to form electrode paste. The paste was then screen-printed onto both sides of the YSZ substrate, followed by sintering typically at 1000–1300 °C. The sintered symmetric cells were dipped into various aqueous solutions for electrode treatments, thoroughly washed by de-ionized water and then dried at 100 °C for 2 h. Details of the electrodes and treating parameters are shown in <ce:cross-ref refid="appsec1" id="crosref0040">Table S1</ce:cross-ref>. The electrolyte-supported single cells were adopted for the fuel cell test. The YSZ electrolyte was 20 mm in diameter and 0.2 mm in thickness. The anode NiO-YSZ slurry was screen-printed onto one side of the electrolyte and sintered at 1300 °C for 2 h. Then, the cathode LSM-YSZ ink was screen-printed onto another side and fired at 1100 °C for 2 h. The single cells also were dipped into aqueous solutions for electrode treatments.</ce:para>
+                  <ce:para id="p0050" view="all">The electrode polarization resistance of the symmetric cells was investigated by Electrochemical Impedance Spectra (EIS) measurement in a two-electrode configuration under symmetric atmospheres (wet H<ce:inf loc="post">2</ce:inf> for anode and air for cathode) using CHI 604e electrochemical workstation. EIS data were recorded in the frequency range of 100 KHz to 0.1 Hz (or 0.01 Hz) using AC signal of 10 mV under open circuit voltage (OCV) condition. The morphology and elemental composition of the electrode particle surfaces were examined by a field-emission scanning electron microscope (Ultra55 FE-SEM, ZEISS) equipped with energy-dispersive X-ray spectrometer (EDS, Oxford). The single cell was tested using 50 mL min<ce:sup loc="post">−1</ce:sup> humidified hydrogen as the fuel and ambient static air as the oxidant. The current–voltage curves of the cells were monitored using a Keithley 2420 digital source meter. The impedance spectra of fuel cell were recorded in the frequency range from 100 KHz to 0.1 Hz with an AC amplitude of 10 mV at open circuit.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:para id="p0055" view="all">The area specific resistances (ASRs) of several typical electrodes obtained from the impedance spectra on the symmetric cells at 800 °C are tabulated in <ce:cross-ref refid="tbl1" id="crosref0045">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. As can be seen, although the wet chemical treatment parameters, such as composition and concentration of the solution and treatment time, have not been systematically optimized, the ASR values for most of the treated electrodes are generally on a downward trend. The catalytic activity of these treated electrodes is obviously enhanced. For each type electrode, there are one or more solutions which can be used to treat the electrode for enhancing the electrode performance. Therefore, the improvement of the catalytic property may be a generally existent phenomenon for the sintered SOFC electrodes treated with chemical solutions. It should also be noted that an inappropriate treatment may result in an increase of the electrode ASR. For example, the ASR for LSCM anode increases by 53.1% after treating with H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>. The concentration of the solution and treatment time may play crucial roles in the electrode reactivation. Usually, it takes a long time to achieve a satisfactory treating result with low concentration solutions. Increasing the solution concentration is able to shorten the required treating time. However, lowering the concentration of the treating solution can improve the controllability of the treatment process, resulting in a better treatment effect. Further study is needed to optimize the wet chemical treatment parameters, such as composition and concentration of the solution and treatment time.</ce:para>
+                  <ce:para id="p0060" view="all">The FE-SEM images of the microstructure obtained from the partial electrodes are shown in <ce:cross-ref refid="fig1" id="crosref0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>(a)–(f). As shown in <ce:cross-ref refid="fig1" id="crosref0055">Fig. 1</ce:cross-ref>(a) and (d), the surface of the LSM particles in the untreated electrodes was relatively dense, clear and smooth except some step facets. Some changes of the surface microstructure of the electrode particles occurred more or less after wet chemical treatments. For the H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>-treated LSM electrode shown in <ce:cross-ref refid="fig1" id="crosref0060">Fig. 1</ce:cross-ref>(c), many small crystallites were observed on some surface while some other surface seemed to be dissolved evidently resulting in the formation of many new mesopores. <ce:cross-ref refid="fig1" id="crosref0065">Fig. 1</ce:cross-ref>(e) and (f) show the surface morphologies of the LSM particles became rougher after treatments, while no observable changes were seen on the surface of the YSZ particles.</ce:para>
+                  <ce:para id="p0065" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0070">Fig. 1</ce:cross-ref>(g) shows the cations ration of the corresponding position marked in the SEM images. The enrichment of La on the surface of the particles in the untreated LSM-based electrodes is observed (P<ce:inf loc="post">1</ce:inf>) compared with cations ration calculated from the chemical formula. The chemical reactions between LSM and solutions are various. The relative amount of La on the surface was reduced after HCl treatment (P<ce:inf loc="post">2</ce:inf> and P<ce:inf loc="post">5</ce:inf>), while Mn and Sr were reduced after H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> treatment (P<ce:inf loc="post">3</ce:inf>, P<ce:inf loc="post">4</ce:inf> and P<ce:inf loc="post">5</ce:inf>). The amount of the elements at point P<ce:inf loc="post">4</ce:inf> was reduced much more than that at point P<ce:inf loc="post">3</ce:inf>, which is consistent with the changes of the microstructure, possibly due to that the different direction crystal plane has different reaction activity with a particular chemical solution <ce:cross-ref refid="bib20" id="crosref0075">[20]</ce:cross-ref>. A small amount of Zr at point P<ce:inf loc="post">5</ce:inf> and P<ce:inf loc="post">6</ce:inf> is probably a consequence of the diffusion during sample high temperature preparation (<ce:cross-ref refid="appsec1" id="crosref0080">Table S2</ce:cross-ref>). The corrosion resistance of different ceramic materials to chemical solution may be much different. For example, the YSZ has good corrosion resistance, while the corrosion resistance of the LSM is much weak. Moreover, there are large differences in the reactivity of the solutions and different ions in the ceramic, resulting in the selective dissolution of the ions with fast reaction rate and high solubility, and the other parts are left on the electrode particle surfaces. These may lead to the change of element distribution and the creation of mesopores and rougher surfaces.</ce:para>
+                  <ce:para id="p0070" view="all">The performance of the selected electrolyte-supported Ni-YSZ/YSZ/LSM-YSZ cells with the treated and untreated electrodes is shown in <ce:cross-ref refid="fig2" id="crosref0085">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. It can be seen that the cell with wet chemical treated electrodes could produces a ∼33% increase in peak power density, from ∼206 to ∼273 mW cm<ce:sup loc="post">−2</ce:sup> at 800 °C. Dramatic improvements in performance of the treated electrodes are also directly evident in the AC impedance characteristics. As shown in <ce:cross-ref refid="fig2" id="crosref0090">Fig. 2</ce:cross-ref>(b), the Nyquist plot of the polarization resistance reduced in size to less than 40% of its original form. <ce:cross-ref refid="fig2" id="crosref0095">Fig. 2</ce:cross-ref>(c) shows an overall decrease in the phase angle (θ) after treatment for both the intermediate ∼10 Hz and high ∼10<ce:sup loc="post">4</ce:sup> Hz frequency peaks, with the intermediate frequency peak at ∼10 Hz most drastically reduced. Since the intermediate frequency peak is usually associated with surface kinetics on the electrode <ce:cross-refs refid="bib21 bib22" id="crosrefs0045">[21,22]</ce:cross-refs>, the strong decrease in the phase angle at this frequency suggests that wet chemical treatment is an effective means of reactivating the electrode surface which is probably passivated during high temperature preparation.</ce:para>
+                  <ce:para id="p0075" view="all">For LSM-based cathodes activation effects of cathodic polarization were reported in a number of studies <ce:cross-refs refid="bib16 bib17 bib23" id="crosrefs0050">[16,17,23]</ce:cross-refs>. A mechanism involving the removal of SrO species on the LSM surface followed by the reduction in manganese ions with the concomitant formation of oxygen vacancies is accepted by more and more researchers <ce:cross-refs refid="bib17 bib23" id="crosrefs0055">[17,23]</ce:cross-refs>. The mechanism is also adopted to explain the activation processes of the cathodes by other approach such as LSM-based cathode treated with HCl acid solution or NaOH alkali solution. In their literature, they claimed that no observable difference of microstructure was seen by SEM for the treated electrodes <ce:cross-refs refid="bib15 bib19" id="crosrefs0060">[15,19]</ce:cross-refs>. Jung et al. showed that the surface morphology of the dense thin film SrTi<ce:inf loc="post">1−x</ce:inf>Fe<ce:inf loc="post">x</ce:inf>O<ce:inf loc="post">3−δ</ce:inf> cathodes become rougher after etching with a buffered HF solution, although the total surface area changed by only a few percent <ce:cross-ref refid="bib18" id="crosref0100">[18]</ce:cross-ref>. However, it may become quite different for the porous electrodes. The surface area of various materials can be enlarged by appropriate surface etching processes, leading to a change of surface properties such as catalytic activity <ce:cross-refs refid="bib24 bib25" id="crosrefs0065">[24,25]</ce:cross-refs>. Our SEM and EDS observations show that the wet chemical treatments have significant effects not only on the surface microstructure, but also on the surface composition of the electrodes. These changes are accompanied by an improvement of electrocatalytic activity as shown by the impedance and peak power density data. The underlying mechanisms for the deactivation and reactivation of the different electrode-solution systems vary somewhat in detail but the main features are substantially the same (<ce:cross-ref refid="fig3" id="crosref0105">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>). As a consequence of the high temperature treatment during cell preparation, the densification of grain and segregation of cations and impurities to the particle surface decrease the electrode surface area and the number of active catalytic sites. An appropriate reaction between the chemical solution and the sintered electrode could not only remove or reduce undesired element species on the grain surface and interfaces, but also enlarge the surface area of the electrode, resulting in an improvement in the electrode performance, although one of these effects sometimes may be more dominant than the other for practical situations.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0040">Conclusion</ce:section-title>
+                  <ce:para id="p0080" view="all">In summary, the improvement performance of fuel cell arising from the optimization of the chemistry and morphology of the electrode surface by wet chemical treatment indicates that this process is an effective way for the reactivation of the sintered electrodes. However, more work needs to be done to examine long-term stability of the reactivated electrodes and gain insight into the relationships of electrochemical performance, surface chemistry and structure with the treatment process parameters in various electrode-solution systems for the practical application in SOFCs commercialization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0045">Acknowledgements</ce:section-title>
+               <ce:para id="p0085" view="all">This work was supported by the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Graduate Science and Technology Innovation Foundation of Jiangsu</ce:grant-sponsor> (<ce:grant-number refid="gs1">CXLX13_407</ce:grant-number>) and the <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Priority Academic Program Development (PAPD) of Jiangsu Higher Education Institutions</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0050">Supplementary data</ce:section-title>
+                  <ce:para id="p0090" view="all">The following is the supplementary data related to this article:<ce:display>
+                        <ce:e-component id="ec1">
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:href="pii:S0360319916318638/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0055">Supplementary data</ce:section-title>
+                  <ce:para id="p0095" view="all">Supplementary data related to this article can be found at <ce:inter-ref xlink:href="doi:10.1016/j.ijhydene.2016.06.124" id="intref0010" xlink:type="simple">http://dx.doi.org/10.1016/j.ijhydene.2016.06.124</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0060">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                                 <ce:surname>Minh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceramic fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Ceram Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>563</sb:first-page>
+                              <sb:last-page>588</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>660</sb:first-page>
+                              <sb:last-page>674</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simulation of EIS spectra and polarization curves based on Ni/YSZ patterned anode elementary reaction models</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1037</sb:first-page>
+                              <sb:last-page>1043</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Haile</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A high-performance cathode for the next generation of solid-oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>431</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Superior electrochemical performance and oxygen reduction kinetics of layered perovskite PrBa<ce:inf loc="post">x</ce:inf>Co<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> (x = 0.90–1.0) oxides as cathode materials for intermediate-temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>18392</sb:first-page>
+                              <sb:last-page>18404</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sengodan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-W.</ce:given-name>
+                                 <ce:surname>Ju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layered oxygen-deficient double perovskite as an efficient and stable anode for direct hydrocarbon solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>209</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Boulfrad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cassidy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Djurado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.S.</ce:given-name>
+                                 <ce:surname>Irvine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jabbour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pre-coating of LSCM perovskite with metal catalyst for scalable high performance anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9519</sb:first-page>
+                              <sb:last-page>9524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Menzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An intermediate-temperature solid oxide fuel cell with electrospun nanofiber cathode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7066</sb:first-page>
+                              <sb:last-page>7071</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Abbas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Raza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ahmad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Chaudhry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Sherazi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesize and characterization of nanocomposite anodes for low temperature solid oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>891</sb:first-page>
+                              <sb:last-page>897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.Z.</ce:given-name>
+                                 <ce:surname>Sholklapper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kurokawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Visco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>De Jonghe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanostructured solid oxide fuel cell electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2136</sb:first-page>
+                              <sb:last-page>2141</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Blinn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced performance of LSCF cathode through surface modification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8613</sb:first-page>
+                              <sb:last-page>8620</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Wincewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Cooper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Taxonomies of SOFC material and manufacturing alternatives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>280</sb:first-page>
+                              <sb:last-page>296</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Love</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of high-performance NiO/Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-ZrO<ce:inf loc="post">2</ce:inf> cermet anodes of solid oxide fuel cells by ion impregnation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1175</sb:first-page>
+                              <sb:last-page>A1183</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Coffey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hardy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Pedersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Rieke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Thomsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Walpole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical properties of lanthanum strontium aluminum ferrites for the oxygen reduction reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A mechanistic study on the activation process of (La, Sr) MnO<ce:inf loc="post">3</ce:inf> electrodes of solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1361</sb:first-page>
+                              <sb:last-page>1369</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Wiemhofer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gopel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Active reaction sites for oxygen reduction in La<ce:inf loc="post">0.9</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/YSZ electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2659</sb:first-page>
+                              <sb:last-page>2664</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Love</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Origin of the initial polarization behavior of Sr-doped LaMnO<ce:inf loc="post">3</ce:inf> for O<ce:inf loc="post">2</ce:inf> reduction in solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Tuller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of surface Sr segregation in model thin film solid oxide fuel cell perovskite electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5370</sb:first-page>
+                              <sb:last-page>5378</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of alkali solution treatment on the electrochemical activity of the strontium doped LaMnO<ce:inf loc="post">3</ce:inf>-based electrode for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem Commun</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Lehmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The physics of macropore formation in low doped N-type silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2836</sb:first-page>
+                              <sb:last-page>2843</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.I.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of LSM-YSZ composite electrode by ac impedance spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>379</sb:first-page>
+                              <sb:last-page>389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Primdahl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation of hydrogen on Ni/yttria-stabilized zirconia cermet anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3409</sb:first-page>
+                              <sb:last-page>3419</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Falk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rohnke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luerssen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Amati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gregoratti</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ study of activation and deactivation of LSM fuel cell cathodes electrochemistry and surface analysis of thin-film electrodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Catal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>294</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                              <sb:last-page>88</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Creating mesopores in ZSM-5 zeolite by alkali treatment: a new way to enhance the catalytic performance of methane dehydroaromatization on Mo/HZSM-5 catalysts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                              <sb:last-page>167</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.O.</ce:given-name>
+                                 <ce:surname>Tadé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A top-down strategy for the synthesis of mesoporous Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3−δ</ce:inf> as a cathode precursor for buffer layer-free deposition on stabilized zirconia electrolyte with a superior electrochemical performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>274</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1024</sb:first-page>
+                              <sb:last-page>1033</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

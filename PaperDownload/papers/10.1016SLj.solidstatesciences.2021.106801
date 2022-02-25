@@ -1,0 +1,2347 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1293255821002697</prism:url><dc:identifier>doi:10.1016/j.solidstatesciences.2021.106801</dc:identifier><eid>1-s2.0-S1293255821002697</eid><prism:doi>10.1016/j.solidstatesciences.2021.106801</prism:doi><pii>S1293-2558(21)00269-7</pii><dc:title>Lanthanum strontium cobaltite as interconnect in oxide thermoelectric generators </dc:title><prism:publicationName>Solid State Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>12932558</prism:issn><prism:volume>124</prism:volume><prism:startingPage>106801</prism:startingPage><prism:pageRange>106801</prism:pageRange><articleNumber>106801</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2022-02-28</prism:coverDate><prism:coverDisplayDate>February 2022</prism:coverDisplayDate><prism:copyright>© 2022 The Authors. Published by Elsevier Masson SAS.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Masson SAS.</prism:publisher><dc:creator>Madathil, Reshma K.</dc:creator><dc:creator>Norby, Truls</dc:creator><dc:description>
+                  Issues related to use of metallic interconnects in oxide thermoelectric generators (TEGs) need to be addressed to secure performance and durability. Metal interconnects suffer from high cost of noble metals or chemical instability and contact resistance of non-noble metals, arising from oxidation, evaporation, and delamination in the oxidising conditions of ambient air at high operating temperatures. This work introduces the use of a stable and highly conducting ceramic oxide, in our case p-type lanthanum strontium cobaltite (La0.6Sr0.4CoO3, LSC) as interconnect. We verified the thermochemical stability of LSC in contact with p-type Ni0.98Li0.02O (Li–NiO) and n-type Zn0.98Al0.02O (Al–ZnO) and examined the electrical characteristics. An area specific contact resistance (ASRc) of ∼1800 Ω cm2 for a direct p-n junction was reduced to ∼400 mΩ cm2 for a p-LSC-n junction at a temperature of 300 °C, validating the concept. The use of a screen-printed LSC/Al–ZnO composite as a thin interconnect layer was found to decrease the contact resistance of the junction further to ∼260 mΩ cm2 at 300 °C, attributed to increased effective area of the LSC/Al–ZnO p-n junction.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Norway institutes 2021</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Thermoelectric generator</dcterms:subject><dcterms:subject>All-oxide</dcterms:subject><dcterms:subject>Thermoelectric materials</dcterms:subject><dcterms:subject>Oxides</dcterms:subject><dcterms:subject>Interconnect</dcterms:subject><dcterms:subject>Oxide</dcterms:subject><dcterms:subject>p-n-junction</dcterms:subject><dcterms:subject>Ohmic</dcterms:subject><dcterms:subject>LaCoO3
+                  </dcterms:subject><dcterms:subject>Sr-substituted</dcterms:subject><dcterms:subject>La0.6Sr0.4CoO3
+                  </dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1293255821002697" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1293255821002697" rel="scidir"/></coredata><objects><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="332" size="145671">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="366" size="111041">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="353" size="129190">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="422" size="100448">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="229" size="87979">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="348" size="152549">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="454" size="130085">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="257" height="200" size="119050">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="799" size="243564">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="125" size="79001">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="174" height="164" size="76988">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="133" size="76210">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="151" height="164" size="73760">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="70036">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="81054">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="140" height="163" size="79420">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="97700">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="128" height="164" size="92799">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2568" height="1470" size="475054">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="1621" size="268895">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2567" height="1564" size="373470">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="1869" size="237866">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1014" size="212143">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2568" height="1543" size="944188">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="2008" size="384025">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1141" height="886" size="458574">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="3541" size="1538210">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="101671">https://api.elsevier.com/content/object/eid/1-s2.0-S1293255821002697-si1.svg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85122308389</scopus-id><scopus-eid>2-s2.0-85122308389</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85122308389" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272155</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid State Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATESCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20220105">2022-01-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20220105">2022-01-05</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20220106">2022-01-06</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20220106">2022-01-06</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2022-01-26T10:56:00</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1293255821002697</xocs:eid>
+      <xocs:pii-formatted>S1293-2558(21)00269-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1293255821002697</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.solidstatesciences.2021.106801</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1293255821X00143</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220126">2022-01-26T11:15:57.813512Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220201</xocs:date-search-begin>
+      <xocs:date-search-end>20220228</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1641370064">2022-01-05T08:07:44.077581Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1293-2558</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>12932558</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>UNIT2021</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>124</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>124</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 124</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>106801</xocs:first-fp>
+      <xocs:article-number>106801</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>106801</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202202</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2022 The Authors. Published by Elsevier Masson SAS.</xocs:copyright-line>
+      <xocs:normalized-article-title>LANTHANUMSTRONTIUMCOBALTITEINTERCONNECTINOXIDETHERMOELECTRICGENERATORS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MADATHIL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials characterisation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrical measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Author statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>NOUDEM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>48</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ZEBARJADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>XIONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115303</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>ASWAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>50</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>SNYDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>528</xocs:ref-first-fp>
+            <xocs:ref-last-lp>531</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-last-lp>339</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>SKOMEDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1700256</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>MUCHILO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>246</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DEVELOPMENTMECHANICALLYCHEMICALLYSTABLEELECTRICALCONTACTSFORTHERMOELECTRICOXIDEMATERIAL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>REDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3751</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>ARAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1771</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1777</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>357</xocs:ref-first-fp>
+            <xocs:ref-last-lp>376</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>336</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>449</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>FUNAHASHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1036</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1038</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>HOLGATE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>827</xocs:ref-first-fp>
+            <xocs:ref-last-lp>833</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>KOZUKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11003</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11005</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>DESISSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5296</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>DESISSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>215</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>KONONCHUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-last-lp>403</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>ITO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>VELCIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6876</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6881</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>AKSENOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1336</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1340</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>BARBIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>475</xocs:ref-first-fp>
+            <xocs:ref-last-lp>490</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>THI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>HJALMARSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1853</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1862</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>SEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>STA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>2012FIRSTINTERNATIONALCONFERENCERENEWABLEENERGIESVEHICULARTECHNOLOGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>FABRICATIONCHARACTERIZATIONNIOZNOPNJUNCTIONSBYSOLGELSPINCOATINGTECHNIQUE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1787</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1791</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>GAUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1725</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1728</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>IGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8999</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>MEZIANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>244</xocs:ref-first-fp>
+            <xocs:ref-last-lp>249</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>432</xocs:ref-first-fp>
+            <xocs:ref-last-lp>438</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref34">
+            <xocs:ref-normalized-surname>HARON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-last-lp>491</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MADATHILX2022X106801</xocs:refkey3>
+         <xocs:refkey4ai>MADATHILX2022X106801XR</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2022-01-04T22:54:37Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Norway institutes 2021</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2024-01-06T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2024-01-06T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2022 The Authors. Published by Elsevier Masson SAS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-01-11T00:48:32.139Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>University of Oslo</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>UiO</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Universitetet i Oslo</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100005366</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3144096/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was enabled as part of the innovation cluster initiative “THERMiO” financed by the Faculty of Mathematics and Natural Sciences, University of Oslo .</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1293-2558(21)00269-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1293255821002697</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1293255821002697</xocs:eid>
+         <xocs:doi>10.1016/j.solidstatesciences.2021.106801</xocs:doi>
+         <xocs:cid>272155</xocs:cid>
+         <xocs:timestamp>2022-01-26T11:15:57.813512Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>UNIT2021</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/MAIN/application/pdf/2064163cd61adadbedc58cf2d4340eed/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>6276465</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1293255821002697-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/PREVIEW/image/png/6aa8bc1272e1a81016b77784e01dfa0b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56789</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr8/DOWNSAMPLED/image/jpeg/30f5cffe0f3ed4db0d7ae3300ef715a9/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145671</xocs:filesize>
+               <xocs:pixel-height>332</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr4/DOWNSAMPLED/image/jpeg/02950f71a4be14ab00739394b41dcc19/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>111041</xocs:filesize>
+               <xocs:pixel-height>366</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr5/DOWNSAMPLED/image/jpeg/2d31e7a2cc5a10eee2cef5d7215718fe/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>129190</xocs:filesize>
+               <xocs:pixel-height>353</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr6/DOWNSAMPLED/image/jpeg/1140629a1cf32ae4ec6e24859e384b8c/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>100448</xocs:filesize>
+               <xocs:pixel-height>422</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr7/DOWNSAMPLED/image/jpeg/34420512ad4e5d514f762bb99fde8158/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>87979</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr1/DOWNSAMPLED/image/jpeg/a3db1ae1019c80bea9342e6c87c4f176/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>152549</xocs:filesize>
+               <xocs:pixel-height>348</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr2/DOWNSAMPLED/image/jpeg/d73a940237d551695d4bb05b8bb6c1bc/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>130085</xocs:filesize>
+               <xocs:pixel-height>454</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/ga1/DOWNSAMPLED/image/jpeg/fe477392f3f687b24de0cb9d1b3c91b0/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119050</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>257</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr3/DOWNSAMPLED/image/jpeg/458a3b225d56cb7d2d78c81fbe145500/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>243564</xocs:filesize>
+               <xocs:pixel-height>799</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr8/THUMBNAIL/image/gif/5089a5fa5dd647c8ebd8a005fe8d1e58/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>79001</xocs:filesize>
+               <xocs:pixel-height>125</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr4/THUMBNAIL/image/gif/2ed864b2f7628a6dbb9968d14a621a4e/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>76988</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>174</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr5/THUMBNAIL/image/gif/276b2785dd3ba3e9296fd4dfc046c927/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>76210</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr6/THUMBNAIL/image/gif/ff42a71db34707b4141a76899e608a2a/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>73760</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>151</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr7/THUMBNAIL/image/gif/a36f0e4570bc9f172821ff40c682e435/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>70036</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr1/THUMBNAIL/image/gif/b550288af859bd3645a9c0ef5f09b7aa/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>81054</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr2/THUMBNAIL/image/gif/31b5e8b85c32fd465ce8a62c98dbfb4f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>79420</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>140</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/ga1/THUMBNAIL/image/gif/f0b4782aeb6bd7e6958076ff435ba232/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>97700</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr3/THUMBNAIL/image/gif/3e8a6fb8281232e1bc38e5e438969a7d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>92799</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>128</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr8/HIGHRES/image/jpeg/378f00ab82a11d08847ac63ec39edb86/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>475054</xocs:filesize>
+               <xocs:pixel-height>1470</xocs:pixel-height>
+               <xocs:pixel-width>2568</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr4/HIGHRES/image/jpeg/eb07903fdd8f244dcd219ed278083d11/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>268895</xocs:filesize>
+               <xocs:pixel-height>1621</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr5/HIGHRES/image/jpeg/1e2f2f0cee865db752981b01d8e5a647/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>373470</xocs:filesize>
+               <xocs:pixel-height>1564</xocs:pixel-height>
+               <xocs:pixel-width>2567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr6/HIGHRES/image/jpeg/b972519edee3d75256c6c6cb64510893/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>237866</xocs:filesize>
+               <xocs:pixel-height>1869</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr7/HIGHRES/image/jpeg/e0cc8821c9e0fc11951946babf49dd0d/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>212143</xocs:filesize>
+               <xocs:pixel-height>1014</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr1/HIGHRES/image/jpeg/be1d9373d5a1279fe499de71d24e2b96/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>944188</xocs:filesize>
+               <xocs:pixel-height>1543</xocs:pixel-height>
+               <xocs:pixel-width>2568</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr2/HIGHRES/image/jpeg/584e732e298a7c26abddd6d48554875c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>384025</xocs:filesize>
+               <xocs:pixel-height>2008</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/ga1/HIGHRES/image/jpeg/910a72d044fbde311c02ad430fc352ce/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>458574</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1141</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/gr3/HIGHRES/image/jpeg/ee823174a40aa1e16b768b2262ac46ec/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1538210</xocs:filesize>
+               <xocs:pixel-height>3541</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1293255821002697-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1293255821002697/STRIPIN/image/svg+xml/7c803ecf1655ddc2fc6c75c1fba38c77/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>101671</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>SSSCIE</jid>
+            <aid>106801</aid>
+            <ce:article-number>106801</ce:article-number>
+            <ce:pii>S1293-2558(21)00269-7</ce:pii>
+            <ce:doi>10.1016/j.solidstatesciences.2021.106801</ce:doi>
+            <ce:copyright type="other" year="2022">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Schematic diagram of assemblies used for electrical characterisation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">X-ray diffraction patterns of (a) calcined La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf> powder (b) mixture of LSC with Li–NiO and (c) LSC with Al–ZnO after 100 h of heat treatment at 1100 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">SEM secondary electron detector images of a) surface and b) fracture cross-section of sintered LSC pellet. SEM back scattered electron images of c) surface and (d) fracture cross-section of LSC/Al–ZnO composite pellet. Bright grains represent LSC, dark grains represent Al–ZnO. SEM back scattered electron images of fracture cross sections of the interfaces between screen-printed LSC and (e) Li–NiO and (f) Al–ZnO.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">I-U<ce:inf loc="post">A</ce:inf> curves of the p-L<ce:inf loc="post">p</ce:inf>-n (Li–NiO/LSC/Al–ZnO) junction at three different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Logarithmic values of area specific resistance as a function of inverse temperature for (a) p-n and p-L<ce:inf loc="post">p</ce:inf>-n and for (b) p-L<ce:inf loc="post">p</ce:inf>-n and p-L<ce:inf loc="post">s</ce:inf>-n.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Tauc plot based on UV–Vis absorption spectrum for estimation of band gap of LSC.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">An illustration of band diagram developed for a p-L-n junction before and after contact based on the band gaps of the materials at room temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Arrhenius plot for (a) five different LSC/Al–ZnO composite composition and pure LSC pellet interfaces and (b) junction with the printed interconnects of LSC and LZ<ce:inf loc="post">5</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0010" view="all">Volume composition of composite LSC/Al–ZnO and LSC interconnects and corresponding activation energy <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> and preexponential factor <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">R</ce:inf> calculated from <ce:cross-ref refid="fig8" id="crosref0205">Fig. 8</ce:cross-ref>(a).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0055">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Vol% of LSC:Al–ZnO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">a</inf> (eV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>A</italic>
+                           <inf loc="post">R</inf> (mΩ cm<sup loc="post">2</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">1p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20:80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">2p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">35:65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">3p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">50:50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">4p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">65:35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">5p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">80:20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.45</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LZ<inf loc="post">5s</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">80:20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.41</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">L<inf loc="post">p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100:00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">L<inf loc="post">s</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">100:00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.59</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Lanthanum strontium cobaltite as interconnect in oxide thermoelectric generators</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0003-4620-7106" author-id="S1293255821002697-8caaab0249964497c93dae62073d89cd">
+                  <ce:given-name>Reshma K.</ce:given-name>
+                  <ce:surname>Madathil</ce:surname>
+               </ce:author>
+               <ce:author id="au2" orcid="0000-0003-0909-0439" author-id="S1293255821002697-da400f2d264eda230d49494dcee1bee5">
+                  <ce:given-name>Truls</ce:given-name>
+                  <ce:surname>Norby</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S1293255821002697-868e323f7b54bbb0a09450aa4cc76b7d">
+                  <ce:textfn>Department of Chemistry, Centre for Materials Science and Nanotechnology, University of Oslo, FERMiO, Gaustadalléen 21, NO-0349, Oslo, Norway</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry</sa:organization>
+                     <sa:organization>Centre for Materials Science and Nanotechnology</sa:organization>
+                     <sa:organization>University of Oslo</sa:organization>
+                     <sa:organization>FERMiO</sa:organization>
+                     <sa:address-line>Gaustadalléen 21</sa:address-line>
+                     <sa:address-line>NO</sa:address-line>
+                     <sa:city>Oslo</sa:city>
+                     <sa:postal-code>0349</sa:postal-code>
+                     <sa:country>Norway</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Chemistry, Centre for Materials Science and Nanotechnology, University of Oslo, FERMiO, Gaustadalleen 21, NO, 0349, Oslo, Norway</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="11" year="2021"/>
+            <ce:date-revised day="18" month="12" year="2021"/>
+            <ce:date-accepted day="20" month="12" year="2021"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Issues related to use of metallic interconnects in oxide thermoelectric generators (TEGs) need to be addressed to secure performance and durability. Metal interconnects suffer from high cost of noble metals or chemical instability and contact resistance of non-noble metals, arising from oxidation, evaporation, and delamination in the oxidising conditions of ambient air at high operating temperatures. This work introduces the use of a stable and highly conducting ceramic oxide, in our case p-type lanthanum strontium cobaltite (La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf>, LSC) as interconnect. We verified the thermochemical stability of LSC in contact with p-type Ni<ce:inf loc="post">0.98</ce:inf>Li<ce:inf loc="post">0.02</ce:inf>O (Li–NiO) and n-type Zn<ce:inf loc="post">0.98</ce:inf>Al<ce:inf loc="post">0.02</ce:inf>O (Al–ZnO) and examined the electrical characteristics. An area specific contact resistance (ASR<ce:inf loc="post">c</ce:inf>) of ∼1800 Ω cm<ce:sup loc="post">2</ce:sup> for a direct p-n junction was reduced to ∼400 mΩ cm<ce:sup loc="post">2</ce:sup> for a p-LSC-n junction at a temperature of 300 °C, validating the concept. The use of a screen-printed LSC/Al–ZnO composite as a thin interconnect layer was found to decrease the contact resistance of the junction further to ∼260 mΩ cm<ce:sup loc="post">2</ce:sup> at 300 °C, attributed to increased effective area of the LSC/Al–ZnO p-n junction.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf> (LSC) forms a stable ohmic interconnect between p-type Li-doped NiO and n-type Al-doped ZnO thermoelectric oxides, and a screen-printed LSC/Al–ZnO composite decreases contact resistance further.<ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1293255821002697/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Thermoelectric generator</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>All-oxide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Thermoelectric materials</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Oxides</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Oxide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0040">
+                  <ce:text>p-n-junction</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0045">
+                  <ce:text>Ohmic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0050">
+                  <ce:text>LaCoO<ce:inf loc="post">3</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0055">
+                  <ce:text>Sr-substituted</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0060">
+                  <ce:text>La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Oxide thermoelectric generators (TEGs) have potential advantages over non-oxides in terms of stability at higher temperatures under oxidising conditions (ambient air), non-toxicity, and low cost [<ce:cross-ref refid="bib1" id="crosref0015">1</ce:cross-ref>]. To meet industrial demands, the figure of merit (<ce:italic>zT</ce:italic>) of oxide thermoelectrics needs to improve, however, and focus has hence primarily been on the properties of the thermoelectric (TE) materials, while the stability and resistance of interconnects and interfaces have been less investigated [<ce:cross-ref refid="bib2" id="crosref0020">2</ce:cross-ref>]. The contact resistance <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> at the interfaces reduces the <ce:italic>ZT</ce:italic> of the device from that of the materials (<ce:italic>zT)</ce:italic>
+                     <ce:inf loc="post">thermoelement</ce:inf> according to [<ce:cross-ref refid="bib3" id="crosref0025">3</ce:cross-ref>,<ce:cross-ref refid="bib4" id="crosref0030">4</ce:cross-ref>].<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg" alttext="Equation 1.">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mi>Z</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>D</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>v</mml:mi>
+                                       <mml:mi>i</mml:mi>
+                                       <mml:mi>c</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo linebreak="badbreak">=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mi>L</mml:mi>
+                                       <mml:mo linebreak="badbreak">+</mml:mo>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:msub>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mi>c</mml:mi>
+                                       </mml:msub>
+                                       <mml:mi>σ</mml:mi>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mi>z</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>h</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>r</mml:mi>
+                                       <mml:mi>m</mml:mi>
+                                       <mml:mi>o</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>l</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>m</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                       <mml:mi>n</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0035" view="all">Here, <ce:italic>L</ce:italic> is the device leg length, <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> is the sum of contact resistances, <ce:italic>σ</ce:italic> is the average bulk electrical conductivity and (<ce:italic>zT</ce:italic>)<ce:inf loc="post">thermoelement</ce:inf> is the average <ce:italic>zT</ce:italic> of the thermoelement. Noble metals Ag, Au, and Pt and non-noble metals such as Ni, W, Cu, Fe, and Mo are commonly used as interconnect materials in conventional TEGs [<ce:cross-refs refid="bib5 bib6 bib7 bib8" id="crosrefs0010">5–8</ce:cross-refs>]. Generally, they are not suitable for oxide TEGs due to the high cost of the noble metals and oxidation of the non-noble metals, with formation of resistive layers and delamination as result [<ce:cross-ref refid="bib2" id="crosref0035">2</ce:cross-ref>,<ce:cross-ref refid="bib4" id="crosref0040">4</ce:cross-ref>,<ce:cross-refs refid="bib9 bib10 bib11 bib12 bib13" id="crosrefs0015">9–13</ce:cross-refs>]. In addition comes the problem of blocking rectifying junctions between noble metals and oxides. According to the ideal Mott-Schottky theory, the work function (Φ) of the metal and semiconductor determines the nature of the junction. For a p-type semiconductor, a metal with a higher work function than the p-type semiconductor forms a rectifying junction (Φ<ce:inf loc="post">m</ce:inf> &lt; Φ<ce:inf loc="post">p</ce:inf>, rectifying) and leads to an ohmic contact if Φ<ce:inf loc="post">m</ce:inf> &gt; Φ<ce:inf loc="post">p</ce:inf>. Similarly, for an n-type conductor, Φ<ce:inf loc="post">m</ce:inf> &gt; Φ<ce:inf loc="post">n</ce:inf> gives rectifying contact and become ohmic if Φ<ce:inf loc="post">m</ce:inf> &lt; Φ<ce:inf loc="post">n</ce:inf>. In this sense, conventional metal contacts like Pt, Au and Ag are not suitable candidates for both NiO- and ZnO-based thermoelectrics. For example, Pt (Φ<ce:inf loc="post">Pt</ce:inf> ∼ 5.5 eV) forms an ohmic contact with NiO (Φ<ce:inf loc="post">NiO</ce:inf> ∼ 5.2 eV) and a Schottky contact with ZnO (Φ<ce:inf loc="post">ZnO</ce:inf> ∼ 4.5 eV).</ce:para>
+                  <ce:para id="p0040" view="all">Some conventional metal interconnects like Ag, Au, Pt, Ni, and W have still been used in oxide devices [<ce:cross-ref refid="bib9" id="crosref0045">9</ce:cross-ref>,<ce:cross-ref refid="bib14" id="crosref0050">14</ce:cross-ref>]. In 2004, Funahashi et al. reported an interconnect consisting of Ag paste and oxide powders that enhanced the device efficiency of a p-type Ca<ce:inf loc="post">2.7</ce:inf>Bi<ce:inf loc="post">0.3</ce:inf>Co<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">9</ce:inf> and n-type La<ce:inf loc="post">0.9</ce:inf>Bi<ce:inf loc="post">0.1</ce:inf>NiO<ce:inf loc="post">3</ce:inf> system [<ce:cross-ref refid="bib15" id="crosref0055">15</ce:cross-ref>]. Afterwards, other oxide-based TEGs were made using the same concept of a composite of metal and oxide interconnects but still based on noble metals. Later on, Holgate et al. reported that a Fe–Cr alloy could be considered for cobaltite based thermoelectrics [<ce:cross-ref refid="bib16" id="crosref0060">16</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0045" view="all">In the present work we study the use of a highly conducting oxide as thermodynamically stable noble metal free interconnect to decrease the contact resistance between the legs of oxide TE elements. Our choice of interconnect material fell on perovskite-type lanthanum cobaltite LaCoO<ce:inf loc="post">3</ce:inf> (LC) acceptor-substituted 40% with Sr to form La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf> (LSC) with a conductivity of 4.4 × 10<ce:sup loc="post">3</ce:sup> S cm<ce:sup loc="post">−1</ce:sup> [<ce:cross-ref refid="bib17" id="crosref0065">17</ce:cross-ref>] at room temperature. We investigated the use of LSC between oxide TE materials p-type Ni<ce:inf loc="post">0.98</ce:inf>Li<ce:inf loc="post">0.02</ce:inf>O (Li–NiO) and n-type Zn<ce:inf loc="post">0.98</ce:inf>Al<ce:inf loc="post">0.02</ce:inf>O (Al–ZnO) in a p-LSC-n junction, hereafter p-L-n, as well as interfacial reactions and stability of the individual interfaces. LSC is a p-type oxide and hence the p-L-n assembly is effectively a p-p-n junction. Hence, the p-n junction between the LSC and Al–ZnO may expectedly be a major contributor to the overall resistance, and to reduce this, we made and characterised junctions with composite Al–ZnO + LSC interconnects, termed p-LZ-n.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0040">Materials synthesis</ce:section-title>
+                     <ce:para id="p0050" view="all">The Li–NiO and Al–ZnO used in this study were synthesised using a ball milling method as described previously [<ce:cross-ref refid="bib18" id="crosref0070">18</ce:cross-ref>,<ce:cross-ref refid="bib19" id="crosref0075">19</ce:cross-ref>]. LSC powder was synthesised by solid-state reaction based on details in published reports [<ce:cross-ref refid="bib17" id="crosref0080">17</ce:cross-ref>,<ce:cross-refs refid="bib20 bib21 bib22" id="crosrefs0020">20–22</ce:cross-refs>] with some modifications. The precursors La<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> and SrCO<ce:inf loc="post">3</ce:inf> from Sigma-Aldrich of 99.9% purity were pre-annealed separately in ambient air at 600 °C before weighing. For La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>CoO<ce:inf loc="post">3</ce:inf> the precursors were mixed in their stoichiometric ratio in 2-propanol in a planetary ball mill with zirconia jar and balls for 5 h. The resultant mixture was dried at 120 °C, followed by calcination at 800 °C for 5 h in air. The powder was grinded in an agate mortar for rehomogenisation followed by a second firing at 1050 °C in air. Part of the powder was pressed into pellets and sintered at 1300 °C for 10 h in air. The rest was used to fabricate a p-n composite of LSC and Al–ZnO. For this, the desired amounts of LSC and Al–ZnO were mixed in a rolling ball mill for 20 h in 2-propanol. After drying at 120 °C, a portion of the powder was pressed into a pellet and sintered at 1100 °C for 10 h in air.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0045">Materials characterisation</ce:section-title>
+                     <ce:para id="p0055" view="all">The crystal structure and phase purity of LSC and LSC/Al–ZnO composite samples were analysed by powder X-ray diffraction (XRD) using a Bruker D8 diffractometer with CuKα radiation at room temperature. To understand the chemical interaction between the interconnect and thermoelements, we mixed LSC with Li–NiO and Al–ZnO in 50:50 vol% ratio and heated at 1100 °C for 100 h in air. The resultant powder was analysed using XRD. The microstructure and morphology of the sintered LSC pellets, composite pellets, and interfaces were investigated using an FEI Quanta 200 F FEG-ESEM Scanning Electron Microscope (SEM). The band gaps were calculated via UV–Vis spectroscopy using Tauc plots based on optical absorption properties measured at room temperature with a UV–Vis spectrophotometer (SPECORD® 200 PLUS, data analysis with spectroanalytical software WinASPECT PLUS).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0050">Electrical measurements</ce:section-title>
+                     <ce:para id="p0060" view="all">A schematic illustration of the electrical measurement assembly used in this study is shown in <ce:cross-ref refid="fig1" id="crosref0085">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. We used two different methods to make the interconnect contacts. The first method uses the interconnect in the pellet form with a contact area of ∼2 cm<ce:sup loc="post">2</ce:sup>, in which the LSC pellet is sandwiched between the two oxide TE pellets. The stacks of the 3 pellets were horizontally placed and spring-loaded in a ProboStat™ measurement cell (NORECS, Norway). The acronym p-L<ce:inf loc="post">p</ce:inf>-n denotes this configuration, while when used with a composite pellet it is denoted p-LZ<ce:inf loc="post">p</ce:inf>-n. In the other method, we used screen-printing to make 15–20 μm layers of the interconnect on both the p-and n-type pellets, termed as p-L<ce:inf loc="post">S</ce:inf>-n for printed LSC and p-LZ<ce:inf loc="post">S</ce:inf>-n for printed LSC/Al–ZnO composite. The back side of each semiconductor was painted with Pt paste (METALOR®) and contacted by flat Pt mesh electrode connects each with two wires for current and voltage. All electrical measurements were done from 300 °C to 1000 °C in ambient air using a Gamry Reference 3000 potentiostat. The total resistance for the entire cell configuration was measured, and the area-specific resistance (<ce:italic>ASR</ce:italic>) of the junction and interconnect is reported here after deducting the resistance contributions of the metal oxide and metal contacts, based on separate measurements.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:para id="p0065" view="all">
+                     <ce:cross-ref refid="fig2" id="crosref0090">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> (b) and (c) show the original phases of all mixed oxides without change in XRD peak positions after the heat treatments. Within the detection limits of this study, there is hence no chemical reaction between LSC and Li–NiO or Al–ZnO well above the temperature range used for measurements.</ce:para>
+                  <ce:para id="p0070" view="all">
+                     <ce:cross-ref refid="fig3" id="crosref0095">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> a and b show, respectively, surface and cross-sectional morphologies of the LSC pellet with an average grain size ∼3 μm and relative density higher than 90%, confirming also its phase purity. <ce:cross-ref refid="fig3" id="crosref0100">Fig. 3</ce:cross-ref>(c) and d are backscatter electron images of a surface and cross-section of an LSC/Al–ZnO (80:20 vol%) composite pellet.</ce:para>
+                  <ce:para id="p0075" view="all">Further SEM analyses of cross-sections of screen-printed LSC layers on Li–NiO and Al–ZnO pellet substrates are shown in <ce:cross-ref refid="fig3" id="crosref0105">Fig. 3</ce:cross-ref>(e) and f. They indicate that the LSC layer has good adherence to both semiconductor surfaces. No additional phases were detected in the SEM, confirming the absence of chemical reactions between the LSC interconnect and TE materials.</ce:para>
+                  <ce:para id="p0080" view="all">Interdiffusion of Co into NiO is still expected, forming solid solutions Ni<ce:inf loc="post">1-x</ce:inf>Co<ce:inf loc="post">x</ce:inf>O and La<ce:inf loc="post">1-x</ce:inf>Sr<ce:inf loc="post">x</ce:inf>Co<ce:inf loc="post">1-y</ce:inf>Ni<ce:inf loc="post">y</ce:inf>O<ce:inf loc="post">3</ce:inf> [<ce:cross-ref refid="bib23" id="crosref0110">23</ce:cross-ref>], but the bulk and grain boundary diffusivities are limited [<ce:cross-ref refid="bib24" id="crosref0115">24</ce:cross-ref>] and since temperatures and times used were modest, we were unable to detect it by XRD or SEM. Moreover, it is known that substitution of Co for Ni enhances the p-type conductivity of NiO via the generation of holes and if there is a considerable amount of Co substitution it will further enhance the electrical conductivity of the system [<ce:cross-ref refid="bib25" id="crosref0120">25</ce:cross-ref>]. Ni-substitution in LSC has furthermore been reported to increase the electronic conductivity [<ce:cross-ref refid="bib26" id="crosref0125">26</ce:cross-ref>] and hence, interdiffusion of Co and Ni should improve electrical properties, but we did not notice considerable change, and conclude that interdiffusion was not significant.</ce:para>
+                  <ce:para id="p0085" view="all">We investigated the electrical properties of the Li–NiO/LSC/Al–ZnO (entire cell with all resistance contribution) assembly using current-voltage (I-U<ce:inf loc="post">A</ce:inf>) measurements, and the results at three different temperatures are plotted in <ce:cross-ref refid="fig4" id="crosref0130">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. The linear nature of the I-U<ce:inf loc="post">A</ce:inf> plot show that the LSC interface contacts are ohmic.</ce:para>
+                  <ce:para id="p0090" view="all">The temperature dependencies of area specific contact resistance for a direct p-n junction and junction with LSC pellet at the interface (p-L<ce:inf loc="post">p</ce:inf>-n) are displayed in <ce:cross-ref refid="fig5" id="crosref0135">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>(a) while those for the pellet LSC (p-L<ce:inf loc="post">p</ce:inf>-n) and a screen-printed LSC interface (p-L<ce:inf loc="post">s</ce:inf>-n) are compared in <ce:cross-ref refid="fig5" id="crosref0140">Fig. 5</ce:cross-ref>(b). The resistance for the direct Li–NiO/Al–ZnO p-n junction was very high, attributed to the Schottky contact between NiO and ZnO [<ce:cross-ref refid="bib27" id="crosref0145">27</ce:cross-ref>,<ce:cross-ref refid="bib28" id="crosref0150">28</ce:cross-ref>]. The measured ASR was around 58 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C and 1800 Ω cm<ce:sup loc="post">2</ce:sup> at 300 °C which are similar to literature values for this type of junction [<ce:cross-ref refid="bib18" id="crosref0155">18</ce:cross-ref>]. The junction resistance decreases with increasing temperature and approaches a linear (ohmic) <ce:italic>I-U</ce:italic>
+                     <ce:inf loc="post">A</ce:inf> behaviour at 1000 °C.</ce:para>
+                  <ce:para id="p0095" view="all">The junction with an LSC pellet incorporated (p-L<ce:inf loc="post">p</ce:inf>-n) showed in comparison an ASR of 400 mΩ cm<ce:sup loc="post">2</ce:sup> at 300 °C, four orders of magnitude lower than that of the direct junction at the same temperature.</ce:para>
+                  <ce:para id="p0100" view="all">The activation energy for the junctions incorporating LSC is slightly higher than the reported activation energy (∼0.4 eV) of conduction in LSC [<ce:cross-ref refid="bib29" id="crosref0160">29</ce:cross-ref>], and may reflect interface resistance and remaining uncorrected TE materials resistances [<ce:cross-ref refid="bib30" id="crosref0165">30</ce:cross-ref>,<ce:cross-ref refid="bib31" id="crosref0170">31</ce:cross-ref>]. The slight decrease in resistance for p-L<ce:inf loc="post">s</ce:inf>-n (<ce:cross-ref refid="fig5" id="crosref0175">Fig. 5</ce:cross-ref>(b)) compared with p-L<ce:inf loc="post">p</ce:inf>-n can in part be attributed to the better adherence of the printed LSC interconnect to Li–NiO and Al–ZnO than possible in the pellet stack.</ce:para>
+                  <ce:para id="p0105" view="all">Application of LSC as an interconnect between TE oxide materials appears to decrease the overall system resistance due to formation of non-rectifying low-resistive interfaces. It is of interest to seek to understand this in terms of the band alignment between the interconnect and the TE materials. The band energy for the as prepared LSC was estimated using a Tauc plot (see <ce:cross-ref refid="fig6" id="crosref0180">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>). The bandgap of the LSC sample at room temperature was compared to its parental compound LaCoO<ce:inf loc="post">3</ce:inf> (LC, band gap at room temperature) to show the trend with Sr doping. LSC shows a strong and broad absorption peak in the visible region, and a band gap energy of 1.3 eV was then measured from tangent lines in the Tauc plot, which is somewhat lower than DFT-calculated and experimentally measured band gap energies reported for undoped LC [<ce:cross-refs refid="bib32 bib33 bib34" id="crosrefs0025">32–34</ce:cross-refs>].</ce:para>
+                  <ce:para id="p0110" view="all">In the p-L-n system, LSC forms an isotype p-p junction with NiO, while, a p-n heterojunction is formed between LSC and ZnO; hence, the overall p-L-n system contains a double heterostructure. To illustrate the main features of the junction, we developed the band diagram in <ce:cross-ref refid="fig7" id="crosref0185">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="fig7"/> based mainly on computational and experimental results from literature combined with our abovementioned experimental results.</ce:para>
+                  <ce:para id="p0115" view="all">As a preliminary interpretation, the lower electrical resistance at the p-L-n (p−p−n) interface can be a consequence of the intermediate band levels of LSC and hence reduction in the depth and length of depletion towards both NiO and ZnO as compared to a direct NiO–ZnO interface.</ce:para>
+                  <ce:para id="p0120" view="all">A composite interconnect made with LSC and Al–ZnO was used for further reduction of the resistance at the LSC/Al–ZnO junction. <ce:cross-ref refid="fig8" id="crosref0190">Fig. 8</ce:cross-ref>
+                     <ce:float-anchor refid="fig8"/>(a) shows the resistance of various p-LZ-n interfaces made with five composite compositions, LZ<ce:inf loc="post">1</ce:inf>–LZ<ce:inf loc="post">5</ce:inf>, corresponding to 20:80, 35:65, 50:50, 65:35 and 80:20 vol% of LSC:Al–ZnO, see <ce:cross-ref refid="tbl1" id="crosref0195">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. LZ<ce:inf loc="post">5</ce:inf> with the highest LSC content performs best, and the only one performing better than pure LSC. It was then used as a screen-printed electrode (p-LZ<ce:inf loc="post">5s</ce:inf>-n) to improve the interface further and compared with the p-L<ce:inf loc="post">s</ce:inf>-n. The results in <ce:cross-ref refid="fig8" id="crosref0200">Fig. 8</ce:cross-ref>(b) shows that the composite p-LZ<ce:inf loc="post">5s</ce:inf>-n configuration has the lowest resistance. The activation energy values calculated from the Arrhenius plot did not show much change for different LSC:ZnO compositions which implies that the interface barrier height is not influenced and that, therefore, the LSC-ZnO interfaces are essentially the same in the case of the pure LSC and the composite. However, the preexponential factor for resistance (<ce:italic>A</ce:italic>
+                     <ce:inf loc="post">R</ce:inf>) decreased from ∼5 mΩ cm<ce:sup loc="post">2</ce:sup> for LZ<ce:inf loc="post">1</ce:inf> to ∼0.4 mΩ cm<ce:sup loc="post">2</ce:sup> for LZ<ce:inf loc="post">5</ce:inf>. This may be attributed to the intended larger interface area in the composite. The presence of a more continuous path of highly conducting LSC phase in LZ<ce:inf loc="post">5</ce:inf> appears more beneficial than highly percolating Al–ZnO in the other composites.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0060">Conclusions</ce:section-title>
+                  <ce:para id="p0125" view="all">In summary, we have investigated the use of highly conducting LSC as an oxide interconnect between the p-type Li-doped NiO and n-type Al-doped ZnO legs of a TE couple at 300–1000 °C in air. XRD and SEM show that LSC is stable at 1000 °C towards both Li–NiO and Al–ZnO, forming well-adherent contacts by firing of screen printed layers. The area-specific resistance of the p-n junction was drastically decreased by applying a pellet of LSC as interconnect, e.g. from ∼1800 Ω cm<ce:sup loc="post">2</ce:sup> for the direct p-n junction to ∼400 mΩ cm<ce:sup loc="post">2</ce:sup> for the p-L-n assembly at 300 °C, attributed to a lowering of the activation energy, reflecting the different band alignments. At the same temperature, the use of an LSC/Al–ZnO composite as interconnect reduced the ASR<ce:inf loc="post">c</ce:inf> further to ∼260 mΩ cm<ce:sup loc="post">2</ce:sup>, attributed to an enlarged active interface area between p-type LSC and n-type Al–ZnO. The optimal composite had a high LSC content (80:20 vol% LSC:Al–ZnO). This study demonstrates that air-stable, highly conducting oxides can be used as interconnects for high temperature oxide thermoelectrics, alleviating the need for expensive noble metals. Contact resistances can be further reduced by composites with one of the leg materials, and bonding can be done by screen-printing and firing of pastes of the interconnect.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0065">Author statement</ce:section-title>
+                  <ce:para id="p0130" view="all">RKM: Investigation, Methodology, Validation, Writing – original draft. TN: Conceptualization, Funding acquisition, Project administration, Resources, Supervision, Writing – review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0070">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0135" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0075">Acknowledgements</ce:section-title>
+               <ce:para id="p0140" view="all">This work was enabled as part of the innovation cluster initiative “THERMiO” financed by the Faculty of Mathematics and Natural Sciences, <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100005366" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Oslo</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0080">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Noudem</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermoelectric ceramics for generators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>48</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">Noudem, J.G., et al., Thermoelectric ceramics for generators. Journal of the European Ceramic Society, 2008. 28(1): p. 41-48.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zebarjadi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Perspectives on thermoelectrics: from fundamentals to device applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5147</sb:first-page>
+                              <sb:last-page>5162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Zebarjadi, M., et al., Perspectives on thermoelectrics: from fundamentals to device applications. Energy &amp; Environmental Science, 2012. 5(1): p. 5147-5162.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic structures and stability of Ni/Bi2Te3and Co/Bi2Te3interfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115303</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Xiong, K., et al., Electronic structures and stability of Ni/Bi2Te3and Co/Bi2Te3interfaces. Journal of Physics D: Applied Physics, 2010. 43(11): p. 115303.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Aswal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Basu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Key issues in development of thermoelectric power generators: high figure-of-merit materials and their highly conducting interfaces with metallic interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Convers. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>50</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Aswal, D.K., R. Basu, and A. Singh, Key issues in development of thermoelectric power generators: High figure-of-merit materials and their highly conducting interfaces with metallic interconnects. Energy Conversion and Management, 2016. 114: p. 50-67.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermoelectric microdevice fabricated by a MEMS-like electrochemical process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>528</sb:first-page>
+                              <sb:last-page>531</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Snyder, G.J., et al., Thermoelectric microdevice fabricated by a MEMS-like electrochemical process. Nature Materials, 2003. 2(8): p. 528-531.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-M.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxide-based thermoelectric power generation module using p-type Ca3Co4O9 and n-type (ZnO)7In2O3 legs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Convers. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                              <sb:last-page>339</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Choi, S.-M., et al., Oxide-based thermoelectric power generation module using p-type Ca3Co4O9 and n-type (ZnO)7In2O3 legs. Energy Conversion and Management, 2011. 52(1): p. 335-339.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Skomedal</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design, assembly and characterization of silicide-based thermoelectric modules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Convers. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                              <sb:last-page>21</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">Skomedal, G., et al., Design, assembly and characterization of silicide-based thermoelectric modules. Energy Conversion and Management, 2016. 110: p. 13-21.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schierning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nielsch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermoelectric devices: a review of devices, architectures, and contact optimization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1700256</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">He, R., G. Schierning, and K. Nielsch, Thermoelectric Devices: A Review of Devices, Architectures, and Contact Optimization. Advanced Materials Technologies, 2018. 3(4): p. 1700256.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Muchilo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of Mechanically and Chemically Stable Electrical Contacts for Thermoelectric Oxide Material</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2003</sb:date>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                              <sb:last-page>246</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Muchilo, D., et al., Development of mechanically and chemically stable electrical contacts for thermoelectric oxide material. 2003. 243-246.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Reddy</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and properties of four-leg oxide thermoelectric modules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3751</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Reddy, E., et al., Fabrication and Properties of Four-Leg Oxide Thermoelectric Modules. Journal of Physics D: Applied Physics, 2005. 38: p. 3751.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Arai</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of electrical contact between TE material and Ni electrode interfaces by application of a buffer layer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1771</sb:first-page>
+                              <sb:last-page>1777</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Arai, K., et al., Improvement of Electrical Contact Between TE Material and Ni Electrode Interfaces by Application of a Buffer Layer. Journal of Electronic Materials, 2012. 41(6): p. 1771-1777.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Current progress and future challenges in thermoelectric power generation: from materials to devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>357</sb:first-page>
+                              <sb:last-page>376</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Liu, W., et al., Current progress and future challenges in thermoelectric power generation: From materials to devices. Acta Materialia, 2015. 87: p. 357-376.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermoelectric interface materials: a perspective to the challenge of thermoelectric power generation module</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>336</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Liu, W. and S. Bai, Thermoelectric interface materials: A perspective to the challenge of thermoelectric power generation module. Journal of Materiomics, 2019. 5(3): p. 321-336.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A study of electrodes for thermoelectric oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electronic Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>449</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Lim, C.-H., et al., A study of electrodes for thermoelectric oxides. Electronic Materials Letters, 2013. 9(4): p. 445-449.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Funahashi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ca2.7Bi0.3Co4O9∕La0.9Bi0.1NiO3 thermoelectric devices with high output power density</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1036</sb:first-page>
+                              <sb:last-page>1038</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Funahashi, R., et al., Ca2.7Bi0.3Co4O9∕La0.9Bi0.1NiO3 thermoelectric deviceswith high output power density. Applied Physics Letters, 2004. 85(6): p. 1036-1038.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Holgate</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of the interface between an Fe–Cr alloy and the p-type thermoelectric oxide Ca3Co4O9</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>582</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>827</sb:first-page>
+                              <sb:last-page>833</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Holgate, T.C., et al., Characterization of the interface between an Fe-Cr alloy and the p-type thermoelectric oxide Ca3Co4O9. Journal of Alloys and Compounds, 2014. 582: p. 827-833.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kozuka</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Origin of high electrical conductivity in alkaline-earth doped LaCoO3</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11003</sb:first-page>
+                              <sb:last-page>11005</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Kozuka, H., et al., Origin of high electrical conductivity in alkaline-earth doped LaCoO3. Journal of Materials Chemistry, 2012. 22(22): p. 11003-11005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Desissa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schrade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Norby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical properties of a p–n heterojunction of Li-doped NiO and Al-doped ZnO for thermoelectrics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5296</sb:first-page>
+                              <sb:last-page>5301</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Desissa, T.D., M. Schrade, and T. Norby, Electrical Properties of a p-n Heterojunction of Li-Doped NiO and Al-Doped ZnO for Thermoelectrics. Journal of Electronic Materials, 2018. 47(9): p. 5296-5301.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Desissa</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inter-diffusion across a direct p-n heterojunction of Li-doped NiO and Al-doped ZnO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>320</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>215</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Desissa, T.D., et al., Inter-diffusion across a direct p-n heterojunction of Li-doped NiO and Al-doped ZnO. Solid State Ionics, 2018. 320: p. 215-220.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.F.</ce:given-name>
+                                 <ce:surname>Kononchuk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transient thermogravimetric measurement of chemical diffusion in La0.7Sr0.3CoO3−δ</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Proc. Vol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1995–1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                              <sb:last-page>403</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Kononchuk, O.F., Transient Thermogravimetric Measurement of Chemical Diffusion in La0.7Sr0.3CoO3−δ. ECS Proceedings Volumes, 1995. 1995-1(1): p. 395-403.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Saito</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of Perovskite-type lanthanum cobalt oxide nanoparticles by means of mechanochemical treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Powder Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143–144</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Ito, T., Q. Zhang, and F. Saito, Synthesis of Perovskite-type lanthanum cobalt oxide nanoparticles by means of mechanochemical treatment. Powder Technology, 2004. 143-144: p. 170-173.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Velciu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>LaCoO3 synthesis by intensive mechanical activation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6876</sb:first-page>
+                              <sb:last-page>6881</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Velciu, G., et al., LaCoO3 synthesis by intensive mechanical activation. Ceramics International, 2015. 41: p. 6876-6881.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.V.</ce:given-name>
+                                 <ce:surname>Aksenova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Gavrilova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Cherepanov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase equilibria at 1100°C in air and crystal structure of solid solutions in the system LaCoO3—SrCoO2.5—“SrNiO3”—“LaNiO3”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1336</sb:first-page>
+                              <sb:last-page>1340</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Aksenova, T.V., L.Y. Gavrilova, and V.A. Cherepanov, Phase equilibria at 1100°C in air and crystal structure of solid solutions in the system LaCoO3-SrCoO2.5-“SrNiO3”-“LaNiO3”. Inorganic Materials, 2004. 40(12): p. 1336-1340.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Barbier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Monty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Déchamps</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the grain boundary diffusion of Co in NiO bicrystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philos. Mag. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>475</sb:first-page>
+                              <sb:last-page>490</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Barbier, F., C. Monty, and M. Dechamps, On the grain boundary diffusion of Co in NiO bicrystals. Philosophical Magazine A, 1988. 58(3): p. 475-490.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.V.</ce:given-name>
+                                 <ce:surname>Thi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High performance of Co-doped NiO nanoparticle anode material for rechargeable lithium ion batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>292</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Thi, T.V., et al., High performance of Co-doped NiO nanoparticle anode material for rechargeable lithium ion batteries. Journal of Power Sources, 2015. 292: p. 23-30.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hjalmarsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Søgaard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defect structure, electronic conductivity and expansion of properties of (La1−xSrx)sCo1−yNiyO3−δ</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1853</sb:first-page>
+                              <sb:last-page>1862</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Hjalmarsson, P., M. Soegaard, and M. Mogensen, Defect structure, electronic conductivity and expansion of properties of (La1−xSrx)sCo1−yNiyO3−δ. Journal of Solid State Chemistry, 2010. 183(8): p. 1853-1862.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-w.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A ZnO cross-bar array resistive random access memory stacked with heterostructure diodes for eliminating the sneak current effect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>pp. 233505–233505</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Seo, J.-w., et al., A ZnO cross-bar array resistive random access memory stacked with heterostructure diodes for eliminating the sneak current effect. Applied Physics Letters, 2011. 98: p. 233505-233505.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sta</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and characterization of NiO/ZnO p-n junctions by sol-gel spin coating technique</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>2012 First International Conference on Renewable Energies and Vehicular Technology</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>115</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">Sta, I., et al., Fabrication and characterization of NiO/ZnO p-n junctions by sol-gel spin coating technique. 2012 First International Conference on Renewable Energies and Vehicular Technology, 2012: p. 113-115.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sivaprahsam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Thakur</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of thermoelectric properties of lanthanum cobaltate by Sr and Mn co-substitution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>735</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1787</sb:first-page>
+                              <sb:last-page>1791</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">Kumar, A., D. Sivaprahsam, and A.D. Thakur, Improvement of thermoelectric properties of lanthanum cobaltate by Sr and Mn co-substitution. Journal of Alloys and Compounds, 2018. 735: p. 1787-1791.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Gaur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Verma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Lal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defects and electrical conduction in mixed lanthanum transition metal oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1725</sb:first-page>
+                              <sb:last-page>1728</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Gaur, K., S.C. Verma, and H.B. Lal, Defects and electrical conduction in mixed lanthanum transition metal oxides. Journal of Materials Science, 1988. 23(5): p. 1725-1728.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Iguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ueda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakatsugawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical transport in La1-xSrxCoO3 (0.03≦x≦0.07) below 60 K</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>40</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8999</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">Iguchi, E., K. Ueda, and H. Nakatsugawa, Electrical transport in La1-xSrxCoO3 (0.03≦x≦0.07) below 60 K. Journal of Physics: Condensed Matter, 1998. 10(40): p. 8999.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Meziani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen evolution under visible light over LaCoO3 prepared by chemical route</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Convers. Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>244</sb:first-page>
+                              <sb:last-page>249</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0170">Meziani, D., et al., Hydrogen evolution under visible light over LaCoO3 prepared by chemical route. Energy Conversion and Management, 2014. 82: p. 244-249.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hot electron injection: an efficacious approach to charge LaCoO3 for improving the water splitting efficiency</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. B Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>219</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>432</sb:first-page>
+                              <sb:last-page>438</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0175">Zhang, B.-T., et al., Hot electron injection: An efficacious approach to charge LaCoO3 for improving the water splitting efficiency. Applied Catalysis B: Environmental, 2017. 219: p. 432-438.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Haron</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A simple synthesis and characterization of LaMo3 (M=Al, Co, Fe, Gd) perovskites via chemical co-precipitation method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Songklanakarin J. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                              <sb:last-page>491</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0180">Haron, W., et al., A simple synthesis and characterization of LaMo3 (M=Al, Co, Fe, Gd) perovskites via chemical co-precipitation method. Songklanakarin Journal of Science and Technology, 2018. 40: p. 484-491.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

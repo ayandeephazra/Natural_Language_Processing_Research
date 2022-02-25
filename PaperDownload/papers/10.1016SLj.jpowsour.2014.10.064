@@ -1,0 +1,2201 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378775314016735</prism:url><dc:identifier>doi:10.1016/j.jpowsour.2014.10.064</dc:identifier><eid>1-s2.0-S0378775314016735</eid><prism:doi>10.1016/j.jpowsour.2014.10.064</prism:doi><pii>S0378-7753(14)01673-5</pii><dc:title>Effect of the symmetric cell preparation temperature on the activity of Ba0.5Sr0.5Fe0.8Cu0.2O3-δ as cathode for intermediate temperature Solid Oxide Fuel Cells </dc:title><prism:publicationName>Journal of Power Sources</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03787753</prism:issn><prism:volume>274</prism:volume><prism:startingPage>318</prism:startingPage><prism:endingPage>323</prism:endingPage><prism:pageRange>318-323</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-01-15</prism:coverDate><prism:coverDisplayDate>15 January 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Vázquez, Santiago</dc:creator><dc:creator>Basbus, Juan</dc:creator><dc:creator>Soldati, Analía L.</dc:creator><dc:creator>Napolitano, Federico</dc:creator><dc:creator>Serquis, Adriana</dc:creator><dc:creator>Suescun, Leopoldo</dc:creator><dc:description>
+                  In this work we studied the electrochemical performance of Ba0.5Sr0.5Fe0.8Cu0.2O3-δ (BSFCu) as cathode for Intermediate Temperature Solid Oxide Fuel Cells (IT-SOFC) with Ce0.9Gd0.1O1.95 (CGO) electrolyte and the effect of the symmetric cell preparation temperature on the oxygen reduction reaction (ORR) activity. Symmetrical cells with the configuration BSFCu/CGO/BSFCu were prepared at 900 °C, 950 °C and 1000 °C to perform the electrochemical characterization in the 500–700 °C temperature range. The resultant area specific resistance (ASR) of the cells with different preparation temperatures followed the tendency: ASR900°C &lt; ASR950°C &lt; ASR1000°C. The symmetric cell constructed at 900 °C showed ASR values of 0.18, 0.078 and 0.035 Ω cm2 at 600, 650 and 700 °C respectively, which demonstrated superior electrochemical activities than previous reports. Additional, X-ray diffraction (XRD), scanning and transmission electron microscopies (SEM and TEM) techniques were used to characterize the microstructure of the original and fired BSFCu materials and correlate it with the cell preparation temperature.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>IT-SOFC</dcterms:subject><dcterms:subject>Cathode</dcterms:subject><dcterms:subject>Gel combustion</dcterms:subject><dcterms:subject>XRD</dcterms:subject><dcterms:subject>EIS</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378775314016735" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378775314016735" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="204" height="164" size="16780">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="22613">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="32762">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="65" height="163" size="11972">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="135" height="164" size="15361">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="312" size="59299">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="500" size="89185">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="293" size="65833">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="837" size="85837">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="472" size="59841">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="1381" size="306518">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="2212" size="663818">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="1299" size="452599">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1476" height="3709" size="476460">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="2090" size="327349">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="191" height="24" size="805">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="38" height="20" size="253">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="166" height="19" size="663">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="55" height="18" size="351">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314016735-si4.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84908322374</scopus-id><scopus-eid>2-s2.0-84908322374</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84908322374" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271367</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Power Sources</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALPOWERSOURCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20141018">2014-10-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20141018">2014-10-18</xocs:available-online-date>
+      <xocs:ew-transaction-id>2019-10-30T02:45:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378775314016735</xocs:eid>
+      <xocs:pii-formatted>S0378-7753(14)01673-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378775314016735</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jpowsour.2014.10.064</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378775314X00212</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191030">2019-10-30T22:49:29.168462Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150115</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1413625133">2014-10-18T09:38:53.985324Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-7753</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03787753</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>274</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>274</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 274</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>318</xocs:first-fp>
+      <xocs:last-lp>323</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>318</xocs:first-page>
+         <xocs:last-page>323</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Fuel Cells: Science and Technology</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTSYMMETRICCELLPREPARATIONTEMPERATUREACTIVITYBA05SR05FE08CU02O3CATHODEFORINTERMEDIATETEMPERATURESOLIDOXIDEFUELCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VAZQUEZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of cathode material: Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf>
+               </xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of electrolyte material: Ce<ce:inf loc="post">0.9</ce:inf>Gd<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">1.95</ce:inf>
+               </xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Symmetric cell fabrication</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Structural and morphological characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>352</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>649</xocs:ref-first-fp>
+            <xocs:ref-last-lp>651</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>STAMBOULI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-last-lp>455</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>SHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ADLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4791</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4843</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>PATRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11904</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11913</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>231</xocs:ref-first-fp>
+            <xocs:ref-last-lp>246</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>LIUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1008</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1014</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>BECKEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>407</xocs:ref-first-fp>
+            <xocs:ref-last-lp>415</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>MARINHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5084</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5090</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1826</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1832</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>BAQUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2473</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2480</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>BAQUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1905</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1908</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8094</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8096</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3729</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3735</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>PANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2165</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>GAUDILLERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4758</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4764</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>MOLENDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>657</xocs:ref-first-fp>
+            <xocs:ref-last-lp>670</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7343</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7351</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref1"/>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>EFIMOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1540</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1544</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1859</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1861</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3769</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3774</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>RIETVELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>RODRIGUEZCARVAJAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>CHANTLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>597</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1048</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref2"/>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>BASBUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>318</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>GU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2416</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2420</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>MOGNI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VAZQUEZX2015X318</xocs:refkey3>
+         <xocs:refkey4lp>VAZQUEZX2015X318X323</xocs:refkey4lp>
+         <xocs:refkey4ai>VAZQUEZX2015X318XS</xocs:refkey4ai>
+         <xocs:refkey5>VAZQUEZX2015X318X323XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-28T07:24:21.026Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0378775314016735</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Espacio Interdisciplinario-Universidad de la República</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Agencia Nacional de Investigación e Innovación</xocs:funding-agency-matched-string>
+            <xocs:funding-id>FSE_2009_1_51</xocs:funding-id>
+            <xocs:funding-agency>Agencia Nacional de Investigación e Innovación</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100008725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3439705/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Laboratorio Nacional de Luz Synchrotron</xocs:funding-agency-matched-string>
+            <xocs:funding-id>XRD1-15297</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by Agencia Nacional de Investigación e Innovación (Uruguay) through grant FSE_2009_1_51 and Laboratorio Nacional de Luz Synchrotron (LNLS, Campinas, SP, Brazil) through a grant to perform research proposal XRD1-15297 at D10B-XPD beamline. LS is also indebted to PEDECIBA. SV acknowledges the financial support of Espacio Interdisciplinario-Universidad de la República. The authors are grateful to Dr. Alberto Caneiro for the use of his laboratories for symmetrical cell preparation and helpful discussion and to Carlos Cotaro for the SEM images.  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-7753(14)01673-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378775314016735</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378775314016735</xocs:eid>
+         <xocs:doi>10.1016/j.jpowsour.2014.10.064</xocs:doi>
+         <xocs:cid>271367</xocs:cid>
+         <xocs:timestamp>2019-10-30T22:49:29.168462Z</xocs:timestamp>
+         <xocs:cover-date-start>2015-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/MAIN/application/pdf/155bcd7fe5bda0676e05cead0ae37325/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1419481</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378775314016735-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/PREVIEW/image/png/f12cdd51b20e90dbf5270c7cd24909a9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50237</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr1/THUMBNAIL/image/gif/c24a2bbfe774be33d9a3f34ba299991b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16780</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr2/THUMBNAIL/image/gif/4b0bdfdf920fd21adf191a77c37ba304/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>22613</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr3/THUMBNAIL/image/gif/e27947236c6b14f40d893c8ab79d6a4b/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>32762</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr4/THUMBNAIL/image/gif/6f35e9e9e24a58ef143e46819bd649b4/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11972</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>65</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr5/THUMBNAIL/image/gif/49ae45ce8caa87e3908166e51f515387/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15361</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>135</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr1/DOWNSAMPLED/image/jpeg/6ec38d6fabd154c0291397525d912dda/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59299</xocs:filesize>
+               <xocs:pixel-height>312</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr2/DOWNSAMPLED/image/jpeg/646f73edf001b9e8d100ac1d11839593/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89185</xocs:filesize>
+               <xocs:pixel-height>500</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr3/DOWNSAMPLED/image/jpeg/22db3dd80e96855390e8be86d31dcf8e/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>65833</xocs:filesize>
+               <xocs:pixel-height>293</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr4/DOWNSAMPLED/image/jpeg/161bac8c723aa93755ec021c808d30e6/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>85837</xocs:filesize>
+               <xocs:pixel-height>837</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr5/DOWNSAMPLED/image/jpeg/22048e867ae00e7ac3a320536ab3001e/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59841</xocs:filesize>
+               <xocs:pixel-height>472</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr1/HIGHRES/image/jpeg/6fff2c19f4aec6392b6bd086b4c3c1c8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>306518</xocs:filesize>
+               <xocs:pixel-height>1381</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr2/HIGHRES/image/jpeg/5e79a64b7d649dac3a850666a7251a40/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>663818</xocs:filesize>
+               <xocs:pixel-height>2212</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr3/HIGHRES/image/jpeg/c1a02d65986ab6522242180c791b7f9c/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>452599</xocs:filesize>
+               <xocs:pixel-height>1299</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr4/HIGHRES/image/jpeg/d5f46b3703fec106d2f3809e8bb27311/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>476460</xocs:filesize>
+               <xocs:pixel-height>3709</xocs:pixel-height>
+               <xocs:pixel-width>1476</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/gr5/HIGHRES/image/jpeg/30b8e7f1348c98c34bf778a347c2c1a5/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>327349</xocs:filesize>
+               <xocs:pixel-height>2090</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/STRIPIN/image/gif/745b4755d9e41fe95fed8e7c261f70f1/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>805</xocs:filesize>
+               <xocs:pixel-height>24</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/STRIPIN/image/gif/9f01d0df0022f04c6ce1ac7b640fc40a/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>253</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/STRIPIN/image/gif/6f16ee6127c00c0509285cdec2b59cc0/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>663</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>166</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314016735-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314016735/STRIPIN/image/gif/ad0875391fe1642d274b98e57d48e1d3/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>351</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>55</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>POWER</jid>
+            <aid>19984</aid>
+            <ce:pii>S0378-7753(14)01673-5</ce:pii>
+            <ce:doi>10.1016/j.jpowsour.2014.10.064</ce:doi>
+            <ce:copyright type="full-transfer" year="2014">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Rietveld fit of XRD data of as-prepared BSFCu powder. Black dots are observed intensities, the red line is the calculated intensity, vertical bars are peak positions for BSFCu (top) and CuO (bottom) and blue line is the difference between observed and calculated intensities. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) Dark field and (b) bright field TEM images of a BSFCu particle composed of the aggregate of many crystallites. (c) Histogram of the particle size distribution. (d) XRD analysis of the temperature evolution of the peak (110) of BSFCu between 850 and 1000 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Cross-section SEM images of the BSFCu/CGO interface, the cathode shows a layer thickness between 30 and 40 μm.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Nyquist plots in the 1 MHz–3 mHz frequency range for BSFCu/CGO/BSFCu symmetric cells prepared at (a) 1000 °C, (b) 950 °C and (c) 900 °C. 500 °C data was omitted for clarity. See <ce:cross-ref refid="tbl2" id="crosref0190">Table 2</ce:cross-ref> for ASR values at 500 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(a) Equivalent circuit used to fit EIS data for BSFCu/CGO/BSFCu symmetrical cells. (b) Arrhenius plot of ASR for symmetrical cells prepared at 900, 950, 1000 °C and reported values of Zhao et al. <ce:cross-ref refid="bib22" id="crosref0195">[22]</ce:cross-ref> for symmetric cells BSFCu/CSO/BSFCu.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0010" view="all">Final structural parameters of BSFCu extracted from the Rietveld fit.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1" colwidth="11*"/>
+                  <colspec colnum="2" colname="col2" colwidth="14*"/>
+                  <colspec colnum="3" colname="col3" colwidth="13*"/>
+                  <colspec colnum="4" colname="col4" colwidth="13*"/>
+                  <colspec colnum="5" colname="col5" colwidth="13*"/>
+                  <colspec colnum="6" colname="col6" colwidth="15*"/>
+                  <colspec colnum="7" colname="col7" colwidth="14*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Space group</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col5">
+                           <italic>a</italic> = <italic>b</italic> = <italic>c</italic> = 3.9389 (1) Å</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7">
+                           <italic>χ</italic>
+                           <sup loc="post">2</sup> = 1.20</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <mml:math altimg="si4.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mi>m</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mn>3</mml:mn>
+                                       <mml:mo stretchy="true">¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mi>m</mml:mi>
+                              </mml:mrow>
+                           </mml:math> (#221)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col5">
+                           <italic>α</italic> = <italic>β</italic> = <italic>γ</italic> = 90°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rp = 10.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rwp = 7.52</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Atoms</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Wyckoff position</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>z</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Occ.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Biso (Å<sup loc="post">2</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ba</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1b</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">1.890 (5)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1b</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">1.890 (5)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1a</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">1.853 (8)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1a</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">1.853 (8)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3d</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1/2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.862 (1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">3.41 (3)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">Average crystallite size (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">18.4 (1)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0015" view="all">ASR values obtained for BSFCu/CGO/BSFCu symmetrical cells prepared at 900, 950 and 1000 °C.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1" colwidth="26*"/>
+                  <colspec colnum="2" colname="col2" colwidth="28*"/>
+                  <colspec colnum="3" colname="col3" colwidth="28*"/>
+                  <colspec colnum="4" colname="col4" colwidth="12*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <italic>T</italic> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">ASR (Ω.cm<sup loc="post">2</sup>)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">950</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1000</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">500</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">2.6 ± 0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">18.9 ± 0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">96.3 ± 0.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">550</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.52 ± 0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">5.05 ± 0.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">600</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.18 ± 0.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1.81 ± 0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">7.7 ± 0.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">650</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.078 ± 0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.87 ± 0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">700</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.035 ± 0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.513 ± 0.006</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1.9 ± 0.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">a</inf> (kJ mol<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">123 ± 12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">113 ± 7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">132 ± 7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Effect of the symmetric cell preparation temperature on the activity of Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> as cathode for intermediate temperature Solid Oxide Fuel Cells</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Santiago</ce:given-name>
+                  <ce:surname>Vázquez</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Juan</ce:given-name>
+                  <ce:surname>Basbus</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0020">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Analía L.</ce:given-name>
+                  <ce:surname>Soldati</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>Federico</ce:given-name>
+                  <ce:surname>Napolitano</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5">
+                  <ce:given-name>Adriana</ce:given-name>
+                  <ce:surname>Serquis</ce:surname>
+                  <ce:cross-ref refid="aff3" id="crosref0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6">
+                  <ce:given-name>Leopoldo</ce:given-name>
+                  <ce:surname>Suescun</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0045">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0050">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Cryssmat-Lab, Cátedra de Física, DETEMA, Facultad de Química, Universidad de la República, P.O. Box 1157, 11800 Montevideo, Uruguay</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Cryssmat-Lab</sa:organization>
+                     <sa:organization>Cátedra de Física</sa:organization>
+                     <sa:organization>DETEMA</sa:organization>
+                     <sa:organization>Facultad de Química</sa:organization>
+                     <sa:organization>Universidad de la República</sa:organization>
+                     <sa:address-line>P.O. Box 1157</sa:address-line>
+                     <sa:city>Montevideo</sa:city>
+                     <sa:postal-code>11800</sa:postal-code>
+                     <sa:country>Uruguay</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Espacio Interdisciplinario, Universidad de la República, José E. Rodó 1843, 11300 Montevideo, Uruguay</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Espacio Interdisciplinario</sa:organization>
+                     <sa:organization>Universidad de la República</sa:organization>
+                     <sa:address-line>José E. Rodó 1843</sa:address-line>
+                     <sa:city>Montevideo</sa:city>
+                     <sa:postal-code>11300</sa:postal-code>
+                     <sa:country>Uruguay</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Grupo Caracterización de materiales, CAB-CNEA, Bustillo 9500, 8400 Bariloche, Argentina</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Grupo Caracterización de materiales</sa:organization>
+                     <sa:organization>CAB-CNEA</sa:organization>
+                     <sa:address-line>Bustillo 9500</sa:address-line>
+                     <sa:city>Bariloche</sa:city>
+                     <sa:postal-code>8400</sa:postal-code>
+                     <sa:country>Argentina</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Cryssmat-Lab, Cátedra de Física, DETEMA, Facultad de Química, Universidad de la República, P.O. Box 1157, 11800 Montevideo, Uruguay.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="11" month="7" year="2014"/>
+            <ce:date-revised day="29" month="9" year="2014"/>
+            <ce:date-accepted day="12" month="10" year="2014"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">In this work we studied the electrochemical performance of Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (BSFCu) as cathode for Intermediate Temperature Solid Oxide Fuel Cells (IT-SOFC) with Ce<ce:inf loc="post">0.9</ce:inf>Gd<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">1.95</ce:inf> (CGO) electrolyte and the effect of the symmetric cell preparation temperature on the oxygen reduction reaction (ORR) activity. Symmetrical cells with the configuration BSFCu/CGO/BSFCu were prepared at 900 °C, 950 °C and 1000 °C to perform the electrochemical characterization in the 500–700 °C temperature range. The resultant area specific resistance (ASR) of the cells with different preparation temperatures followed the tendency: ASR<ce:inf loc="post">900°C</ce:inf> &lt; ASR<ce:inf loc="post">950°C</ce:inf> &lt; ASR<ce:inf loc="post">1000°C</ce:inf>. The symmetric cell constructed at 900 °C showed ASR values of 0.18, 0.078 and 0.035 Ω cm<ce:sup loc="post">2</ce:sup> at 600, 650 and 700 °C respectively, which demonstrated superior electrochemical activities than previous reports. Additional, X-ray diffraction (XRD), scanning and transmission electron microscopies (SEM and TEM) techniques were used to characterize the microstructure of the original and fired BSFCu materials and correlate it with the cell preparation temperature.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>IT-SOFC</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Cathode</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Gel combustion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>XRD</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>EIS</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Solid Oxide Fuel Cells (SOFCs) convert hydrogen and hydrocarbon fuels into electricity and heat, through an electrochemical reaction, with high efficiency and low emission of pollutants <ce:cross-refs refid="bib1 bib2" id="crosrefs0010">[1,2]</ce:cross-refs>. These devices are considered as one of the most promising candidates for power generation from large stationary plants to small and portable distributed generation applications with superior benefits than other fuel cells. However, the high manufacturing cost and materials long term stability have prevented its commercial viability. Nowadays, one of the research targets for SOFCs is lowering the operation temperature which can improve the lifetime of the cell/stack, allows the use of cheaper interconnecting and structural components (such as stainless steel) and facilitates the gas sealing <ce:cross-ref refid="bib3" id="crosref0055">[3]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">The current research target is focused on the development of electrode materials for intermediate temperature SOFCs (so called IT-SOFCs) operated between 500 and 700 °C. Lowering the operating temperature, however, reduces electrode kinetics and increases the interfacial polarization resistances, particularly on the cathode side of the cell. For this reason, a significant effort is being made to prepare cathode materials with high activity for the oxygen reduction reaction (ORR) in this temperature range <ce:cross-ref refid="bib4" id="crosref0060">[4]</ce:cross-ref>. The best cathode materials that have been described are based on the simple perovskite structure ABO<ce:inf loc="post">3-δ</ce:inf>, with cation disorder in the A and B sites and a significant proportion of disordered oxygen vacancies. Generally, these materials are mixed ionic–electronic conductors (MIECs) favoring the reduction of the cathode area specific resistance (ASR) <ce:cross-ref refid="bib5" id="crosref0065">[5]</ce:cross-ref>. The lowest ASR values have been reported for cathodes with mixed alkali–earths and/or lanthanides in the A site and mixed cobalt and iron in the B site of the perovskite structure such as (Ba,Sr)(Co,Fe)O<ce:inf loc="post">3-δ</ce:inf> (BSCF) <ce:cross-refs refid="bib6 bib7 bib8" id="crosrefs0015">[6–8]</ce:cross-refs>, (La,Sr)(Co,Fe)O<ce:inf loc="post">3-δ</ce:inf> (LSFC) <ce:cross-refs refid="bib9 bib10 bib11 bib12 bib13" id="crosrefs0020">[9–13]</ce:cross-refs> and LnBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> 
+                     <ce:cross-refs refid="bib14 bib15 bib16 bib17" id="crosrefs0025">[14–17]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0045" view="all">Unfortunately, these cathode compositions with high cobalt content show large thermal expansion coefficients (TEC), much larger than those of state-of-the-art electrolytes and interconnector materials which are available for IT-SOFC applications (i.e. gadolinia-doped ceria (CGO), (La,Sr)(GaMg)O<ce:inf loc="post">3-δ</ce:inf> (LSGM), yttria-stabilized zirconia (YSZ) and ferritic stainless steels) limiting the cell lifetime <ce:cross-ref refid="bib18" id="crosref0070">[18]</ce:cross-ref>. Moreover, the easy reduction and evaporation, and the high cost of cobalt are also significant issues. For these reasons, several efforts have recently been made to develop cobalt-free cathodes with high electrocatalytic activity for the ORR process, with similar TEC to the other cell components and structural stability in the operation conditions.</ce:para>
+                  <ce:para id="p0050" view="all">Iron-based perovskite Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>FeO<ce:inf loc="post">3-δ</ce:inf> has also attracted much attention due to its lower TEC and superior structural stability than cobalt-based materials <ce:cross-ref refid="bib19" id="crosref0075">[19]</ce:cross-ref>. However, this material presents a lower activity due to the low electrical conductivity and oxygen permeation <ce:cross-ref refid="bib20" id="crosref0080">[20]</ce:cross-ref>. Efimov et al. <ce:cross-ref refid="bib21" id="crosref0085">[21]</ce:cross-ref> and Zhao et al. <ce:cross-refs refid="bib22 bib23" id="crosrefs0030">[22,23]</ce:cross-refs> were the first to report Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (BSFCu) as a novel cobalt-free perovskite for IT-SOFC. These authors report a high electrical conductivity with a maximum value between 45 and 57 S cm<ce:sup loc="post">−1</ce:sup> at 600 °C, which exceeds the acceptable limit for cathode applications (≈10 S cm<ce:sup loc="post">−1</ce:sup>). Zhao et al. reported a good electrochemical performance with an ASR value of 0.137 Ω cm<ce:sup loc="post">2</ce:sup> at 700 °C working with samaria-doped ceria electrolyte (CSO) and a maximum power density of 718 mW cm<ce:sup loc="post">2</ce:sup> at 700 °C in a BSFCu/CSO/NiO–CSO cell.</ce:para>
+                  <ce:para id="p0055" view="all">However, the effect of the cell preparation temperature has not been studied for BSFCu and its influence on the cathode activity is poorly discussed in the literature for SOFCs. From our point of view this is a key parameter in the SOFCs construction process that needs to be evaluated in detail, mainly when nanostructure materials are used in the cell. The preparation temperature may affect the grain size of the cathode material and the cathode/electrolyte interface, so it is important to optimize this parameter to achieve high ORR activities that enable SOFCs to operate at lower temperatures.</ce:para>
+                  <ce:para id="p0060" view="all">In this work we studied the electrochemical performance of the Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> as cathode for IT-SOFC and the effect of the symmetric cell preparation temperature on the cathode ORR activity. The materials Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> and Gd<ce:inf loc="post">0.1</ce:inf>Ce<ce:inf loc="post">0.9</ce:inf>O<ce:inf loc="post">1.95</ce:inf> were synthesized by a modified gel-combustion route using EDTA as chelating agent and NH<ce:inf loc="post">4</ce:inf>NO<ce:inf loc="post">3</ce:inf> as combustion promoter. A detailed structural and microstructural characterization of the BSFCu powder was performed by XRD and TEM. The main purpose of this work is to demonstrate that optimizing a parameter often neglected as the cell preparation temperature is important to improve the cathode performance.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Preparation of cathode material: Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf>
+                     </ce:section-title>
+                     <ce:para id="p0065" view="all">Nanocrystalline Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (BSFCu) powder was synthesized by a modified gel-combustion route using Ba(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>, Sr(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>, Fe(C<ce:inf loc="post">5</ce:inf>H<ce:inf loc="post">7</ce:inf>O<ce:inf loc="post">2</ce:inf>)<ce:inf loc="post">2</ce:inf> and Cu(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>.3H<ce:inf loc="post">2</ce:inf>O (all &gt;99.9%, from Sigma–Aldrich) as metal sources. The synthesis of BSFCu was performed by dissolving stoichiometric amounts of the mentioned compounds in distilled water in a pyrex-glass beaker. Excess EDTA (99.4–100.6 %, Sigma–Aldrich) was added in a 1.1:1 EDTA/metal ion ratio. In this synthesis route the EDTA plays a role as fuel for combustion and chelating agent in the solution. HNO<ce:inf loc="post">3</ce:inf> (70%, Sigma–Aldrich) and NH<ce:inf loc="post">4</ce:inf>OH (28.0–30.0%, Sigma–Aldrich) was also added to form NH<ce:inf loc="post">4</ce:inf>NO<ce:inf loc="post">3</ce:inf> in-situ and promote the combustion of EDTA. An excess of NH<ce:inf loc="post">4</ce:inf>OH was added until a pH = 10 was obtained to improve chelating power of EDTA. The solution was then heated until self-combustion occurred. The ashes obtained were pressed into 13 mm pellets at 25 MPa and calcined at 850 °C for 3 h with a heating/cooling rate of 5 °C min<ce:sup loc="post">−1</ce:sup> to obtain nanocrystalline BSFCu powder.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">Preparation of electrolyte material: Ce<ce:inf loc="post">0.9</ce:inf>Gd<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">1.95</ce:inf>
+                     </ce:section-title>
+                     <ce:para id="p0070" view="all">The Gd<ce:inf loc="post">0.1</ce:inf>Ce<ce:inf loc="post">0.9</ce:inf>O<ce:inf loc="post">1.95</ce:inf> (CGO) electrolyte material was prepared by a conventional gel-combustion route using Gd(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>.6H<ce:inf loc="post">2</ce:inf>O, Ce(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>.6H<ce:inf loc="post">2</ce:inf>O as metal sources and citric acid (CA) as fuel with the molar relation CA:CGO of 2:1. In this case NH<ce:inf loc="post">4</ce:inf>NO<ce:inf loc="post">3</ce:inf> (&gt;99%, Sigma Aldrich) was added to promote the combustion of CA in the relation NH<ce:inf loc="post">4</ce:inf>NO<ce:inf loc="post">3</ce:inf>:CA = 6:1. The resulting CGO nanopowder was calcined at 1000 °C for 5 h (CGO1000) with a heating/cooling ramp of 5 °C min<ce:sup loc="post">−1</ce:sup> to eliminate carbon residues from the combustion.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">Symmetric cell fabrication</ce:section-title>
+                     <ce:para id="p0075" view="all">Symmetric cells were prepared using BSFCu and CGO1000 as starting powders. A dense CGO electrolyte pellet was obtained by uniaxially pressing 500 mg of CGO1000 powder under 25 MPa, to form 13 mm diameter and 1.0 mm thick disks and firing them at 1400 °C for 12 h in air atmosphere with a heating ramp of 4 °C min<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                     <ce:para id="p0080" view="all">The cathode was deposited on both electrolyte surfaces by spin-coating using an ink composed by BSFCu powder, ethanol, α-terpineol, polyvinyl butyral and polyvinyl pyrrolidone as indicated by Baqué et al. <ce:cross-ref refid="bib13" id="crosref0090">[13]</ce:cross-ref>. After deposition, the pellets were fired at high temperature to achieve good adhesion of the cathode–electrolyte interface. Calcination temperatures of 900, 950 and 1000 °C were selected for different symmetric cells to evaluate the influence of this parameter on the cathode electrochemical performance. The resulting BSFCu electrodes had an active area of 0.565 cm<ce:sup loc="post">2</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">Characterization</ce:section-title>
+                     <ce:para id="p0085" view="all">The phase purity and microstructure of synthesized powders was characterized by X-ray powder diffraction using an in-house diffractometer (Rigaku Ultima IV, operating at 40 kV and 30 mA using Cu<ce:italic>Kα</ce:italic> radiation). Data for the detailed structural characterization of BSFCu sample and oxygen content determination was collected at D10B-XPD beamline of the Brazilian Synchrotron Light Laboratory (LNLS). The beamline is equipped with a 6-circle Huber diffractometer configured for <ce:italic>θ</ce:italic>–2<ce:italic>θ</ce:italic> reflection-geometry with a Mythen 1000 linear position sensitive detector (PSD) with a sample to detector distance of 1022 mm. 10 keV X-rays (<ce:italic>λ</ce:italic> = 1.24155 Å) were used to illuminate the sample that was mounted in a flat holder and rotated at 2 cycles per second during data collection in the 2<ce:italic>θ</ce:italic> = 10–120° range in steps of 0.5°. The detector, spanning 3°, collected data six times for each 2<ce:italic>θ</ce:italic> value. Data reduction and averaging were performed to obtain a powder pattern with 2<ce:italic>θ</ce:italic>
+                        <ce:inf loc="post">min</ce:inf> = 8.7°, 2<ce:italic>θ</ce:italic>
+                        <ce:inf loc="post">max</ce:inf> = 121.3° and 2<ce:italic>θ</ce:italic>
+                        <ce:inf loc="post">step</ce:inf> = 0.005°. The pattern was fitted by the Rietveld method <ce:cross-ref refid="bib24" id="crosref0095">[24]</ce:cross-ref> using FullProf Suite software and including anomalous scattering (f′ and f″) corrections for all atomic species for 10 keV radiation <ce:cross-refs refid="bib25 bib26" id="crosrefs0035">[25,26]</ce:cross-refs>.</ce:para>
+                     <ce:para id="p0090" view="all">Morphological characterization of cathode powder was also done by transmission electron microscopy (TEM) using a Philips CM 200 UT device. Cross sectional images of the cathode–electrolyte interphase were performed by scanning electron microscope (SEM) using a Philips 515 equipment.</ce:para>
+                     <ce:para id="p0095" view="all">The area specific resistance (ASR) of BSFCu cathode fired at 900, 950 and 1000 °C in symmetrical cells was determined by electrochemical impedance spectroscopy (EIS) technique in the range 500–700 °C in a 200 ml min<ce:sup loc="post">−1</ce:sup> ambient air flux. These measurements were performed using a potentiostat/impedance analyzer Autolab (Eco Chemie BV) at frequencies from 1 MHz to 3 mHz and an applied voltage amplitude of 10 mV. Zview program was used for data processing and analysis <ce:cross-ref refid="bib27" id="crosref0100">[27]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0060">Structural and morphological characterization</ce:section-title>
+                     <ce:para id="p0100" view="all">Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> has a perovskite-type structure that crystallizes in the cubic Pm-3m (#221) space group. In the ideal cubic perovskite structure, the B cations are 6-fold and the A cations 12-fold coordinated, with the oxygen anions. In this compound, however, Basbus et al. <ce:cross-ref refid="bib28" id="crosref0105">[28]</ce:cross-ref> reported a presence of ∼1/8 oxygen vacant sites (<ce:italic>δ</ce:italic> ≈ 0.375) that reduces the average coordination number of Sr/Ba to 10 and of Fe/Cu to 5 and determines the average charge of Fe/Cu site to be 3.25+. The large number of oxygen vacant sites in a disordered cubic structure allows a high oxygen ion conductivity. The presence of Fe<ce:sup loc="post">3+/4+</ce:sup> and Cu<ce:sup loc="post">2+/3+</ce:sup> in a disordered arrangement in a cubic lattice also ensures electronic conductivity. <ce:cross-ref refid="fig1" id="crosref0110">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> shows the synchrotron X-ray powder diffraction pattern of BSFCu compound fitted by the Rietveld method. The refinement, showing a very good visual fit, converged to final <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">wp</ce:inf> and <ce:italic>χ</ce:italic>
+                        <ce:sup loc="post">2</ce:sup> values of 7.52 and 1.20 respectively. <ce:cross-ref refid="tbl1" id="crosref0115">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/> summarizes the results of this analysis where a small amount of CuO (0.54% weight as extracted from the FullProf quantitative phase analysis) was detected showing major peaks at 2<ce:italic>θ</ce:italic> = 28.45° and 31.0°. The peak broadening in the diffraction pattern was attributed to the small size of the crystallites and was determined using the Scherrer equation as implemented in FullProf with 18.4 nm average crystallite size.</ce:para>
+                     <ce:para id="p0105" view="all">In order to study the morphology of BSFCu powder before the symmetric cell preparation, TEM images were acquired. <ce:cross-ref refid="fig2" id="crosref0120">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows the dark and bright field images of agglomerates of BSFCu nanoparticles with sizes between 10 and 100 nm. However the particle size distribution as is shown in the histogram has an exponential decay of particle size with a mean of (119 ± 140) nm. We attribute this exponential decay to an uncontrolled crystal growth process due to the quick and exothermic combustion reaction.</ce:para>
+                     <ce:para id="p0110" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0125">Fig. 2</ce:cross-ref>d shows how the crystallite size of the as-prepared BSFCu nanopowder changes with temperature when fired at 900, 950 and 1000 °C for 3 h. The 850 °C XRD pattern represents the starting BSFCu material and the next patterns correspond to the BSFCu material calcined at the symmetric cell preparation temperatures. The decrease in the peak profile width can be associated with a crystal growth process which results in a reduction of the exposed surface of the cathode.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0065">Electrochemical characterization</ce:section-title>
+                     <ce:para id="p0115" view="all">The cells with the configuration BSFCu/CGO/BSFCu were investigated via Electrochemical Impedance Spectroscopy (EIS) under open circuit conditions and in air atmosphere from 500 to 700 °C. A cross sectional image of the cathode-electrolyte interface is shown in <ce:cross-ref refid="fig3" id="crosref0130">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>. A uniform layer of porous cathode with a thickness of 30–40 μm can be observed.</ce:para>
+                     <ce:para id="p0120" view="all">Typical Nyquist plots were obtained and are shown in <ce:cross-ref refid="fig4" id="crosref0135">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>. The impedance data was corrected by the effective area of the electrode and the symmetrical configuration of the cell <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>Z</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mo>(</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>Z</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>exp</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:msub>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>electrode</mml:mtext>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo>)</mml:mo>
+                              <mml:mo>/</mml:mo>
+                              <mml:mn>2</mml:mn>
+                           </mml:mrow>
+                        </mml:math> were <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>Z</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mi>exp</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is the measured impedance and <ce:italic>A</ce:italic>
+                        <ce:inf loc="post">electrode</ce:inf> is the area of the deposited electrode.</ce:para>
+                     <ce:para id="p0125" view="all">The Nyquist plots show only the curve due to the ORR; in all the cases there are more than one arc that contributes to the impedance spectra. The ORR mechanism is complex and could involve various determining reaction steps which could be studied using EIS. In our case, for the cells prepared at 900 and 950 °C there are high frequency (HF) and low frequency (LF) arcs, which we associate to the charge transfer process in the surface of the cathode and to the ionic diffusion in the bulk of the material, respectively <ce:cross-ref refid="bib29" id="crosref0140">[29]</ce:cross-ref>. The LF contribution seems to loose importance with the cell preparation temperature, disappearing at 1000 °C (<ce:cross-ref refid="fig4" id="crosref0145">Fig. 4</ce:cross-ref>), consistently with the increase of bulk volume with crystal growth that produces the reduction of the resistance associated with ionic conduction due to longer continuous diffusion paths within each grain of the cathode material. On the contrary, the HF arc increases its importance with increasing cell preparation temperature. This is consistent with the observed decrease of the total active area for the charge transfer process due to crystal growth at higher temperature (<ce:cross-ref refid="fig2" id="crosref0150">Fig. 2</ce:cross-ref>d). However, a better understanding of each mechanism and their influence of the EIS spectra may require a detailed study varying the pO<ce:inf loc="post">2</ce:inf> or electrode thickness <ce:cross-ref refid="bib30" id="crosref0155">[30]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0130" view="all">In order to obtain the ASR values we can use the difference between the low-frequency and the high-frequency intercepts with the real axis. To achieve more accurate ASR values, the impedance spectra were fitted to an equivalent circuit shown in <ce:cross-ref refid="fig5" id="crosref0160">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>a. The circuit is composed by an inductance L due to the current probes, a resistor R<ce:inf loc="post">E</ce:inf> due to the electrolyte resistance and two constant phase elements (CPE<ce:inf loc="post">HF</ce:inf> and CPE<ce:inf loc="post">LF</ce:inf>) in parallel with resistor (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf> and <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">LF</ce:inf>). Using this model the ASR is easily calculated as <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>ASR</mml:mtext>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>HF</mml:mtext>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo>+</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>LF</mml:mtext>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>. The ASR values are resumed in the <ce:cross-ref refid="tbl2" id="crosref0165">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/> as a function of the cell preparation temperature and the cell measurement temperature. Arrhenius plot of the ASR is shown in <ce:cross-ref refid="fig5" id="crosref0170">Fig. 5</ce:cross-ref>b including previous results from Zhao et al. <ce:cross-ref refid="bib22" id="crosref0175">[22]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0135" view="all">The ASR of the symmetric cells prepared at 900, 950 and 1000 °C shows the following tendency ASR<ce:inf loc="post">900°C</ce:inf> &lt; ASR<ce:inf loc="post">950°C</ce:inf> &lt; ASR<ce:inf loc="post">1000°C</ce:inf>. This lower cathode activity when the firing temperature is higher can be due to the crystal growth and consequent reaction area loss, so this slows the adsorption and bulk incorporation kinetics of O<ce:inf loc="post">2</ce:inf> in the cathode. The corresponding activation energy (<ce:italic>E</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>) of the Arrhenius plot was determined from the log (ASR) vs. <ce:italic>T</ce:italic>
+                        <ce:sup loc="post">−1</ce:sup> slope and were 132, 113 and 123 kJ mol<ce:sup loc="post">−1</ce:sup> for cathodes fired at 900, 950 and 1000 °C respectively. The obtained activation energies are very similar which indicates an equal rate limiting process for the ORR, result which suggests that the reaction rate increases due to increased reaction surface area of the cathode and not to a change of mechanism.</ce:para>
+                     <ce:para id="p0140" view="all">The lowest ASR values were 0.18, 0.078 and 0.035 Ω cm<ce:sup loc="post">2</ce:sup> at 600, 650 and 700 °C respectively, for the symmetric cell prepared at 900 °C. These values are comparable or lower than the required cathode ASR for SOFCs applications (≈0.15 Ω cm<ce:sup loc="post">2</ce:sup> 
+                        <ce:cross-ref refid="bib1" id="crosref0180">[1]</ce:cross-ref>) and similar to the best results already reported for Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> 
+                        <ce:cross-ref refid="bib7" id="crosref0185">[7]</ce:cross-ref>. For this reason Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>Cu<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> is a cobalt-free material with high electrocatalytic activity that deserves further study as cathode for IT-SOFCs applications working in the 600–700 °C range.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0070">Conclusions</ce:section-title>
+                  <ce:para id="p0145" view="all">We synthesized nanostructured Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> cathode material by an alternative gel-combustion route at low temperature. The cathode electrochemical performance was studied as function of the symmetric cell preparation temperature and the cathode ASR was calculated for cells prepared at 900, 950 and 1000 °C. The ORR activity of the Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> cathode was enhanced by lowering the symmetric cell preparation temperature (ASR<ce:inf loc="post">900°C</ce:inf> &lt; ASR<ce:inf loc="post">950°C</ce:inf> &lt; ASR<ce:inf loc="post">1000°C</ce:inf>). The symmetric cell constructed at 900 °C showed ASR values of 0.18, 0.078 and 0.035 Ω cm<ce:sup loc="post">2</ce:sup> at 600, 650 and 700 °C respectively, which demonstrated superior electrochemical activities than previous reports for the BSFCu material.</ce:para>
+                  <ce:para id="p0150" view="all">For the development of IT-SOFCs it is necessary to optimize microstructural characteristics of the materials, and the cell preparation temperature is one of such important parameters to be evaluated that, as we show in this work, may have high influence on the electrochemical activity at the lower temperatures. The low ASR values obtained in this work reinforce the idea that BSFCu is a promising material for IT-SOFC.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0075">Acknowledgments</ce:section-title>
+               <ce:para id="p0155" view="all">This work was supported by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Agencia Nacional de Investigación e Innovación (Uruguay)</ce:grant-sponsor> through grant <ce:grant-number refid="gs1">FSE_2009_1_51</ce:grant-number> and <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Laboratorio Nacional de Luz Synchrotron (LNLS, Campinas, SP, Brazil)</ce:grant-sponsor> through a grant to perform research proposal <ce:grant-number refid="gs2">XRD1-15297</ce:grant-number> at D10B-XPD beamline. LS is also indebted to PEDECIBA. SV acknowledges the financial support of Espacio Interdisciplinario-Universidad de la República. The authors are grateful to Dr. Alberto Caneiro for the use of his laboratories for symmetrical cell preparation and helpful discussion and to Carlos Cotaro for the SEM images.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0080">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.H.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Heinzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>414</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>352</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E. Perry</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>400</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>649</sb:first-page>
+                              <sb:last-page>651</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A. Boudghene</ce:given-name>
+                                 <ce:surname>Stambouli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Traversa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew. Sustain. Energy Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                              <sb:last-page>455</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Haile</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>431</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Adler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4791</sb:first-page>
+                              <sb:last-page>4843</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Patra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Rout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Pratihar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bhattacharya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11904</sb:first-page>
+                              <sb:last-page>11913</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>231</sb:first-page>
+                              <sb:last-page>246</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhanga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhanga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1008</sb:first-page>
+                              <sb:last-page>1014</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Beckel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.P.</ce:given-name>
+                                 <ce:surname>Muecke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gyger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Florey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Infortuna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ludwig J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>407</sb:first-page>
+                              <sb:last-page>415</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Marinha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hayd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dessemond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ivers-Tiffée</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Djurado</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5084</sb:first-page>
+                              <sb:last-page>5090</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kerman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1826</sb:first-page>
+                              <sb:last-page>1832</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Baqué</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Djurado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Rossignol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Marinha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Caneiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Serquis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2473</sb:first-page>
+                              <sb:last-page>2480</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Baqué</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Caneiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Moreno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Serquis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1905</sb:first-page>
+                              <sb:last-page>1908</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lü</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8094</sb:first-page>
+                              <sb:last-page>8096</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3729</sb:first-page>
+                              <sb:last-page>3735</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2157</sb:first-page>
+                              <sb:last-page>2165</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gaudillère</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Olivier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vernoux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Farrusseng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4758</sb:first-page>
+                              <sb:last-page>4764</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Molenda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Swierczek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zajac</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>657</sb:first-page>
+                              <sb:last-page>670</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7343</sb:first-page>
+                              <sb:last-page>7351</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="oref1">
+                        <ce:textref>J. Jung, S.T. Misture, D.D. Edwards, 24 (2010) 261–269.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Efimov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Halfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kuhn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Heitjans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Caro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Feldhoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1540</sb:first-page>
+                              <sb:last-page>1544</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1859</sb:first-page>
+                              <sb:last-page>1861</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3769</sb:first-page>
+                              <sb:last-page>3774</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Rietveld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rodríguez-Carvajal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chantler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Ref. Data</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>597</sb:first-page>
+                              <sb:last-page>1048</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref id="oref2">
+                        <ce:textref>D. Johnson, Zview, Scribner Associates Inc.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Basbus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.D.</ce:given-name>
+                                 <ce:surname>Prado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Caneiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.V.</ce:given-name>
+                                 <ce:surname>Mogni</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroceramics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>318</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2416</sb:first-page>
+                              <sb:last-page>2420</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mogni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Prado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Caneiro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

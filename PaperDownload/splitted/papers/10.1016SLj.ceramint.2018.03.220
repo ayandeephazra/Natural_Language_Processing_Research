@@ -1,0 +1,2422 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0272884218307995</prism:url><dc:identifier>doi:10.1016/j.ceramint.2018.03.220</dc:identifier><eid>1-s2.0-S0272884218307995</eid><prism:doi>10.1016/j.ceramint.2018.03.220</prism:doi><pii>S0272-8842(18)30799-5</pii><dc:title>Protective coating based on manganese–copper oxide for solid oxide fuel cell interconnects: Plasma spray coating and performance evaluation </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>44</prism:volume><prism:issueIdentifier>10</prism:issueIdentifier><prism:startingPage>11576</prism:startingPage><prism:endingPage>11581</prism:endingPage><prism:pageRange>11576-11581</prism:pageRange><prism:number>10</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-07-31</prism:coverDate><prism:coverDisplayDate>July 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><dc:creator>Waluyo, Nurhadi S.</dc:creator><dc:creator>Park, Seong-Sik</dc:creator><dc:creator>Song, Rak-Hyun</dc:creator><dc:creator>Lee, Seung-Bok</dc:creator><dc:creator>Lim, Tak-Hyoung</dc:creator><dc:creator>Hong, Jong-Eun</dc:creator><dc:creator>Ryu, Kwang Hyun</dc:creator><dc:creator>Bin Im, Won</dc:creator><dc:creator>Lee, Jong-Won</dc:creator><dc:description>
+                  A solid oxide fuel cell (SOFC) stack requires metallic interconnects to electrically connect unit cells, while preventing fuel from mixing with oxidant. During SOFC operations, chromia scales continue to grow on the interconnect surfaces, resulting in a considerable increase of interfacial resistance, and at the same time, gaseous Cr species released from the chromia scales degrades the cathode performance. To address these problems, in this study, protective Mn2CuO4 coatings are fabricated on metallic interconnects (Crofer 22 APU) via a plasma spray (PS) process. The PS technique involves direct spray deposition of molten Mn2CuO4 onto the interconnect substrate and leads to the formation of high-density Mn2CuO4 coatings without the need for post-heat-treatment. The thickness, morphology, and porosity of the PS-Mn2CuO4 coating are found to depend on the processing parameters, including plasma arc power, gas flow rate, and substrate temperature. The PS-Mn2CuO4 coating fabricated with optimized parameters is completely impermeable to gases and has high adhesion strength on the interconnect substrate. Furthermore, no resistive chromia scales are formed at the coating/substrate interface during the PS process. As a result, the PS-Mn2CuO4-coated interconnects show a very low area-specific resistance below 10 mΩ cm2 at 800 °C in air and excellent stability during both continuous operation and repeated thermal cycling. This work suggests that an appropriate combination of the material and coating process provides a highly effective protective layer for SOFC interconnects.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide fuel cell</dcterms:subject><dcterms:subject>Metallic interconnect</dcterms:subject><dcterms:subject>Protective coating</dcterms:subject><dcterms:subject>Spinel oxide</dcterms:subject><dcterms:subject>Plasma spray coating</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0272884218307995" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0272884218307995" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="508" height="179" size="23014">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="408" size="45773">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="723" size="252849">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="494" size="43409">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="456" size="35481">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="368" size="69555">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="479" size="68505">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="4965">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="136" height="164" size="8441">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="154" height="164" size="17588">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="163" size="8368">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="164" size="10109">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="172" height="164" size="11801">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="116" height="164" size="8646">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2250" height="795" size="167395">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1806" size="331458">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="3197" size="2179001">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="2188" size="295849">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="2016" size="247796">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1708" height="1630" size="477349">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="2119" size="566625">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218307995-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85044533698</scopus-id><scopus-eid>2-s2.0-85044533698</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85044533698" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180327">2018-03-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180327">2018-03-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180430">2018-04-30</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180430">2018-04-30</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-05-31T06:56:29</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0272884218307995</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(18)30799-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0272884218307995</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2018.03.220</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884218X00078</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200531">2020-05-31T06:13:19.418162Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180701</xocs:date-search-begin>
+      <xocs:date-search-end>20180731</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1522118114">2018-03-27T02:35:14.146937Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>44</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>44</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 44, Issue 10</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>67</xocs:sort-order>
+      <xocs:first-fp>11576</xocs:first-fp>
+      <xocs:last-lp>11581</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>11576</xocs:first-page>
+         <xocs:last-page>11581</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201807</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PROTECTIVECOATINGBASEDMANGANESECOPPEROXIDEFORSOLIDOXIDEFUELCELLINTERCONNECTSPLASMASPRAYCOATINGPERFORMANCEEVALUATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WALUYO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of feedstock powder</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Plasma spray coating</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Coating characterizations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>HUIJSMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>110</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>BRETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1568</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1578</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>BRYLEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>ANTEPARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>SHAIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>HUCZKOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A1201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>GENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>242</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>MATSUZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>ZHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1043</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1052</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>MIGUELPEREZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>515</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3648</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3654</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>OU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12043</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12050</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>WALUYO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>452</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F1549</xocs:ref-first-fp>
+            <xocs:ref-last-lp>F1554</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>WALUYO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F1245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>F1250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F1066</xocs:ref-first-fp>
+            <xocs:ref-last-lp>F1071</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>HUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>308</xocs:ref-first-fp>
+            <xocs:ref-last-lp>323</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>PURANEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17284</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17294</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>234</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>561</xocs:ref-first-fp>
+            <xocs:ref-last-lp>564</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>SPOTORNO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>728</xocs:ref-first-fp>
+            <xocs:ref-last-lp>734</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>PURANEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1029</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1033</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3186</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>JORDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1044</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1050</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>SADEGHIFADAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2141</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref31">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WALUYOX2018X11576</xocs:refkey3>
+         <xocs:refkey4lp>WALUYOX2018X11576X11581</xocs:refkey4lp>
+         <xocs:refkey4ai>WALUYOX2018X11576XN</xocs:refkey4ai>
+         <xocs:refkey5>WALUYOX2018X11576X11581XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-04-30T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-04-30T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(18)30799-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0272884218307995</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0272884218307995</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2018.03.220</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2020-05-31T06:13:19.418162Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/MAIN/application/pdf/b41ddba12a751706b876313b634cc18c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2715909</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0272884218307995-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/PREVIEW/image/png/ecd3a65ea0a40decc25cbf55eecffd19/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54238</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr1/DOWNSAMPLED/image/jpeg/6ecb1f63c62028129f4b1a3782f3f2cf/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23014</xocs:filesize>
+               <xocs:pixel-height>179</xocs:pixel-height>
+               <xocs:pixel-width>508</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr2/DOWNSAMPLED/image/jpeg/3e083650824ca382ec9b2a34199f74a1/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45773</xocs:filesize>
+               <xocs:pixel-height>408</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr3/DOWNSAMPLED/image/jpeg/9870379a9a51b3547913f2626db97e96/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>252849</xocs:filesize>
+               <xocs:pixel-height>723</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr4/DOWNSAMPLED/image/jpeg/8ad99b0aa08639af05fd21872378477f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43409</xocs:filesize>
+               <xocs:pixel-height>494</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr5/DOWNSAMPLED/image/jpeg/45b5597025ff11edf116962509d8ac12/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35481</xocs:filesize>
+               <xocs:pixel-height>456</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr6/DOWNSAMPLED/image/jpeg/627ca6e0eea9a2de2ee6ebdf5a3f3738/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69555</xocs:filesize>
+               <xocs:pixel-height>368</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr7/DOWNSAMPLED/image/jpeg/c96932837d7c43a7922f427fd2ddd4cb/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68505</xocs:filesize>
+               <xocs:pixel-height>479</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr1/THUMBNAIL/image/gif/3223115439511265f6f5471f33eeec7b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4965</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr2/THUMBNAIL/image/gif/43898cd188934a6ac85d0e6327c73d19/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8441</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>136</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr3/THUMBNAIL/image/gif/b8561ac420b727242707564423e54c47/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17588</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>154</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr4/THUMBNAIL/image/gif/39260c70db7001404cc90f620a5a8e8b/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8368</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr5/THUMBNAIL/image/gif/af022ddd5ccf0a93cdf8261f65b0d65c/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10109</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr6/THUMBNAIL/image/gif/ecdc9655f287d4e96c635e5599e3ce93/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11801</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr7/THUMBNAIL/image/gif/73536d4e8cc1b598d3c2f5a66c118f5d/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8646</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>116</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr1/HIGHRES/image/jpeg/a6cb43898fbead542b93e9141f167a16/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>167395</xocs:filesize>
+               <xocs:pixel-height>795</xocs:pixel-height>
+               <xocs:pixel-width>2250</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr2/HIGHRES/image/jpeg/cceb03ef536c040d03491bc12a290bcc/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>331458</xocs:filesize>
+               <xocs:pixel-height>1806</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr3/HIGHRES/image/jpeg/981d221f7bd2268c092d416fff155ce2/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2179001</xocs:filesize>
+               <xocs:pixel-height>3197</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr4/HIGHRES/image/jpeg/177d70aa4d271b35bd1bc2cca34d7f56/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>295849</xocs:filesize>
+               <xocs:pixel-height>2188</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr5/HIGHRES/image/jpeg/633e5e1207ec39a88c7596f9fe683f3d/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>247796</xocs:filesize>
+               <xocs:pixel-height>2016</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr6/HIGHRES/image/jpeg/f216cc3fdacce60a4417be5d6ad2573d/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>477349</xocs:filesize>
+               <xocs:pixel-height>1630</xocs:pixel-height>
+               <xocs:pixel-width>1708</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218307995-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218307995/gr7/HIGHRES/image/jpeg/421e0764afa30c0d8c9adc493f3462a0/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>566625</xocs:filesize>
+               <xocs:pixel-height>2119</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>17857</aid>
+            <ce:pii>S0272-8842(18)30799-5</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2018.03.220</ce:doi>
+            <ce:copyright type="joint" year="2018">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">Schematic diagram of the plasma spray coating process.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">(a) XRD pattern and (b) SEM micrograph of the as-spray-dried Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> feedstock powder. Symbol ‘*’ in (a) indicates Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">SEM images of the surfaces and ion-milled cross-sections of the Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings plasma-sprayed under various conditions listed in <ce:cross-ref id="cr0005" refid="t0005">Table 1</ce:cross-ref>: (a) PS1, (b) PS2, (c) PS3, (d) PS4, and (e) PS5. The scale bars in the cross-sectional images represent 50 µm. (f) Concentration profiles of Fe, Cr, Mn, Cu, and O obtained by the EDS analysis.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Schematic diagram of the experimental set-up for the gas permeation measurement.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">(a) Photograph of the substrate and counter parts used for adhesion test and (b) the adhesion strength values determined for various PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings (PS3, PS4, and PS5).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Evolution of ASR with time measured on the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects during (a) continuous testing at 800 °C and (b) repeated thermal cycling in the temperature range between 400 °C and 800 °C in air. The thermal cycling test was conducted on the interconnects coated using the condition, PS5. All of the ASR measurements were performed after the pre-conditioning step for ~ 100 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Fig. 6</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">(a) XRD patterns of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects before (as-deposited) and after the long-term stability test. Symbol ‘*’ in (a) indicates Mn<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>. (b) SEM micrographs taken after 5 and 2000 h of continuous stability testing. The stability test was performed on the interconnects coated using the condition, PS5.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0035" role="short">Fig. 7</ce:alt-text>
+               <ce:link id="lk0035" locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218307995/gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Plasma spray (PS) processing parameters employed for Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0040" role="short">Table 1</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Unit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PS1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PS2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PS3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PS4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PS5</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Plasma arc power</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">kW</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">45.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Flow rate of primary gas (Ar)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NLPM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">38</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Flow rate of secondary gas (H<inf loc="post">2</inf>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NLPM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Spray distance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Substrate temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Protective coating based on manganese–copper oxide for solid oxide fuel cell interconnects: Plasma spray coating and performance evaluation</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0272884218307995-32a7be931b1c33ee5568af946d8d036f">
+                  <ce:given-name>Nurhadi S.</ce:given-name>
+                  <ce:surname>Waluyo</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0272884218307995-a81086088457d9bba57ad6ad4568c132">
+                  <ce:given-name>Seong-Sik</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref id="cr0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0272884218307995-93056a89f9c477b3711974bed3e22dd5">
+                  <ce:given-name>Rak-Hyun</ce:given-name>
+                  <ce:surname>Song</ce:surname>
+                  <ce:cross-ref id="cr0020" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0272884218307995-dc213f94b5bc0424c9f1a51a4f9c54e4">
+                  <ce:given-name>Seung-Bok</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref id="cr0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0272884218307995-c14f635d086cce14500857d8ab487028">
+                  <ce:given-name>Tak-Hyoung</ce:given-name>
+                  <ce:surname>Lim</ce:surname>
+                  <ce:cross-ref id="cr0030" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0272884218307995-f6aa54b482462b79fe9bd591f1c3e0b3">
+                  <ce:given-name>Jong-Eun</ce:given-name>
+                  <ce:surname>Hong</ce:surname>
+                  <ce:cross-ref id="cr0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S0272884218307995-ee56ff4279a2404695a4cef8ac4c31f7">
+                  <ce:given-name>Kwang Hyun</ce:given-name>
+                  <ce:surname>Ryu</ce:surname>
+                  <ce:cross-ref id="cr0040" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040" author-id="S0272884218307995-4a201f4d631f25529b846b27b39db3af">
+                  <ce:given-name>Won</ce:given-name>
+                  <ce:surname>Bin Im</ce:surname>
+                  <ce:cross-ref id="cr0045" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0045" author-id="S0272884218307995-e65eef4415268e2a4248b5a014012eb1">
+                  <ce:given-name>Jong-Won</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref id="cr0050" refid="aff0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0055" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0272884218307995-07909836886789129854d0c62b7d8ea9">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Fuel Cell Laboratory, Korea Institute of Energy Research, 152 Gajeong-ro, Yuseong-gu, Daejeon 34129, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Fuel Cell Laboratory, Korea Institute of Energy Research</sa:organization>
+                     <sa:address-line>152 Gajeong-ro</sa:address-line>
+                     <sa:city>Yuseong-gu</sa:city>
+                     <sa:state>Daejeon</sa:state>
+                     <sa:postal-code>34129</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0272884218307995-69728a342c215cace56ab2acb7e51646">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Daeshin Metallizing Co. Ltd., 67 Daesong-ro 101beon-gil, Nam-gu, Pohang 37866, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Daeshin Metallizing Co. Ltd.</sa:organization>
+                     <sa:address-line>67 Daesong-ro 101beon-gil</sa:address-line>
+                     <sa:city>Nam-gu</sa:city>
+                     <sa:state>Pohang</sa:state>
+                     <sa:postal-code>37866</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0272884218307995-030d12e7a9363f6517e76bfb71680334">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>LTC Co. Ltd., 268 Hagui-ro, Dongan-gu, Anyang 14059, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>LTC Co. Ltd.</sa:organization>
+                     <sa:address-line>268 Hagui-ro</sa:address-line>
+                     <sa:city>Dongan-gu</sa:city>
+                     <sa:state>Anyang</sa:state>
+                     <sa:postal-code>14059</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020" affiliation-id="S0272884218307995-dfc29bc849834867293b7c603aaf4718">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>School of Materials Science and Engineering, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju 61186, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Materials Science and Engineering, Chonnam National University</sa:organization>
+                     <sa:address-line>77 Yongbong-ro</sa:address-line>
+                     <sa:city>Buk-gu</sa:city>
+                     <sa:state>Gwangju</sa:state>
+                     <sa:postal-code>61186</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0025" affiliation-id="S0272884218307995-76904ed7193e935cc92a5a365119b0e3">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, Chosun University, 309 Pilmun-daero, Dong-gu, Gwangju 61452, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Science and Engineering, Chosun University</sa:organization>
+                     <sa:address-line>309 Pilmun-daero</sa:address-line>
+                     <sa:city>Dong-gu</sa:city>
+                     <sa:state>Gwangju</sa:state>
+                     <sa:postal-code>61452</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="2" month="1" year="2018"/>
+            <ce:date-revised day="25" month="3" year="2018"/>
+            <ce:date-accepted day="25" month="3" year="2018"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0045" view="all">A solid oxide fuel cell (SOFC) stack requires metallic interconnects to electrically connect unit cells, while preventing fuel from mixing with oxidant. During SOFC operations, chromia scales continue to grow on the interconnect surfaces, resulting in a considerable increase of interfacial resistance, and at the same time, gaseous Cr species released from the chromia scales degrades the cathode performance. To address these problems, in this study, protective Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings are fabricated on metallic interconnects (Crofer 22 APU) <ce:italic>via</ce:italic> a plasma spray (PS) process. The PS technique involves direct spray deposition of molten Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> onto the interconnect substrate and leads to the formation of high-density Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings without the need for post-heat-treatment. The thickness, morphology, and porosity of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating are found to depend on the processing parameters, including plasma arc power, gas flow rate, and substrate temperature. The PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating fabricated with optimized parameters is completely impermeable to gases and has high adhesion strength on the interconnect substrate. Furthermore, no resistive chromia scales are formed at the coating/substrate interface during the PS process. As a result, the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects show a very low area-specific resistance below 10 mΩ cm<ce:sup loc="post">2</ce:sup> at 800 °C in air and excellent stability during both continuous operation and repeated thermal cycling. This work suggests that an appropriate combination of the material and coating process provides a highly effective protective layer for SOFC interconnects.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Metallic interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Protective coating</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Spinel oxide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Plasma spray coating</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">A solid oxide fuel cell (SOFC) is a clean power generation system that can convert the chemical energy of fuels to electricity <ce:italic>via</ce:italic> electrochemical redox reactions at high temperatures. Compared with low-temperature fuel cells, SOFCs can deliver higher energy conversion efficiency and run on various types of chemical fuels ranging from hydrocarbons to renewable biomass <ce:cross-refs id="crs0005" refid="bib1 bib2">[1,2]</ce:cross-refs>. An SOFC unit cell consists of a dense ceramic electrolyte layer sandwiched between porous electrodes (anode, fuel electrode; cathode, oxygen electrode). In a planar-type SOFC stack, metallic interconnects are used to electrically connect the unit cells, while preventing fuel from mixing with oxidant <ce:cross-refs id="crs0010" refid="bib3 bib4 bib5 bib6">[3–6]</ce:cross-refs>. State-of-the-art metallic interconnects are made of chromia (Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)-forming ferritic stainless steels and provide advantages over ceramic interconnects: (<ce:italic>i</ce:italic>) high electrical conductivity, (<ce:italic>ii</ce:italic>) high thermal conductivity and stability, (<ce:italic>iii</ce:italic>) thermal expansion compatibility with other SOFC components, and (<ce:italic>iv</ce:italic>) low materials and fabrication cost <ce:cross-refs id="crs0015" refid="bib4 bib6">[4,6]</ce:cross-refs>. During SOFC operations, however, the metallic interconnects exposed to high-temperature oxidizing atmospheres cause the following problems: first, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales grow on the interconnect surfaces, resulting in a continuous increase of interfacial resistance; and second, Cr species evaporating from the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales are electrochemically precipitated to block the active sites for oxygen reduction, thereby reducing cathode performance (<ce:italic>i.e.</ce:italic>, chromium poisoning) <ce:cross-refs id="crs0020" refid="bib7 bib8 bib9 bib10 bib11 bib12">[7–12]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0010" view="all">To deal with these problems, protective conducting metal oxides have been coated on the metallic interconnects <ce:cross-refs id="crs0025" refid="bib13 bib14 bib15 bib16 bib17 bib18 bib19">[13–19]</ce:cross-refs>. Spinel-type transition metal oxides described by the general formula of (A,B)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> (A and B = transition metals) are considered to be promising for protective coatings because of their high electrical conductivity and chemical/structural stability at elevated temperatures <ce:cross-refs id="crs0030" refid="bib13 bib14 bib15 bib16">[13–16]</ce:cross-refs>. For example, (Mn,Co)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>-based coatings have been reported to prevent significant growth of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales as well as Cr evaporation and migration <ce:cross-refs id="crs0035" refid="bib13 bib14 bib15">[13–15]</ce:cross-refs>. In general, spinel oxide coatings are formed on metallic interconnects by a slurry coating process combined with post-heat-treatment (sintering) at high temperatures (&gt; 800 °C) <ce:cross-refs id="crs0040" refid="bib6 bib13 bib14 bib15">[6,13–15]</ce:cross-refs>. This conventional method requires two-step heat-treatment to achieve high-density coatings: (<ce:italic>i</ce:italic>) first heat-treatment in a reducing atmosphere to induce the decomposition of spinel oxide; and (<ce:italic>ii</ce:italic>) subsequent heat-treatment in an oxidizing atmosphere to promote the densification of the coating <ce:italic>via</ce:italic> reformation of the spinel oxide phase <ce:cross-refs id="crs0045" refid="bib13 bib15">[13,15]</ce:cross-refs>. Furthermore, the sintering step in an oxidizing atmosphere inevitably causes the formation of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales at the interface between the coating and the substrate. A plasma spray (PS) process based on direct spray deposition of molten materials can provide high-density and high-quality metal oxide coatings <ce:cross-ref id="cr0060" refid="bib20">[20]</ce:cross-ref>. More importantly, it does not require post-heat-treatment at high temperatures; therefore, metallic interconnects would not suffer from thermal distortion and excessive Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> growth during the PS process. In fact, the metallic interconnects with plasma-sprayed (Mn,Co)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> coatings (MnCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf>, MnCo<ce:inf loc="post">1.9</ce:inf>Fe<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">4</ce:inf>, and Mn<ce:inf loc="post">1.5</ce:inf>Co<ce:inf loc="post">1.5</ce:inf>O<ce:inf loc="post">4</ce:inf>) exhibited promising electrical properties and long-term stability <ce:cross-refs id="crs0050" refid="bib21 bib22">[21,22]</ce:cross-refs>. Moreover, the PS technique offers a cost-effective coating method that can be easily scaled up for mass production.</ce:para>
+                  <ce:para id="p0015" view="all">In this study, a PS technique was employed to fabricate (Mn,Cu)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel coatings that have recently received increasing attention as an alternative material to (Mn,Co)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> for protective coatings on metallic interconnects <ce:cross-refs id="crs0055" refid="bib16 bib23">[16,23]</ce:cross-refs>. Our previous work demonstrated that Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> shows higher sinterability and electrical conductivity in comparison with Mn<ce:inf loc="post">1.5</ce:inf>Co<ce:inf loc="post">1.5</ce:inf>O<ce:inf loc="post">4</ce:inf> and that the Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating (fabricated through the conventional slurry coating process mentioned above) can effectively inhibit the evaporation of gaseous Cr species as well as the high-temperature oxidation (Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> formation) of Crofer 22 APU interconnects <ce:cross-ref id="cr0065" refid="bib16">[16]</ce:cross-ref>. Although Spotorno et al. <ce:cross-ref id="cr0070" refid="bib24">[24]</ce:cross-ref> reported the plasma-sprayed (PS) Mn<ce:inf loc="post">1.6</ce:inf>Cu<ce:inf loc="post">1.4</ce:inf>O<ce:inf loc="post">4</ce:inf> and Mn<ce:inf loc="post">1.5</ce:inf>Cu<ce:inf loc="post">1.5</ce:inf>O<ce:inf loc="post">4</ce:inf> coatings on Crofer 22 H interconnects, the interconnects had many pores and cracks across the coating thickness and exhibited relatively high area-specific resistance (ASR) values of 40–80 mΩ cm<ce:sup loc="post">2</ce:sup> at 800 °C, making the efficacy of the PS-(Mn,Cu)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> coatings questionable. Here, we present a comprehensive study on PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings for SOFC interconnects – the PS parameters, <ce:italic>i.e.</ce:italic>, plasma arc power, flow rates of plasma gases (Ar and H<ce:inf loc="post">2</ce:inf>), and substrate temperature, were controlled to achieve high-quality protective coatings. Various characterization tools were used to evaluate the coating properties, including gas leakage test, adhesion test, and ASR measurement. As will be shown later, the processing parameters studied in this work play a crucial role in determining the microstructural and physical properties of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings, and the resulting coatings effectively inhibit the degradation of metallic interconnects under SOFC operating conditions.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Preparation of feedstock powder</ce:section-title>
+                     <ce:para id="p0020" view="all">A spinel-type Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> powder was prepared by a co-precipitation process developed at LTC Co. Ltd (Republic of Korea). Stoichiometric amounts of manganese chloride tetrahydrate (MnCl<ce:inf loc="post">2</ce:inf>·4H<ce:inf loc="post">2</ce:inf>O) and copper chloride dihydrate (CuCl<ce:inf loc="post">2</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O) were mixed in distilled water. The Mn–Cu precursor was then slowly added to a precipitant solution (8 vol% NaHCO<ce:inf loc="post">3</ce:inf>). The resultant suspensions were filtered and thoroughly washed with deionized water to remove the remaining solution, followed by drying at 90 °C for 24 h. The dried powder was calcined at 500 °C for 5 h. Finally, the calcined powder was ball-milled and spray-dried to prepare a feedstock powder for a PS process.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">Plasma spray coating</ce:section-title>
+                     <ce:para id="p0025" view="all">The metallic interconnect material used as a substrate was a commercially available Crofer 22 APU ferritic stainless steel plate (ThyssenKrupp VDM, 1 mm in thickness). The substrate was cut into pieces with dimensions of 15 mm × 15 mm, then sand-blasted using 60 grit Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-sand (to improve the adhesion of as-sprayed materials on the substrate), and finally cleaned with acetone. Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings were fabricated on the interconnect substrate using a Sulzer Metco UniCoatPro plasma spray system with a 55 kW F4MB-XL plasma gun. This gun has a single cathode located at the center of the powder feed line, which allows the feedstock powder to melt uniformly in the plasma core. The PS processing parameters, <ce:italic>i.e.</ce:italic>, plasma arc power, flow rates of Ar and H<ce:inf loc="post">2</ce:inf> gases, and substrate temperature, were adjusted to acquire high-quality coatings. The key parameters employed for the PS process are listed in <ce:float-anchor refid="t0005"/>
+                        <ce:cross-ref id="cr0075" refid="t0005">Table 1</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0035">Coating characterizations</ce:section-title>
+                     <ce:para id="p0030" view="all">The gas leakage through the coating was determined using a gas permeability tester (GP-02, Kermetico Inc.). For this purpose, Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings were plasma-sprayed on a porous stainless steel substrate (diameter = 25.4 mm). N<ce:inf loc="post">2</ce:inf> gas was supplied at a pressure of 200 kPa, and the rate of N<ce:inf loc="post">2</ce:inf> gas flowing out of the coating was measured. The ASTM C633-79 test method, “Standard Test Method for Adhesion or Cohesive Strength of Flame-Sprayed Coatings,” was used to determine the adhesion strength of the coating on the substrate. The standard substrate fixture was made of a cylinder with one end threaded for the load fixture and the other flat end for the coating (substrate part). A similar yet uncoated fixture (counter part) was attached onto the coating (on the substrate part) using an adhesive bonding agent. The assembled sample was compressed and stored in an oven until the bonding agent was cured. After that, the sample was subjected to uniaxial tension (perpendicular to the coating surface), and the tensile stress at which failure occurs at the coating/substrate interface was referred to as the adhesion strength. The ASR was monitored <ce:italic>in-situ</ce:italic> over 2000 h of continuous oxidation testing at 800 °C in air using a four-point probe method, as reported elsewhere <ce:cross-refs id="crs0060" refid="bib15 bib16 bib17 bib18 bib19">[15–19]</ce:cross-refs>. The cross-sectional and surface morphologies were characterized by field-emission scanning electron microscopy (FESEM, Hitachi X-4900). To quantitatively determine the coating's porosity, cross-sectional SEM micrographs of the sample were analyzed using an image processing software (Image-Pro PLUS, Media Cybernetics Inc.). The porosity value was averaged from at least five different SEM images. Elemental analyses were conducted by energy dispersive X-ray spectroscopy (EDS, Horiba). The phases and crystal structures were determined using an X-ray diffractometer (XRD, 2500 D/MAX, Rigaku) with Cu-<ce:italic>K</ce:italic>
+                        <ce:inf loc="post">α</ce:inf> radiation.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0040">Results and discussion</ce:section-title>
+                  <ce:para id="p0035" view="all">
+                     <ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0080" refid="f0005">Fig. 1</ce:cross-ref> illustrates a schematic diagram of the PS coating process. A <ce:italic>dc</ce:italic> arc superheats a gas (typically pure Ar or a mixture of Ar and H<ce:inf loc="post">2</ce:inf>) to generate the plasma. Then, a feedstock powder is introduced into the plasma jet/spray stream and is accelerated toward a substrate (in-flight process). The temperature of the generated plasma could reach ~ 5000 °C that is high enough to melt the feedstock powder. Upon impact on the substrate, the molten powder droplets are transformed to highly fragmented or flat-pancake-like films, which are often called as ‘splats’. The morphology and microstructure of the splats formed on the substrate are strongly dependent on the PS processing parameters, such as the plasma arc power, primary/secondary gas flow rates, and substrate temperature <ce:cross-refs id="crs0065" refid="bib25 bib26 bib27">[25–27]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0040" view="all">In this study, the Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> powder synthesized through co-precipitation was spray-dried to obtain free-flowing spherical granules and hence to ensure continuous powder feeding during the PS process. The XRD pattern and SEM image of the as-spray-dried Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> feedstock powder are presented in <ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref id="cr0085" refid="f0010">Fig. 2</ce:cross-ref>(a) and (b), respectively. The XRD pattern shows the diffraction peaks corresponding to the cubic spinel phase of Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> with a space group of <ce:italic>Fd-</ce:italic>3<ce:italic>m</ce:italic> (JCPDS No. 34-1400). A small trace of Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (denoted by symbol ‘*’) was observed, as has been reported in the previous study, and it is known to play a beneficial role in improving the sinterability of Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> 
+                     <ce:cross-ref id="cr0090" refid="bib16">[16]</ce:cross-ref>. As shown in the SEM image, the as-spray-dried powder consisted of spherical agglomerates with diameters of 20–50 µm. <ce:float-anchor refid="f0015"/>
+                     <ce:cross-ref id="cr0095" refid="f0015">Fig. 3</ce:cross-ref> displays the SEM micrographs of the surfaces and ion-milled cross-sections of the Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings plasma-sprayed under various conditions (plasma arc power, gas flow rate (gas composition), and substrate temperature). To study the synthesis–structure–property relationship of the coatings, the PS process was performed with various sets of parameters (PS1 through PS5) listed in <ce:cross-ref id="cr0100" refid="t0005">Table 1</ce:cross-ref>. All of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings had highly dense surface morphologies without any large-scale pores or cracks and adhered well to the metallic interconnect substrate without any signs of spallation.</ce:para>
+                  <ce:para id="p0045" view="all">On the other hand, the thickness, splat morphology, and porosity of the coating were found to highly depend on the PS processing parameters; in particular, the following two points should be mentioned:<ce:list id="li0005">
+                        <ce:list-item id="u0005">
+                           <ce:label>(1)</ce:label>
+                           <ce:para id="p0050" view="all">
+                              <ce:italic>Effect of plasma arc power and gas composition (PS1 and PS2):</ce:italic> From the comparison of <ce:cross-ref id="cr0105" refid="f0015">Fig. 3</ce:cross-ref>(a) and (b), it is seen that the coating thickness increased from ~ 30 µm to ~ 75 µm with increasing plasma arc power and H<ce:inf loc="post">2</ce:inf> fraction in the mixed gas. Increasing plasma arc power and H<ce:inf loc="post">2</ce:inf> flow rate causes the plasma temperature to rise, which results in an increased fraction of the completely molten Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> particles during the spraying/in-flight process. As a consequence, this leads to an improved deposition yield (<ce:italic>i.e.</ce:italic>, increased coating thickness) <ce:cross-ref id="cr0110" refid="bib26">[26]</ce:cross-ref>.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0010">
+                           <ce:label>(2)</ce:label>
+                           <ce:para id="p0055" view="all">
+                              <ce:italic>Effect of substrate temperature (PS2–PS5):</ce:italic> The coating thickness was further increased from ~ 75 µm to ~ 100 µm by heating the substrate from 25 °C (PS2) to 100 °C (PS3), and then, the coating became slightly thicker with further increasing substrate temperature from 100 °C (PS3) to 300 °C (PS5). The substrate heating makes the as-deposited splats (formed on the substrate) more fluidal; hence, it could increase the coverage/thickness of the resulting coating while reducing the formation of defects (pores, voids, <ce:italic>etc.</ce:italic>) among the splats (<ce:italic>i.e.</ce:italic>, improved density and reduced porosity) <ce:cross-ref id="cr0115" refid="bib25">[25]</ce:cross-ref>. In fact, the coating's porosity gradually decreased with increasing substrate temperature; the porosity values of the coatings prepared using the conditions, PS3, PS4, and PS5, were determined to be ∼ 4.4%, ∼ 3.5%, and ∼ 1.4%, respectively, by the image analysis of the cross-sectional SEM micrographs. It should be also noted that the EDS line-scan result in <ce:cross-ref id="cr0120" refid="f0015">Fig. 3</ce:cross-ref>(f) shows no clear peak for Cr at the interface between the coating and the substrate. This means that Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales, which have been typically observed on the coatings fabricated through a slurry coating–heat-treatment process, are completely absent in the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects. Keeping in mind that Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales are mainly responsible for degradation of electrical properties and Cr poisoning, the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects are expected to exhibit improved durability during long-term SOFC operations.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0060" view="all">The protective coatings on the interconnects should be impermeable to gases so that it can prevent direct exposure of the metallic substrates to an oxidizing atmosphere (<ce:italic>i.e.</ce:italic>, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> growth). To evaluate the gas permeability (tightness) of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings, a gas leakage test was conducted using an experimental set-up illustrated in <ce:float-anchor refid="f0020"/>
+                     <ce:cross-ref id="cr0125" refid="f0020">Fig. 4</ce:cross-ref>. For this purpose, the coatings were plasma-sprayed on a porous steel substrate instead of the interconnect substrate. No gas leakage through the coatings was measured at a pressure of 200 kPa, which indicates that the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings can provide gas-tight sealing. In addition to the gas impermeability, the protective coatings should possess high adhesion (bonding) strength on the metallic substrate because any delamination of the coating causes a catastrophic failure of the interconnects <ce:cross-refs id="crs0070" refid="bib28 bib29">[28,29]</ce:cross-refs>. The adhesion strengths of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings were quantitatively estimated by a tensile test based on ASTM C633-79 standard <ce:cross-ref id="cr0130" refid="bib30">[30]</ce:cross-ref>. The substrate part was initially deposited with the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating, and then, the counter part was bonded to the surface of the coating using a glue. As shown in <ce:float-anchor refid="f0025"/>
+                     <ce:cross-ref id="cr0135" refid="f0025">Fig. 5</ce:cross-ref>(a), the grey-colored coating was perfectly transferred from the substrate part to the counter part after the assembled sample was subjected to uniaxial tension perpendicular to the coating. This confirms that delamination occurred at the coating/substrate interface rather than at the glue/coating interface, making it possible to determine the adhesion strength of the coating on the interconnect substrate. The tensile stress at which the delamination happened was estimated as the adhesion strength, and the strength values obtained for the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings are presented in <ce:cross-ref id="cr0140" refid="f0025">Fig. 5</ce:cross-ref>(b). The adhesion strength gradually increased from 16.5 MPa to 22.2 MPa with increasing substrate temperature from 100 °C to 300 °C, which indicates that the substrate heating helps to produce adhesive coatings by promoting conformal deposition of splats. Moreover, Yang et al. <ce:cross-ref id="cr0145" refid="bib31">[31]</ce:cross-ref> proposed that, during the PS process, the substrate heating could relieve the residual stresses of the coating generated upon impact of the molten powder onto the substrate. Therefore, the observed increase of the adhesion strength at higher substrate temperatures could be attributed partly to the reduced residual stress at the coating/substrate interface.</ce:para>
+                  <ce:para id="p0065" view="all">To determine the efficacy of PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> as a protective coating for the metallic interconnects, the ASR measurements were carried out under SOFC operating conditions. <ce:float-anchor refid="f0030"/>
+                     <ce:cross-ref id="cr0150" refid="f0030">Fig. 6</ce:cross-ref>(a) displays the evolution of ASR with time measured on the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects at 800 °C in air. The ASR data were collected after the pre-conditioning step for ~ 100 h. All of the coated interconnects (PS3–PS5) showed very low ASR values below 10 mΩ cm<ce:sup loc="post">2</ce:sup>, which proves the effectiveness of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating as a protective layer for SOFC interconnects. More importantly, the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects exhibited high durability as evidenced by low increasing rates of ASR in the range of 0.1–0.9 mΩ cm<ce:sup loc="post">2</ce:sup> kh<ce:sup loc="post">–1</ce:sup>. It is also worthwhile noting that no signs of degradation in the electrical properties of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects were observed during repeated thermal cycling experiments (&gt; 17 cycles) (<ce:cross-ref id="cr0155" refid="f0030">Fig. 6</ce:cross-ref>(b)). The low and stable ASR characteristics observed during both continuous operation and repeated thermal cycling can be explained by (<ce:italic>i</ce:italic>) high coating density (negligible gas permeability), (<ce:italic>ii</ce:italic>) the absence of resistive Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales at the coating/substrate interface, and (<ce:italic>iii</ce:italic>) strong adhesion of the coating to the substrate.</ce:para>
+                  <ce:para id="p0070" view="all">To follow the possible crystal and microstructural evolution of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings, the XRD and SEM analyses were conducted after 2000 h of stability testing, and the results are presented in <ce:float-anchor refid="f0035"/>
+                     <ce:cross-ref id="cr0160" refid="f0035">Fig. 7</ce:cross-ref>. The XRD pattern (<ce:cross-ref id="cr0165" refid="f0035">Fig. 7</ce:cross-ref>(a)) of the as-plasma-sprayed coating reveals the decomposition of spinel-type Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> into Mn<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>, MnO, and Cu<ce:inf loc="post">2</ce:inf>O, which must have resulted from the reduction of the molten Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> powder by a plasma gas (H<ce:inf loc="post">2</ce:inf>). It is well-known that metal oxides with a spinel structure are unstable in a reducing atmosphere (H<ce:inf loc="post">2</ce:inf>) and are easily reduced to various metal oxide and/or metal constituents <ce:cross-refs id="crs0075" refid="bib13 bib15 bib16">[13,15,16]</ce:cross-refs>. This decomposition phenomena could be minimized by the substrate heating, as proposed by Puranen et al. <ce:cross-ref id="cr0170" refid="bib21">[21]</ce:cross-ref>; however, the substrate temperatures used in this study were not high enough to induce the reformation of the spinel phase. On the other hand, the XRD data of the interconnects subjected to the stability testing at 800 °C in air showed characteristic diffraction peaks for the spinel phase along with the Mn<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> peaks. This clearly indicates that the spinel phase was spontaneously reproduced during SOFC operations. In fact, a simple heat-treatment process in air is known to restore the original spinel phase from the decomposed oxide constituents <ce:cross-refs id="crs0080" refid="bib13 bib16">[13,16]</ce:cross-refs>. A small amount of Mn<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> (denoted by symbol ‘*’) in the tested sample is believed to originate from the Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> phase. Further work is in progress to understand the effect of Mn<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> on the electrical properties and stability of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating. <ce:cross-ref id="cr0175" refid="f0035">Fig. 7</ce:cross-ref>(b) depicts the surface SEM micrographs of the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings taken after 5 h and 2000 h of stability testing. The average grain size increased from ~ 3.0 µm to ~ 10 µm after the test, which indicates the grain growth and further densification at high temperatures. It should be noted that the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings showed a pore- and crack-free morphology without any spallation even after long-term testing, proving their structural and morphological stability.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0045">Conclusion</ce:section-title>
+                  <ce:para id="p0075" view="all">In this study, the spinel oxide coatings based on Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> were fabricated on metallic interconnects (Crofer 22 APU) <ce:italic>via</ce:italic> the PS process. The coating characteristics (thickness, splat morphology, and porosity) of PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> were strongly affected by the processing parameters, including plasma arc power, gas flow rate, and substrate temperature. The PS process produced highly dense Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coatings without causing the formation of resistive Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales at the coating/substrate interface. The PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> coating fabricated with optimized parameters were completely impermeable to gases and had high adhesion strength to the interconnect substrate. As a result, the PS-Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf>-coated interconnects exhibited low ASR values below 10 mΩ cm<ce:sup loc="post">2</ce:sup> at 800 °C in air and outstanding stability during both continuous operation and repeated thermal cycling. This study demonstrates that the combination of the Mn<ce:inf loc="post">2</ce:inf>CuO<ce:inf loc="post">4</ce:inf> material and the PS process enables a highly effective protective coating for SOFC interconnects.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0050">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Huijsmans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>van Berkel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Christie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intermediate temperature SOFC – a promise for the 21st century</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>110</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.L.</ce:given-name>
+                                 <ce:surname>Brett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Atkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Brandon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Skinnerd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Soc. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1568</sb:first-page>
+                              <sb:last-page>1578</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Brylewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nanko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Maruyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Przybylski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of Fe-16Cr ferritic alloy to interconnector for a solid oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Deevi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of interconnect materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Antepara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Villarreal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Rodríguez-Martínez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lecanda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Laresgoiti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of ferritic steels for use as interconnects and porous metal supports in IT-SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Shaigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Ivey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of recent progress in coatings, surface modifications and alloy developments for solid oxide fuel cell ferritic stainless steel interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1529</sb:first-page>
+                              <sb:last-page>1542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huczkowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Christicmsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Shemet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Niewolak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Piron-Abellan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Singheiser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Quadakkers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth mechanisms and electrical conductivity of oxide scales on ferritic steels proposed as interconnect materials for SOFC's</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cells</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Weil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Paxton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Stevenson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selection and evaluation of heat-resistant alloys for SOFC interconnect applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1188</sb:first-page>
+                              <sb:last-page>A1201</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Geng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of several alloys for solid oxide fuel cell interconnect application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>242</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Matsuzaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of SOFC cathode degradation by chromium-containing alloy on compositions of electrodes and electrolytes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>148</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A126</sb:first-page>
+                              <sb:last-page>A131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Zhen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxygen reduction on strontium-doped LaMnO<ce:inf loc="post">3</ce:inf> cathodes in the absence and presence of an iron-chromium alloy interconnect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1043</sb:first-page>
+                              <sb:last-page>1052</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Miguel-Pérez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martínez-Amesti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.I.</ce:given-name>
+                                 <ce:surname>Arriortua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compatibility between strontium-doped ferrite cathode and metallic interconnects in solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>280</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                              <sb:last-page>515</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.G.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Stevenson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>(Mn,Co)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel coatings on ferritic stainless steels for SOFC interconnect applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrog. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3648</sb:first-page>
+                              <sb:last-page>3654</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Ou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of low-temperature sintered Mn-Co spinel coatings on Fe-Cr ferritic alloys for solid oxide fuel cell interconnect applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>236</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-O.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cu- and Ni-doped Mn<ce:inf loc="post">1.5</ce:inf>Co<ce:inf loc="post">1.5</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel coatings on metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrog. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12043</sb:first-page>
+                              <sb:last-page>12050</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Waluyo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>(Mn,Cu)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>-based conductive coatings as effective barriers to high-temperature oxidation of metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>452</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-O.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A perovskite-type lanthanum cobaltite thin film synthesized via an electrochemical route and its application in SOFC interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>F1549</sb:first-page>
+                              <sb:last-page>F1554</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Waluyo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrophoretically deposited LaNi<ce:inf loc="post">0.6</ce:inf>Fe<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> perovskite coatings on metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>163</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>F1245</sb:first-page>
+                              <sb:last-page>F1250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-O.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Facile synthesis of Ca-doped LaCoO<ce:inf loc="post">3</ce:inf> perovskite via chemically assisted electrodeposition as a protective film on solid oxide fuel cell interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>163</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>F1066</sb:first-page>
+                              <sb:last-page>F1071</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Kesler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Rose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jankovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Maric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal plasma spraying for SOFCs: applications, potential advantages, and challenges</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>170</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>308</sb:first-page>
+                              <sb:last-page>323</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Puranen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pihlatie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lagerbom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bolelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laakso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hyvärinen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kylmälahti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Himanen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kiviaho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lusvarghi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vuoristo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Post-mortem evaluation of oxidized atmospheric plasma sprayed Mn–Co–Fe oxide spinel coatings on SOFC interconnectors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrog. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17284</sb:first-page>
+                              <sb:last-page>17294</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Pala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sampath</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plasma sprayed manganese–cobalt spinel coatings: process sensitivity on phase, electrical and protective performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>304</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>234</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cu doped Mn-Co spinel protective coating on ferritic stainless steels for SOFC interconnect applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>561</sb:first-page>
+                              <sb:last-page>564</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Spotorno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Piccardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Perrozzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Valente</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Viviani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ansar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructural and electrical characterization of plasma sprayed Cu-Mn oxide spinels as coating on metallic interconnects for stacking solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cells</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>728</sb:first-page>
+                              <sb:last-page>734</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Puranen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lagerbom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Hyvärinen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Mäntylä</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Levänen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kylmälahti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vuoristo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation and structure of plasma sprayed manganese-cobalt spinel coatings on preheated metallic interconnector plates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>205</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1029</sb:first-page>
+                              <sb:last-page>1033</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development and microstructure optimization of atmospheric plasma-sprayed NiO/YSZ anode coatings for SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>202</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3180</sb:first-page>
+                              <sb:last-page>3186</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Jordan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Sohn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Goberman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and evaluation of plasma sprayed nanostructured alumina – titania coatings with superior properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>301</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Stephens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Khaleel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determination of interfacial adhesion strength between oxide scale and substrate for metallic SOFC interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Stephens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Khaleel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life prediction of coated and uncoated metallic interconnect for solid oxide fuel cell applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>189</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1044</sb:first-page>
+                              <sb:last-page>1050</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Sadeghi-Fadaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zangeneh-Madar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Valefi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The adhesion strength and indentation toughness of plasma-sprayed yttria stabilized zirconia coatings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>204</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2136</sb:first-page>
+                              <sb:last-page>2141</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurements of residual stresses in plasma-sprayed hydroxyapatite coatings on titanium alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

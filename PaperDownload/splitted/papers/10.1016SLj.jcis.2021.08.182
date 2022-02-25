@@ -1,0 +1,2252 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0021979721014168</prism:url><dc:identifier>doi:10.1016/j.jcis.2021.08.182</dc:identifier><eid>1-s2.0-S0021979721014168</eid><prism:doi>10.1016/j.jcis.2021.08.182</prism:doi><pii>S0021-9797(21)01416-8</pii><dc:title>Microwave plasma rapid heating towards robust cathode/electrolyte interface for solid oxide fuel cells </dc:title><prism:publicationName>Journal of Colloid and Interface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00219797</prism:issn><prism:volume>607</prism:volume><prism:startingPage>53</prism:startingPage><prism:endingPage>60</prism:endingPage><prism:pageRange>53-60</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2022-02-28</prism:coverDate><prism:coverDisplayDate>February 2022</prism:coverDisplayDate><prism:copyright>© 2021 Published by Elsevier Inc.</prism:copyright><prism:publisher>Published by Elsevier Inc.</prism:publisher><dc:creator>Liang, Fengli</dc:creator><dc:creator>Tseng, Po-hung</dc:creator><dc:creator>Sun, Qiang</dc:creator><dc:creator>Li, Mengran</dc:creator><dc:creator>Zhou, Wei</dc:creator><dc:creator>Liu, Lian X.</dc:creator><dc:creator>Wang, Hao</dc:creator><dc:creator>Zhu, Zhonghua</dc:creator><dc:description>
+                  Mixed electronic and ionic conductivity (MIEC) perovskite oxides hold promise as cathode with high oxygen reduction reaction (ORR) activity for solid oxide fuel cells (SOFCs) operating at reduced temperatures. However, these MIEC cathodes usually contain lanthanide or alkaline-earth elements at A-site. These elements tend to interact with yttria-stabilized zirconia electrolyte (YSZ) to form unwanted phases such as La2Zr2O7 and SrZrO3 at conventional electrode fabrication conditions (&gt;800 °C). Such unwanted interfacial reaction severely degrades the cell performance. We present a new method to assemble SrCo0.4Fe0.5W0.1O3-δ (SCFW) directly onto YSZ by a highly efficient microwave plasma technique. Intimate contact between SCFW and YSZ phases can be achieved by ten-minute microwave-plasma treatment with no new phase formation. Consequently, the microwave-plasma fabricated interface exhibits a notably high ORR performance, showing an area-specific resistances of 0.11 Ω cm2 at 600 °C, about two orders of magnitude better than the equivalent prepared via the conventional method. Our method is also effective in assembling other MIEC perovskite cathodes such as SrCo0.5Fe0.5O3-δ and SrCo0.8Nb0.1Ta0.1O3-δ on YSZ electrolyte, achieving notable enhancement of the cathode performance. This study thus provides an effective and convenient method for synthesizing reactive and robust interfaces between two incompatible phases with minimized interphase interactions.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide fuel cell</dcterms:subject><dcterms:subject>Cobalt containing MIEC</dcterms:subject><dcterms:subject>YSZ</dcterms:subject><dcterms:subject>Compatibility</dcterms:subject><dcterms:subject>Electrochemistry</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0021979721014168" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0021979721014168" rel="scidir"/></coredata><objects><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="329" height="200" size="18808">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="667" height="522" size="73765">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="391" size="69007">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="622" height="239" size="42851">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="671" height="603" size="58277">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="360" height="243" size="30766">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="279" size="31887">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="667" height="228" size="43424">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="355" height="265" size="21094">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="133" size="7192">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="209" height="164" size="9838">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="117" size="10931">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="11318">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="182" height="164" size="6958">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="148" size="10064">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="4261">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="75" size="7272">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="6786">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1460" height="886" size="103957">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2953" height="2313" size="668281">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1949" height="1037" size="278030">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1653" height="636" size="144099">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2972" height="2670" size="404010">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1594" height="1076" size="242289">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3248" height="1233" size="209674">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1772" height="605" size="145125">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1575" height="1175" size="145361">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1794500">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979721014168-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85114183713</scopus-id><scopus-eid>2-s2.0-85114183713</scopus-eid><pubmed-id>34492353</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85114183713" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272564</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291864</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Colloid and Interface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALCOLLOIDINTERFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210830">2021-08-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210830">2021-08-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210904">2021-09-04</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210904">2021-09-04</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-11-22T16:42:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0021979721014168</xocs:eid>
+      <xocs:pii-formatted>S0021-9797(21)01416-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0021979721014168</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jcis.2021.08.182</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0021979721X00215</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20211122">2021-11-22T20:52:16.040511Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220201</xocs:date-search-begin>
+      <xocs:date-search-end>20220228</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1630304237">2021-08-30T06:17:17.322467Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0021-9797</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00219797</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>607</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>607</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>P1</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 607, Part 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>67</xocs:sort-order>
+      <xocs:first-fp>53</xocs:first-fp>
+      <xocs:last-lp>60</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>53</xocs:first-page>
+         <xocs:last-page>60</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202202</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Energy Conversion and Storage and Environmental Technologies</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROWAVEPLASMARAPIDHEATINGTOWARDSROBUSTCATHODEELECTROLYTEINTERFACEFORSOLIDOXIDEFUELCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LIANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical compatibility at SCFW/YSZ interface</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>ORR performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Universality of MWP method to fabricate cathode on YSZ electrolyte</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>HUSSAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11631</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>EO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1733</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1741</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>EO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3373</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3377</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>HIDALGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14036</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14040</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>PANUH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-last-lp>198</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>SHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>107491</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8989</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9002</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>CASCOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14354</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15454</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15462</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>TU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>281</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>YOKOKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>581</xocs:ref-first-fp>
+            <xocs:ref-last-lp>610</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31729</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>CH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>535</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>112</xocs:ref-first-fp>
+            <xocs:ref-last-lp>118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>MAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17678</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17685</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9854</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9859</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A2066</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2070</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1304</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1048</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1051</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2019</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2024</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B661</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1602</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1644</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIANGX2022X53</xocs:refkey3>
+         <xocs:refkey4lp>LIANGX2022X53X60</xocs:refkey4lp>
+         <xocs:refkey4ai>LIANGX2022X53XF</xocs:refkey4ai>
+         <xocs:refkey5>LIANGX2022X53X60XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-09-04T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-09-04T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-09-08T08:15:53.756Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Australian Research Council</xocs:funding-agency-matched-string>
+            <xocs:funding-id>DP190101782</xocs:funding-id>
+            <xocs:funding-agency-acronym>ARC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Australian Research Council</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100000923</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/2077456/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The research work was supported by the Australian Research Council Discovery Project ( DP190101782 ).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0021-9797(21)01416-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0021979721014168</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0021979721014168</xocs:eid>
+         <xocs:doi>10.1016/j.jcis.2021.08.182</xocs:doi>
+         <xocs:cid>272564</xocs:cid>
+         <xocs:timestamp>2021-11-22T20:52:16.040511Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-02-28</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/MAIN/application/pdf/a21141acf92c13e82ac46d1b2e7fff46/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2497407</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0021979721014168-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/PREVIEW/image/png/4ee12b302baea35eb856e8c298716223/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>45216</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/ga1/DOWNSAMPLED/image/jpeg/26368998a3f3adfff93e65a31f1514a6/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18808</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr1/DOWNSAMPLED/image/jpeg/6e15d45b9e45acdb40c256db776ac291/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>73765</xocs:filesize>
+               <xocs:pixel-height>522</xocs:pixel-height>
+               <xocs:pixel-width>667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr2/DOWNSAMPLED/image/jpeg/f576fa958119d62d9866362cb7f44158/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69007</xocs:filesize>
+               <xocs:pixel-height>391</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr3/DOWNSAMPLED/image/jpeg/9d1bc574480c99d7c7fd9876bc6f93cd/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42851</xocs:filesize>
+               <xocs:pixel-height>239</xocs:pixel-height>
+               <xocs:pixel-width>622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr4/DOWNSAMPLED/image/jpeg/6a59dd616b926d26a9e5b777f65c653f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>58277</xocs:filesize>
+               <xocs:pixel-height>603</xocs:pixel-height>
+               <xocs:pixel-width>671</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr5/DOWNSAMPLED/image/jpeg/b88b19b5371f545bf51460ea6f5c6bd2/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30766</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>360</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr6/DOWNSAMPLED/image/jpeg/2b43452665a63faf0874fe9c0abf0a06/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31887</xocs:filesize>
+               <xocs:pixel-height>279</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr7/DOWNSAMPLED/image/jpeg/3717e4d8142d57d5f9005dddf198d67e/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43424</xocs:filesize>
+               <xocs:pixel-height>228</xocs:pixel-height>
+               <xocs:pixel-width>667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr8/DOWNSAMPLED/image/jpeg/990f7485bd0b647234ab938bbc4195e0/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21094</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>355</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/ga1/THUMBNAIL/image/gif/1d4e97260ab63de451a4e92394cc2d1a/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7192</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr1/THUMBNAIL/image/gif/598e8032a37c07ab2586d32ec8cceeb1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9838</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>209</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr2/THUMBNAIL/image/gif/f1a49ebc59dc1966feb3c96d075f5251/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10931</xocs:filesize>
+               <xocs:pixel-height>117</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr3/THUMBNAIL/image/gif/05df0d1966cff20898062bb651c6811d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11318</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr4/THUMBNAIL/image/gif/b159e526ff8db415b0a740f8e35bc6bb/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6958</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>182</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr5/THUMBNAIL/image/gif/3117ae899aecde33df64ec9a1de01b80/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10064</xocs:filesize>
+               <xocs:pixel-height>148</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr6/THUMBNAIL/image/gif/dc60cc18cf24d73b83b697b8829efe62/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4261</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr7/THUMBNAIL/image/gif/9cc99e55f4732cbf5333c416747e932f/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7272</xocs:filesize>
+               <xocs:pixel-height>75</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr8/THUMBNAIL/image/gif/fc1429631861ae6d7423e00b2d11b99b/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6786</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/ga1/HIGHRES/image/jpeg/960f80237b1b86a37e3f1edd174c7617/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103957</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1460</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr1/HIGHRES/image/jpeg/640958780edc3f0acc94107577111e21/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>668281</xocs:filesize>
+               <xocs:pixel-height>2313</xocs:pixel-height>
+               <xocs:pixel-width>2953</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr2/HIGHRES/image/jpeg/e76d453fe7fb61608ee653d70ebc0362/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>278030</xocs:filesize>
+               <xocs:pixel-height>1037</xocs:pixel-height>
+               <xocs:pixel-width>1949</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr3/HIGHRES/image/jpeg/66736e8d46d0d8e4ca85565acb48acf4/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>144099</xocs:filesize>
+               <xocs:pixel-height>636</xocs:pixel-height>
+               <xocs:pixel-width>1653</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr4/HIGHRES/image/jpeg/19d3b0fd7b379c0f3a80b172eb6d91ef/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>404010</xocs:filesize>
+               <xocs:pixel-height>2670</xocs:pixel-height>
+               <xocs:pixel-width>2972</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr5/HIGHRES/image/jpeg/90676ac0d96c58c66b9733a4a72f74c3/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>242289</xocs:filesize>
+               <xocs:pixel-height>1076</xocs:pixel-height>
+               <xocs:pixel-width>1594</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr6/HIGHRES/image/jpeg/55d37f12867446bdeeef5203f1e979f0/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>209674</xocs:filesize>
+               <xocs:pixel-height>1233</xocs:pixel-height>
+               <xocs:pixel-width>3248</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr7/HIGHRES/image/jpeg/26f35ebaa98a2aba141d516a3df1f5ec/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145125</xocs:filesize>
+               <xocs:pixel-height>605</xocs:pixel-height>
+               <xocs:pixel-width>1772</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979721014168/gr8/HIGHRES/image/jpeg/2aed7fa5ff5d4d952065ec75cc8ec86c/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145361</xocs:filesize>
+               <xocs:pixel-height>1175</xocs:pixel-height>
+               <xocs:pixel-width>1575</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979721014168-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10HMRGH8087/MAIN/application/pdf/2d7c19248ce9519c261636d42131249c/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>1794500</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>YJCIS</jid>
+            <aid>28713</aid>
+            <ce:pii>S0021-9797(21)01416-8</ce:pii>
+            <ce:doi>10.1016/j.jcis.2021.08.182</ce:doi>
+            <ce:copyright type="unknown" year="2021"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0020" view="all">XRD results of SCFW and SCFW&amp;YSZ mixture: XRD of (a) as-synthesized powders at room temperature; (b) high-temperature XRD of SCFW at between 40 and 800 °C; (c) the mixture of YSZ and SCFW after different thermal treatments, where the duration for MWP treatment is 20 min.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0025" view="all">Mirostructure of the SCFW&amp;YSZ mixture after MWP treatment: (a) High-resolution TEM micrographs of the interface between the YSZ phase (top) and SCFW phase (bottom) as obtained by microwave-plasma treatment. (b) The darkfield mode TEM image and (c) TEM-EDX elemental mapping of Sr, Co, W, Y, and Zr of the YSZ and SCFW powder mixture.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0030" view="all">SEM image of the cross-section of SCFW/YSZ interfaces in a symmetrical cell configuration developed via (a) MWP and (b) conventional calcination at 1000 °C for 2 h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0035" view="all">Comparison of ORR activities of cathode fabricated by MWP and conventional calcination: (a) Comparison of the Nyquist plots of the electrochemical impedance spectra at 600 °C of the symmetrical cells fabricated by 10 min MWP and by calcination at 1000 °C for 2 h. (b) Nyquist plots of 10 min – MWP SCFW symmetric cell at 500–700 °C. (c) Comparison of the ASR values of the cathode as a function of temperatures. The cells for the test were fabricated via calcination at 1000 °C for 2 h, MWP for 10 min and MWP for 20 min. The samples were tested at least three times, and the lowest ASR values were shown in the Figure. The standard deviations of the data are all less than 13%, as shown in <ce:cross-ref refid="f0015" id="c0005">Fig. S1-3</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0040" view="all">Current density-potential (I–V) and current–power density (I–P) curves of an anode-supported SCFW|YSZ|YSZ + Ni single cell at 500–700 °C with flowing H<ce:inf loc="post">2</ce:inf> to the anode and flowing air to the cathode.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0045" view="all">Long-term stability test: (a) performance stability of an anode supported SCFW|YSZ|YSZ + Ni single cell under a constant cathodic current of 600 mA cm<ce:sup loc="post">−2</ce:sup> for 370 h at 600 °C with H<ce:inf loc="post">2</ce:inf> at the anode and flowing air at the cathode and (b) XRD compatibility of SCFW &amp;YSZ mixture after calcination at 650 °C in the air for 100 h. The mixture was not treated by MWP before the calcination.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr6" id="lk00030"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0050" view="all">SEM images of the cross-section of the SCFW-based single fuel cell after stability test in (a) low magnification and (b) high magnification.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr7" id="lk00035"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cn0040">
+                  <ce:simple-para id="sp0055" view="all">ASR values comparison of SCF|YSZ|SCF and SCNT|YSZ|SCNT symmetric cells fabricated using conventional calcination at 1000 °C for 2 h and MWP treatment for 10 min. The samples were tested at least three times, and the lowest ASR values were shown in the Figure. The standard deviations of the data are all less than 13%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/gr8" id="lk00040"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Microwave plasma rapid heating towards robust cathode/electrolyte interface for solid oxide fuel cells</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0021979721014168-e1508ca461fa077365bc53500811d115">
+                  <ce:given-name>Fengli</ce:given-name>
+                  <ce:surname>Liang</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S0021979721014168-613f63b3cdd5ababaa408e3d74a15321">
+                  <ce:given-name>Po-hung</ce:given-name>
+                  <ce:surname>Tseng</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0021979721014168-e319c639c446defaae38f8f6885b78da">
+                  <ce:given-name>Qiang</ce:given-name>
+                  <ce:surname>Sun</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S0021979721014168-37cfec974e1818addd68bb222858dff1">
+                  <ce:given-name>Mengran</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0030">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au025" author-id="S0021979721014168-071136847da714960f56d174c1ded43f">
+                  <ce:given-name>Wei</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S0021979721014168-9a1ccbf86dc2e47d9102771c442cb329">
+                  <ce:given-name>Lian X.</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="af020" id="c0040">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S0021979721014168-e88d0c15bd7ee980ef040671cfe51d09">
+                  <ce:given-name>Hao</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="af025" id="c0045">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au040" author-id="S0021979721014168-c582c0aa89e6083c68e7d231106acc91">
+                  <ce:given-name>Zhonghua</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0050">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0055">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0021979721014168-cefa32af3245f604f33611fc313c318b">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>School of Chemical Engineering, the University of Queensland, Brisbane, 4072, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Chemical Engineering</sa:organization>
+                     <sa:organization>the University of Queensland</sa:organization>
+                     <sa:city>Brisbane</sa:city>
+                     <sa:postal-code>4072</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">School of Chemical Engineering, the University of Queensland, Brisbane, 4072, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S0021979721014168-c5028e4117a387cfd318a9495e49d652">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Centre for Microscopy and Microanalysis, the University of Queensland, Brisbane, 4072, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Microscopy and Microanalysis</sa:organization>
+                     <sa:organization>the University of Queensland</sa:organization>
+                     <sa:city>Brisbane</sa:city>
+                     <sa:postal-code>4072</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Centre for Microscopy and Microanalysis, the University of Queensland, Brisbane, 4072, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S0021979721014168-46e5e103959e4a6da26d2ac52e94c7ef">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>State Key Laboratory of Materials Oriented Chemical Engineering, Department of Chemical Engineering, Nanjing Tech University, Nanjing 210009, P.R. China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Materials Oriented Chemical Engineering</sa:organization>
+                     <sa:organization>Department of Chemical Engineering</sa:organization>
+                     <sa:organization>Nanjing Tech University</sa:organization>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:postal-code>210009</sa:postal-code>
+                     <sa:country>P.R. China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx015">State Key Laboratory of Materials Oriented Chemical Engineering, Department of Chemical Engineering, Nanjing Tech University, Nanjing 210009, P.R. China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af020" affiliation-id="S0021979721014168-b3f0942609fb4b380e0fdd35d7da87b3">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>School of Chemical and Process Engineering, Senate House, University of Surrey, Guildford, Surrey GU2 7XH, U.K</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Chemical and Process Engineering</sa:organization>
+                     <sa:organization>Senate House</sa:organization>
+                     <sa:organization>University of Surrey</sa:organization>
+                     <sa:city>Guildford</sa:city>
+                     <sa:state>Surrey</sa:state>
+                     <sa:postal-code>GU2 7XH</sa:postal-code>
+                     <sa:country>U.K</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx020">School of Chemical and Process Engineering, Senate House, University of Surrey, Guildford, Surrey GU2 7XH, U.K</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af025" affiliation-id="S0021979721014168-b4438401a1b03411cb98d29b432c2a72">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Centre for Future Materials, the University of Southern Queensland, Springfield Central, QLD 4300, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Centre for Future Materials, the University of Southern Queensland</sa:organization>
+                     <sa:city>Springfield Central</sa:city>
+                     <sa:state>QLD</sa:state>
+                     <sa:postal-code>4300</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx025">Centre for Future Materials, the University of Southern Queensland, Springfield Central, QLD 4300, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="7" year="2021"/>
+            <ce:date-revised day="26" month="8" year="2021"/>
+            <ce:date-accepted day="27" month="8" year="2021"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">The microwave plasma technique opens a new route for interface engineering by avoiding the formation of insulating phases that were previously considered incompatible via conventional thermal treatment in the furnace. This work shows that perovskite SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (SCFW) can be assembled onto the zirconia-based electrolyte within 20 min and shows two orders of magnitude improvement of activity to reduce oxygen as compared to the equivalent prepared via the conventional method.</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">
+                     <ce:display>
+                        <ce:figure id="f0045">
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0021979721014168/ga1" id="lk00045"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0015" view="all">Mixed electronic and ionic conductivity (MIEC) perovskite oxides hold promise as cathode with high oxygen reduction reaction (ORR) activity for solid oxide fuel cells (SOFCs) operating at reduced temperatures. However, these MIEC cathodes usually contain lanthanide or alkaline-earth elements at A-site. These elements tend to interact with yttria-stabilized zirconia electrolyte (YSZ) to form unwanted phases such as La<ce:inf loc="post">2</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf> and SrZrO<ce:inf loc="post">3</ce:inf> at conventional electrode fabrication conditions (&gt;800 °C). Such unwanted interfacial reaction severely degrades the cell performance. We present a new method to assemble SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (SCFW) directly onto YSZ by a highly efficient microwave plasma technique. Intimate contact between SCFW and YSZ phases can be achieved by ten-minute microwave-plasma treatment with no new phase formation. Consequently, the microwave-plasma fabricated interface exhibits a notably high ORR performance, showing an area-specific resistances of 0.11 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C, about two orders of magnitude better than the equivalent prepared via the conventional method. Our method is also effective in assembling other MIEC perovskite cathodes such as SrCo<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> and SrCo<ce:inf loc="post">0.8</ce:inf>Nb<ce:inf loc="post">0.1</ce:inf>Ta<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> on YSZ electrolyte, achieving notable enhancement of the cathode performance. This study thus provides an effective and convenient method for synthesizing reactive and robust interfaces between two incompatible phases with minimized interphase interactions.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" xml:lang="en" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Cobalt containing MIEC</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>YSZ</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Compatibility</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Electrochemistry</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Solid oxide fuel cells (SOFCs) are one of the promising electrochemical energy technologies that can generate electricity with high efficiency (about 60% for SOFC itself and &gt; 85% for combined heat and power devices) from various fuels such as hydrogen, carbon monoxide, and hydrocarbons <ce:cross-ref refid="b0005" id="c0060">[1]</ce:cross-ref>. Conventional SOFC systems typically operate at temperatures between 800 and 1000 °C, and primarily consist of a dense yttria-stabilized zirconia (YSZ) layer as the electrolyte, porous Ni-YSZ cement as the anode, and porous Sr-doped LaMnO<ce:inf loc="post">3</ce:inf> (LSM) as the cathode. This cell configuration based on YSZ electrolyte has attracted substantial research and industrial interests in the past decades because it offers high chemical and mechanical robustness and high power densities at elevated temperatures.</ce:para>
+                  <ce:para id="p0010" view="all">Recent studies are mainly focused on reducing the SOFC operating temperatures to lower the overall cost and improve long-term stability by either reducing the electrolyte's thickness or pursuing novel materials for both electrolyte and electrodes. Nevertheless, the zirconia-based electrolyte is still considered as one of the most promising electrolytes for the SOFC application due to its mechanical robustness and ease of densification. Reducing the thickness of the zirconia-based electrolytes has demonstrated its effectiveness to improve the SOFC performance at reduced temperatures. For example, Park and Barnett reported an enhancement of the power density of the single cell from 0.7 W cm<ce:sup loc="post">−2</ce:sup> to 1.2 W cm<ce:sup loc="post">−2</ce:sup> by reducing the YSZ electrolyte thickness from 8 μ m to 2.5 μm. <ce:cross-ref refid="b0010" id="c0065">[2]</ce:cross-ref> It is also possible to reduce the electrolyte thickness down to ∼ 1 μm via novel deposition methods such as chemical solution deposition and magnetron sputtering. <ce:cross-refs refid="b0015 b0020 b0025" id="r0005">[3–5]</ce:cross-refs>
+                  </ce:para>
+                  <ce:para id="p0015" view="all">However, it remains challenging to enable the SOFC to generate sufficient power at 500–700 °C by solely reducing the electrolyte thickness. This critical issue mainly arises from the limited oxygen ion conductivity of the LSM cathode, which limits the catalytically active sites (i.e., three-phase boundaries among YSZ, LSM, and air) at the cathode-electrolyte interface.<ce:cross-refs refid="b0030 b0035" id="r0010">[6,7]</ce:cross-refs> Therefore, the perovskites with mixed electronic and ionic conductivity (MIEC) perovskite oxides, such as SrCoO<ce:inf loc="post">3-δ</ce:inf> based perovskite, have recently emerged as alternative cathode materials, because the MIEC can extend the active sites from the cathode/electrolyte interfaces to the whole electrode surface of the cathodes. State of the art perovskite cathode materials such as La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3−δ</ce:inf>
+                     <ce:hsp sp="0.25"/>(LSCF), Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3−δ</ce:inf>
+                     <ce:hsp sp="0.25"/>(BSCF), and SrSc<ce:inf loc="post">0.175</ce:inf>Nb<ce:inf loc="post">0.025</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3−δ</ce:inf>
+                     <ce:hsp sp="0.25"/>(SSNC) exhibit promising performance mainly because of their high mixed electron and ion conductivities<ce:hsp sp="0.25"/>
+                     <ce:cross-refs refid="b0040 b0045 b0050 b0055 b0060" id="r0015">[8–12]</ce:cross-refs>. However, these alkaline earth or lanthanide elements containing MIEC cathodes tend to react with Zr-containing electrolytes, resulting in the formation of the isolating phases such as La<ce:inf loc="post">2</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf> and SrZrO<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-refs refid="b0065 b0070 b0075" id="r0020">[13–15]</ce:cross-refs> at conventional high-temperature fabrication process (&gt;800 °C). These isolating phases block the oxygen-ion conduction from the cathode to the electrolyte, thus severely degrading overall cell performance. Although a layer of ceria-based materials such as Gd-doped ceria (GDC) or Sm-doped ceria (SDC) can be applied at the cathode-electrolyte interface to prevent unwanted interfacial reaction <ce:cross-refs refid="b0080 b0085" id="r0025">[16,17]</ce:cross-refs>, this adds further complexity to the cell fabrication and causes additional manufacturing cost <ce:cross-ref refid="b0090" id="c0070">[18]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0020" view="all">Herein, we present a novel method to assemble a MIEC perovskite SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (SCFW) directly onto YSZ electrolyte by using a rapidly sintering technique based on the microwave-plasma process. Microwave plasma is a simple thermal treatment method, and can increase the temperature up to 1800 °C within a few seconds. There have been a few studies using this technique to achieve effective cell manufacturing for solid oxide cells. For example, we used this technique to prepare a hierarchical La<ce:inf loc="post">2</ce:inf>NiO<ce:inf loc="post">4+δ</ce:inf> (L.N.) shell to protect the BSCF core from CO<ce:inf loc="post">2</ce:inf> poisoning while preventing the unwanted reaction between L.N. and BSCF <ce:cross-ref refid="b0095" id="c0075">[19]</ce:cross-ref>. As such, we expect this sintering technique can minimize the duration to sinter the cathode to the YSZ electrolyte surface and thus prevent interfacial reactions between the perovskite cathode and YSZ phase. Our results revealed that the proposed microwave-plasma technique could successfully achieve intimate contact between the electrolyte and cathode without forming the additional phases at the interface. As a result, the obtained SCFW/YSZ/SCFW symmetric fuel cell shows a cathode performance about two orders of magnitude better than the one prepared via the conventional sintering method. Our work, therefore, offers a new avenue to advance SOFC fabrication by applying plasma sintering techniques to assemble state-of-art MIEC perovskite cathode directly onto zirconia-based electrolyte.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st025">Experimental</ce:section-title>
+                  <ce:para id="p0025" view="all">The SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (SCFW) perovskite cathode material was synthesized via a sol–gel method. We first weighed and dissolved the precursors Co(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O (Alfa Aesar, 97.7%), (Sr(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf> (Chem-Supply Pty Ltd, 99%), Fe(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>·9H<ce:inf loc="post">2</ce:inf>O (Sigma-Aldrich, 99.95%), and (NH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">10</ce:inf>W<ce:inf loc="post">12</ce:inf>O<ce:inf loc="post">41</ce:inf>·5H<ce:inf loc="post">2</ce:inf>O (GUJIFILM Wako Pure Chemical Corporation, Laboratory use purity) according to their stoichiometric ratios in an aqueous solution with the citric acid. The ethylenediaminetetraacetic was subsequently added into the prepared solution as a complexing agent. We also added NH<ce:inf loc="post">3</ce:inf>·H<ce:inf loc="post">2</ce:inf>O into the solution to maintain a pH value at about 8. The solution was evaporated at a hot plate until the solution turned into a gel, which was further fired at 250 °C for 5 h in an oven to form a char. The char was subsequently calcined at 950 °C in air for 5 h and then ground using mortar and pestle for the following measurements.</ce:para>
+                  <ce:para id="p0030" view="all">A Bruker-AXS D8 Advance diffractometer with a Cu-Kα radiation was used to examine the crystalline structure of the SCFW samples. The stability of SCFW crystal structure at different temperatures was studied on a high-temperature Rigaku Model Multiflex X-ray diffractometer using Cu-Kα (λ = 1.54 Å)) radiation at 45 kV and 200 mA. The data for crystal structure for both room-temperature XRD and high-temperature (HT-XRD) were recorded in the angular range 20-90° with a step size of 0.05°.</ce:para>
+                  <ce:para id="p0035" view="all">We prepared the YSZ electrolyte substrate for the symmetrical cells by first dry pressing the YSZ powders into pellets and then sintering these pellets at 1400 °C for 5 h. The SCFW ink was prepared by mixing terpineol, oil, ethylcellulose, ethanol, and SCFW powder in a ball milling at a rotation rate of 300 rpm for 2 h. We prepared the symmetrical cell by spraying the SCFW ink onto both sides of the YSZ pellet symmetrically, followed by thermal treatment in a microwave plasma tube in Argon at a power of 320 W for 10 or 20 min, and the readout temperature was 1794 °C from a temperature sensor on the microwave plasma apparatus. For comparison, the symmetric cells were also treated in a furnace at 1000 °C for 2 h following the conventional cathode fabrication method. The silver wires were connected to both cathode sides of the pellet as the current collector. A scanning electron microscope (SEM) served to characterize the thickness of the cathode.</ce:para>
+                  <ce:para id="p0040" view="all">Electrochemical impedance spectroscopy (EIS) was performed to evaluate the electrocatalytic activity of the cathode in a symmetrical cell by using an Autolab PGSTAT30 workstation at the frequency range of 10<ce:sup loc="post">5</ce:sup> Hz to 10 mHz at a signal amplitude of 10 mV under open cell voltage conditions in air.</ce:para>
+                  <ce:para id="p0045" view="all">Anode-supported single cells in a configuration of Ni-YSZ|YSZ without cathode were purchased from SOFCMAN Ningbo, China. The cathode ink was then sprayed uniformly onto the YSZ electrolyte and thermally treated using microwave plasma treatment at a power of 320 W for 10 min. The electrolyte thickness of the purchased single cells is about 20 μm, and the cathode thickness was controlled to be about 12 μm. The effective cathode area is 0.23 cm<ce:sup loc="post">2</ce:sup>. The cell was fed with hydrogen at the anode at a flow rate of 100 ml min<ce:sup loc="post">−1</ce:sup> and with instrumental air at the cathode at a flow rate of 100 ml min<ce:sup loc="post">−1</ce:sup>. The power density of the single cell was determined by measuring the I-V curve of the cell by using the Autolab PGSTAT30 in a typical four-electrode configuration.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st030">Results and discussion</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st035">Chemical compatibility at SCFW/YSZ interface</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>
+                        <ce:bold>a</ce:bold> shows the XRD results of SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (SCFW) oxide at room temperature. Besides the two minor diffraction peaks generated from the XRD instrument at around 25° and 29°, the XRD data of SCFW shows a typical diffraction pattern of a cubic perovskite structure in a space group of <ce:italic>Pm</ce:italic>-3 m (<ce:cross-ref refid="f0005" id="c0085">Fig. 1</ce:cross-ref>a) <ce:cross-refs refid="b0100 b0105" id="r0030">[20,21]</ce:cross-refs>. The high-temperature XRD results, as presented in <ce:cross-ref refid="f0005" id="c0090">Fig. 1</ce:cross-ref>
+                        <ce:bold>b,</ce:bold> suggest that the SCFW shows good thermal cycling stability at between 40 °C and 800 °C. To study the phase compatibility between SCFW with the YSZ electrolyte materials, we mixed SCFW with YSZ at a mass ratio of 1:1 (donated as mixture SCFW&amp;YSZ) and thermally treated the mixture via either microwave-plasma technique (MWP) or conventional furnace calcination for varied durations. The XRD profiles of the treated specimen are presented in <ce:cross-ref refid="f0005" id="c0095">Fig. 1</ce:cross-ref>
+                        <ce:bold>c</ce:bold>. We observed no additional phases for the specimen after the microwave-plasma treatment for 20 min and calcination at 700 °C for 10 h (<ce:cross-ref refid="f0005" id="c0100">Fig. 1</ce:cross-ref>
+                        <ce:bold>c</ce:bold>) indicating that the SCFW/YSZ interface is chemically stable when treated via MWP or in a furnace at below 700 °C. In contrast, additional peaks at 31°, 44°, 55° and 63° associated with the phase of SrZrO<ce:inf loc="post">3</ce:inf> 
+                        <ce:cross-ref refid="b0110" id="c0105">[22]</ce:cross-ref> were observed in the XRD spectra of samples calcined at 800 °C for 10 h and at 1000 °C for 2 h, revealing the unwanted SCFW/YSZ interfacial interaction when treated by conventional heating method at above 800 °C. Considering the high phase stability of the SCFW as revealed by the high-temperature XRD result (<ce:cross-ref refid="f0005" id="c0110">Fig. 1</ce:cross-ref>
+                        <ce:bold>b</ce:bold>), we can confirm that the formation of the SrZrO<ce:inf loc="post">3</ce:inf> phase is attributed to the SCFW/YSZ interfacial interaction rather than the instability of the SCFW.</ce:para>
+                     <ce:para id="p0055" view="all">A high-resolution TEM image (<ce:cross-ref refid="f0010" id="c0115">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>
+                        <ce:bold>a</ce:bold>) of the SCFW/YSZ interface as obtained via MVP treatment exhibits an intimate contact between the two phases and a clear lattice boundary between the YSZ phase and SCFW phase. The whole specimen for this selected area is shown in the dark field TEM image as displayed in <ce:cross-ref refid="f0010" id="c0120">Fig. 2</ce:cross-ref>
+                        <ce:bold>b</ce:bold> at low magnification, and their elemental mappings are presented in <ce:cross-ref refid="f0010" id="c0125">Fig. 2</ce:cross-ref>
+                        <ce:bold>c</ce:bold>. <ce:cross-ref refid="f0010" id="c0130">Fig. 2</ce:cross-ref> shows that the SCFW phase is about 500 nm in size while the YSZ particles are less than 200 nm in size and adhere strongly to the surface of the SCFW. Notably, no significant lattice distortion at the SCFW/YSZ interface was observed, confirming that there is no additional phase formed at the interface. This result is consistent with the XRD results in <ce:cross-ref refid="f0005" id="c0135">Fig. 1</ce:cross-ref>
+                        <ce:bold>c</ce:bold>, further highlighting that the MVP treatment can achieve intimate cathode/electrolyte contact while minimizing the interfacial reactions for MIEC cathode and YSZ electrolyte.</ce:para>
+                     <ce:para id="p0060" view="all">We also studied the effects of the thermal fabrication methods on the cathode microstructure, by comparing the SEM images of the SCFW cathodes as fabricated by either MWP treatment for 10 min or conventional calcination at 1000 °C for 2 h. <ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> shows the cross-sections of the fabricated cathode/electrolyte interfaces. Both cell fabrication methods can achieve a good contact between the cathode and electrolyte. However, the particle sizes of the cathode are much smaller for the MWP-fabricated cell than the equivalent fabricated via conventional calcination, which is likely a result of the extremely short sintering durations (i.e., 10 min cf. 2 h for conventional fabrication method) as imparted by the MWP treatment. The small particle size in the cathode layer should also benefit the overall cathode performance by providing a large area of active sites for the oxygen reduction reaction.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st040">ORR performance</ce:section-title>
+                     <ce:para id="p0065" view="all">We evaluated the cathode performance of the SCFW materials on YSZ in a configuration of SCFW|YSZ|SCFW symmetrical cell using EIS analysis at open circuit conditions. <ce:cross-ref refid="f0020" id="c0145">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>
+                        <ce:bold>a and b</ce:bold> show the Nyquist plot of the EIS spectra of the cell fabricated via conventional calcination and MWP treatment, respectively. Area-specific resistance (ASR), as calculated from subtracting the intercept at low frequency by the intercept at the high frequency of the impedance spectrum with the real axis, is commonly used to characterize the reactivity of the cathode. A low ASR value manifests a high ORR activity. The SCFW cathode as-fabricated via the MWP method shows a remarkable improvement in cathode performance as compared to the one fabricated via conventional calcination. The MWP-fabricated cathode exhibits an ASR value of 0.75 Ω cm<ce:sup loc="post">2</ce:sup> at 500 °C, 0.28 Ω cm<ce:sup loc="post">2</ce:sup> at 550 °C, 0.11 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C, 0.051 Ω cm<ce:sup loc="post">2</ce:sup> at 650 °C, and 0.012 Ω cm<ce:sup loc="post">2</ce:sup> at 700 °C. This cathode reactivity is about two orders of magnitude higher than the one fabricated via conventional heating, particularly at below 600 °C (See <ce:cross-ref refid="f0020" id="c0150">Fig. 4</ce:cross-ref>
+                        <ce:bold>b and c</ce:bold>). Such substantial improvement of the cathode reactivity is likely due to (a) the minimized formation of isolating SrZrO<ce:inf loc="post">3</ce:inf> phase that is detrimental to the cathode performance <ce:cross-ref refid="b0070" id="c0155">[14]</ce:cross-ref> and (b) the reduced particle sizes of the cathode. Both beneficial features come from the microwave plasma heating technique that could heat up the samples rapidly, which cannot be achieved by the conventional calcination technique.</ce:para>
+                     <ce:para id="p0070" view="all">We then assembled the SCFW cathode using the MWP method onto a commercial anode-supported cell with a thin dense film of YSZ on a NiO-YSZ cement porous anode. As the MWP duration (i.e., 10 or 20 min) shows a negligible difference in cathode reactivity (<ce:cross-ref refid="f0020" id="c0160">Fig. 4</ce:cross-ref>
+                        <ce:bold>c</ce:bold>), 10 min was chosen as the MWP fabrication time when constructing this single cell. <ce:cross-ref refid="f0025" id="c0165">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/> presents the relation of current densities with cell voltage and power densities at 500 – 700 °C of the constructed cell with flowing hydrogen at the anode and air at the cathode. Notably, the cell can achieve a remarkably high peak power density 1100 mW cm<ce:sup loc="post">−2</ce:sup> at 700 °C, 680 mW cm<ce:sup loc="post">−2</ce:sup> at 600 °C, and 190 mW cm<ce:sup loc="post">−2</ce:sup> at 500 °C, respectively, which are not only much higher than those of the cells based on YSZ electrolytes (420 ∼ 800 mW cm<ce:sup loc="post">−2</ce:sup> at 700 °C <ce:cross-refs refid="b0115 b0120" id="r0035">[23,24]</ce:cross-refs>), but also comparable to the reported performance of the cells based on ceria-based electrolytes (500 ∼ 1200 mW cm<ce:sup loc="post">−2</ce:sup> at 600 °C <ce:cross-refs refid="b0125 b0130 b0135" id="r0040">[25–27]</ce:cross-refs>).</ce:para>
+                     <ce:para id="p0075" view="all">The MWP-fabricated single cell shows stability when running at a current density of 600 mA cm<ce:sup loc="post">−2</ce:sup> at 650 °C, as shown in <ce:cross-ref refid="f0030" id="c0170">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>
+                        <ce:bold>a</ce:bold>. The cell potential dropped slightly from 0.83 V in the first few hours and then stabilized at about 0.81 V, with an overall degradation rate of ca. 2.5% over 370-hour operation. The dropped voltage points as denoted by the arrows were caused by unexpected software issues, and the sudden potential drop between 220 and 240 h was due to the gas bottle replacement during the test. Nevertheless, the cell performance fully recovered after the gas bottle replacement, indicating a good tolerance to the fuel variations of the tested cell. The observed high cell stability must be correlated with the chemically stable SCFW/YSZ interface at the operating temperatures. As aforementioned, there is no significant interaction between SCFW and YSZ phases at below 800 °C, as unveiled by <ce:cross-ref refid="f0005" id="c0175">Fig. 1</ce:cross-ref>
+                        <ce:bold>c</ce:bold>. Additionally, we observed no additional phase formed for the mixture of SCFW and YSZ after treated at 650 °C for 100 h in the air after compared with the SCFW&amp;YSZ mixture with no thermal treatment as shown in <ce:cross-ref refid="f0030" id="c0180">Fig. 6</ce:cross-ref>
+                        <ce:bold>b</ce:bold>, further confirming the high phase stability of SCFW with YSZ electrolyte at reduced operating temperatures.</ce:para>
+                     <ce:para id="p0080" view="all">
+                        <ce:cross-ref refid="f0035" id="c0185">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>
+                        <ce:bold>a</ce:bold> shows the cross-section of the SCFW/YSZ interface of the single cell after the stability test. The SCFW cathode is about 12 μm thick that adheres well to the YSZ electrolyte. The zoomed SEM image (<ce:cross-ref refid="f0035" id="c0190">Fig. 7</ce:cross-ref>
+                        <ce:bold>b</ce:bold>) of the selected square region in <ce:cross-ref refid="f0035" id="c0195">Fig. 7</ce:cross-ref>
+                        <ce:bold>a</ce:bold> confirms that the SCFW cathode maintain an intimate contact with the electrolyte, which was bestowed by the MWP fabrication technique. After&gt;370 h of operation at elevated temperatures, the SCFW cathode particles kept an average particle size between 100 and 200 nm, similar to the sizes of the SCFW cathode on symmetrical cells before any test, as shown in <ce:cross-ref refid="f0015" id="c0200">Fig. 3</ce:cross-ref>
+                        <ce:bold>a</ce:bold>. It is thus concluded that the high stability of the single-cell performance mainly arises from the good chemical SCFW/YSZ compatibility at reduced temperatures and stable microstructure of the SCFW/YSZ interfaces. These merits are enabled by the MWP fabrication technique that could assemble the SCFW cathode onto the YSZ electrolyte with desired interfacial interaction.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st045">Universality of MWP method to fabricate cathode on YSZ electrolyte</ce:section-title>
+                     <ce:para id="p0085" view="all">It is expected the proposed MWP fabrication method should also be valid for other MIEC perovskite cathodes containing alkaline earth elements. To demonstrate the universality of this novel method, we assembled some typical MIEC perovskites SrCo<ce:inf loc="post">0.5</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (denoted as SCF) and SrCo<ce:inf loc="post">0.8</ce:inf>Nb<ce:inf loc="post">0.1</ce:inf>Ta<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf> (denoted as SCNT) onto the YSZ electrolyte in the symmetrical cell configuration. We also fabricated the cathode onto the YSZ electrolyte using the conventional calcination method at 1000 °C for 2 h for comparison. <ce:cross-ref refid="f0040" id="c0205">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/> shows the comparison of the ASR values of SCF|YSZ|SCF and SCNT|YSZ|SCNT symmetric cells prepared via the two fabrication methods. Similar to the results of the SCFW cathode, the ASR values of the cathodes fabricated via the MWP method are again about two orders of magnitude lower than those of the cathode equivalent prepared by conventional calcination at below 600 °C. This further demonstrates the effectiveness of the MWP electrode fabrication technique to boost the cathode performance by optimizing the interfaces between the MIEC cathode and YSZ elecrolyte.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st050">Conclusions</ce:section-title>
+                  <ce:para id="p0090" view="all">In this work, we developed a novel cathode fabrication method based on the microwave plasma heating technique. Our results demonstrate that less than 20 min microwave-plasma treatments can achieve an intimate and stable interfacial contact between YSZ electrolyte and MIEC perovskite cathodes such as SrCo<ce:inf loc="post">0.4</ce:inf>Fe<ce:inf loc="post">0.5</ce:inf>W<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">3-δ</ce:inf>, which are incompatible with YSZ electrolyte at cathode fabrication temperatures. The extremely short cathode fabrication duration also bestows the cathode layer with very fine particle sizes, offering a high density of ORR active sites. Our results show that MWP-fabricated SCFW cathode shows a polarization resistance about two orders of magnitude lower (e.g., 0.11 Ω cm<ce:sup loc="post">2</ce:sup> compared to 25.3 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C) than the equivalent prepared via conventional route. Consequently, our technique enables a YSZ-based single cell to achieve a high peak power density of 1100 mW cm<ce:sup loc="post">−2</ce:sup> at 700 °C and stable operation at 600 mA cm<ce:sup loc="post">−2</ce:sup> for 370 h. We anticipate that the MWP technique could open a new avenue to develop novel interfaces between incompatible solid phases for key industrial applications such as high-temperature energy conversions and gas separation.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st055">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0095" view="all">
+                     <ce:bold>Fengli Liang:</ce:bold> . <ce:bold>Po-hung Tseng:</ce:bold> . <ce:bold>Qiang Sun:</ce:bold> . <ce:bold>Mengran Li:</ce:bold> Supervision. <ce:bold>Wei Zhou:</ce:bold> . <ce:bold>Lian X. Liu:</ce:bold> . <ce:bold>Hao Wang:</ce:bold> . <ce:bold>Zhonghua Zhu:</ce:bold> .</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st060">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="p0100" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st065">Acknowledgment</ce:section-title>
+               <ce:para id="p0105" view="all">The research work was supported by <ce:grant-sponsor xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">the Australian Research Council Discovery Project</ce:grant-sponsor> (<ce:grant-number refid="gp005">DP190101782</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st070">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Hussain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/ente.201800408</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Hussain AM, Wachsman ED. Energy Technol.,2019, 7: 20-32. doi.org/10.1002/ente.201800408</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11626</sb:first-page>
+                              <sb:last-page>11631</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/D0TA04280C</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Park BK, Barnett SA, J. Mater. Chem. A, 2020,8: 11626-11631. DOI:10.1039/D0TA04280C</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.H.</ce:given-name>
+                                 <ce:surname>Eo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Whang CM, Lee YR, Park SY, Prasad DH, Yoon KJ, LEE JH, Lee HW</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1733</sb:first-page>
+                              <sb:last-page>1741</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jeurceramsoc.2012.01.021</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">OH EO, Whang CM, Lee YR, Park SY, Prasad DH, Yoon KJ, LEE JH, Lee HW, J. Eur. Ceram. Soc., 2012, 32: 1733-1741. https://doi.org/10.1016/j.jeurceramsoc.2012.01.021</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.H.</ce:given-name>
+                                 <ce:surname>Eo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Whang CM, Lee YR, Park SY, Prasad DH, Yoon KJ, Son JW, LEE JH, Lee HW</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3373</sb:first-page>
+                              <sb:last-page>3377</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/adma.201200505</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">OH EO, Whang CM, Lee YR, Park SY, Prasad DH, Yoon KJ, Son JW, LEE JH, Lee HW, Adv. Mater., 2012, 24: 3373-3377. https://doi.org/10.1002/adma.201200505</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hidalgo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Thomann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lecas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vulliet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wittmann-Teneze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Damiani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Millon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Brault</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel cells</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/fuce.201200125</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">Hidalgo H, Thomann AL, Lecas T, Vulliet J, Wittmann-Teneze K, Damiani D, Millon E, Brault P, Fuel cells, 2013, 13: 279-288. https://doi.org/10.1002/fuce.201200125</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sunarso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Klande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Feldhoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Edit.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14036</sb:first-page>
+                              <sb:last-page>14040</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/anie.201307305</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">Zhou W, Sunarso J, Zhao MW, Liang FL, Klande T, Feldhoff A. Angew. Chem. Int. Edit., 2013, 52:14036-14040. doi.org/10.1002/anie.201307305</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Panuh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Muchtar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Muhamad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Majlan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.R.W.</ce:given-name>
+                                 <ce:surname>Daud</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. B. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                              <sb:last-page>198</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.compositesb.2013.10.066</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">Panuh D, Muchtar A, Muhamad N, Majlan EH, Daud WRW. Compos. B. Eng., 2014, 58: 193-198. doi.org/10.1016/j.compositesb.2013.10.066</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Haile</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>431</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">Shao ZP, Haile SM. Nature, 2004, 431:170-173.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Z.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Aruliah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. B. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>107491</sb:article-number>
+                           <ce:doi>10.1016/j.compositesb.2019.107491</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Xu XY, Zhao J, Li MR, Zhuang LZ, Zhang JX, Aruliah S, Liang F, Wang H, Zhu ZH. Compos. B. Eng., 2019, 178, 107491. doi.org/10.1016/j.compositesb.2019.107491</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8989</sb:first-page>
+                              <sb:last-page>9002</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C7TA02003A</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">Wang J, Yang T, Lei L, Huang K. J. Mater. Chem. A, 2017;5(19):8989-9002. DOI: 10.1039/C7TA02003A</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Cascos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Martínez-Coronado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Alonso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14349</sb:first-page>
+                              <sb:last-page>14354</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ijhydene.2014.03.100</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">Cascos V, Martínez-Coronado R, Alonso JA. Int. J. Hydrogen Energ., 2014, 39:14349-54. doi.org/10.1016/j.ijhydene.2014.03.100</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sunarso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15454</sb:first-page>
+                              <sb:last-page>15462</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C4TA03208J</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">Zhu Y, Sunarso J, Zhou W, Jiang S, Shao Z. J. Mater. Chem. A, 2014, 2: 15454-62. DOI: 10.1039/C4TA03208J</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Imanishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>277</sb:first-page>
+                              <sb:last-page>281</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0167-2738(98)00428-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">Tu HY, Takeda Y, Imanishi N, Yamamoto O. Solid State Ion., 1999, 117: 277-281. doi.org/10.1016/S0167-2738(98)00428-7</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yokokawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>581</sb:first-page>
+                              <sb:last-page>610</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1146/annurev.matsci.33.022802.093856</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">Yokokawa H. Annu. Rev. Mater. Res., 2003, 33: 581-610. doi.org/10.1146/annurev.matsci.33.022802.093856</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.D.A.</ce:given-name>
+                                 <ce:surname>Rickard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31729</sb:first-page>
+                              <sb:last-page>31737</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acsami.6b11665</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">Chen KF, Li N, Ai N, Cheng Y, Rickard WDA, Jiang SP. ACS Appl. Mater. Interfaces, 2016, 8: 31729-31737. doi.org/10.1021/acsami.6b11665</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Ch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Tsiniarakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.h.</ce:given-name>
+                                 <ce:surname>Ftikos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                              <sb:last-page>535</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0167-2738(00)00433-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">Kostogloudis G Ch, Tsiniarakis G, Ftikos Ch. Solid State Ionics, 2000, 135: 529-535. doi.org/10.1016/S0167-2738(00)00433-1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>415</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>112</sb:first-page>
+                              <sb:last-page>118</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jpowsour.2019.01.057</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">Kim C, Kim S, Jang I, Yoon H, Song T, Paik U. J. Power Sources, 415 (2019), 112-118. doi.org/10.1016/j.jpowsour.2019.01.057</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.C.</ce:given-name>
+                                 <ce:surname>Haanappel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2103</sb:first-page>
+                              <sb:last-page>2107</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ssi.2005.12.010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">Mai A, Haanappel VAC, Tietz F, Stover D. Solid State Ionics, 2006, 177: 2103-2107. doi.org/10.1016/j.ssi.2005.12.010</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>Article number 327</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="stx120">Zhou W, Liang FL, Shao ZP, Zhu ZH. Sci. Rep.,2012, 2, Article number327.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>DA Rickard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17678</sb:first-page>
+                              <sb:last-page>17685</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C6TA07067A</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">Chen KF, Li N, Ai N, Li M, Cheng Y, Rickard W DA, Li J, Jiang SP. J. Mater. Chem. A, 2016, 4: 17678-17685. DOI: 10.1039/C6TA07067A</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Tjeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9854</sb:first-page>
+                              <sb:last-page>9859</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C8TA02864H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">Chen G, Hu ZW, Zhu YP, Chen ZG, Zhong YJ, Lin HJ, Chen CT, Tjeng LH, Zhou W, Shao ZP. J. Mater. Chem. A, 2018, 6: 9854-9859. DOI: 10.1039/C8TA02864H</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Vohs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gorte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A2066</sb:first-page>
+                              <sb:last-page>A2070</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/1.2345583</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">Wang W, Huang Y, Jung S, Vohs JM, Gorte RJ. J. Electrochem. Soc., 2006, 153: A2066-A2070. doi.org/10.1149/1.2345583</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Hyun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ion.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1304</sb:first-page>
+                              <sb:last-page>1309</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ssi.2007.06.014</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">Kim SD, Moon H, Hyun SH, Moon J, Kim J, Lee HW. Solid State Ion., 2007, 178: 1304-1309. doi.org/10.1016/j.ssi.2007.06.014</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1048</sb:first-page>
+                              <sb:last-page>1051</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.elecom.2009.03.009</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx145">Liang FL, Chen J, Jiang SP, Chi B, Pu J, Li J. Electrochem. Commun., 2009, 11: 1048-1051. doi.org/10.1016/j.elecom.2009.03.009</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.D.</ce:given-name>
+                                 <ce:surname>Ge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2019</sb:first-page>
+                              <sb:last-page>2024</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jpcs.2008.02.011</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx150">Zhao LJ, Huang XQ, Zhu RB, Lu Z, Sun WW, Zhang YH, Ge XD, Liu ZG, Su WH. J. Phys. Chem. Solids, 2008, 65: 2019-2024. doi.org/10.1016/j.jpcs.2008.02.011</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B661</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/2.032206jes</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx155">Liu MF, Ding D, Bai YH, He T, Liu ML. J. Electrochem. Soc., 2012, 159: B661. doi.org/10.1149/2.032206jes</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.V.</ce:given-name>
+                                 <ce:surname>Mogni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Railsback</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1602</sb:first-page>
+                              <sb:last-page>1644</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/C5EE03858H</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx160">Gao Z, Mogni LV, Miller EC, Railsback JG and Barnett SA. Environ. Sci.,2016, 9: 1602-1644. DOI: 10.1039/C5EE03858H</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

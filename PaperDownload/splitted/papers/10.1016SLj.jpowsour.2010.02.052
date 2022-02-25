@@ -1,0 +1,2328 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378775310003113</prism:url><dc:identifier>doi:10.1016/j.jpowsour.2010.02.052</dc:identifier><eid>1-s2.0-S0378775310003113</eid><prism:doi>10.1016/j.jpowsour.2010.02.052</prism:doi><pii>S0378-7753(10)00311-3</pii><dc:title>Synthesis, structural analysis and electrochemical performances of BLSITCFx as new cathode materials for solid oxide fuel cells (SOFC) based on BIT07 electrolyte </dc:title><prism:publicationName>Journal of Power Sources</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03787753</prism:issn><prism:volume>195</prism:volume><prism:issueIdentifier>15</prism:issueIdentifier><prism:startingPage>4779</prism:startingPage><prism:endingPage>4784</prism:endingPage><prism:pageRange>4779-4784</prism:pageRange><prism:number>15</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2010-08-01</prism:coverDate><prism:coverDisplayDate>1 August 2010</prism:coverDisplayDate><prism:copyright>Copyright © 2010 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Letilly, M.</dc:creator><dc:creator>Le Gal La Salle, A.</dc:creator><dc:creator>Lachgar, A.</dc:creator><dc:creator>Joubert, O.</dc:creator><dc:description>
+                  BaIn0.3Ti0.7O2.85 (BIT07) is a suitable electrolyte for Solid Oxide Fuel Cell (SOFC) but half cells based on La0.58Sr0.4Co0.2Fe0.8O3−δ
+                      (LSCF) as a cathode material show a degradation of the Area Specific Resistance (ASR) at 700°C with time. This study deals with the characterization of alternative cathode materials showing a better compatibility with BIT07 than LSCF. A new solid solution, Ba
+                        x
+                     La0.58(1−x)Sr0.4(1−x)In0.3x
+                     Ti0.7x
+                     Co0.2(1−x)Fe0.8(1−x)O3−δ
+                     , with 0≤
+                     x
+                     ≤1, also called BLSITCFx, with in this case x expressed in molar %, derived from BIT07 and LSCF, has been synthesized at 1350°C in air using BIT07 and LSCF powders. Two compositions, BLSITCF12 and BLSITCF25, have been selected due to their thermal expansion and conductivity properties. Symmetrical half cells based on these two new materials deposited on BIT07 electrolyte have been studied by complex impedance spectroscopy in air versus temperature and time. Their behaviour is comparable to LSCF's, with ASR values never exceeding 0.2Ωcm2 at 700°C, and moreover their less important Thermal Expansion Coefficient (TEC) mismatch with BIT07 lead to a better mechanical compatibility with time. These new compounds are therefore better candidates than LSCF as cathode materials for SOFC based on BIT07 electrolyte.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>SOFC</dcterms:subject><dcterms:subject>Oxides</dcterms:subject><dcterms:subject>Complex impedance spectroscopy</dcterms:subject><dcterms:subject>Cathode</dcterms:subject><dcterms:subject>BIT07</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378775310003113" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378775310003113" rel="scidir"/></coredata><objects><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="135" height="36" size="665">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="98" height="34" size="462">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="294" height="48" size="1634">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="229" size="19938">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="148" size="3523">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="247" size="19948">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="3858">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="229" size="21984">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="3714">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="232" size="25945">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="212" height="163" size="4575">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="266" size="24337">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="186" height="164" size="3503">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="251" size="21929">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="3136">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="226" size="24220">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="4517">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="452" height="159" size="41312">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="7625">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="527" height="200" size="30879">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="2870">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775310003113-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>77950367889</scopus-id><scopus-eid>2-s2.0-77950367889</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/77950367889" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271367</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Power Sources</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALPOWERSOURCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20100226">2010-02-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20100226">2010-02-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-31T14:17:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378775310003113</xocs:eid>
+      <xocs:pii-formatted>S0378-7753(10)00311-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378775310003113</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jpowsour.2010.02.052</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378775310X00064</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T08:13:49.98439-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20100801</xocs:date-search-begin>
+      <xocs:year-nav>2010</xocs:year-nav>
+      <xocs:indexeddate epoch="1267142400">2010-02-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-7753</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03787753</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>195</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>195</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>15</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>15</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 195, Issue 15</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>4779</xocs:first-fp>
+      <xocs:last-lp>4784</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4779</xocs:first-page>
+         <xocs:last-page>4784</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20100801</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 August 2010</xocs:cover-date-text>
+      <xocs:cover-date-start>2010-08-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2010</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Fuel Cells: Engineering</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Articles</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2010 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SYNTHESISSTRUCTURALANALYSISELECTROCHEMICALPERFORMANCESBLSITCFXNEWCATHODEMATERIALSFORSOLIDOXIDEFUELCELLSSOFCBASEDBIT07ELECTROLYTE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LETILLY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sample preparation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Structural characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical characterization</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Total conductivity</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Electrochemical performances</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ageing study</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>619</xocs:ref-first-fp>
+            <xocs:ref-last-lp>621</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>EVERSTIFFEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1805</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1811</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>SINGHAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHTEMPERATURESOLIDOXIDEFUELCELLSFUNDAMENTALSDESIGNAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>PRAKASH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>117</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>LETILLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>ULLMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>BAUMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1071</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1081</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>QIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>338</xocs:ref-first-fp>
+            <xocs:ref-last-lp>345</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>420</xocs:ref-first-fp>
+            <xocs:ref-last-lp>427</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>462</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-last-lp>310</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>MAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1965</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1968</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>586</xocs:ref-first-fp>
+            <xocs:ref-last-lp>589</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>TIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4470</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>DELAHAYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2945</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2950</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>RODRIGUEZCARVAJAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>ROISNEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>118</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MATERIALSSCIENCEFORUMPROC7THEUROPEANPOWDERDIFFRACTIONCONFERENCEEPDIC7</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8164</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>TAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>TAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>259</xocs:ref-first-fp>
+            <xocs:ref-last-lp>271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>RICCIARDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1083</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1090</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>XIONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>589</xocs:ref-first-fp>
+            <xocs:ref-last-lp>592</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>TIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1509</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1515</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>CORBEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>SWIERCZEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LETILLYX2010X4779</xocs:refkey3>
+         <xocs:refkey4lp>LETILLYX2010X4779X4784</xocs:refkey4lp>
+         <xocs:refkey4ai>LETILLYX2010X4779XM</xocs:refkey4ai>
+         <xocs:refkey5>LETILLYX2010X4779X4784XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-7753(10)00311-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378775310003113</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378775310003113</xocs:eid>
+         <xocs:doi>10.1016/j.jpowsour.2010.02.052</xocs:doi>
+         <xocs:cid>271367</xocs:cid>
+         <xocs:timestamp>2010-12-02T22:11:56.042374-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2010-08-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/MAIN/application/pdf/10f2cb63965868139b31a6b985a8edaf/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/MAIN/application/pdf/10f2cb63965868139b31a6b985a8edaf/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>668294</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378775310003113-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/PREVIEW/image/png/c834b9bea9f67e750c95da077f59a098/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/PREVIEW/image/png/c834b9bea9f67e750c95da077f59a098/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63279</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/STRIPIN/image/gif/6c814e18ed5dec3abfb8ffc0aa238681/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/STRIPIN/image/gif/6c814e18ed5dec3abfb8ffc0aa238681/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>665</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>135</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/STRIPIN/image/gif/f533678828d4d190b507199cf327de87/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/STRIPIN/image/gif/f533678828d4d190b507199cf327de87/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>462</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>98</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/STRIPIN/image/gif/60b108dcbf6875dc99a20b51fca7f4ee/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/STRIPIN/image/gif/60b108dcbf6875dc99a20b51fca7f4ee/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1634</xocs:filesize>
+               <xocs:pixel-height>48</xocs:pixel-height>
+               <xocs:pixel-width>294</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr1/DOWNSAMPLED/image/jpeg/ba2448c6968436128f8bb1be7fe0245d/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr1/DOWNSAMPLED/image/jpeg/ba2448c6968436128f8bb1be7fe0245d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19938</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr1/THUMBNAIL/image/gif/fcfc13188260eedadb9a9c075d9ed644/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr1/THUMBNAIL/image/gif/fcfc13188260eedadb9a9c075d9ed644/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3523</xocs:filesize>
+               <xocs:pixel-height>148</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr2/DOWNSAMPLED/image/jpeg/edf2c1f5081c115dcda29496bb7eb948/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr2/DOWNSAMPLED/image/jpeg/edf2c1f5081c115dcda29496bb7eb948/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19948</xocs:filesize>
+               <xocs:pixel-height>247</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr2/THUMBNAIL/image/gif/4c6b964058fcd531bfa0105ec3bb3a43/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr2/THUMBNAIL/image/gif/4c6b964058fcd531bfa0105ec3bb3a43/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3858</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr3/DOWNSAMPLED/image/jpeg/cad80a4df114b2adca8d753ff7ef87e3/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr3/DOWNSAMPLED/image/jpeg/cad80a4df114b2adca8d753ff7ef87e3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21984</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr3/THUMBNAIL/image/gif/a85dca5e91616b04bbbeb90aa3844005/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr3/THUMBNAIL/image/gif/a85dca5e91616b04bbbeb90aa3844005/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3714</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr4/DOWNSAMPLED/image/jpeg/7716bd0e0d09e79f9c5fba889a7805bf/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr4/DOWNSAMPLED/image/jpeg/7716bd0e0d09e79f9c5fba889a7805bf/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25945</xocs:filesize>
+               <xocs:pixel-height>232</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr4/THUMBNAIL/image/gif/d066b5aeb43c7a266a6d1542be4a0f0f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr4/THUMBNAIL/image/gif/d066b5aeb43c7a266a6d1542be4a0f0f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4575</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>212</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr5/DOWNSAMPLED/image/jpeg/daa4690f5ecaa8d2a5533978c5aa8b3b/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr5/DOWNSAMPLED/image/jpeg/daa4690f5ecaa8d2a5533978c5aa8b3b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24337</xocs:filesize>
+               <xocs:pixel-height>266</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr5/THUMBNAIL/image/gif/8cf408b0cde3cd6fce4a87d6c52d6d82/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr5/THUMBNAIL/image/gif/8cf408b0cde3cd6fce4a87d6c52d6d82/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3503</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>186</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr6/DOWNSAMPLED/image/jpeg/d656fb02902d9fc04f2e54de05d1355b/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr6/DOWNSAMPLED/image/jpeg/d656fb02902d9fc04f2e54de05d1355b/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21929</xocs:filesize>
+               <xocs:pixel-height>251</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr6/THUMBNAIL/image/gif/5cedd2ede2e42e10226b5930d3d7fa32/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr6/THUMBNAIL/image/gif/5cedd2ede2e42e10226b5930d3d7fa32/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3136</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr7/DOWNSAMPLED/image/jpeg/d257c3b4ed71bc91230447c5c2ba86aa/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr7/DOWNSAMPLED/image/jpeg/d257c3b4ed71bc91230447c5c2ba86aa/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24220</xocs:filesize>
+               <xocs:pixel-height>226</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr7/THUMBNAIL/image/gif/687d917ca47fa9c2b01624f257966fed/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr7/THUMBNAIL/image/gif/687d917ca47fa9c2b01624f257966fed/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4517</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr8/DOWNSAMPLED/image/jpeg/a4a1d75deb1de4e3c80c4e51c7a0b2ec/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr8/DOWNSAMPLED/image/jpeg/a4a1d75deb1de4e3c80c4e51c7a0b2ec/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41312</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>452</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr8/THUMBNAIL/image/gif/99aac2cf648cea6f52c38d3a71cf4c9f/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr8/THUMBNAIL/image/gif/99aac2cf648cea6f52c38d3a71cf4c9f/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7625</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr9/DOWNSAMPLED/image/jpeg/7d02120ebcdf5ab5cba202e27939d172/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr9/DOWNSAMPLED/image/jpeg/7d02120ebcdf5ab5cba202e27939d172/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30879</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>527</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775310003113-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775310003113/gr9/THUMBNAIL/image/gif/13b265db15f81932af6092a433615c6c/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775310003113/gr9/THUMBNAIL/image/gif/13b265db15f81932af6092a433615c6c/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2870</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>POWER</jid>
+            <aid>12926</aid>
+            <ce:pii>S0378-7753(10)00311-3</ce:pii>
+            <ce:doi>10.1016/j.jpowsour.2010.02.052</ce:doi>
+            <ce:copyright type="full-transfer" year="2010">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">X-ray powder diffraction patterns of the mixture of BIT07 and LSCF in the molar ratio 25/75 before (a) and after 24<ce:hsp sp="0.25"/>h at 1350<ce:hsp sp="0.25"/>°C (b). Bragg peaks positions of pure BIT07 (■) and LSCF (□) are indicated.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Evolution of the main X-ray powder diffraction peak position along <ce:italic>x</ce:italic> in BLSITCF<ce:italic>x</ce:italic>: cubic (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0) peak for BIT07 (■), BLSITCF75 (○), BLSITCF50 (◁), BLSITCF47 (▷), BLSITCF38 (*), BLSITCF25 (▿) and rhombohedral (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0) and (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>4) peaks for BLSITCF12 (▵) and LSCF (□).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">DC conductivity of LSCF (□), BLSITCF12 (▵), BLSITCF25 (▿) and BLSITCF50 (◁).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Nyquist diagram of BLSITCF12/BIT07/BLSITCF12 (■) and BLSITCF25/BIT07/BLSITCF25 (□) symmetrical cell at 700<ce:hsp sp="0.25"/>°C. Characteristic frequencies are reported in Hz. Rs and Rp refer to the series resistance and the polarization resistances respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Arrhenius plots of the total ASR for each symmetrical cell (electrode/BIT07/electrode) when electrode is LSCF (■), BLSITCF12 (▴) and BLSITCF25 (▾).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">
+                     <ce:italic>R</ce:italic>/Rp ratio of LSCF/BIT07/LSCF (square), BLSITCF12/BIT07/BLSITCF12 (▵ or ▴) and BLSITCF25/BIT07/BLSITCF25 (▿ or ▾) symmetrical cells versus temperature. <ce:italic>R</ce:italic> associated to MF and LF contributions are represented by an empty and a filled symbol respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Nyquist diagrams at 700<ce:hsp sp="0.25"/>°C of BLSITCF12/BIT07/BLSITCF12 symmetrical cell where BLSITCF12 was sintered at 1150<ce:hsp sp="0.25"/>°C during 12<ce:hsp sp="0.25"/>h (▴) or at 1050<ce:hsp sp="0.25"/>°C during 6<ce:hsp sp="0.25"/>h (▵).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Scanning electron microscope images of the fracture surface of the BLSITCF12/BIT07/BLSITCF12 symmetrical cells sintered at 1150<ce:hsp sp="0.25"/>°C during 12<ce:hsp sp="0.25"/>h (a) and at 1050<ce:hsp sp="0.25"/>°C during 6<ce:hsp sp="0.25"/>h (b). Cathode and electrolyte have been noted C and E respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Resistance evolution with time for the three symmetrical cells (LSCF/BIT07/LSCF (□ or ■), BLSITCF12/BIT07/BLSITCF12 (▵ or ▴) and BLSITCF25/BIT07/BLSITCF25 (▿ or ▾): (a) low frequency contribution variation and (b) total variation.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Molar and weight ratios of BIT07 and LSCF in the initial mixtures, formula and names of the new phases.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Molar % of BIT07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Molar % of LSCF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Weight % of BIT07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Weight % of LSCF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Formula</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Material</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">La<inf loc="post">0.58</inf>Sr<inf loc="post">0.4</inf>Co<inf loc="post">0.2</inf>Fe<inf loc="post">0.8</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LSCF</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">86.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.12</inf>La<inf loc="post">0.51</inf>Sr<inf loc="post">0.35</inf>In<inf loc="post">0.04</inf>Ti<inf loc="post">0.08</inf>Co<inf loc="post">0.18</inf>Fe<inf loc="post">0.7</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">72.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.25</inf>La<inf loc="post">0.44</inf>Sr<inf loc="post">0.3</inf>In<inf loc="post">0.08</inf>Ti<inf loc="post">0.18</inf>Co<inf loc="post">0.15</inf>Fe<inf loc="post">0.6</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">41.36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">58.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.38</inf>La<inf loc="post">0.36</inf>Sr<inf loc="post">0.25</inf>In<inf loc="post">0.11</inf>Ti<inf loc="post">0.27</inf>Co<inf loc="post">0.12</inf>Fe<inf loc="post">0.5</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF38</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">49.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.47</inf>La<inf loc="post">0.31</inf>Sr<inf loc="post">0.21</inf>In<inf loc="post">0.14</inf>Ti<inf loc="post">0.33</inf>Co<inf loc="post">0.11</inf>Fe<inf loc="post">0.42</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF47</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">53.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">46.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.5</inf>La<inf loc="post">0.29</inf>Sr<inf loc="post">0.2</inf>In<inf loc="post">0.15</inf>Ti<inf loc="post">0.35</inf>Co<inf loc="post">0.1</inf>Fe<inf loc="post">0.4</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF50</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">77.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22.46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ba<inf loc="post">0.75</inf>La<inf loc="post">0.15</inf>Sr<inf loc="post">0.1</inf>In<inf loc="post">0.23</inf>Ti<inf loc="post">0.53</inf>Co<inf loc="post">0.05</inf> Fe<inf loc="post">0.2</inf>O<inf loc="post">3−<italic>δ</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF75</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BaIn<inf loc="post">0.3</inf>Ti<inf loc="post">0.7</inf>O<inf loc="post">2.85</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BIT07</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Symmetry and refined cell parameters and volumes of the solid solution BLSITCF<ce:italic>x</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Materials</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Space group</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>a</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>c</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>V</italic> (Å<sup loc="post">3</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LSCF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>R</italic>-3<italic>c</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.490(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.4347(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">58.445(3)<cross-ref refid="tbl2fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>R</italic>-3<italic>c</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.522(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.4737(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">59.300(3)<cross-ref refid="tbl2fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.927(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">60.560(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.957(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">61.958(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.979(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">62.997(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.991(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">63.569(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.037(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">65.792(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BIT07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>Pm</italic>3<italic>m</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.095(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">/</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">68.669(3)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl2fn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Refers to an equivalent cubic volume.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal Expansion Coefficients of the studied electrolyte and cathode materials.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Materials</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">TEC (×10<sup loc="post">−6</sup>
+                           <hsp sp="0.25"/>K<sup loc="post">−1</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BIT07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12.2 (RT–1000<hsp sp="0.25"/>°C) <cross-ref refid="bib6">[6]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">LSCF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.6 (500–1000<hsp sp="0.25"/>°C) <cross-ref refid="bib6">[6]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">21.3 (400–1000<hsp sp="0.25"/>°C)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BLSITCF25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20.7 (200–1000<hsp sp="0.25"/>°C)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Synthesis, structural analysis and electrochemical performances of BLSITCF<ce:italic>x</ce:italic> as new cathode materials for solid oxide fuel cells (SOFC) based on BIT07 electrolyte</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Letilly</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Le Gal La Salle</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Lachgar</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>O.</ce:given-name>
+                  <ce:surname>Joubert</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institut des Matériaux Jean Rouxel (IMN), CNRS- Université de Nantes, 2 rue de la Houssinière, BP 32229, 44322 Nantes, France</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, Wake Forest University, Winston-Salem, NC 27109, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +33 240373913; fax: +33 240373995.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="23" month="7" year="2009"/>
+            <ce:date-revised day="15" month="2" year="2010"/>
+            <ce:date-accepted day="21" month="2" year="2010"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">BaIn<ce:inf loc="post">0.3</ce:inf>Ti<ce:inf loc="post">0.7</ce:inf>O<ce:inf loc="post">2.85</ce:inf> (BIT07) is a suitable electrolyte for Solid Oxide Fuel Cell (SOFC) but half cells based on La<ce:inf loc="post">0.58</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>Co<ce:inf loc="post">0.2</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf> (LSCF) as a cathode material show a degradation of the Area Specific Resistance (ASR) at 700<ce:hsp sp="0.25"/>°C with time. This study deals with the characterization of alternative cathode materials showing a better compatibility with BIT07 than LSCF. A new solid solution, Ba<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>La<ce:inf loc="post">0.58(1−<ce:italic>x</ce:italic>)</ce:inf>Sr<ce:inf loc="post">0.4(1−<ce:italic>x</ce:italic>)</ce:inf>In<ce:inf loc="post">0.3<ce:italic>x</ce:italic>
+                     </ce:inf>Ti<ce:inf loc="post">0.7<ce:italic>x</ce:italic>
+                     </ce:inf>Co<ce:inf loc="post">0.2(1−<ce:italic>x</ce:italic>)</ce:inf>Fe<ce:inf loc="post">0.8(1−<ce:italic>x</ce:italic>)</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>, with 0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>1, also called BLSITCF<ce:italic>x</ce:italic>, with in this case <ce:italic>x</ce:italic> expressed in molar %, derived from BIT07 and LSCF, has been synthesized at 1350<ce:hsp sp="0.25"/>°C in air using BIT07 and LSCF powders. Two compositions, BLSITCF12 and BLSITCF25, have been selected due to their thermal expansion and conductivity properties. Symmetrical half cells based on these two new materials deposited on BIT07 electrolyte have been studied by complex impedance spectroscopy in air versus temperature and time. Their behaviour is comparable to LSCF's, with ASR values never exceeding 0.2<ce:hsp sp="0.25"/>Ωcm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C, and moreover their less important Thermal Expansion Coefficient (TEC) mismatch with BIT07 lead to a better mechanical compatibility with time. These new compounds are therefore better candidates than LSCF as cathode materials for SOFC based on BIT07 electrolyte.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>SOFC</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Oxides</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Complex impedance spectroscopy</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Cathode</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>BIT07</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Solid oxide fuel cells (SOFC) are all-solid devices converting the chemical energy of gaseous fuels into electricity via electrochemical processes with high energy conversion efficiency and low greenhouse gas emission <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. To develop the SOFC technology, its operating temperature has to be lowered, since at high temperatures (800–1000<ce:hsp sp="0.25"/>°C), the fuel cell materials degradation is accelerated <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. However, intermediate temperature SOFCs (ITSOFC) working at ≈700<ce:hsp sp="0.25"/>°C exhibit quite low performances in terms of energy density, ionic conductivity of the electrolyte and ohmic drop at the cathode–electrolyte interface. To develop the ITSOFC technology, it is essential to reduce both the polarization and resistance losses of the cell. These contributions can be reduced significantly by using materials in the form of thin films, resulting in a decrease of the overall cell resistance <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>. Low polarization losses can also be achieved by employing electrode materials with high activity for the electrochemical reactions and by optimizing the microstructure in the electrode/electrolyte interface region.</ce:para>
+                  <ce:para view="all">BaIn<ce:inf loc="post">0.3</ce:inf>Ti<ce:inf loc="post">0.7</ce:inf>O<ce:inf loc="post">2.85</ce:inf> (BIT07) is an alternative electrolyte material for ITSOFC <ce:cross-ref refid="bib5">[5]</ce:cross-ref>, because, below 700<ce:hsp sp="0.25"/>°C, its ion conductivity level is comparable to that of YSZ, the usual electrolyte material. Moreover BIT07, which is a cubic perovskite type oxide, is expected to present an excellent structural compatibility with perovskite cathode substrates (e.g. LSM, LSCF...). In order to validate its use in SOFC, this material has to fulfill several criteria. First BIT07 has to be chemically compatible with usual cathode materials, second the assembly BIT07/cathode has to exhibit similar electrochemical performances to the actual very performing YSZ/cathode and thirdly it has to show long-term cycle life. In a previous study <ce:cross-ref refid="bib6">[6]</ce:cross-ref>, it has been shown that BIT07 is compatible with the well-known cathode materials LSCF (La<ce:inf loc="post">0.58</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>Co<ce:inf loc="post">0.2</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>) <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12">[7–12]</ce:cross-refs> and can be used with this material without requiring the use of intermediate layers <ce:cross-refs refid="bib13 bib14">[13,14]</ce:cross-refs>, which is time and cost-effective, as the design and the firing step of the intermediate layer is avoided. However, an ageing problem has been noticed, probably associated to the TEC mismatch between BIT07 and LSCF. In the same study, it has been shown that, at 1000<ce:hsp sp="0.25"/>°C, a reaction between BIT07 and LSCF occurred, leading to the formation of a new single-phase compound with a perovskite type structure. This phase which appears at the electrolyte/cathode interface could show interesting characteristics such as ionic or electronic conductivity leading to an improvement of its mechanical properties without lowering the electrochemical performances of the assembly. In contrary, this phase could be an insulating layer at the cathode/electrolyte interface <ce:cross-ref refid="bib15">[15]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">In order to go further, new compositions have been synthesized at high temperatures starting from different mixtures of BIT07 and LSCF. In this paper we present these new compounds which have been characterized and tested from electrochemical and mechanical points of view. Anode materials compatible with BIT07 have been prepared by the authors <ce:cross-ref refid="bib16">[16]</ce:cross-ref> and their optimization with these new materials will be published elsewhere.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Sample preparation</ce:section-title>
+                     <ce:para view="all">BIT07 is synthesized as detailed in <ce:cross-ref refid="bib5">[5]</ce:cross-ref>: its constituents, high purity barium carbonate (Alfa Aesar, Germany), indium oxide (Alfa Aesar, Germany) and titanium dioxide (Rhône Poulenc) were weighed as per the stoichiometric ratio and mixed in mortar and pestle using alcohol. The mixture was first calcined at 1200<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h, then ground and compacted into a pellet of 40<ce:hsp sp="0.25"/>mm diameter. This compact was then heated at 1350<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h, ground and passed through mesh 100.</ce:para>
+                     <ce:para view="all">Ba<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>La<ce:inf loc="post">0.58(1−<ce:italic>x</ce:italic>)</ce:inf>Sr<ce:inf loc="post">0.4(1−<ce:italic>x</ce:italic>)</ce:inf>In<ce:inf loc="post">0.3<ce:italic>x</ce:italic>
+                        </ce:inf>Ti<ce:inf loc="post">0.7<ce:italic>x</ce:italic>
+                        </ce:inf>Co<ce:inf loc="post">0.2(1−<ce:italic>x</ce:italic>)</ce:inf>Fe<ce:inf loc="post">0.8(1−<ce:italic>x</ce:italic>)</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                        </ce:inf> (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>1) oxide materials have been synthesized by solid state reaction at 1350<ce:hsp sp="0.25"/>°C for 4<ce:hsp sp="0.25"/>h from a mixture of <ce:italic>x</ce:italic> mol of BIT07 and (1<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>) mol of LSCF powders, provided by Marion Technologie. It has been checked by Energy Dispersive X-ray Spectrosocopy (EDX) that neither Ba, In nor Co have been volatilized during the synthesis processes.</ce:para>
+                     <ce:para view="all">To simplify the formula, these compounds have been called BLSITCF<ce:italic>x</ce:italic> where <ce:italic>x</ce:italic> express the molar ratio (in %) of BIT07 in the initial mixture. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/> gathered the initial compositions according to the expected formula. X-ray powder diffraction (XRPD) patterns of these materials were recorded at RT, in Bragg–Brentano reflection geometry using a Brüker “D8 Advance” powder diffractometer with a Cu-anode as X-ray source and equipped with the Vαrio1, a Johansson type Germanium (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>1) monochromator that provides pure Kα<ce:inf loc="post">1</ce:inf> radiation (<ce:italic>α</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.54056<ce:hsp sp="0.25"/>Å, 20°<ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>2<ce:italic>θ</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>80°, step<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.02°) and a 1-D position-sensitive detector (Vantec). Refinements of cell parameters were carried out using the program FULLPROF <ce:cross-ref refid="bib17">[17]</ce:cross-ref> in the full pattern matching mode, and its interface: the program WinPLOTR <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">A few selected samples of BLSITCF<ce:italic>x</ce:italic> were uniaxially pressed under 60<ce:hsp sp="0.25"/>bars in the form of pellets for conductivity and electrochemical characterization, and sintered for 24<ce:hsp sp="0.25"/>h at 1350<ce:hsp sp="0.25"/>°C. Powders were previously ball milled, in 12<ce:hsp sp="0.25"/>ml silicon nitride pot with 6 silicon nitride balls in ethanol, during 4<ce:hsp sp="0.25"/>h at 500<ce:hsp sp="0.25"/>rpm using FRITSCH P7 planetary micro-mill. XRPD analysis confirms that no contamination occurs during the milling step. Samples with ca 95% apparent density (using both the weight to volume ratio and the theoretical density) were obtained by this process. For DC conductivity measurement, samples were in the form of rectangular bars (5<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.9<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.9<ce:hsp sp="0.25"/>mm) which have been cut out from the dense pellet using a diamond saw. Symmetrical half cells have been prepared by screen-printing LSCF, BLSITCF12 or BLSITCF25 on BIT07 using a DEK245 apparatus. Slurries based on a terpineol – ethyl cellulose vehicle, were screen printed on the two faces of BIT07 dense pellets (surface 0.6<ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup> and thickness 0.6<ce:hsp sp="0.25"/>cm) and then heated at 1150<ce:hsp sp="0.25"/>°C for 12<ce:hsp sp="0.25"/>h. One cell was also prepared using a treatment at 1050<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Electrochemical characterization</ce:section-title>
+                     <ce:para view="all">DC conductivities of LSCF, BLSITCF12, BLSITCF25 and BLSITCF50 were measured in air between 400<ce:hsp sp="0.25"/>°C and 850<ce:hsp sp="0.25"/>°C, after a stabilisation time of 1<ce:hsp sp="0.25"/>h using a DC four points method.</ce:para>
+                     <ce:para view="all">Half cells cathode/electrolyte were characterized by impedance spectroscopy as a function of temperature. The impedance spectra were obtained from a frequency response analyser Solartron 1260 between 450<ce:hsp sp="0.25"/>°C and 700<ce:hsp sp="0.25"/>°C, by steps of 50<ce:hsp sp="0.25"/>°C, with an isotherm of 1<ce:hsp sp="0.25"/>h at each step. Each spectrum has been recorded at open-circuit voltage (OCV), under an ac perturbation of 100<ce:hsp sp="0.25"/>mV and with 84 points scattered in a frequency range from 2<ce:hsp sp="0.25"/>MHz to 0.01<ce:hsp sp="0.25"/>Hz. It has been previously checked that the amplitude of the perturbation signal is small enough to meet the linearity requirement of the transfer function <ce:cross-ref refid="bib19">[19]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">The evolution of the electrochemical performances versus time was studied using symmetrical half cells maintained at 700<ce:hsp sp="0.25"/>°C for 320<ce:hsp sp="0.25"/>h. Impedance spectra were recorded every 4<ce:hsp sp="0.25"/>h.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Mechanical properties</ce:section-title>
+                     <ce:para view="all">Thermal Expansion Coefficients (TECs) have been determined from XRD data as a function of temperature, using a Brüker “D8 Advance” powder diffractometer equipped with an Anton Paar 1200<ce:hsp sp="0.25"/>N high temperature attachment. Data were collected in Bragg–Brentano geometry with a Cu-anode X-ray source (<ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">CuKα1</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.540598<ce:hsp sp="0.25"/>Å and <ce:italic>λ</ce:italic>
+                        <ce:inf loc="post">CuKα2</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.544410<ce:hsp sp="0.25"/>Å, 20°<ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>2<ce:italic>θ</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>80°, step<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.02°). Data were recorded every 100<ce:hsp sp="0.25"/>°C from room temperature to 1000<ce:hsp sp="0.25"/>°C. The relation between cell parameters evolution and TEC is:<ce:display>
+                           <ce:formula>
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>TEC</mml:mtext>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mn>3</mml:mn>
+                                    </mml:mfrac>
+                                    <mml:mo>×</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mfenced open="(" close=")">
+                                             <mml:mrow>
+                                                <mml:mi>δ</mml:mi>
+                                                <mml:mfenced open="(" close=")">
+                                                   <mml:mrow>
+                                                      <mml:mfrac>
+                                                         <mml:mrow>
+                                                            <mml:mstyle mathvariant="normal">
+                                                               <mml:mi>Δ</mml:mi>
+                                                            </mml:mstyle>
+                                                            <mml:mi>a</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:msub>
+                                                               <mml:mi>a</mml:mi>
+                                                               <mml:mn>0</mml:mn>
+                                                            </mml:msub>
+                                                         </mml:mrow>
+                                                      </mml:mfrac>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mi>δ</mml:mi>
+                                                <mml:mfenced open="(" close=")">
+                                                   <mml:mrow>
+                                                      <mml:mfrac>
+                                                         <mml:mrow>
+                                                            <mml:mstyle mathvariant="normal">
+                                                               <mml:mi>Δ</mml:mi>
+                                                            </mml:mstyle>
+                                                            <mml:mi>b</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:msub>
+                                                               <mml:mi>b</mml:mi>
+                                                               <mml:mn>0</mml:mn>
+                                                            </mml:msub>
+                                                         </mml:mrow>
+                                                      </mml:mfrac>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mi>δ</mml:mi>
+                                                <mml:mfenced open="(" close=")">
+                                                   <mml:mrow>
+                                                      <mml:mfrac>
+                                                         <mml:mrow>
+                                                            <mml:mstyle mathvariant="normal">
+                                                               <mml:mi>Δ</mml:mi>
+                                                            </mml:mstyle>
+                                                            <mml:mi>c</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:msub>
+                                                               <mml:mi>c</mml:mi>
+                                                               <mml:mn>0</mml:mn>
+                                                            </mml:msub>
+                                                         </mml:mrow>
+                                                      </mml:mfrac>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>δ</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>a</ce:italic>, <ce:italic>b</ce:italic> and <ce:italic>c</ce:italic> are the cell parameters at the considered temperature and <ce:italic>a</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, <ce:italic>b</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> and <ce:italic>c</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, the cell parameters at room temperature. Refinements of cell parameters were carried out using the program FULLPROF <ce:cross-ref refid="bib17">[17]</ce:cross-ref> in the full pattern matching mode, and its interface: the program WinPLOTR <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">The microstructure of the interface cathode/BIT07 has been analysed by Scanning Electron Microscopy (SEM) equipped with an X-ray dispersive spectrometer (JEOL 6400).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Structural characterization</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> shows the X-ray powder diffraction (XRPD) diagrams of the mixture of BIT07 and LSCF in the molar ratio 25/75 before (a) and after 24<ce:hsp sp="0.25"/>h at 1350<ce:hsp sp="0.25"/>°C (b). After the sintering process at 1350<ce:hsp sp="0.25"/>°C, LSCF and BIT07 mixture leads to the formation of a single-phase product which is not a composite. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b) shows, for example, the XRPD of BLSITCF25 for which no BIT07 or LSCF peaks are present (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(a)). This result could be expected since the precursors BIT07 and LSCF are perovskite type compounds (even if their symmetry is not the same) and shows comparable cell volumes. Similar result has been obtained with the six studied mixtures (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.12, 0.25, 0.38, 0.47, 0.50 and 0.75), showing that in all cases single-phase products are obtained, with a regular evolution of the position of the Bragg peaks (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>). It has been checked by EDX that all the elements of the materials are distributed uniformly in the matrix.</ce:para>
+                     <ce:para view="all">As a consequence, a complete new solid solution is formed between BIT07 and LSCF compositions. The solid solution formula is Ba<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>La<ce:inf loc="post">0.58(1−<ce:italic>x</ce:italic>)</ce:inf>Sr<ce:inf loc="post">0.4(1−<ce:italic>x</ce:italic>)</ce:inf>In<ce:inf loc="post">0.3<ce:italic>x</ce:italic>
+                        </ce:inf>Ti<ce:inf loc="post">0.7<ce:italic>x</ce:italic>
+                        </ce:inf>Co<ce:inf loc="post">0.2(1−<ce:italic>x</ce:italic>)</ce:inf>Fe<ce:inf loc="post">0.8(1−<ce:italic>x</ce:italic>)</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                        </ce:inf> (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>1) (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>) and is called BLSITCF<ce:italic>x</ce:italic> where <ce:italic>x</ce:italic> (in percent) is the molar ratio of BIT07 in the initial composition. Symmetry, refined cell parameters and volume of BLSITCF<ce:italic>x</ce:italic> are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. As expected, from a structural point of view, a regular evolution of the cell volume is observed between the two limits. A structural transformation from rhombohedral to cubic symmetry occurs for a composition close to BLSITCF20.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Electrochemical characterization</ce:section-title>
+                     <ce:section view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title>Total conductivity</ce:section-title>
+                        <ce:para view="all">The total conductivity of the new phases was measured as a function of temperature using a DC four points method. The evolution of the conductivity level (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                           <ce:float-anchor refid="fig3"/>) does not follow an Arrhenius law but is similar to that already observed for LSCF in the literature <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. At a given temperature, the conductivity level decreases continuously when <ce:italic>x</ce:italic> increases in BLSITCF<ce:italic>x</ce:italic>. For molar ratios of BIT07 in the initial composition superior to 25%, the conductivity values are lower than the target value generally required for a SOFC cathode at 700<ce:hsp sp="0.25"/>°C (∼100<ce:hsp sp="0.25"/>S<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>) <ce:cross-ref refid="bib21">[21]</ce:cross-ref>.</ce:para>
+                        <ce:para view="all">Based on the results, the compounds BLSITCF75, BLSITCF50, BLSITCF47 and BLSITCF38 cannot be considered as potential cathode materials and are not going to be studied in the following parts of this work.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title>Electrochemical performances</ce:section-title>
+                        <ce:para view="all">The two compounds, BLSITCF25 and BLSITCF12, have been studied by complex impedance spectroscopy in air as a function of temperature. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                           <ce:float-anchor refid="fig4"/> presents the Nyquist diagram obtained at 700<ce:hsp sp="0.25"/>°C for the symmetrical cells BLSITCF12/BIT07/BLSITCF12 and BLSITCF25/BIT07/BLSITCF25. It is very similar to that of LSCF previously obtained in the same conditions with the same microstructure <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:para>
+                        <ce:para view="all">A series resistance, Rs, can be used to model the high frequency part which corresponds mainly to the electrolyte BIT07. Readers can refer to <ce:cross-ref refid="bib16">[16]</ce:cross-ref> for precisions about BIT07.</ce:para>
+                        <ce:para view="all">At lower frequency two depressed arcs are observed: one at middle frequency (MF) and another one at low frequencies (LF). Each arc was modelled by a R//CPE (CPE for Constant Phase Element) circuit <ce:cross-ref refid="bib22">[22]</ce:cross-ref> with a capacity around 10<ce:sup loc="post">−5</ce:sup> to 10<ce:sup loc="post">−3</ce:sup>
+                           <ce:hsp sp="0.25"/>F<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−2</ce:sup> for the MF contribution and 10<ce:sup loc="post">−1</ce:sup>
+                           <ce:hsp sp="0.25"/>F<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−2</ce:sup> for the LF contribution. These MF and LF arcs are usually attributed to the charge transfer and diffusion phenomena, respectively. The polarization resistance, Rp, is the sum of the resistances of the two contributions MF and LF (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>).</ce:para>
+                        <ce:para view="all">A preliminary study has been made in order to explain the influence of the oxygen partial pressure on the polarization resistance of the three symmetrical cells. Decreasing PO<ce:inf loc="post">2</ce:inf> increases drastically the LF contribution which seems to split into two contributions: a third contribution appears at the very low frequencies (VLF), which becomes predominant under very low PO<ce:inf loc="post">2</ce:inf> pressure, whatever the material, with a polarization resistance value reaching for instance 50<ce:hsp sp="0.25"/>Ωcm<ce:sup loc="post">2</ce:sup> at 500<ce:hsp sp="0.25"/>°C. This result shows that lowering the oxygen concentration leads to a slowing down of the phenomena involved in the low frequency range, confirming that they are correlated to oxygen diffusion. A complete study of the oxygen partial pressure influence on the polarization resistance will be published elsewhere. Concerning the MF contribution, its value is stable, whatever the PO<ce:inf loc="post">2</ce:inf>.</ce:para>
+                        <ce:para view="all">The Area Specific Resistance can be deduced from the formula:<ce:display>
+                              <ce:formula>
+                                 <ce:label>(2)</ce:label>
+                                 <mml:math altimg="si2.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:mtext>ASR</mml:mtext>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mtext>Rp</mml:mtext>
+                                             <mml:mo>⋅</mml:mo>
+                                             <mml:mi>S</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>where <ce:italic>S</ce:italic> (0.5<ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup>) is the cathode surface, Rp is the difference between the two intercepts of the diagram with the real axis at high and low frequencies (see <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>), and the coefficient 2 of the denominator accounts for the fact that the cell is symmetrical.</ce:para>
+                        <ce:para view="all">
+                           <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                           <ce:float-anchor refid="fig5"/> presents the total ASR values of the symmetrical cells BLSITCF<ce:italic>x</ce:italic>/BIT07/BLSITCF<ce:italic>x</ce:italic> with <ce:italic>x</ce:italic>
+                           <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0, 12 and 25. Results are quite similar whatever the composition. The thermal evolution shows an Arrhenius form (Ea ≈1<ce:hsp sp="0.25"/>eV) and the ASR value does not exceed 0.2<ce:hsp sp="0.25"/>Ωcm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C.</ce:para>
+                        <ce:para view="all">As previously mentioned, the total ASR value is divided into two contributions called MF and LF. The ratio <ce:italic>R</ce:italic>/Rp, in which <ce:italic>R</ce:italic> is associated either to MF or to LF, is reported for LSCF, BLSITCF12 and BLSITCF25 in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                           <ce:float-anchor refid="fig6"/>. Concerning the low frequency contribution, the ratio <ce:italic>R</ce:italic>/Rp for BLSITCF25 is higher than that of LSCF, whereas the MF contribution is smaller. This suggests that in BLSITCF25 the phenomenon associated to charge transfer is faster, whereas diffusion phenomenon is slower. An intermediate situation was observed for BLSITCF12.</ce:para>
+                        <ce:para view="all">Actually, this means that a slight decrease of the ASR can be expected by optimizing the microstructure of the electrode or by reducing its thickness <ce:cross-ref refid="bib23">[23]</ce:cross-ref>. Then, the diffusion phenomena would be faster <ce:cross-ref refid="bib24">[24]</ce:cross-ref>.</ce:para>
+                        <ce:para view="all">The influence of the electrode microstructure was tested with two symmetrical cells based on BLSITCF12 sintered at 1150<ce:hsp sp="0.25"/>°C for 12<ce:hsp sp="0.25"/>h or at 1050<ce:hsp sp="0.25"/>°C during 6<ce:hsp sp="0.25"/>h. Lowering the sintering temperature leads to a drastic decrease of the resistance of the LF contribution (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                           <ce:float-anchor refid="fig7"/>), which is divided by a factor 4, whereas the resistance associated to MF remained the same. This suggests that the microstructure of the cathode sintered at 1050<ce:hsp sp="0.25"/>°C contributes to a better diffusion of oxygen species. The microstructure shows actually a higher porosity in the case of the electrode sintered at low temperature (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                           <ce:float-anchor refid="fig8"/>). A complete optimization study of each new compound is in progress.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Mechanical properties</ce:section-title>
+                     <ce:para view="all">Thermal Expansion Coefficients (TEC) of the new cathode materials selected previously were deduced from XRPD patterns recorded from room temperature to 1000<ce:hsp sp="0.25"/>°C. These values are gathered in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/>.</ce:para>
+                     <ce:para view="all">The TEC value of LSCF, obtained by X-ray thermo diffraction (23.6<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−6</ce:sup>
+                        <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>) for the temperature range [500–1000<ce:hsp sp="0.25"/>°C] is in agreement with those found in literature <ce:cross-refs refid="bib20 bib25 bib26">[20,25,26]</ce:cross-refs>, measured by dilatometry and X-ray thermo diffraction as well.</ce:para>
+                     <ce:para view="all">The TEC value decreases linearly with <ce:italic>x</ce:italic> for BLSITCF<ce:italic>x</ce:italic>. It means that the TEC mismatch between BIT07 and the new cathode materials is lowered, leading to a very promising conclusion: the lowering of the mechanical mismatch between the electrolyte and the cathode material can lead to an improvement of the ageing behaviour.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Ageing study</ce:section-title>
+                     <ce:para view="all">The above studies have shown that the BLSITCF<ce:italic>x</ce:italic> present similar electrochemical performances and a continuous and significant variation of their TEC. This could have an influence on the ageing of the assembly cathode/electrolyte and especially on its interface. In order to verify this assumption, the behaviour of three symmetrical cells, BLSITCF<ce:italic>x</ce:italic>/BIT07/BLSITCF<ce:italic>x</ce:italic>, (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0, 12 and 25) have been studied by complex impedance spectroscopy as a function of time.</ce:para>
+                     <ce:para view="all">In a recent paper, we have shown that for LSCF at 750<ce:hsp sp="0.25"/>°C, the ASR increases regularly with time <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. The total resistance Rp and the resistance associated to the low frequency loop (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">LF</ce:inf>) were measured regularly, and their variations were calculated with the following formula:<ce:display>
+                           <ce:formula>
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>Variation</mml:mtext>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>R</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>R</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>the subscript 0 corresponding to the initial values. <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">LF</ce:inf> and Rp variations are presented in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>(a) and (b)<ce:float-anchor refid="fig9"/>, respectively for LSCF, BLSITCF12 and BLSITCF25.</ce:para>
+                     <ce:para view="all">As already observed for LSCF <ce:cross-ref refid="bib6">[6]</ce:cross-ref>, the MF contribution of the ASR is nearly constant whereas the LF contribution increases regularly with time. It has been shown above that the MF contribution is less important for BLSITCF12 and BLSITCF25 than for LSCF. So for the new cathode materials, the LF contribution represents a more important part of the polarization resistance than for LSCF. However, after 320<ce:hsp sp="0.25"/>h at 700<ce:hsp sp="0.25"/>°C, the increase of LF contribution is of 90% for LSCF, whereas it is only of 70% and 60% for BLSITCF12 and BLSITCF25, respectively (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>(a)). These combined effects lead to an equivalent ageing effect for the three materials and even slightly better for the two compounds BLSITCF12 and BLSITCF25 (<ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>(b)).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">New perovskite type oxide materials called BLSICTFx where x corresponds to the molar ratio (in %) of BIT07 in the initial mixture have been successfully synthesized by solid state reaction of BIT07 and LSCF at 1350<ce:hsp sp="0.25"/>°C in air. The solid solution, Ba<ce:inf loc="post">x</ce:inf>La<ce:inf loc="post">0.58(1−<ce:italic>x</ce:italic>)</ce:inf>Sr<ce:inf loc="post">0.4(1−<ce:italic>x</ce:italic>)</ce:inf>In<ce:inf loc="post">0.3x</ce:inf>Ti<ce:inf loc="post">0.7x</ce:inf>Co<ce:inf loc="post">0.2(1−<ce:italic>x</ce:italic>)</ce:inf>Fe<ce:inf loc="post">0.8(1−<ce:italic>x</ce:italic>)</ce:inf>O<ce:inf loc="post">3-δ,</ce:inf> is complete (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>1).</ce:para>
+                  <ce:para view="all">Whereas for all BLSITCF<ce:italic>x</ce:italic> compounds the total conductivity in air is smaller than that of LSCF, BLSITCF12 and BLSITCF25 show conductivity values around 100<ce:hsp sp="0.25"/>S<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> at 700<ce:hsp sp="0.25"/>°C, and consequently are possible cathode for SOFC. Moreover, in this compositional range (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>0.25), the TEC value decreases with increasing <ce:italic>x</ce:italic> in BLSITCF<ce:italic>x</ce:italic> (21.3<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup> and 20.7<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup> for BLSITCF12 and BLSITCF25, respectively) leading to a lowering of the TEC mismatch between BIT07 and the new cathode materials.</ce:para>
+                  <ce:para view="all">Symmetrical half cells based on BLSITCF12 and BLSITCF25 deposited on BIT07 electrolyte show ASR values lower than 0.2<ce:hsp sp="0.25"/>Ωcm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C. However, half cells based on BLSITCF<ce:italic>x</ce:italic> show an ageing effect at 700<ce:hsp sp="0.25"/>°C during 320<ce:hsp sp="0.25"/>h. A slightly better ageing of the two compounds BLSITCF12 and BLSITCF25 has been observed, related to the smaller evolution of the LF contribution.</ce:para>
+                  <ce:para view="all">Taking into accounts the results of electrochemical and thermo mechanical analysis, BLSITCF12 seems to be a promising cathode for SOFC with BIT07 as electrolyte, and studies in progress show that an optimization of the microstructure can lead to a further improvement of the polarization resistance.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.H.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>400</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>619</sb:first-page>
+                              <sb:last-page>621</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Evers-Tiffée</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Herbstritt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1805</sb:first-page>
+                              <sb:last-page>1811</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Singhal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kendall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High Temperature Solid Oxide Fuel Cells: Fundamentals, Design and Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2003</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 197 (chapter 8)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Prakash</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Delahaye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Joubert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-T.</ce:given-name>
+                                 <ce:surname>Caldes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Piffard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>167</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                              <sb:last-page>117</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Letilly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Le Gal La Salle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Marrony</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Joubert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cells</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/fuce.200900072</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ullmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Trofimenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stöver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ahmad-Khanlou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fleig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Habermeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1071</sb:first-page>
+                              <sb:last-page>1081</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Le</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>168</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>338</sb:first-page>
+                              <sb:last-page>345</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>420</sb:first-page>
+                              <sb:last-page>427</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>457</sb:first-page>
+                              <sb:last-page>462</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Abernathy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.E.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                              <sb:last-page>310</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Becker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Assenmacher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hathiramani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ivers-Tiffée</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stöver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Mader</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1965</sb:first-page>
+                              <sb:last-page>1968</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>586</sb:first-page>
+                              <sb:last-page>589</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials selection for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Forum.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>426<ce:bold>–</ce:bold>432</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4465</sb:first-page>
+                              <sb:last-page>4470</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Delahaye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Joubert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-T.</ce:given-name>
+                                 <ce:surname>Caldes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Piffard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2945</sb:first-page>
+                              <sb:last-page>2950</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Juan</ce:given-name>
+                                 <ce:surname>Rodríguez-Carvajal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. B: Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>See also <ce:inter-ref xlink:href="http://www-llb.cea.fr/fullweb/fp2k/fp2k.htm" xlink:type="simple">http://www-llb.cea.fr/fullweb/fp2k/fp2k.htm</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Roisnel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rodríguez-Carvajal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Delhez</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>E.J.</ce:given-name>
+                                    <ce:surname>Mittenmeijer</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Materials Science Forum, Proc. of the 7th European Powder Diffraction Conference (EPDIC 7)</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2000</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>118</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>See also <ce:inter-ref xlink:href="http://www-llb.cea.fr/fullweb/winplotr/winplotr.htm" xlink:type="simple">http://www-llb.cea.fr/fullweb/winplotr/winplotr.htm</ce:inter-ref>
+                        </sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.-A.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8144</sb:first-page>
+                              <sb:last-page>8164</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-W.</ce:given-name>
+                                 <ce:surname>Tai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Nasrallah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Sparlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Sehlin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-W.</ce:given-name>
+                                 <ce:surname>Tai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Nasrallah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Sparlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Sehlin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>259</sb:first-page>
+                              <sb:last-page>271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ricciardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Ruiz-Morales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nunez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1083</sb:first-page>
+                              <sb:last-page>1090</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>589</sb:first-page>
+                              <sb:last-page>592</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stöver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1509</sb:first-page>
+                              <sb:last-page>1515</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Corbel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mestiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lacorre</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1216</sb:first-page>
+                              <sb:last-page>1224</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Świerczek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

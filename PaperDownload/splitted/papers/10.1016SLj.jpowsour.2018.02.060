@@ -1,0 +1,2364 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378775318301812</prism:url><dc:identifier>doi:10.1016/j.jpowsour.2018.02.060</dc:identifier><eid>1-s2.0-S0378775318301812</eid><prism:doi>10.1016/j.jpowsour.2018.02.060</prism:doi><pii>S0378-7753(18)30181-2</pii><dc:title>Does the conductivity of interconnect coatings matter for solid oxide fuel cell applications? </dc:title><prism:publicationName>Journal of Power Sources</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03787753</prism:issn><prism:volume>383</prism:volume><prism:startingPage>110</prism:startingPage><prism:endingPage>114</prism:endingPage><prism:pageRange>110-114</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-04-15</prism:coverDate><prism:coverDisplayDate>15 April 2018</prism:coverDisplayDate><prism:copyright>© 2018 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><dc:creator>Goebel, Claudia</dc:creator><dc:creator>Fefekos, Alexander G.</dc:creator><dc:creator>Svensson, Jan-Erik</dc:creator><dc:creator>Froitzheim, Jan</dc:creator><dc:description>
+                  The present work aims to quantify the influence of typical interconnect coatings used for solid oxide fuel cells (SOFC) on area specific resistance (ASR). To quantify the effect of the coating, the dependency of coating thickness on the ASR is examined on Crofer 22 APU at 600 °C. Three different Co coating thicknesses are investigated, 600 nm, 1500 nm, and 3000 nm. Except for the reference samples, the material is pre-oxidized prior to coating to mitigate the outward diffusion of iron and consequent formation of poorly conducting (Co,Fe)3O4 spinel. Exposures are carried out at 600 °C in stagnant laboratory air for 500 h and subsequent ASR measurements are performed. Additionally the microstructure is investigated with scanning electron microscopy (SEM). On all pre-oxidized samples, a homogenous dense Co3O4 top layer is observed beneath which a thin layer of Cr2O3 is present. As the ASR values range between 7 and 12 mΩcm2 for all pre-oxidized samples, even though different Co3O4 thicknesses are observed, the results strongly suggest that for most applicable cases the impact of the coating on ASR is negligible and the main contributor is Cr2O3.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Solid oxide fuel cell</dcterms:subject><dcterms:subject>Interconnect</dcterms:subject><dcterms:subject>Corrosion</dcterms:subject><dcterms:subject>Coating</dcterms:subject><dcterms:subject>Area specific resistance</dcterms:subject><dcterms:subject>Cr2O3
+                  </dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378775318301812" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378775318301812" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="195" height="164" size="26522">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="167" height="164" size="11714">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="669" height="562" size="119920">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="351" size="32534">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2961" height="2486" size="970120">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1583" height="1555" size="129413">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="60" height="20" size="2856">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="399" height="34" size="3767">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="77" height="20" size="2879">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775318301812-si3.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85042459837</scopus-id><scopus-eid>2-s2.0-85042459837</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85042459837" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271367</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Power Sources</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALPOWERSOURCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180224">2018-02-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180224">2018-02-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180224">2018-02-24</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180224">2018-02-24</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-02-04T15:25:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378775318301812</xocs:eid>
+      <xocs:pii-formatted>S0378-7753(18)30181-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378775318301812</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jpowsour.2018.02.060</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378775318X00068</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190204">2019-02-04T15:39:02.486842Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180415</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1519520190">2018-02-25T00:56:30.509579Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-7753</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03787753</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>383</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>383</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 383</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>110</xocs:first-fp>
+      <xocs:last-lp>114</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>110</xocs:first-page>
+         <xocs:last-page>114</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180415</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 April 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-04-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>High Temperature Fuel Cells: SCITECH</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONDUCTIVITYINTERCONNECTCOATINGSMATTERFORSOLIDOXIDEFUELCELLAPPLICATIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GOEBEL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>957</xocs:ref-first-fp>
+            <xocs:ref-last-lp>972</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>230</xocs:ref-first-fp>
+            <xocs:ref-last-lp>234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>MIGUELPEREZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>430</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>CHEVALIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>BRYLEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>155</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>561</xocs:ref-first-fp>
+            <xocs:ref-last-lp>564</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>SHAIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12043</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12050</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>TALIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>156</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29517</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>HOSSEINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3490</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3496</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6022</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6029</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29517</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>GROLIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1007</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1013</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>STANISLOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>578</xocs:ref-first-fp>
+            <xocs:ref-last-lp>589</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ZENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16061</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16066</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>PETRIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1515</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1520</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>HUCZKOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>CRAWFORD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2413</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2418</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>HAGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1146</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1152</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>NAGAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>581</xocs:ref-first-fp>
+            <xocs:ref-last-lp>588</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>54</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>HOLT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>LARRING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B374</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B379</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>237</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>GROLIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>FALKWINDISCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>MCCAFFERTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>236</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONCORROSIONSCIENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>FALKWINDISCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>GROLIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>163</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COATEDFERRITICSTAINLESSSTEELSINTERCONNECTSINSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>TAREEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>989</xocs:ref-first-fp>
+            <xocs:ref-last-lp>997</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GOEBELX2018X110</xocs:refkey3>
+         <xocs:refkey4lp>GOEBELX2018X110X114</xocs:refkey4lp>
+         <xocs:refkey4ai>GOEBELX2018X110XC</xocs:refkey4ai>
+         <xocs:refkey5>GOEBELX2018X110X114XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-02-20T14:45:44Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-02-24T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-7753(18)30181-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378775318301812</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378775318301812</xocs:eid>
+         <xocs:doi>10.1016/j.jpowsour.2018.02.060</xocs:doi>
+         <xocs:cid>271367</xocs:cid>
+         <xocs:timestamp>2019-02-04T15:39:02.486842Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-04-15</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/MAIN/application/pdf/fbd2805c70064016e781aa6c9e9a2f03/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1487959</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378775318301812-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/PREVIEW/image/png/40c8f1abfe1ca5e2f2047bceb41b5a77/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49468</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr1/THUMBNAIL/image/gif/2635cefb29497e6d32080e2174af7d07/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>26522</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>195</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr2/THUMBNAIL/image/gif/ed6df767ed509b91841baa758a8aa575/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11714</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr1/DOWNSAMPLED/image/jpeg/85d8140d08e4fe6668d238ac698bdd44/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119920</xocs:filesize>
+               <xocs:pixel-height>562</xocs:pixel-height>
+               <xocs:pixel-width>669</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr2/DOWNSAMPLED/image/jpeg/4a59ab9ee82b6a63f2eb40355aaffd23/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32534</xocs:filesize>
+               <xocs:pixel-height>351</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr1/HIGHRES/image/jpeg/53ef9f40e652e19cd069c39c59641b37/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>970120</xocs:filesize>
+               <xocs:pixel-height>2486</xocs:pixel-height>
+               <xocs:pixel-width>2961</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/gr2/HIGHRES/image/jpeg/c002dd6ab8d0e45a380bd7fa3fbe09bc/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>129413</xocs:filesize>
+               <xocs:pixel-height>1555</xocs:pixel-height>
+               <xocs:pixel-width>1583</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/STRIPIN/image/gif/619ea4470ac5514e704b37216652a608/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2856</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>60</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/STRIPIN/image/gif/15b70bd242108dfd43eb4c76b0b79c40/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3767</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>399</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775318301812-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775318301812/STRIPIN/image/gif/b603e9afd0291aaf5cb82559d06564d8/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2879</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>77</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>POWER</jid>
+            <aid>25114</aid>
+            <ce:pii>S0378-7753(18)30181-2</ce:pii>
+            <ce:doi>10.1016/j.jpowsour.2018.02.060</ce:doi>
+            <ce:copyright type="other" year="2018">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">SEM images of BIB milled cross-sections of Co coated Crofer 22 APU exposed for 500 h at 600 °C in stagnant, laboratory air. All samples were Co coated according to the following specifications a) a pre-oxidized sample with 600 nm Co coating, b) a pre-oxidized sample with 1500 nm Co coating, c) a pre-oxidized sample with 3000 nm Co coating, d) a pre-oxidized sample with 3000 nm Co coating, which showed signs of spallation after exposure, and e) a non-pre-oxidized sample with 1500 nm Co coating. All phases were identified as follows: i) steel, ii) thin Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer, iii) Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>, iv) Pt electrode, v) spallation crack, and vi) (Co,Cr,Fe)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775318301812/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Ex-situ recorded ASR values for Co coated Crofer 22 APU exposed for 500 h at 600 °C in stagnant laboratory air. Samples were coated with different Co coating thicknesses, 600 nm, 1500 nm, and 3000 nm Co. Circles correspond to samples that were pre-oxidized prior to Co coating; whereas samples depicted as triangles were not pre-oxidized prior to Co coating. Empty symbols indicate samples that showed signs of spallation. Errorbars indicate standard deviations.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775318301812/gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="tspara0010" view="all">Composition of Crofer 22 APU in weight%.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Table 1</ce:alt-text>
+               <tgroup cols="12">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <colspec colnum="10" colname="col10"/>
+                  <colspec colnum="11" colname="col11"/>
+                  <colspec colnum="12" colname="col12"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crofer 22 APU</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">La</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">P</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">S</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">W.-Nr. 1.4760</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bal.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">&lt;0.002</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="tspara0015" view="all">Literature values and calculated values for the conductivity and corresponding resistivity of Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. Ea and σ<ce:inf loc="post">800 °C</ce:inf> correspond to literature values, σ<ce:inf loc="post">600 °C</ce:inf> is calculated using Equation <ce:cross-ref refid="fd3" id="crosref0195">(3)</ce:cross-ref>, L represents the thickness of the observed oxide layer obtained from the cross-sections, and R<ce:inf loc="post">600 °C</ce:inf> is calculated according to Equation <ce:cross-ref refid="fd2" id="crosref0200">(2)</ce:cross-ref> with the area A = 1 cm<ce:sup loc="post">2</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">E<inf loc="post">a</inf> (eV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">σ<inf loc="post">800 °C</inf> (S⋅cm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">σ<inf loc="post">600 °C</inf> (S⋅cm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">L (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">R<inf loc="post">600 °C</inf> (mΩ)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" morerows="1" align="left">Co<inf loc="post">3</inf>O<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">0.79 [<cross-ref refid="bib32" id="crosref0205">32</cross-ref>]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">6.7 [<cross-ref refid="bib18" id="crosref0210">18</cross-ref>]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">0.9462</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.13</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5700</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead" align="left">Cr<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.46 [<cross-ref refid="bib23" id="crosref0215">23</cross-ref>]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.008 [<cross-ref refid="bib23" id="crosref0220">23</cross-ref>]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.0026</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.56</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Does the conductivity of interconnect coatings matter for solid oxide fuel cell applications?</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0002-8961-1697" author-id="S0378775318301812-4ec9883598c3291eacd885d74665e81a">
+                  <ce:given-name>Claudia</ce:given-name>
+                  <ce:surname>Goebel</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S0378775318301812-e84331f88dd272955d52598f2e7271db">
+                  <ce:given-name>Alexander G.</ce:given-name>
+                  <ce:surname>Fefekos</ce:surname>
+               </ce:author>
+               <ce:author id="au3" author-id="S0378775318301812-66410335be36ea00247660c3611f7329">
+                  <ce:given-name>Jan-Erik</ce:given-name>
+                  <ce:surname>Svensson</ce:surname>
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0001-6339-6004" author-id="S0378775318301812-1cc0f5f1d18e0ada32bc50f6198931dd">
+                  <ce:given-name>Jan</ce:given-name>
+                  <ce:surname>Froitzheim</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0378775318301812-f5491e303a3d239083bebf1ae1cdfe7e">
+                  <ce:textfn>Chalmers University of Technology, Department of Chemistry and Chemical Engineering, Division of Energy and Materials, Kemivägen 10, 41296, Gothenburg, Sweden</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Chalmers University of Technology</sa:organization>
+                     <sa:organization>Department of Chemistry and Chemical Engineering</sa:organization>
+                     <sa:organization>Division of Energy and Materials</sa:organization>
+                     <sa:address-line>Kemivägen 10</sa:address-line>
+                     <sa:city>Gothenburg</sa:city>
+                     <sa:postal-code>41296</sa:postal-code>
+                     <sa:country>Sweden</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="12" year="2017"/>
+            <ce:date-revised day="25" month="1" year="2018"/>
+            <ce:date-accepted day="19" month="2" year="2018"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">The present work aims to quantify the influence of typical interconnect coatings used for solid oxide fuel cells (SOFC) on area specific resistance (ASR). To quantify the effect of the coating, the dependency of coating thickness on the ASR is examined on Crofer 22 APU at 600 °C. Three different Co coating thicknesses are investigated, 600 nm, 1500 nm, and 3000 nm. Except for the reference samples, the material is pre-oxidized prior to coating to mitigate the outward diffusion of iron and consequent formation of poorly conducting (Co,Fe)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel. Exposures are carried out at 600 °C in stagnant laboratory air for 500 h and subsequent ASR measurements are performed. Additionally the microstructure is investigated with scanning electron microscopy (SEM). On all pre-oxidized samples, a homogenous dense Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> top layer is observed beneath which a thin layer of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> is present. As the ASR values range between 7 and 12 mΩcm<ce:sup loc="post">2</ce:sup> for all pre-oxidized samples, even though different Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> thicknesses are observed, the results strongly suggest that for most applicable cases the impact of the coating on ASR is negligible and the main contributor is Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Corrosion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Coating</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Area specific resistance</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Interconnects are an essential part of solid oxide fuel cells (SOFC), where they connect multiple cells to form a fuel cell stack, thus increasing the overall potential of a fuel cell [<ce:cross-ref refid="bib1" id="crosref0015">1</ce:cross-ref>]. Therefore, one important factor of any interconnect material is its electrical resistance at operating temperatures. In theory, the resistance should be negligible when using ferritic stainless steel interconnects, which is the norm today [<ce:cross-ref refid="bib1" id="crosref0020">1</ce:cross-ref>,<ce:cross-ref refid="bib2" id="crosref0025">2</ce:cross-ref>]. However, due to corrosion throughout the operation of a fuel cell, a continuously growing oxide layer occurs on the interconnect, resulting in an increase in resistivity. Issues such as Cr-evaporation and other corrosion-related problems can easily be decreased by applying coatings to the steel. In recent years, plenty of studies have been published on highly conductive coatings, which are thought to lower the area specific resistance (ASR) of the interconnect significantly even after long-term operations [<ce:cross-refs refid="bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14" id="crosrefs0010">3–14</ce:cross-refs>]. The most prominent suggestions are compounds with spinel structure as these are easily deposited onto the steel. Besides applying the spinel coating directly to the steel by, for example, screen printing or physical vapor deposition (PVD), a different, more cost-efficient approach is to apply a metallic coating instead. The metal or metals will then oxidize to form M<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> [<ce:cross-refs refid="bib15 bib16 bib17" id="crosrefs0015">15–17</ce:cross-refs>] during fuel cell operation. An extensive list of different spinel conductivities at 800 °C can be found in Ref. [<ce:cross-ref refid="bib18" id="crosref0030">18</ce:cross-ref>]. Especially Cu<ce:inf loc="post">1.3</ce:inf>Mn<ce:inf loc="post">1.7</ce:inf>O<ce:inf loc="post">4</ce:inf> and MnCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> stand out with high conductivities, σ &lt; 225 S cm<ce:sup loc="post">−1</ce:sup> at 750 °C and σ &lt; 60 S cm<ce:sup loc="post">−1</ce:sup> at 800 °C, respectively. To increase conductivity even further, dopants such as Cu or Ni have been suggested as additives to the (Co,Mn)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel [<ce:cross-ref refid="bib7" id="crosref0035">7</ce:cross-ref>,<ce:cross-ref refid="bib9" id="crosref0040">9</ce:cross-ref>]. However, the contribution of this coating to the overall ASR remains unknown. This is especially important as a continuously growing Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer is always present below the coating. With regard to the low conductivity of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, which ranges between 0.001 and 0.05 S cm<ce:sup loc="post">−1</ce:sup> [<ce:cross-refs refid="bib19 bib20 bib21 bib22 bib23 bib24 bib25 bib26" id="crosrefs0020">19–26</ce:cross-refs>], the main contributor to the overall ASR is expected to be Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in most practical cases.</ce:para>
+                  <ce:para id="p0040" view="all">To investigate the contribution of all oxides to the overall ASR, the moderately conductive Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> (σ = 6.7 S cm<ce:sup loc="post">−1</ce:sup> at 800 °C [<ce:cross-ref refid="bib18" id="crosref0045">18</ce:cross-ref>]) coating was applied to Crofer 22 APU with different thicknesses and, subsequently, exposed at 600 °C. For well adherent and dense coatings, it can be assumed that, if the coating significantly affects the ASR, thicker coatings will result in higher ASR values. Therefore a metallic Co conversion coating was prepared on Crofer 22 APU with three different Co coating thicknesses, 600 nm, 1500 nm, and 3000 nm, and the ASR was measured after 500 h of exposure in stagnant laboratory air at 600 °C. This temperature is typical for the lower end of SOFC operating conditions and is expected to result in a very thin Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer, and, thus, any effect of the Co coating thickness on the ASR can be expected to be the most pronounced.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Materials and methods</ce:section-title>
+                  <ce:para id="p0045" view="all">For this study, 15 × 15 × 0.3 mm<ce:sup loc="post">3</ce:sup> large coupons of Crofer 22 APU were used. The composition of this material is shown in <ce:cross-ref refid="tbl1" id="crosref0050">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. The as-received and cut-out samples were ultrasonically cleaned in acetone and ethanol. Except for the reference case, all samples were pre-oxidized for 3 min at 900 °C in air prior to coating. Coatings were applied by Sandvik Materials Technology using PVD. Chosen Co coating thicknesses were 600 nm, 1500 nm, and 3000 nm. After coating, all samples were again ultrasonically cleaned in acetone and ethanol and, subsequently, exposed for 500 h at 600 °C in stagnant laboratory air.</ce:para>
+                  <ce:para id="p0050" view="all">After exposure, ASR measurements were performed by sputtering a defined area of 1 cm<ce:sup loc="post">2</ce:sup> with a thin Pt layer, followed by painting with the Pt paste Metalor 6926. Sintering of the Pt paint was achieved in a two-step process, a drying step for 10 min at 150 °C and a sintering step for 1 h at 600 °C. The ASR values were then measured according to the 4-point probe method in DC mode using the NorECs Probostat (Norway) and a Keithley 2400 source meter. The applied current was set to 100 mA cm<ce:sup loc="post">−2</ce:sup>, and the ASR values were measured directly at exposure temperature, as well as during the cooling down phase, to verify semi-conductive behavior. More details on the ASR measurements can be found in Refs. [<ce:cross-ref refid="bib27" id="crosref0055">27</ce:cross-ref>] and [<ce:cross-ref refid="bib28" id="crosref0060">28</ce:cross-ref>]. Cross-sections were prepared using a Leica TIC3X Broad Ion Beam (BIB) mill. The resulting cross-sections were analyzed with an Ultra 55 FEG Scanning Electron Microscope (SEM) equipped with an Oxford Inca Energy Dispersive X-ray (EDX) system. To support the SEM/EDX results X-ray diffraction (XRD) measurements were performed using a Siemens D5000 diffractometer with Cu-K<ce:inf loc="post">α</ce:inf> radiation.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Results</ce:section-title>
+                  <ce:para id="p0055" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0065">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>a, b, and c show SEM micrographs of pre-oxidized Co coated Crofer 22 APU (600 nm, 1500 nm and 3000 nm), which were exposed for 500 h at 600 °C in stagnant laboratory air. The different Co coating thicknesses, 600 nm, 1500 nm, and 3000 nm, resulted in roughly 1.2 μm, 2.8 μm, and 5.7 μm thick Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>, respectively. The volume increase is in accordance with the Pilling-Bedworth ratio of 1.98 [<ce:cross-ref refid="bib29" id="crosref0070">29</ce:cross-ref>] for Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>. EDX analysis confirmed that a nearly pure Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer had formed, with very low and only localized incorporation of Mn (below 0.2 atomic%), Fe (below 0.9 atomic%) and Cr (below 0.9 atomic%). The Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer was homogenous for all three cases, and its thickness hardly varied over each sample surface. The presence of Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> was confirmed by XRD (data not shown). The thermally grown Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, located below the Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer can be clearly seen in the inset in <ce:cross-ref refid="fig1" id="crosref0075">Fig. 1</ce:cross-ref>b, and was similarly thin, 35–45 nm, for all pre-oxidized samples.</ce:para>
+                  <ce:para id="p0060" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0080">Fig. 1</ce:cross-ref>d depicts an exposed pre-oxidized 3000 nm Co coated sample that showed spallation of the coating after the sample was removed from the furnace. This delamination is clearly visible in the SEM image (<ce:cross-ref refid="fig1" id="crosref0085">Fig. 1</ce:cross-ref>d), which shows a spallation crack in the Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer.</ce:para>
+                  <ce:para id="p0065" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0090">Fig. 1</ce:cross-ref>e visualizes a reference sample, which was not pre-oxidized prior to coating; instead a 1500 nm thick coating was applied directly to the as-received material. A thinner Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer, compared to the corresponding pre-oxidized sample in <ce:cross-ref refid="fig1" id="crosref0095">Fig. 1</ce:cross-ref>b, was observed and, even more important, a thick and irregular (Co,Cr,Fe)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel layer had formed. A thin Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer was present beneath the (Co,Cr,Fe)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> spinel. Similar results for samples of non-pre-oxidized ferritic stainless steels have been published by <ce:italic>Falk-Windisch</ce:italic> et al. [<ce:cross-ref refid="bib28" id="crosref0100">28</ce:cross-ref>,<ce:cross-ref refid="bib30" id="crosref0105">30</ce:cross-ref>], who have shown that, at intermediate temperature, the metal/metal contact between steel and a metallic coating results in interdiffusion and increased oxide scale growth. This would prohibit the identification of the contribution of the coating to the ASR and, for this reason, pre-oxidized steel was used in this study.</ce:para>
+                  <ce:para id="p0070" view="all">Recorded ASR values are depicted in <ce:cross-ref refid="fig2" id="crosref0110">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. Black symbols correspond to pre-oxidized samples with the different Co coating thicknesses, 600 nm, 1500 nm, and 3000 nm. Some of the 3000 nm Co coated samples showed signs of spallation, these values are depicted as empty symbols. The reference ASR values from samples that were not pre-oxidized prior to applying the 1500 nm thick Co coating are shown as grey triangles.</ce:para>
+                  <ce:para id="p0075" view="all">The ASR values of all pre-oxidized non-spalled samples (black symbols) ranged between 7 and 12 mΩcm<ce:sup loc="post">2</ce:sup>. A very slight trend towards higher ASR values with increasing Co coating thickness is observable. However, this trend was also well inside the spread of each measurement. The spalled samples with a 3000 nm thick Co coating exhibited higher ASR values, between 16 and 37 mΩcm<ce:sup loc="post">2</ce:sup>, compared to the non-spalled samples. A larger spread in ASR values was observed for these samples. Similarly non-pre-oxidized samples also showed much higher ASR values with a large spread between 23 and 50 mΩcm<ce:sup loc="post">2</ce:sup>.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0040">Discussion</ce:section-title>
+                  <ce:para id="p0080" view="all">Even though major differences in the thickness of the Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer can be seen in the SEM micrographs of all pre-oxidized, non-spalled samples, the ASR values hardly differed, which suggests that the ASR is not dependent on the Co coating thickness, and the main contributor to the overall resistance is the thermally grown Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. This interpretation is further strengthened by estimating the theoretical contribution of each oxide to the overall ASR value based on literature values for the respective conductivities and layer thicknesses. Certain limitations must be considered when literature values are used. The literature values are subject to a large spread and have been obtained for pure, dense bulk samples, which is not necessarily the case for a thermally grown oxide. Especially incorporation of Fe into the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scale, which is often seen in thermally grown oxides, can greatly increase the conductivity of this scale. The oxide scale is also subject to a steep oxygen activity gradient, which, in turn, is expected to affect the defect structure in the oxide.</ce:para>
+                  <ce:para id="p0085" view="all">For the theoretical calculations, the oxides can be considered in-series connected resistors and, with the resistance of each oxide given by Equation <ce:cross-ref refid="fd1" id="crosref0115">(1)</ce:cross-ref>, the resulting overall ASR is given by equation <ce:cross-ref refid="fd2" id="crosref0120">(2)</ce:cross-ref>.<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mi>σ</mml:mi>
+                                 </mml:mfrac>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mi>A</mml:mi>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mi>S</mml:mi>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>o</mml:mi>
+                                       <mml:mi>t</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:msub>
+                                                <mml:mi>r</mml:mi>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:msub>
+                                             <mml:msub>
+                                                <mml:mi>O</mml:mi>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi>C</mml:mi>
+                                             <mml:msub>
+                                                <mml:mi>o</mml:mi>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:msub>
+                                             <mml:msub>
+                                                <mml:mi>O</mml:mi>
+                                                <mml:mn>4</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>A</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mi>A</mml:mi>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>L</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>r</mml:mi>
+                                                      <mml:mn>2</mml:mn>
+                                                   </mml:msub>
+                                                   <mml:msub>
+                                                      <mml:mi>O</mml:mi>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>σ</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>r</mml:mi>
+                                                      <mml:mn>2</mml:mn>
+                                                   </mml:msub>
+                                                   <mml:msub>
+                                                      <mml:mi>O</mml:mi>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>L</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>o</mml:mi>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:msub>
+                                                   <mml:msub>
+                                                      <mml:mi>O</mml:mi>
+                                                      <mml:mn>4</mml:mn>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>σ</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mi>C</mml:mi>
+                                                   <mml:msub>
+                                                      <mml:mi>o</mml:mi>
+                                                      <mml:mn>3</mml:mn>
+                                                   </mml:msub>
+                                                   <mml:msub>
+                                                      <mml:mi>O</mml:mi>
+                                                      <mml:mn>4</mml:mn>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where R is the resistance, σ the conductivity, and L the thickness of the oxide and A is the measured area. The literature values for the experimentally observed conductivities were measured at 800 °C; whereas the experimentally observed ASR values in this study were recorded at 600 °C. For this reason, the conductivities must be converted using their respective activation energies. These two values relate to each other according to Equation <ce:cross-ref refid="fd3" id="crosref0125">(3)</ce:cross-ref>.<ce:display>
+                        <ce:formula id="fd3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si3.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>σ</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msup>
+                                    <mml:mi>e</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mo>−</mml:mo>
+                                             <mml:msub>
+                                                <mml:mi>E</mml:mi>
+                                                <mml:mi>a</mml:mi>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>R</mml:mi>
+                                             <mml:mo>·</mml:mo>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where σ<ce:inf loc="post">0</ce:inf> is a pre-exponential factor, E<ce:inf loc="post">a</ce:inf> is the activation energy, R is the ideal gas constant and T the absolute temperature. The literature values used for all calculations along with the resulting conductivities and resistivities are summarized in <ce:cross-ref refid="tbl2" id="crosref0130">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl2"/>. Similar to the reported conductivity for Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> also the literature values for the activation energy of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> are subject to a large spread and values between 0.25 and 0.82 eV (various measurements below 850 °C [<ce:cross-refs refid="bib20 bib21 bib22 bib23 bib24 bib25 bib26" id="crosrefs0025">20–26</ce:cross-refs>]) have been reported. In this work, the observed conductivity and respective activation energy of <ce:italic>Park</ce:italic> et al. [<ce:cross-ref refid="bib23" id="crosref0135">23</ce:cross-ref>] were used for all theoretical calculations. These values were chosen, because they are very similar to the average values that have been found over many different publications [<ce:cross-refs refid="bib19 bib20 bib21 bib22 bib23 bib24 bib25 bib26" id="crosrefs0030">19–26</ce:cross-refs>,<ce:cross-ref refid="bib31" id="crosref0140">31</ce:cross-ref>]. Discussions on and comparisons of the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> conductivity can be found elsewhere [<ce:cross-ref refid="bib28" id="crosref0145">28</ce:cross-ref>,<ce:cross-ref refid="bib31" id="crosref0150">31</ce:cross-ref>]. For Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> the reported activation energy of Tareen et al. [<ce:cross-ref refid="bib32" id="crosref0155">32</ce:cross-ref>] was used, E<ce:inf loc="post">a</ce:inf> (Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>) = 0.79 eV (measured below 650 °C).</ce:para>
+                  <ce:para id="p0090" view="all">The results of the theoretical calculations showed that, in the case of L(Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>) = 1.2 μm (≙ 600 nm Co coating), the contribution of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> to the overall ASR can be expected to be larger than the contribution of the cobalt oxide by a factor of 10. This relation, although slightly less prominent, also stays true when L(Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>) = 5.7 μm is assumed, which corresponds to a 3000 nm thick Co coating and results in a resistance of R(Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>) = 0.60 mΩ. The contribution of both oxides to the overall ASR was found to be well represented by the theoretical calculations, and the insignificance of the conductivity of the coating layer was further verified.</ce:para>
+                  <ce:para id="p0095" view="all">The ASR values of the spalled samples of the 3000 nm thick Co coating were higher than the values of the corresponding non-spalled samples (<ce:cross-ref refid="fig2" id="crosref0160">Fig. 2</ce:cross-ref>). This can be easily explained by comparing the SEM micrographs for both cases (<ce:cross-ref refid="fig1" id="crosref0165">Fig. 1</ce:cross-ref>c and d). A spallation gap was observed in all spalled samples, but was not present in the non-spalled samples. This gap (<ce:cross-ref refid="fig1" id="crosref0170">Fig. 1</ce:cross-ref>d) can easily lead to higher ASR values due to contact issues during measurement. The spread in ASR values can also be explained by the spallation that occurred, to different extents, on the spalled samples.</ce:para>
+                  <ce:para id="p0100" view="all">Relatively high ASR values were also measured for the reference sample (<ce:cross-ref refid="fig2" id="crosref0175">Fig. 2</ce:cross-ref>). In combination with the SEM micrograph in <ce:cross-ref refid="fig1" id="crosref0180">Fig. 1</ce:cross-ref>e, it is obvious that the mixed (Co,Fe)<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> also contributed to the overall ASR value of the sample. This was not unexpected as the conductivity of CoFe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> (σ = 0.93 S cm<ce:sup loc="post">−1</ce:sup> at 800 °C [<ce:cross-ref refid="bib18" id="crosref0185">18</ce:cross-ref>]) is much lower than that of Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> and closer to the conductivity of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. The SEM image indicates that the spinel composition was not homogeneous across the whole layer, and this indicates that doping of Cr might be present. This could lead to a further reduction in the conductivity of this layer. The high deviation in ASR values can probably be contributed to the fact that the mixed spinel layer was not very homogeneous and exhibited a major difference in thickness throughout the sample.</ce:para>
+                  <ce:para id="p0105" view="all">Results indicate that the Co coating layer did not contribute significantly to the overall resistance. The low exposure temperature of 600 °C resulted in a very thin Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scale (L = 40 nm); at higher operating temperatures, the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> would be thicker, and the contribution of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> would be even more dominant. At 800 °C Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scales of approximately 1 μm are typical for a Crofer 22 APU type material after 1000 h of exposure. Under these conditions, considering the data in <ce:cross-ref refid="tbl2" id="crosref0190">Table 2</ce:cross-ref>, the contribution of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> will exceed that of Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> unless the coating is thicker than 80 μm. For this reason and because Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> is only moderately conductive compared to other typical interconnect coatings, such as the aforementioned Cu<ce:inf loc="post">1.3</ce:inf>Mn<ce:inf loc="post">1.7</ce:inf>O<ce:inf loc="post">4</ce:inf> and MnCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf>, it can be concluded that the coating conductivity is negligible for the overall ASR, with the exception of thick (&gt;5 μm) coatings, low temperatures, and/or coatings with a lower conductivity than Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf>.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0045">Conclusion</ce:section-title>
+                  <ce:para id="p0110" view="all">After 500 h exposure in stagnant laboratory air, pre-oxidized Crofer 22 APU with Co coating thicknesses ranging from 600 nm to 3000 nm showed very low ASR values between 7 and 12 mΩcm<ce:sup loc="post">2</ce:sup>. These low ASR values in combination with the corresponding SEM micrographs for the non-spalled pre-oxidized materials clearly show that the main contributor to the ASR values was the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer, and no observable contribution of the Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> layer to the ASR was visible after 500 h exposures at 600 °C. These findings match the simple theoretical calculations well, which show that the main contributor to the overall ASR is the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer (a factor of 10 higher resistance than Co<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> for a 600 nm thick metallic Co coating). It was found that highly conductive coatings are not the solution to the high resistivity issues that may arise during fuel cell operation. Instead the aim should be to focus on effectively limiting the growth of very low conductive layers, such as Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3,</ce:inf> as well as ensuring good electrode/interconnect contact.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0050">Acknowledgments</ce:section-title>
+               <ce:para id="p0115" view="all">AB Sandvik Technology is gratefully acknowledged for providing the materials. Funding provided by the <ce:grant-sponsor id="gs1" sponsor-id="http://dx.doi.org/10.13039/501100004527" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Swedish Energy Agency</ce:grant-sponsor> (grant no. <ce:grant-number refid="gs1">2015-009652</ce:grant-number>) and the <ce:grant-sponsor id="gs2" sponsor-id="http://dx.doi.org/10.13039/501100004359" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Swedish Research Council</ce:grant-sponsor> is gratefully acknowledged.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0055">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>397</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.msea.2005.02.047" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.msea.2005.02.047</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Deevi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>957</sb:first-page>
+                              <sb:last-page>972</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/S0025-5408(03)00076-X" id="intref0015" xlink:type="simple">https://doi.org/10.1016/S0025-5408(03)00076-X</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>278</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>230</sb:first-page>
+                              <sb:last-page>234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2014.12.070" id="intref0020" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2014.12.070</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Miguel-Pérez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martínez-Amesti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Nó</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Larrañaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.I.</ce:given-name>
+                                 <ce:surname>Arriortua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>243</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>430</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2013.05.109" id="intref0025" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2013.05.109</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chevalier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Caboche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Przybylski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Brylewski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                              <sb:last-page>534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1007/s10800-008-9726-9" id="intref0030" xlink:type="simple">https://doi.org/10.1007/s10800-008-9726-9</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Brylewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kruk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bobruk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Adamczyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Partyka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rutkowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>333</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>155</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2016.09.136" id="intref0035" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2016.09.136</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>561</sb:first-page>
+                              <sb:last-page>564</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.ssi.2010.05.052" id="intref0040" xlink:type="simple">https://doi.org/10.1016/j.ssi.2010.05.052</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Shaigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Ivey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1529</sb:first-page>
+                              <sb:last-page>1542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2009.09.069" id="intref0045" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2009.09.069</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-O.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12043</sb:first-page>
+                              <sb:last-page>12050</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.ijhydene.2013.07.025" id="intref0050" xlink:type="simple">https://doi.org/10.1016/j.ijhydene.2013.07.025</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Talic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Molin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wiik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Lein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>372</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>156</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2017.10.060" id="intref0055" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2017.10.060</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29511</sb:first-page>
+                              <sb:last-page>29517</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.ijhydene.2017.10.017" id="intref0055a" xlink:type="simple">https://doi.org/10.1016/j.ijhydene.2017.10.017</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Hosseini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Enayati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Karimzadeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Dayaghi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3490</sb:first-page>
+                              <sb:last-page>3496</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1007/s11661-017-4084-z" id="intref0065" xlink:type="simple">https://doi.org/10.1007/s11661-017-4084-z</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6022</sb:first-page>
+                              <sb:last-page>6029</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1021/acsami.6b14562" id="intref0070" xlink:type="simple">https://doi.org/10.1021/acsami.6b14562</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29511</sb:first-page>
+                              <sb:last-page>29517</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.ijhydene.2017.10.017" id="intref0075" xlink:type="simple">https://doi.org/10.1016/j.ijhydene.2017.10.017</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Grolig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Froitzheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-E.</ce:given-name>
+                                 <ce:surname>Svensson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>248</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1007</sb:first-page>
+                              <sb:last-page>1013</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2013.08.089" id="intref0080" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2013.08.089</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Stanislowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Froitzheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Niewolak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Quadakkers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hilpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Markus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Singheiser</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>164</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>578</sb:first-page>
+                              <sb:last-page>589</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2006.08.013" id="intref0085" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2006.08.013</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16061</sb:first-page>
+                              <sb:last-page>16066</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.ijhydene.2013.11.101" id="intref0090" xlink:type="simple">https://doi.org/10.1016/j.ijhydene.2013.11.101</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Petric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1515</sb:first-page>
+                              <sb:last-page>1520</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1111/j.1551-2916.2007.01522.x" id="intref0095" xlink:type="simple">https://doi.org/10.1111/j.1551-2916.2007.01522.x</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huczkowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Christiansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Shemet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Niewolak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Piron-Abellan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Singheiser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Quadakkers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cell.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1002/fuce.200500110" id="intref0100" xlink:type="simple">https://doi.org/10.1002/fuce.200500110</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Crawford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Vest</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2413</sb:first-page>
+                              <sb:last-page>2418</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1063/1.1702871" id="intref0105" xlink:type="simple">https://doi.org/10.1063/1.1702871</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Hagel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.U.</ce:given-name>
+                                 <ce:surname>Seybolt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1146</sb:first-page>
+                              <sb:last-page>1152</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1149/1.2427973" id="intref0110" xlink:type="simple">https://doi.org/10.1149/1.2427973</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nagai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fujikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-i.</ce:given-name>
+                                 <ce:surname>Shoji</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trans. Jpn. Ins. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>581</sb:first-page>
+                              <sb:last-page>588</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.2320/matertrans1960.24.581" id="intref0115" xlink:type="simple">https://doi.org/10.2320/matertrans1960.24.581</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Natesan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oxid. Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>54</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1007/BF00665668" id="intref0120" xlink:type="simple">https://doi.org/10.1007/BF00665668</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Holt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kofstad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/0167-2738(94)90401-4" id="intref0125" xlink:type="simple">https://doi.org/10.1016/0167-2738(94)90401-4</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Larring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Haugsrud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Norby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B374</sb:first-page>
+                              <sb:last-page>B379</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1149/1.1587726" id="intref0130" xlink:type="simple">https://doi.org/10.1149/1.1587726</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>237</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/S0167-2738(99)00329-X" id="intref0135" xlink:type="simple">https://doi.org/10.1016/S0167-2738(99)00329-X</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Grolig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Froitzheim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-E.</ce:given-name>
+                                 <ce:surname>Svensson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>284</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2015.03.029" id="intref0140" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2015.03.029</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Falk-Windisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Claquesin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sattari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-E.</ce:given-name>
+                                 <ce:surname>Svensson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Froitzheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>343</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2017.01.045" id="intref0145" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2017.01.045</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>McCafferty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction to Corrosion Science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer New York</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>236</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Falk-Windisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Claquesin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-E.</ce:given-name>
+                                 <ce:surname>Svensson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Froitzheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oxid. Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1007/s11085-017-9782-9" id="intref0150" xlink:type="simple">https://doi.org/10.1007/s11085-017-9782-9</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Grolig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coated Ferritic Stainless Steels as Interconnects in Solid Oxide Fuel Cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Doctor of Philosophy</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chalmers University of Technology</sb:name>
+                                 <sb:location>Gothenburg, Sweden</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>147</sb:first-page>
+                              <sb:last-page>163</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.K.</ce:given-name>
+                                 <ce:surname>Tareen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Małecki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Doumerc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Launay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dordor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pouchard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hagenmuller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>989</sb:first-page>
+                              <sb:last-page>997</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="https://doi.org/10.1016/0025-5408(84)90212%5f90215" id="intref0155" xlink:type="simple">https://doi.org/10.1016/0025-5408(84)90212–90215</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

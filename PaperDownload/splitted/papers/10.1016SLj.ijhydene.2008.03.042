@@ -1,0 +1,2635 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319908003613</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2008.03.042</dc:identifier><eid>1-s2.0-S0360319908003613</eid><prism:doi>10.1016/j.ijhydene.2008.03.042</prism:doi><pii>S0360-3199(08)00361-3</pii><dc:title>Experimental evaluation of the operating temperature impact on solid oxide anode-supported fuel cells </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>33</prism:volume><prism:issueIdentifier>12</prism:issueIdentifier><prism:startingPage>3167</prism:startingPage><prism:endingPage>3172</prism:endingPage><prism:pageRange>3167-3172</prism:pageRange><prism:number>12</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2008-06-30</prism:coverDate><prism:coverDisplayDate>June 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2008 International Association for Hydrogen Energy. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>International Association for Hydrogen Energy. Published by Elsevier Ltd.</prism:publisher><prism:issueName>2nd World Congress of Young Scientists on Hydrogen Energy Systems</prism:issueName><dc:creator>Leone, P.</dc:creator><dc:creator>Lanzini, A.</dc:creator><dc:creator>Squillari, P.</dc:creator><dc:creator>Asinari, P.</dc:creator><dc:creator>Santarelli, M.</dc:creator><dc:creator>Borchiellini, R.</dc:creator><dc:creator>Calì, M.</dc:creator><dc:description>
+                  Solid oxide fuel cells (SOFCs) seem to be a promising technology for the energy generation of tomorrow. Such devices are very complex and performances are strictly dependent on the understanding of basic concepts and development of new materials. The actual demonstrated target of SOFCs is around 1W/cm2 of power density at the operating temperature of 750°C and practical fuel utilization (&gt;50%); the goal for the next years is to reach 2W/cm2 at 650°C of power density. The achievement of this goal depends mainly on the investigation of high-performance materials and on the developing of diagnostic and analytical techniques to deeply understand the cells’ behaviour; moreover, the improvement of performance is strictly related to the manufacturing processes. In this paper is shown a study dealing with a comparison of two planar anode-supported SOFCs differing for cathode materials. In fact it is known that cathode overvoltage is a limiting factor for such cells’ design. Tests were performed on SOFCs of anode-supported design at L.A.Q. IN.TE.S.E. In the paper, results are presented concerning the characterization of planar circular-shaped cells from InDEC® with lanthanum strontium manganite (LSM) and lanthanum strontium cobalt ferrite oxide (LSCF) cathodes. It is shown that cell performance can be increased via material selection; in fact, the power density of around 0.8W/cm2 is reached at 850°C for the cell with LSM cathode and at 750°C for the cell with LSCF cathode.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>SOFC single cells</dcterms:subject><dcterms:subject>Experimental</dcterms:subject><dcterms:subject>Performance limitation</dcterms:subject><dcterms:subject>Temperature impact</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319908003613" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319908003613" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="9" size="128">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="9" height="10" size="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="9" height="12" size="119">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="14" height="12" size="135">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="12" size="140">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="14" height="12" size="134">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="12" size="150">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si21" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="205" height="32" size="760">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si21.gif?httpAccept=%2A%2F%2A</object><object ref="si20" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="161" height="32" size="681">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si20.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="16" height="12" size="157">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si19" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="200" height="28" size="724">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si19.gif?httpAccept=%2A%2F%2A</object><object ref="si18" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="235" height="31" size="856">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si18.gif?httpAccept=%2A%2F%2A</object><object ref="si17" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="289" height="50" size="1312">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si17.gif?httpAccept=%2A%2F%2A</object><object ref="si16" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="143" height="49" size="895">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si16.gif?httpAccept=%2A%2F%2A</object><object ref="si15" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="356" height="49" size="2048">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si15.gif?httpAccept=%2A%2F%2A</object><object ref="si14" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="16" height="10" size="152">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si14.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="17" height="13" size="172">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="17" height="10" size="155">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="12" height="9" size="133">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="9" size="128">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="12" size="151">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="520" height="292" size="49178">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="502" height="267" size="32394">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="765" height="461" size="115777">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="520" height="268" size="47316">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="123" size="4457">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="116" size="2849">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="5671">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="4199">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908003613-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>44749091959</scopus-id><scopus-eid>2-s2.0-44749091959</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/44749091959" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20080508">2008-05-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20080508">2008-05-08</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-06-03T00:29:14</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319908003613</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(08)00361-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319908003613</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2008.03.042</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319908X00126</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150602">2015-06-02T21:50:25.703325-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080601</xocs:date-search-begin>
+      <xocs:date-search-end>20080630</xocs:date-search-end>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1210204800">2008-05-08T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast nomenclature primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>33</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>33</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>12</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>12</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 33, Issue 12</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>55</xocs:sort-order>
+      <xocs:first-fp>3167</xocs:first-fp>
+      <xocs:last-lp>3172</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>3167</xocs:first-page>
+         <xocs:last-page>3172</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200806</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2008-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>2nd World Congress of Young Scientists on Hydrogen Energy Systems</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>F.</ce:given-name>
+                     <ce:surname>Orecchini</ce:surname>
+                     <ce:cross-ref refid="aff1">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:author>
+                  <ce:affiliation id="aff1">
+                     <ce:label>a</ce:label>
+                     <ce:textfn>Energy and Environment Group, Interuniversity Research Centre for Sustainable Development (CIRPS), Sapienza University of Rome, Piazza del Colosseo 9, 00184 Rome, Italy</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Special Issue Papers</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Fuel Cell Development</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 International Association for Hydrogen Energy. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EXPERIMENTALEVALUATIONOPERATINGTEMPERATUREIMPACTSOLIDOXIDEANODESUPPORTEDFUELCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LEONE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:nomenclature">
+            <xocs:item-toc-section-title>Nomenclature</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Polarization analysis: power-generating characteristics of unit cells</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="reference0005">
+            <xocs:ref-normalized-surname>SRDIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>124</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0015">
+            <xocs:ref-normalized-surname>DUSASTRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0025">
+            <xocs:ref-normalized-surname>MAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1341</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1350</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0035">
+            <xocs:ref-normalized-surname>TIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="reference0045">
+            <xocs:ref-normalized-surname>SINGHAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHTEMPERATURESOLIDOXIDEFUELCELLSFUNDAMENTALSDESIGNAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0055">
+            <xocs:ref-normalized-surname>JUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0065">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PRINCIPLESFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LEONEX2008X3167</xocs:refkey3>
+         <xocs:refkey4lp>LEONEX2008X3167X3172</xocs:refkey4lp>
+         <xocs:refkey4ai>LEONEX2008X3167XP</xocs:refkey4ai>
+         <xocs:refkey5>LEONEX2008X3167X3172XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(08)00361-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319908003613</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319908003613</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2008.03.042</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2015-06-02T21:50:25.703325-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2008-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/MAIN/application/pdf/2d87a95dd5980426a6aa07b746d7fce8/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/MAIN/application/pdf/2d87a95dd5980426a6aa07b746d7fce8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>416668</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319908003613-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/PREVIEW/image/png/af623478e371fac6b79f7f73ec0bc3c3/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/PREVIEW/image/png/af623478e371fac6b79f7f73ec0bc3c3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49151</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/f782aeb13dcb30e139ac523ba676509a/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/f782aeb13dcb30e139ac523ba676509a/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>128</xocs:filesize>
+               <xocs:pixel-height>9</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/3d546161ab3f372ca5d9369f00cb1a13/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/3d546161ab3f372ca5d9369f00cb1a13/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>119</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>9</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/3698433c15a6088a9126863fad800e42/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/3698433c15a6088a9126863fad800e42/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>119</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>9</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/0d579702fe7a597bab03609e8d980e2f/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/0d579702fe7a597bab03609e8d980e2f/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>135</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>14</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/3a4c88f9ccd5ec5a8199f5947a772e7c/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/3a4c88f9ccd5ec5a8199f5947a772e7c/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>140</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/e961d0a6d8c2510778714ccf591c22f6/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/e961d0a6d8c2510778714ccf591c22f6/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>134</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>14</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/f8f48ced055370165aa49e8b82378912/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/f8f48ced055370165aa49e8b82378912/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>150</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si21.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/06b571b737559f4a2466eeaf87ccc18f/si21.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/06b571b737559f4a2466eeaf87ccc18f/si21.gif</xocs:ucs-locator>
+               <xocs:file-basename>si21</xocs:file-basename>
+               <xocs:filename>si21.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>760</xocs:filesize>
+               <xocs:pixel-height>32</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si20.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/666a0c4f9b8ec3a20e17725e239c87cd/si20.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/666a0c4f9b8ec3a20e17725e239c87cd/si20.gif</xocs:ucs-locator>
+               <xocs:file-basename>si20</xocs:file-basename>
+               <xocs:filename>si20.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>681</xocs:filesize>
+               <xocs:pixel-height>32</xocs:pixel-height>
+               <xocs:pixel-width>161</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/6fcc051b2bef4970fe08c1938fcac142/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/6fcc051b2bef4970fe08c1938fcac142/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>157</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>16</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si19.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/ce301abaae437d3884faab68bac43205/si19.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/ce301abaae437d3884faab68bac43205/si19.gif</xocs:ucs-locator>
+               <xocs:file-basename>si19</xocs:file-basename>
+               <xocs:filename>si19.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>724</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>200</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si18.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/c32b30396801498bfde45df28b58d105/si18.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/c32b30396801498bfde45df28b58d105/si18.gif</xocs:ucs-locator>
+               <xocs:file-basename>si18</xocs:file-basename>
+               <xocs:filename>si18.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>856</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>235</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si17.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/40e18e0f827975a86ad9ce9ec5a5625e/si17.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/40e18e0f827975a86ad9ce9ec5a5625e/si17.gif</xocs:ucs-locator>
+               <xocs:file-basename>si17</xocs:file-basename>
+               <xocs:filename>si17.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1312</xocs:filesize>
+               <xocs:pixel-height>50</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si16.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/8141e96c72fbc4959f657c868f1fc73b/si16.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/8141e96c72fbc4959f657c868f1fc73b/si16.gif</xocs:ucs-locator>
+               <xocs:file-basename>si16</xocs:file-basename>
+               <xocs:filename>si16.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>895</xocs:filesize>
+               <xocs:pixel-height>49</xocs:pixel-height>
+               <xocs:pixel-width>143</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si15.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/92f7144c72e310f730ca341621f77c17/si15.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/92f7144c72e310f730ca341621f77c17/si15.gif</xocs:ucs-locator>
+               <xocs:file-basename>si15</xocs:file-basename>
+               <xocs:filename>si15.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2048</xocs:filesize>
+               <xocs:pixel-height>49</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si14.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/a13b086592aabf5928add197b43e3de9/si14.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/a13b086592aabf5928add197b43e3de9/si14.gif</xocs:ucs-locator>
+               <xocs:file-basename>si14</xocs:file-basename>
+               <xocs:filename>si14.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>152</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>16</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/31a328b7a380bd38ba6bd5aab65e7893/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/31a328b7a380bd38ba6bd5aab65e7893/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>172</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>17</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/ce1246172f4f1b3622870969a9334701/si12.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/ce1246172f4f1b3622870969a9334701/si12.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>155</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>17</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/7973b7a8431f0f114d855bfb2f03633d/si11.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/7973b7a8431f0f114d855bfb2f03633d/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>133</xocs:filesize>
+               <xocs:pixel-height>9</xocs:pixel-height>
+               <xocs:pixel-width>12</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/6ddbe74c579777c133720d40563c37c4/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/6ddbe74c579777c133720d40563c37c4/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>128</xocs:filesize>
+               <xocs:pixel-height>9</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/STRIPIN/image/gif/5d2a1aee196f4141458213c6324025fc/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/STRIPIN/image/gif/5d2a1aee196f4141458213c6324025fc/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>151</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr4/DOWNSAMPLED/image/jpeg/bf143dcda07b3e4d3f78b3ea0d2cd78d/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr4/DOWNSAMPLED/image/jpeg/bf143dcda07b3e4d3f78b3ea0d2cd78d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49178</xocs:filesize>
+               <xocs:pixel-height>292</xocs:pixel-height>
+               <xocs:pixel-width>520</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr2/DOWNSAMPLED/image/jpeg/10fdb9991e97aa0747c104b1b5e92315/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr2/DOWNSAMPLED/image/jpeg/10fdb9991e97aa0747c104b1b5e92315/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32394</xocs:filesize>
+               <xocs:pixel-height>267</xocs:pixel-height>
+               <xocs:pixel-width>502</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr1/DOWNSAMPLED/image/jpeg/e0faee30248146a00ca6e645d2330e95/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr1/DOWNSAMPLED/image/jpeg/e0faee30248146a00ca6e645d2330e95/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>115777</xocs:filesize>
+               <xocs:pixel-height>461</xocs:pixel-height>
+               <xocs:pixel-width>765</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr3/DOWNSAMPLED/image/jpeg/8589006d7591ed04ed483eb9d4ffce04/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr3/DOWNSAMPLED/image/jpeg/8589006d7591ed04ed483eb9d4ffce04/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47316</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>520</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr4/THUMBNAIL/image/gif/ab4813c84ace505c9c609b1d648af964/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr4/THUMBNAIL/image/gif/ab4813c84ace505c9c609b1d648af964/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4457</xocs:filesize>
+               <xocs:pixel-height>123</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr2/THUMBNAIL/image/gif/1454aaa3876df16f3433fceee07efdcd/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr2/THUMBNAIL/image/gif/1454aaa3876df16f3433fceee07efdcd/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2849</xocs:filesize>
+               <xocs:pixel-height>116</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr1/THUMBNAIL/image/gif/e6533a5a9dfaa205c8279bcd6da7b81c/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr1/THUMBNAIL/image/gif/e6533a5a9dfaa205c8279bcd6da7b81c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5671</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908003613-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908003613/gr3/THUMBNAIL/image/gif/9da5e72996c78d78a25c69037078f305/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908003613/gr3/THUMBNAIL/image/gif/9da5e72996c78d78a25c69037078f305/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4199</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>HE</jid>
+            <aid>3368</aid>
+            <ce:pii>S0360-3199(08)00361-3</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2008.03.042</ce:doi>
+            <ce:copyright type="society" year="2008">International Association for Hydrogen Energy</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0005" view="all">Power-generating characteristics of unit cells.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0010" view="all">Arrhenius plot of total cell resistance (ASR).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0015" view="all">Entropy generation for the ASC1 cell.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0020" view="all">Entropy generation for the ASC2 cell.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Experimental evaluation of the operating temperature impact on solid oxide anode-supported fuel cells</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Leone</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Lanzini</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Squillari</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Asinari</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Santarelli</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Borchiellini</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:indexed-name>Cali</ce:indexed-name>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Calì</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Dipartimento di Energetica, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="10" year="2007"/>
+            <ce:date-revised day="31" month="1" year="2008"/>
+            <ce:date-accepted day="11" month="3" year="2008"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="simple-para0025" view="all">Solid oxide fuel cells (SOFCs) seem to be a promising technology for the energy generation of tomorrow. Such devices are very complex and performances are strictly dependent on the understanding of basic concepts and development of new materials. The actual demonstrated target of SOFCs is around 1<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> of power density at the operating temperature of 750<ce:hsp sp="0.16"/>°C and practical fuel utilization (&gt;50%); the goal for the next years is to reach 2<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> at 650<ce:hsp sp="0.16"/>°C of power density. The achievement of this goal depends mainly on the investigation of high-performance materials and on the developing of diagnostic and analytical techniques to deeply understand the cells’ behaviour; moreover, the improvement of performance is strictly related to the manufacturing processes. In this paper is shown a study dealing with a comparison of two planar anode-supported SOFCs differing for cathode materials. In fact it is known that cathode overvoltage is a limiting factor for such cells’ design. Tests were performed on SOFCs of anode-supported design at L.A.Q. IN.TE.S.E. In the paper, results are presented concerning the characterization of planar circular-shaped cells from InDEC<ce:sup loc="post">®</ce:sup> with lanthanum strontium manganite (LSM) and lanthanum strontium cobalt ferrite oxide (LSCF) cathodes. It is shown that cell performance can be increased via material selection; in fact, the power density of around 0.8<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> is reached at 850<ce:hsp sp="0.16"/>°C for the cell with LSM cathode and at 750<ce:hsp sp="0.16"/>°C for the cell with LSCF cathode.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keyword</ce:section-title>
+               <ce:keyword>
+                  <ce:text>SOFC single cells</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Experimental</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Performance limitation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Temperature impact</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:nomenclature>
+               <ce:section-title>Nomenclature</ce:section-title>
+               <ce:def-list id="def-list0005">
+                  <ce:def-term id="def-term0005">
+                     <ce:italic>ASR</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0005" view="all">area-specific resistance, Ω<ce:hsp sp="0.16"/>cm<ce:sup loc="post">2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0010">
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">a</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0010" view="all">thermal activation energy, eV</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0015">
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0015" view="all">cell terminal voltage, V</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0020">
+                     <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">r</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0020" view="all">reversible cell voltage, V</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0025">
+                     <ce:italic>F</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0025" view="all">Faraday number, C/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0030">
+                     <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">F</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0030" view="all">molar flow of the fuel, mol/s</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0035">
+                     <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">O</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0035" view="all">molar flow of the oxidant, mol/s</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0040">
+                     <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>G</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">P</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0040" view="all">molar flow of the products, mol/s</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0045">
+                     <mml:math altimg="si4.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">F</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0045" view="all">molar enthalpy of the fuel, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0050">
+                     <mml:math altimg="si5.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">O</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0050" view="all">molar enthalpy of the oxidant, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0055">
+                     <mml:math altimg="si6.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">P</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0055" view="all">molar enthalpy of the products, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0060">
+                     <ce:italic>i</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0060" view="all">cell current density, A/cm<ce:sup loc="post">2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0065">
+                     <mml:math altimg="si7.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>l</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">e</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0065" view="all">external work for unit of molar fuel flow, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0070">LSCF</ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0070" view="all">lanthanum strontium cobalt ferrite oxide</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0075">LSM</ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0075" view="all">lanthanum strontium manganese oxide</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0080">MPD</ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0080" view="all">maximum power density, mW<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0085">
+                     <ce:italic>P</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0085" view="all">cell Pressure, Pa</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0090">
+                     <mml:math altimg="si8.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mrow>
+                                    <mml:mi>q</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0090" view="all">thermal energy for unit of molar fuel flow, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0095">
+                     <mml:math altimg="si9.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">F</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0095" view="all">molar entropy of the fuel, J/mol<ce:hsp sp="0.16"/>K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0100">
+                     <ce:italic>s</ce:italic>
+                     <ce:inf loc="post">irr</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0100" view="all">entropy generated for irreversibilities, J/mol<ce:hsp sp="0.16"/>K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0105">
+                     <mml:math altimg="si10.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">P</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0105" view="all">molar entropy of the products, J/mol<ce:hsp sp="0.16"/>K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0110">
+                     <mml:math altimg="si11.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">O</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0110" view="all">molar entropy of the oxidant, J/mol<ce:hsp sp="0.16"/>K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0115">SOFC</ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0115" view="all">solid oxide fuel cell</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0120">
+                     <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0120" view="all">cell temperature, K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0125">
+                     <ce:italic>W</ce:italic>
+                     <ce:inf loc="post">e</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0125" view="all">external power, W</ce:para>
+                  </ce:def-description>
+               </ce:def-list>
+               <ce:def-list id="def-list0010">
+                  <ce:section-title>Greek</ce:section-title>
+                  <ce:def-term id="def-term0130">
+                     <mml:math altimg="si12.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi mathvariant="normal">Δ</mml:mi>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mrow>
+                                    <mml:mi>h</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0130" view="all">difference in enthalpy between products and reactants, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0135">
+                     <mml:math altimg="si13.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi mathvariant="normal">Δ</mml:mi>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mrow>
+                                    <mml:mi>g</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0135" view="all">gibbs free energy, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0140">
+                     <mml:math altimg="si14.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi mathvariant="normal">Δ</mml:mi>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mrow>
+                                    <mml:mi>s</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0140" view="all">difference in entropy between products and reactants, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0145">
+                     <ce:italic>Φ</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0145" view="all">thermal flux, W</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0150">
+                     <ce:italic>η</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0150" view="all">cell overvoltage, V</ce:para>
+                  </ce:def-description>
+                  <ce:def-term id="def-term0155">
+                     <ce:italic>Σ</ce:italic>
+                     <ce:inf loc="post">irr</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para id="para0155" view="all">entropy generated for irreversibilities, J/K</ce:para>
+                  </ce:def-description>
+               </ce:def-list>
+            </ce:nomenclature>
+            <ce:sections>
+               <ce:section id="section0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="para0160" view="all">The actual demonstrated target of solid oxide fuel cells (SOFCs) is around 1<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> of power density at the operating temperature of 750<ce:hsp sp="0.16"/>°C and practical values of fuel utilization (&gt;50%); the goal for next year is to reach 2<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> at 650<ce:hsp sp="0.16"/>°C <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. The achievement of this goal depends mainly on the investigation of better performing materials and on the developing of diagnostic and analytical techniques to deeply understand the fundamental physics in the cell; further, the improvement of performance is strictly related to the manufacturing processes. Such comprehensive investigation should take into account <ce:cross-ref refid="bib2">[2]</ce:cross-ref>:<ce:list id="list0005">
+                        <ce:list-item id="list-item0005">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0165" view="all">Microstructural characterization of cell's layers from a morphological and quantitative point of view, including 3D structures reconstruction.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list-item0015">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0170" view="all">Electrochemical characterization with the aim to deconvolute the main polarization contributions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list-item0025">
+                           <ce:label>•</ce:label>
+                           <ce:para id="para0175" view="all">Thermal behaviour to investigate the local thermal generation of cells during operation.</ce:para>
+                        </ce:list-item>
+                     </ce:list>In this paper is shown a study dealing with a comparison of two planar anode-supported SOFCs differing for cathode materials. In fact, it is known that cathode overvoltage is a limiting factor for such cells’ design <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. The experiments were performed at L.A.Q. IN.TE.S.E. laboratory of Politecnico di Torino. The results concern the characterization SOFCs’ with lanthanum strontium manganite (LSM) and lanthanum strontium cobalt ferrite oxide (LSCF) cathodes. LSM is known to be the most promising candidate for practical SOFC cathode, due to mechanical and chemical compatibility with zirconia electrolyte and good electrochemical performances at 1000<ce:hsp sp="0.16"/>°C. However, its polarization property at lower temperatures (⩽800<ce:hsp sp="0.16"/>°C) is not satisfactory. The medium-temperature performance can be enhanced when a second ionically conducting phase is added to LSM to extend the surface area over which the oxygen reduction reaction can occur. Very good results were obtained using an LSM–YSZ cathode. Iron- and cobalt-containing perovskites (LSCF) are other candidates for SOFC cathode materials, because of their high electronic and ionic conductivity as well as high oxygen permeability and high electrocatalytic activity. It is important to note that in the case of pure electronic conducting cathode materials (such as LSM is at medium temperatures), the electrochemical reactions are almost restricted to the triple phase boundary between the cathode, electrolyte and gaseous oxygen or air. On the other side, LSCF cathodes, referred to as mixed electronic and ionic conductors (MEIC), have appreciable ionic conductivity, and exchange of oxygen occurs at the electrode surface with diffusion of oxygen ions through the mixed conductor <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>.</ce:para>
+                  <ce:para id="para0180" view="all">Several research groups investigated the different behaviours of single cell operation with YSZ/LSM and LSCF cathodes. Mai et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> investigate properties and the applicability of iron- and cobalt-containing perovskites as cathodes for SOFCs in comparison with state-of-the-art manganite-based perovskites. In comparison with the performance of a state-of-the-art LSM/YSZ composite cathode, the current densities of the better performing LSCFs (L55SCF, L58SCF, L78SCF) are up to two times higher than for the LSM cathode. Further, LSCF cathodes gave a power output of 1.0–1.2<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> at 800<ce:hsp sp="0.16"/>°C and 0.7<ce:hsp sp="0.16"/>V with hydrogen as fuel gas, compared with conventional cathodes based on (La,Sr)MnO<ce:inf loc="post">3</ce:inf> (LSM); the high power densities allow a reduction in operating temperature of about 100<ce:hsp sp="0.16"/>°C by maintaining the performance at the former level with LSM cathodes. In <ce:cross-ref refid="bib6">[6]</ce:cross-ref> the electrochemical performance of different LSCF-based cathodes in comparison with the state-of-the-art LSM cathodes was also considered. Focusing on the temperature dependence, it was found that the higher electro-catalytic activity of the LSCF compositions becomes evident in comparison with LSM. The difference in performance between the various LSCF compositions is nearly the same for 800 and 700<ce:hsp sp="0.16"/>°C, while the performance of the LSM/YSZ cells has a stronger temperature dependence, resulting in a stronger increase in overpotential with decreasing temperature. In <ce:cross-ref refid="bib7">[7]</ce:cross-ref> is presented a screening of different cathode properties for application in low-temperature SOFC technology based on the impedance spectroscopy analysis on symmetrical cells. It was found that the polarization resistance for LSM cathodes was of 0.5<ce:hsp sp="0.16"/>Ω<ce:hsp sp="0.16"/>cm<ce:sup loc="post">2</ce:sup> at the temperature of 760<ce:hsp sp="0.16"/>°C, while the same value of resistance was measured for LSCF cathodes at the lower temperature of 650<ce:hsp sp="0.16"/>°C. The use of manufacturing processes to build the layers is also important. In fact, it is known that LSCF cathodes tend to react easier with zirconia electrolyte than LSM at high temperatures and the resulting La<ce:inf loc="post">2</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf> and SrZrO<ce:inf loc="post">3</ce:inf> compounds have a higher ohmic resistivity. To overcome these problems, an interlayer (barrier layer) consisting of Ce<ce:inf loc="post">0.8</ce:inf>Gd<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">2−δ</ce:inf> (CGO) or yttria–doped ceria (YDC) between cathode and electrolyte is often used <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. In <ce:cross-ref refid="bib8">[8]</ce:cross-ref> is shown that different manufacturing processes of the barrier layer can increase the cell performance by around 35–50%; in fact, at 800<ce:hsp sp="0.16"/>°C the voltage of 700<ce:hsp sp="0.16"/>mV can be achieved at the current density of 1.83<ce:hsp sp="0.16"/>A/cm<ce:sup loc="post">2</ce:sup> using traditional screen printing and sintering methods, at 2.42<ce:hsp sp="0.16"/>A/cm<ce:sup loc="post">2</ce:sup> using electron beam physical vapour deposition (EB-PVD) method and at 2.65<ce:hsp sp="0.16"/>A/cm<ce:sup loc="post">2</ce:sup> using sputtering method. The reason is mainly due to the denser barrier layer that is possible to obtain through the use of more powerful techniques. However, the fuel utilization achieved during these experiments is not specified. In addition, it has been demonstrated that the long-term operation of these materials can be satisfactory; a degradation rate of around 0.2–0.3%/1000<ce:hsp sp="0.16"/>h for cells with LSM cathodes has been reported, whereas for cells with LSCF cathodes a degradation rate of around 0.5–1%/1000<ce:hsp sp="0.16"/>h has been reported <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. However, the thermal cycling capability of these devices has not been fully demonstrated above all for cells with LSCF cathodes whose thermal mismatch between layers can be relevant and leads to delamination phenomenon.</ce:para>
+               </ce:section>
+               <ce:section id="section0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:para id="para0185" view="all">The tests were performed with circular-shaped anode-supported SOFC cells from InDEC<ce:sup loc="post">®</ce:sup>, with a diameter of 80<ce:hsp sp="0.16"/>mm and an active area of 47<ce:hsp sp="0.16"/>cm<ce:sup loc="post">2</ce:sup>. Cells were of anode-supported design; two kinds of cells were tested differing for the materials used in the cathode layer. The first cell is referred to as the ASC1 cell. The electrolyte of these cells was 4–6<ce:hsp sp="0.16"/>μm thick 8YSZ. The cathode was 30–40<ce:hsp sp="0.16"/>μm thick and consisted of two layers. The cathode functional layer consisted of porous 8YSZ and La<ce:inf loc="post">0.75</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> (LSM). The cathode current collecting layer consisted of LSM alone. The anode consisted of two layers. Both the functional layer and support consisted of NiO and 8YSZ. The anode support was 520–600<ce:hsp sp="0.16"/>μm and the functional layer 5–10<ce:hsp sp="0.16"/>μm. The second design of the cell is referred to as the ASC2 cell. The electrolyte of these cells was 4–6<ce:hsp sp="0.16"/>μm thick 8YSZ. The cathode consisted of a 2–4<ce:hsp sp="0.16"/>μm thick barrier layer made of YDC and 20–30<ce:hsp sp="0.16"/>μm thick functional layer consisting of porous LSCF. The anode was the same as that of the ASC1 design. Thus, the investigated cells differed just for the material employed in the cathode layer and the analysis outlined the benefits of using this material in terms of area-specific resistance reduction and lower entropy generation. The cells were tested in a ceramic cell housing, with alumina flanges for gas distribution, platinum gauze for cathode current collection and nickel gauze for anode current collection. The anode and cathode chambers were not sealed, allowing the fuel to react with oxygen directly outside the fuel cell. Platinum wires were used as current leads and for cell voltage measurement. As fuel flow, hydrogen was used. The fuel was humidified by a bubbler operating at 30<ce:hsp sp="0.16"/>°C. The flows were controlled by mass flow controllers (Bronkhorst). The <ce:italic>V</ce:italic>–<ce:italic>i</ce:italic> characteristics were taken changing current in steps of 1<ce:hsp sp="0.16"/>A, and stabilization time at each step of 60<ce:hsp sp="0.16"/>s, by using a Kikusui electronic load (Kikusui Electronics Corp., Japan) in conjunction with an additional power supply in current-following mode (Delta Elektronica, Zierikzee, The Netherlands).</ce:para>
+                  <ce:para id="para0190" view="all">The experimental session mainly consisted of comparison of different polarization behaviour changing the cell temperature with SOFC cells at 650, 740, 800 and 840<ce:hsp sp="0.16"/>°C. In addition, the anodic mass flow was changed from 300 up to 600<ce:hsp sp="0.16"/>ml/min, leading to a fuel utilization of 80% and 40% at 0.7<ce:hsp sp="0.16"/>A/cm<ce:sup loc="post">2</ce:sup>. The analysis of cell operation was accomplished by defining suitable performance indexes of operation. Essentially, these indexes refer to power-generating characteristics of unit cells and area-specific resistance analysis and polarization analysis.</ce:para>
+               </ce:section>
+               <ce:section id="section0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Polarization analysis: power-generating characteristics of unit cells</ce:section-title>
+                  <ce:para id="para0195" view="all">In <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>a the measured <ce:italic>V</ce:italic>–<ce:italic>i</ce:italic> curves are drawn for the temperature of 800<ce:hsp sp="0.16"/>°C with the power density curves for the ASC1 cell. The cell resistances <ce:italic>R</ce:italic>
+                     <ce:underline>
+                        <ce:inf loc="post">cell</ce:inf>
+                     </ce:underline>, evaluated from the linear region of <ce:italic>V</ce:italic>(<ce:italic>i</ce:italic>) versus <ce:italic>i</ce:italic> curves, were 8.08, 8.58 and 9.67<ce:hsp sp="0.16"/>mΩ for 500, 400 and 300<ce:hsp sp="0.16"/>ml/min<ce:hsp sp="0.16"/>H<ce:inf loc="post">2</ce:inf>, respectively. At the nominal voltage of 700<ce:hsp sp="0.16"/>mV, we measured the electrical power of the cells at different fuel utilization values: 25<ce:hsp sp="0.16"/>W was measured at 500<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf> (50.2% fuel utilization), 22.5<ce:hsp sp="0.16"/>W at 400<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf> (56.3% fuel utilization) and 19.63<ce:hsp sp="0.16"/>W at 300<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf> (65.7% fuel utilization). The maximum power densities (MPD) have been ∼577, 507 and 429<ce:hsp sp="0.16"/>mW/cm<ce:sup loc="post">2</ce:sup>. In <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b the measured <ce:italic>V</ce:italic>–<ce:italic>i</ce:italic> curves are drawn for the temperature of 800<ce:hsp sp="0.16"/>°C with the power density curves for the ASC2 cell. The cell resistances <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">cell</ce:inf>, evaluated from the linear region of <ce:italic>V</ce:italic>(<ce:italic>i</ce:italic>) versus <ce:italic>i</ce:italic> curves were 5.06, 5.63 and 6.83<ce:hsp sp="0.16"/>mΩ for 500, 400 and 300<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf>, respectively. The cell electrical powers achieved at 0.7<ce:hsp sp="0.16"/>V were 32<ce:hsp sp="0.16"/>W at 64% fuel utilization (500<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf>), 29.1<ce:hsp sp="0.16"/>W at 73% fuel utilization (400<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf>), and 24.2<ce:hsp sp="0.16"/>W at 82% fuel utilization (300<ce:hsp sp="0.16"/>ml/min H<ce:inf loc="post">2</ce:inf>). The MPD have been ∼681, 620 and 518<ce:hsp sp="0.16"/>mW/cm<ce:sup loc="post">2</ce:sup>.</ce:para>
+                  <ce:para id="para0200" view="all">Moreover, the overall cell performance obtained from the <ce:italic>V</ce:italic>–<ce:italic>i</ce:italic> characteristics for both types of unit cell at various operation conditions is presented in <ce:cross-ref refid="fig1">Figs. 1</ce:cross-ref>c, d and <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. The cell performance is estimated in terms of the area-specific resistance of the cell (ASR) rather than power density, which is more often employed as a suitable index to represent overall cell performance. In fact, this description of cell performance is known to be much less dependent on the individual test conditions compared with power density <ce:cross-refs refid="bib9 bib10 bib11">[9–11]</ce:cross-refs>. This parameter is representative of total cell polarization. In particular, it is possible to evaluate the effect of temperature on the area-specific resistance (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>); the figure expresses the Arrhenius behaviour of the two cells. Total cell resistance is less dependent on temperature in the case of ASC2 than in the case of ASC1; the apparent thermal activation energy <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> is 0.65<ce:hsp sp="0.16"/>eV for the ASC1 cell and 0.48<ce:hsp sp="0.16"/>eV for the ASC2 cell.</ce:para>
+                  <ce:para id="para0205" view="all">It is also possible to consider the behaviour of cells with temperature taking into account the irreversibilities that are generated during the cell operation <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Applying the first and the second laws of thermodynamics to the cell and taking into account the entropy generated by irreversibilities, the result is<ce:display>
+                        <ce:formula id="eq1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si15.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>Φ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>W</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">e</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">P</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>h</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">P</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>h</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">O</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>h</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">O</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>0</mml:mn>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>Φ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">P</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">P</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>G</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">O</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">O</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>Σ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>0</mml:mn>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>With reference to the molar mass flow of the fuel, the equations become<ce:display>
+                        <ce:formula id="eq2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si16.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>q</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>l</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">e</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>0</mml:mn>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>q</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>s</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>0</mml:mn>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>The internal chemical work is given by<ce:display>
+                        <ce:formula id="eq3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si17.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>l</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">e</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>W</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">e</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mover accent="true">
+                                                   <mml:mrow>
+                                                      <mml:mi>G</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo>¯</mml:mo>
+                                                </mml:mover>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">F</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mo stretchy="false">[</mml:mo>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>h</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo stretchy="false">]</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>s</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi mathvariant="normal">Δ</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mover accent="true">
+                                       <mml:mrow>
+                                          <mml:mi>g</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>¯</mml:mo>
+                                    </mml:mover>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>,</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">c</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>s</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>The external electrical work is given by<ce:display>
+                        <ce:formula id="eq4">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si18.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>l</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">e</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mover accent="true">
+                                                   <mml:mrow>
+                                                      <mml:mi>W</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo>¯</mml:mo>
+                                                </mml:mover>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">e</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mover accent="true">
+                                                   <mml:mrow>
+                                                      <mml:mi>G</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo>¯</mml:mo>
+                                                </mml:mover>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">F</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mover accent="true">
+                                                   <mml:mrow>
+                                                      <mml:mi>G</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo>¯</mml:mo>
+                                                </mml:mover>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="normal">el</mml:mi>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mover accent="true">
+                                                   <mml:mrow>
+                                                      <mml:mi>G</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mo>¯</mml:mo>
+                                                </mml:mover>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">F</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mo stretchy="false">[</mml:mo>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi>e</mml:mi>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>N</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">A</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">]</mml:mo>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>E</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>z</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>F</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>E</mml:mi>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>Then the cell voltage can be expressed according to<ce:display>
+                        <ce:formula id="eq5">
+                           <ce:label>(5)</ce:label>
+                           <mml:math altimg="si19.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>E</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Δ</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mover accent="true">
+                                             <mml:mrow>
+                                                <mml:mi>g</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mo>¯</mml:mo>
+                                          </mml:mover>
+                                       </mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>p</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>z</mml:mi>
+                                       <mml:mo>·</mml:mo>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">c</mml:mi>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>·</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>s</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mi mathvariant="normal">irr</mml:mi>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>z</mml:mi>
+                                       <mml:mo>·</mml:mo>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>E</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi>η</mml:mi>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where the first term is the reversible cell voltage, while the second term is the overvoltage of the cell in its actual operating condition.</ce:para>
+                  <ce:para id="para0210" view="all">It is possible to estimate the entropy generation for the two cells as a function of the operating current densities and temperature (<ce:cross-refs refid="fig3 fig4">Figs. 3 and 4</ce:cross-refs>
+                     <ce:float-anchor refid="fig3"/>
+                     <ce:float-anchor refid="fig4"/>). In particular at the temperature of 740<ce:hsp sp="0.16"/>°C, the entropy generation is around 50<ce:hsp sp="0.16"/>J/mol<ce:hsp sp="0.16"/>K for the ASC2 cell and 80<ce:hsp sp="0.16"/>J/mol<ce:hsp sp="0.16"/>K for the ASC1 cell for the current density of 0.5<ce:hsp sp="0.16"/>A/cm<ce:sup loc="post">2</ce:sup>. The irreversibilities are almost halved at this temperature. Further, it is interesting to outline the at open circuit voltage; there is already a loss in the system, which probably arises from leaks in the set up (mainly because of the unsealed cell or possible leakages in the fuel supply line and thus loss of fuel). <ce:cross-refs refid="fig3 fig4">Figs. 3 and 4</ce:cross-refs> show how the increase in the temperature leads to a reduction in the irreversibility produced by the electrochemical reaction. However, the thermodynamic quality of whole process should take into account the use of the heat generated by this irreversibility. In fact, if this heat is not used and simply released in the ambience, then the entropy balance would become<ce:display>
+                        <ce:formula id="eq6">
+                           <ce:label>(6)</ce:label>
+                           <mml:math altimg="si20.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>s</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">global</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>η</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>z</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>F</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mn>1</mml:mn>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>T</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mn>0</mml:mn>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                       <mml:mo>-</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mn>1</mml:mn>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>T</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mi mathvariant="normal">c</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>In this case the higher the operating temperature, the higher the global entropy, because heat is wasted to the ambience at higher temperature (loss of high quality heat). The same result can be obtained considering the concept of lost work as expressed by the Guy–Stodola theorem. In this case the wasted exergy is equal to<ce:display>
+                        <ce:formula id="eq7">
+                           <ce:label>(7)</ce:label>
+                           <mml:math altimg="si21.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>l</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>s</mml:mi>
+                                 <mml:msub>
+                                    <mml:mrow/>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">irr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">global</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>η</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>z</mml:mi>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:mi>F</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mo>-</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>T</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mn>0</mml:mn>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mrow>
+                                                   <mml:mi>T</mml:mi>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mi mathvariant="normal">c</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>In addition, in this case the wasted exergy increases with the increase in temperature. It is necessary to recover this heat produced by irreversibilities to improve to the total quality of the process.</ce:para>
+               </ce:section>
+               <ce:section id="section0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="para0215" view="all">In this paper a comparison between two planar anode-supported SOFCs differing for cathode's materials is presented. In particular, it is possible to improve the performance of this kind of fuel cells using a MEIC such as LSCF. For the cell with LSCF cathode, results suggest that a power density of around 0.8<ce:hsp sp="0.16"/>W/cm<ce:sup loc="post">2</ce:sup> can be obtained at 750<ce:hsp sp="0.16"/>°C with a fuel cell of 47<ce:hsp sp="0.16"/>cm<ce:sup loc="post">2</ce:sup> of active area and working at practical fuel utilization (&gt;50%). Further, the behaviour with temperature has been estimated expressing the total area-specific resistance of the cells through an Arrhenius expression. In particular, for the cell with LSCF cathode, a value of apparent thermal activation energy of 0.48 has been found, while for the cell with LSM cathode a value of 0.65<ce:hsp sp="0.16"/>eV has been estimated in the range of temperature of 750–850<ce:hsp sp="0.16"/>°C. The effective use of these materials to enhance the performance of anode-supported SOFCs looking at the intermediate operating temperature is suggested. In addition, the temperature impact is evaluated in terms of the irreversibility of the electrochemical reaction as well as in terms of thermodynamic quality of the whole process (electrical work and heat release).</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliography0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec0005">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Steinberger-Wilckens R. Introduction to SOFC: an innovative and efficient power generation technology. REAL SOFC Summer School, Varna, Bulgaria, 2–7 September 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Bronin D. Stack and cell performance degradation: causes, effects and solutions—the current state of knowledge. REAL SOFC Summer School, Varna, Bulgaria, 2–7 September 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="reference0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Srdic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Omorjan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seidel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical performances of (La,Sr)CoO3 cathode for zirconia-based solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. and Eng. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>124</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="reference0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dusastre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Kilner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimisation of composite cathodes for intermediate temperature SOFC applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="reference0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.C.</ce:given-name>
+                                 <ce:surname>Haanappel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Uhlenbruck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferrite-based perovskites as cathode materials for anode-supported solid oxide fuel cells. Part I. Variation of composition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1341</sb:first-page>
+                              <sb:last-page>1350</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="reference0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.C.</ce:given-name>
+                                 <ce:surname>Haanappel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mertens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance of LSCF cathodes in cell tests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Rietveld B. Low temperature SOFC for lifetime and reduced costs. In: Finnish SOFC Symposium, 29 June 2006.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Buchkremer H-P. Cell manufacture I: development at laboratory scale. REAL SOFC Summer School, Varna, Bulgaria, 2–7 September 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Koehler TM, Jarrel DB, Bond LJ. High temperature ceramic fuel cell measurement and diagnostics for application to solid oxide fuel cell systems. Report prepared for the US Department of Energy, October 2001.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="reference0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Singhal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kendall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature solid oxide fuel cells: fundamentals, design and applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="reference0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-C.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of current-collecting layer on unit-cell performance of anode-supported solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sour</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="reference0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Principles of fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2006</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Taylor &amp; Francis</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

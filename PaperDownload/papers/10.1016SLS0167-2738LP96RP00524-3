@@ -1,0 +1,1430 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167273896005243</prism:url><dc:identifier>doi:10.1016/S0167-2738(96)00524-3</dc:identifier><eid>1-s2.0-S0167273896005243</eid><prism:doi>10.1016/S0167-2738(96)00524-3</prism:doi><pii>S0167-2738(96)00524-3</pii><dc:title>Effect of LSM-YSZ cathode on thin-electrolyte solid oxide fuel cell performance </dc:title><prism:publicationName>Solid State Ionics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01672738</prism:issn><prism:volume>93</prism:volume><prism:issueIdentifier>3-4</prism:issueIdentifier><prism:startingPage>207</prism:startingPage><prism:endingPage>217</prism:endingPage><prism:pageRange>207-217</prism:pageRange><prism:number>3-4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1997-01-31</prism:coverDate><prism:coverDisplayDate>January 1997</prism:coverDisplayDate><prism:copyright>Copyright © 1997 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Tsai, Tsepin</dc:creator><dc:creator>Barnett, Scott A.</dc:creator><dc:description>
+                  The effect of cathode composition, processing and structure on the performance of medium-temperature (600–800 °C) solid oxide fuel cells (SOFCs) is described. The cathodes and physical supports for the SOFCs were two-phase mixtures of (La1 − x
+                     Sr
+                        x
+                     )1 − y
+                     MnO3 (LSM) and Yttria-stabilized Zirconia (YSZ), the electrolytes were &lt; 10 μm thick YSZ, and the anodes were Ni-YSZ with Y-doped CeO2 interfacial layers. It was found that the cathode overpotential was the primary factor limiting cell power densities during operation with air as the oxidant and humidified hydrogen as the fuel. Increasing the YSZ volume fraction in LSM-YSZ cathodes from 0 to 60% reduced the low-current area-specific resistance of the cells (in air and humidified hydrogen) from ~ 3.3 to 0.7 Ω cm2. The use of LSM with y = 0.1 suppressed the formation of zirconate phases during cathode sintering. Optimal cathode porosity was ≈ 40%. Decreasing the cathode porosity below ≈ 30% resulted in a mass transport limitation at high current densities due to the small pore size (&lt; 0.5 μm) and large cathode thickness (≈ 1 mm). The maximum power densities measured in humidified H2 and air ranged from ~110 mW cm−2 at 600 to 470 mW cm−2 at 800 °C.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Fuel cell</dcterms:subject><dcterms:subject>Cathode</dcterms:subject><dcterms:subject>Lanthanum manganese oxide</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167273896005243" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167273896005243" rel="scidir"/></coredata><scopus-id>0030687696</scopus-id><scopus-eid>2-s2.0-0030687696</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0030687696" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271411</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid State Ionics</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATEIONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19990212">1999-02-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19990212">1999-02-12</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T06:58:53</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167273896005243</xocs:eid>
+      <xocs:pii-formatted>S0167-2738(96)00524-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167273896005243</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0167-2738(96)00524-3</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167273800X00252</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:51:30.831843-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19970101</xocs:date-search-begin>
+      <xocs:date-search-end>19970131</xocs:date-search-end>
+      <xocs:year-nav>1997</xocs:year-nav>
+      <xocs:indexeddate epoch="918777600">1999-02-12T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-2738</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01672738</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>93</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>93</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:iss-last>4</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 93, Issues 3–4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>207</xocs:first-fp>
+      <xocs:last-lp>217</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>207</xocs:first-page>
+         <xocs:last-page>217</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>199701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 1997</xocs:cover-date-text>
+      <xocs:cover-date-start>1997-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1997-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1997</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1997 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTLSMYSZCATHODETHINELECTROLYTESOLIDOXIDEFUELCELLPERFORMANCE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TSAI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>272</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>NAKAGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1928</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>DESOUZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EPRIGRIFUELCELLWORKSHOP</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MINH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>HUEBNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>696</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>FUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1018</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>OSTERGARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1971</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HAYASHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>619</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>KENJO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>KAMATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>725</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>1STEUROPEANSOLIDOXIDEFUELCELLFORUMPROC</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>SASAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>SASAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>530</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3084</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1073</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16"/>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>THIELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3054</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>STEVENSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>454</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>LABRINCHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3809</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>VANROOSMALEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>303</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>DEHAART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1970</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>CHAKRABORTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>612</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC4THINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>WIPPERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC3RDINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>598</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC3RDINTSYMPSOLIDOXIDEFUELCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>DIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>175</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>MIZUSAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1867</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TSAIX1997X207</xocs:refkey3>
+         <xocs:refkey4lp>TSAIX1997X207X217</xocs:refkey4lp>
+         <xocs:refkey4ai>TSAIX1997X207XT</xocs:refkey4ai>
+         <xocs:refkey5>TSAIX1997X207X217XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-2738(96)00524-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167273896005243</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167273896005243</xocs:eid>
+         <xocs:doi>10.1016/S0167-2738(96)00524-3</xocs:doi>
+         <xocs:cid>271411</xocs:cid>
+         <xocs:timestamp>2010-12-04T21:03:59.18714-05:00</xocs:timestamp>
+         <xocs:cover-date-start>1997-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1997-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167273896005243-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273896005243/MAIN/application/pdf/8574ca31fb318d2db8d6145e5ffe01c7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273896005243/MAIN/application/pdf/8574ca31fb318d2db8d6145e5ffe01c7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1357198</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>11</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167273896005243-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273896005243/PREVIEW/image/png/6d6b0917440f4b9fdf8d6c22986fbb8e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273896005243/PREVIEW/image/png/6d6b0917440f4b9fdf8d6c22986fbb8e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58176</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">      Solid State lonics 93 (1997) 207-217    SOLID  STATE  IONICS    Effect of LSM-YSZ cathode on thin-electrolyte solid oxide fuel  cell performance    Tsepin Tsai, Scott A. Barnett*    Department of Materials Science and Engineering, Northwestern University. Evanston, IL 60208, USA  Received 6 August 1996; accepted 10 October 1996    Abstract    The effect of cathode composition, processing and structure on the performance of medium-temperature (600-800)  solid oxide fuel cells (SOFCs) is described. The cathodes and physical supports for the SOFCs were two-phase mixtures of  (La,_^SrJi_^,MnO;, (LSM) and Yttria-stabilized Zirconia (YSZ), the electrolytes were &lt; 10 |Jim thick YSZ, and the anodes  were Ni-YSZ with Y-doped CeO^ interfacial layers. It was found that the cathode overpotential was the primary factor  limiting cell power densities during operation with air as the oxidant and humidified hydrogen as the fuel. Increasing the  YSZ volume fraction m LSM-YSZ cathodes from 0 to 60% reduced the low-current area-specific resistance of the cells (in  air and humidified hydrogen) from ~ 3.3 to 0.7 cm2. The use of LSM with y = 0.1 suppressed the formation of zirconate  phases during cathode sintering. Optimal cathode porosity was "40%. Decreasing the cathode porosity below 30%  resulted in a mass transport limitation at high current densities due to the small pore size ( &lt; 0.5 |Jim) and large cathode  thickness (s" 1 mm). The maximum power densities measured in humidified H, and air ranged from -110 mW cm"2 at 600  to 470 mW cnT2 at 800.    PACT; 81.15.Cd; 81.20.Ev; 81.35.+k; 82.65.-I  Keywords: Fuel cell; Cathode; Lanthanum manganese oxide    1. Introduction    There have recently been several reports of solid-  oxide fuel cells (SOFCs) with thin ( &lt; 10 urn) yttria-  stabilized zirconia (YSZ) electrolytes [1-7]. The  electrolytes have been prepared using tape calendar-  ing [5], colloidal deposition processes [4,6,7] and  sputter deposition [1]. The electrolyte ohrnic loss is  negligibly small for cell operating temperatures T^ &gt;  650. As a result, power densities &gt;0.5 Wem"2    Corresponding author. E-mail: s-bamett.nwu    can be achieved at 7^ == 800, s200 less than  conventional SOFCs. Conventional electrode materi-  als have been used in the thin-electrolyte SOFCs:    (Lai_^Sr,)i_^Mn03 (LSM) cathodes and Ni-YSZ  anodes. While these provide good performance at  T^a5s 800, electrode polarization losses rapidly  decrease power density with decreasing 7c [4].  Improved electrodes are needed to further increase  power densities and/or to allow further decreases in  operating temperature.    Cathode overpotential is often the main factor  limiting SOFC performance. Several groups have    0167-2738/97/$17.00 997 Eisevier Science B.V. All rights reserved  PU S0167-2738(96)00524-3    208    T. Tsai, S.A. Barnett l Solid State lonics 93 (1997) 207-217    studied LSM and two-phase LSM-YSZ cathodes at  s 800 [8-13]. Lower interfacial resistance R, is  usually reported for LSM-YSZ. For example, Kenjo  arid Nishiya found that K; at 900 decreased as the  YSZ/LayMnC&gt;3 weight ratio increased, with a mini-  mum at a YSZ/La Mn03 weight ratio of 1 [10].  This was explained by the contribution of three-  phase boundaries (TPB) within the electrode to  electrochemical reactions. Lower /?, values have  been obtained for electrodes with y &lt; 1 (A-site  deficient) than y = 1 (stoichiometric), explained by  reduced La^Zr^O^ formation at Laog5MnC&gt;3/YSZ  interfaces [6,8]. Little is known about LSM or LSM-  YSZ electrode performance for 7^ &lt; 800. More  information is thus needed to understand the per-  formance of thin-electrolyte SOFCs in this tempera-  ture range.    In this paper, we describe the performance of  thin-electrolyte SOFCs with LSM-YSZ cathodes in  the 7^ range from 550 to 850. Effects of LSM  powder composition, size distribution, volume frac-  tion and .ceramic processing conditions on the  cathode structure, phases present and resistivity are  described. Thin-electrolyte SOFCs were prepared by  sputter deposition of YSZ electrolyte and Ni-YSZ  anode films on the cathode/supports, as described in  detail previously [14,15]. Effects of the cathode  composition, processing and structure on the SOFC  performance were characterized.    2. Experimental    2.1. LSM and LSM-YSZ cathodes    Substrates were prepared from LSM and YSZ  powders using conventional ceramic processing, i.e.  powder mixing, pressing and sintering. Three kinds  of LSM powder were used. One was Lag gSrg 2Mn03  powder with D5= 0.5 (Jim (0 is the particle size  at 50% cumulative size distribution), denoted as  LSM1 (supplied by Seattle Specialty Ceramics). A  second was Lao 79Sro ^MnO^ powder with D50 =  0.97 u-m, denoted, as LSM2 (supplied by Rhone  Poulenc). The .third was (LaQgSro2)o.9Mn03, de-  noted as LSM3, prepared by mixing Lap oSro ;Mn03  (LSM1) with MnC03 and calcinating at 900 for 1  h. (O^QytyO^QQ^ (ZirconiSales) with a    particle size of 0.28 (Jim was mixed with each of the  three LSM powders at different volume percentages.  3 wt.% binder (polyvinyl alcohol) and 1 wt.%  surfactant (Triton X-100, Aldrich) were added to the  mixture before ball milling. Drying at == 60,  grinding, sieving through a mesh 200 (equivalent to a  74 urn opening) sieve and uniaxially pressing at 200  MPa were carried out subsequently to get " 1.8 cm  diam. X' cs l mm thick green pellets. Unless other-  wise specified, the above processing method, denoted  the hot drying process (HDP), was used.    In some cases a freeze-drying process (FDP) was  employed after mixing the powders and additives. In  this case, the powder exhibited much-reduced clump-  ing such that the grinding and sieving steps were not  required. The cathodes produced using this method  showed the same composition and phases as those  obtained using the HDP. However, the FDP cathodes  showed fewer surface imperfections and yielded  different cell performance.    Cathode pellets with different porosity and  strength were obtained by sintering at different  temperatures (typically 1100 to 1200) for l h.  Sintered pellets were examined by X-ray diffraction  to identify the phases present. Porosity was measured  using Archimedes' method. Conductivity was mea-  sured using a 4-point-probe. Pore size and substrate  structure were observed using a scanning electron  microscope (SEM).    2.2. Electrolyte and anode deposition    YSZ electrolyte films were prepared using reactive  DC magnetron sputtering from Zr-Y composite or  alloy targets [14,17]. The YSZ electrolyte films must  be dense and pinhole free to ensure no gas crossover  and short-circuiting between the electrodes. It was  previously shown [14] that ion bombardment due to  a DC substrate bias during YSZ deposition improved  the coverage of porous LSM substrates, yielding  SOFC open circuit voltages close to theoretical  values. In the present study a substrate bias of 75  V was used, resulting in an ion current density of  "s 1 mA cm"2. The YSZ films were 5 to 10 |Am  thick, as needed to ensure dense YSZ films on  cathode/supports with different surface mor-  phologies.    Ni-YSZ anodes were == 2u,m thick porous films    T. Tsai, SA. Bamett I Solid State lonics 93 (1997) 207-217    209    deposited using reactive sputtering from Ni-Zr-Y  alloy targets [15]. This prior study showed that the  sputtered Ni-YSZ porosity depended on both the  deposition pressure and the YSZ electrolyte surface  roughness. A deposition pressure of 20 mTorr,  expected to give an optimal structure and hence the  minimum interfacial resistance, was used in the  present experiments. Fig. 1 shows a fracture cross-  sectional SEM image of a typical cell. The YSZ  electrolyte has a uniform thickness and appears  dense. Note that the porosity of the Ni-YSZ layer is  on too small a scale to be seen [15].    While the main aim of this study was to investi-  gate the cathode interfacial resistance, reference  electrodes were not practical in testing the thin-  electrolyte SOFCs (see Section 2.3). In order to  better isolate cathode effects, anode overpotential  was minimized by depositing 0.1 (xm thick  (.CeO^)o^^O^)o,ii, (YDC) interfacial layers on  the YSZ electrolyte prior to Ni-YSZ anode deposi-  tion. It was previously shown that the YDC interfa-  cial layer improves SOFC performance by decreas-  ing the anode interfacial resistance [1]. The YDC  layers were reactively sputtered from a Ce-Y  composite target in Ar and 0^ [14]. The addition of          Ni-YSZ    YSZ    LSM-YSZ    10 jLim    Fig. 1. A typical fracture cross sectional SEM image of a thin-  electrolyte SOFC. A YDC interfacial layer between Ni-YSZ and  YSZ, indicated by double lines, is too thin to be resolved.    the YDC layer substantially decreased &amp;e cell resist-  ance, especially at low currents.    2.3. Cell tests    Single-cell tests were performed using a standard  setup [1]. The cells were sealed to a short length of  YSZ tube, which in turn was sealed to an alumina  fuel-gas supply tube. The seals were made using  zirconia-based cement, which was cured at 120 for  l h after drying in air for &gt; 8 h. The short YSZ tube  served two purposes. First, it helped to isolate the  cell from the thermal-expansion-mismatched alumina  tube. Second, an oxygen sensor was formed by  applying a Ag cathode and a Ni anode to either side  of the tube. Comparing the sensor open-circuit  voltage (OCV) with the test-cell OCV indicated  whether any gas crossover was occurring via, e.g.,  leakage through seals. Note that all SOFC tests  reported in this study showed &gt; 96% of the theoret-  ical OCV calculated using the Nernst equation.    Electrical connections were made using Ag wires  that were contacted to the anode using Ni paste and  to the cathode using Ag paste. Two wires were  typically used, but four-wire tests were done in some  cases. The cell performance was characterized pri-  marily using current density vs. voltage (J-V)  measurements. Although reference electrodes (RE)  are generally used to separate cathode and anode  polarization losses, suitable RE positions are not  readily available for thin-electrolyte SOFCs. Since  the cathode is a monolithic ceramic, no cathode-side  RE is possible. Initial tests were carried out in which  a RE was formed by patterning the anode material  deposited onto the electrolyte. However, impedance  spectroscopy measurements showed that the RE  potential was very close to the cathode potential.  This resulted from the asymmetry of &amp;e RE position;    it was physically much closer to the cathode (i.e. the  ss 5 |JLm YSZ film thickness) than the anode (the  anode-to-RE distance was as 1000 i^m). Impedance  spectroscopy measurements were done with a Solar-  tron 1260 with an applied AC voltage of 60 mV; the  impedance analyzer loaded the SOFCs such that the  measurements were at 7"= 100 mAcm"2.    During cell tests, the fuel gas flow provided to the  anode was hydrogen with !;s3 3% H^O entrained by  bubbling through water at 25. Oxygen or air was    210    T. Tsai, S.A. Barnett l Solid State lonics 93 (1997) 207-217    flowed to the cathode. Cell test temperatures ranged  from 550 to 850.    present are determined by X-ray diffraction. In  Section 3.3, electrical resistivity of the LSM-YSZ  ceramics is described.    3. Cathode characterization results    In Section 3.1, we describe the effects of LSM  powder size distribution, LSM composition, YSZ  volume fraction, powder processing method and  sintering conditions on the LSM-YSZ density and  surface morphology. In Section 3.2, the phases    Table 1    The porosity values of LSM and LSM-YSZ cathodes sintered at    1150forlh        Cathode 50 vol.% LSM 100 vol.% LSM  LSM1-YSZ 39% 44%  LSM2-YSZ 36% 41%  LSM3-YSZ 22% 34%    3.1. Density and surface morphology    The starting sintering conditions were based on  prior studies of 100% LSM1 substrates, [14] where  sintering at 1150 for l h was found to provide  good strength and a porosity value of 44%. The  LSM and LSM-YSZ porosity for selected sintering  conditions is listed in Table l. SEM images of  selected surfaces are shown in Fig. 2. LSM-YSZ  pellets (Fig. 2b) generally had a smaller feature size  and lower porosity than pure LSM pellets (Fig. 2a)  for a given sintering condition, despite the lesser  sinterability of YSZ. Lower LSM-YSZ porosities  were presumably caused by the smaller YSZ particle  size (0.28 (xm), compared with LSM1 (0.5 (xm) and  LSM2 (0.97 ixm), which increased the packing  density.    (a) HDP, 100 vol% LSM1, 1130 (b) HDP, 50 vol%LSMl-YSZ, 1150 (c) FDP. 50 vol%LSMl-YSZ, 1150          (d) HDP. 50 vol%LSM3-YSZ, 1150 (e) HDP, 50 vol%LSM3-YSZ. 1100&lt;'C   (f) FDP, 50 vol%LSM3-YSZ, 1100    Fig. 2. SEM images of LSM and LSM (50 vol.%)-YSZ cathode surfaces prepared with different sintering temperature (all were sintered for  l h), LSM stoichiometry and powder processing method.    T. Tsai, S.A. Bamett I Solid State lonics 93 (1997) 207-217    211    For a given set of sintering conditions, the po-  rosity of both LSM and LSM-YSZ pellets decreased  with LSM powder type from LSM1 to LSM2 to  LSM3 (see Table 1). The decreasing porosity corre-  lated well with the increasing A-site deficiency of the  LSM powders, which has previously been shown to  enhance sintering [18]. LSM2 powders had a wider  particle size distribution than LSM1, which should  also lead to a higher packing density. LSM1, with a  narrower particle size distribution than LSM2, yield-  ed ceramics with a more uniform pore size dis-  tribution.    In order to compare the effect of LSM com-  position on SOFC performance, sintering conditions  were varied to maintain comparable porosities. For  example, to compare cells made on LSM3-YSZ with  LSM1-YSZ and LSM2-YSZ, the sintering tempera-  ture for 50 vol.% LSM3-YSZ was reduced from  1150 (Fig. 2d) to 1100 (Fig. 2e). The porosity  was then a comparable value, 36%. The porosities of  LSM-YSZ cathodes prepared by freeze-drying  (FDP) were similar to those obtained using the hot  drying process (HDP). However, the FDP cathode  surfaces (Fig. 2c and 2f) generally exhibited smaller  feature sizes than comparable HDP cathode surfaces  (Fig. 2b and 2e).    Sintering conditions were also varied to investi-  gate the effect of LSM-YSZ porosity on SOFC  performance. Note that for sintering conditions yield-  ing porosity values &gt; 50%, the LSM-YSZ provided  insufficient mechanical strength for subsequent cell  preparation and testing.    3.2. LSM-YSZ cathode phases    Reactions between LSM and YSZ are known to  occur at high temperatures and can affect SOFC  performance [10,19]. LSM-YSZ pellets prepared  using the three LSM powders were sintered at  1150 for l h and examined using X-ray diffraction  to identify their phases. Note that subsequent cell  processing and testing was at much lower tempera-  tures ( &lt; 400), such that no further reactions were  expected. The X-ray scans of the HDP process  samples are shown in Fig. 3; FDP samples showed  identical results. Though all strong peaks are iden-  tified as LSM and YSZ, there are additional low-  intensity peaks in the LSM1-YSZ scan. These peaks          20    30    40    50    60  29 (Degrees)    Fig. 3. The X-ray diffraction patterns from 50 vol.% LSM-YSZ  cathodes, prepared using each of the three LSM powders, after  sintering at 1150 for l h.    fit to most of the strongest reflections from  La^Zr^O^, an expected product of high-temperature  reactions between LSM and YSZ [19,20]. Many  groups [8,10,20] have reported that La^Zr^O^ forma-  tion at the interface between the YSZ electrolyte and  the LSM cathode is suppressed by using non-stoi-  chiometric LSM. The present results are reasonable  given that LSM1 was stoichiometric while LSM2  and LSM3 were A-site deficient.    3.3. Resistivity    The resistivities of ceramics prepared with the  three LSM powders were similar. Typical resistivity  results for pure LSM and LSM (50 vol.%)-YSZ are  shown in Fig. 4. The LSM-YSZ showed as 10 times  higher resistivity than pure LSM, and similar values  were obtained for 40 and 60 vol.% LSM. Despite the  relatively high resistivity of the LSM-YSZ, the  ohmic resistance across a 1 mm thick cathode  (assuming an effective back-side current collector) is    212    T. Tsai, S.A. Barnett l Solid State tonics 93 (1997) 207-217         800 750 Temperature ()700 650 600   A &amp;@ t  ^lO-1 -^' "&gt;%  50% 100% LSM1-YSZ: o (S&gt; LSM2-YSZ : n ni LSM3-YSZ: A A  m(Dal10-2 0) &lt;1&gt;s a) SB ^  0 .90 0.95 .00 1,05 1.10 1.15 1.20lo^Oc1)    Fig. 4. Resistivities of LSM and LSM (50 vol.%)-YSZ cathodes,  prepared using each of the three LSM powders, vs. temperature.  The differences between the three cathode types is within the  range of experimental error.    only "0.02 fm2, negligible for most SOFC  measurements.    Since the resistivity of YSZ is sas 103 to 104 times  higher than that of LSM from 600 to 800, conduc-  tion in the LSM-YSZ is dominated by LSM at  compositions where there is good connectivity, i.e.  &gt; ^40 vol.% LSM. The activation energy for  electrical conduction in pure LSM from Fig. 4 was    -0.07 eV, in agreement with other reports [21,22].  Activation energies measured for LSM-YSZ were    -O.I eV, close to that for pure LSM since the  conduction is through the LSM phase.    4. SOFC test results    In this section, the effects of LSM-YSZ cathode  composition (Section 4.1), density (Section 4.2), and  powder processing method (Section 4.3) on SOFC  performance are described. The best SOFC perform-  ance is also presented in Section 4.3.    Impedance spectroscopy was used to determine  the ohmic contribution to the cell test results. Fig. 5  shows typical impedance spectra from a SOPC with  a LSM1 (50 vol.%)-YSZ cathode, measured at 750-  850 in humidified H^ and air. The high-frequency  intercept of the electrode arcs yields the ohmic    -0.4 -    f   n i  c -U.o -    0    0.-0.2 -  N  E -0.1 -    0.0          .^"...........^^    750 S   saff'^         / !.    ^50     ,      . .  .       .  :    0.1 .2    0.3    0.4    0.5    0.6    0.7    0.8    0.9    Re Z (n-cm2)    Fig. 5. Typical impedance spectra from a SOFC with a LSM1 (50  vol.%)-YSZ cathode, measured at 750-850 in humidified H,  and air. Note that the impedance values were measure at J-lOO  mAcm2.    resistance, 0.16 n cm2 in this case. A comparison of  two and four wire tests showed that approximately  half of this was due to wire losses. The other half  was apparently due to losses across the electrodes  and electrolyte. The ohmic resistance was indepen-  dent of temperature above 750, indicating that the  electrolyte ohmic loss was not important. This is  reasonable since the area-specific resistance of a 5  ixm thick YSZ layer at 750 is only ^0.025  fl cm2. As the temperature was decreased below  750, however, the measured ohmic resistance  increased due to the increasing YSZ resistance. The  difference between the high- and low-frequency  impedance intercepts, which gives the total DC  electrode interfacial resistance, decreased with in-  creasing temperature.    4.1. Effect of LSM-YSZ composition    A series of SOFCs were prepared, varying only  the LSM vol.% in the HDP cathodes. The electrode  overpotential vs. current density results, measured at  750 with 97% H, + 3% H^O as fuel and air as  oxidant, are plotted in Fig. 6. The o Verpotentials  were obtained from the raw J-V data by subtracting  ohmic losses as measured by impedance spectros-  copy. The cells with pure LSM cathodes showed a  IOV/-J electrode resistance R-^Sicm2. The  resistance decreased with increasing J, reaching a  saturation value of "0.6 fm2. As the LSM  volume percentage was increased, R^ decreased,    T. Tsai, S.A. Bamett I Solid State lonics 93 (1997) 207-217    213          Current Density (A/cm-)    Fig. 6. Overpotential vs. current density, measured at 750 in  humidified H, and air, for SOFCs prepared on LSM1-YSZ  cathodes with different LSM volume percentages.    although the resistance at higher J remained at sas 0.6  m2.    The decrease in R, with decreasing LSM vol.% is  shown in Fig. 7. In general, cathodes made from  LSM1 and LSM2 yielded similar results. The lowest  J?; value for LSM1-YSZ and LSM2-YSZ cathodes  was 1.1 ficm2 at 40 vol.% LSM. Fig. 7 also shows  the effect of A-site deficient LSM. HDP 50 vol.%  LSM3-YSZ cathodes showed lower 7?, values, 0.7-  0.8 ft cm2, than 50 voL% LSM1-YSZ, 1.3-1.8  Hem2. Despite the lower 7?, value for 50 vol.%    LSM3-YSZ, the resistance at higher J was still  ".65 fm2, similar to the LSM1-YSZ cells  shown in Fig. 6.    The results shown in Figs. 6 and 7 are representa-  tive of those obtained over a. wider temperature  range. Fig. 8 shows typical results on the temperature  dependence of /?,. /?, values followed an Arrhenius  temperature dependence for all cells. 7?, values for  HDP 50 vol.% LSM1-YSZ were lower in all cases  than HDP LSM1 cathodes, with the difference  becoming larger as the temperature decreased. Re-  sults shown for FDP cathodes are discussed in  Section 4.3.    4.2. Effect of LSM-YSZ sintering conditions    In order to observe the effect of cathode porosity  on cell performance, HDP 40 vol.% LSM1-YSZ  pellets were sintered at temperatures of 1150-  1200 for l h, yielding porosity values from 40 to  22%, respectively. The cell performance results at  750 using air and 0^ as the oxidants and  humidified H^ fuel are compared in Fig. 9. Describ-  ing first the tests in air, the cell with a 40% porosity  cathode exhibited a positive-curvature J-V depen-  dence. The higher-density-cathode cells showed  nearly identical behavior at low J values, but the cell  voltage dropped rapidly as J approached a critical    value,     0.35 A cm for 22% porosity and sss 0.6    3.5  3.0 -  2.5 -     2-0    1.5    1.0    0.5    HDP FDP    D LSM1    LSM2    A A LSM3    T = 750  Gases: 97% H;,+H;0// Air    40   50   60   70   80   90   100    LSM Volume% in LSM-YSZ    Fig. 7. Interfacial resistance 7?, vs. the LSM vol.% in the cathode  for various LSM types and processing methods. The cathode  interfacial resistance can be estimated by subtracting the anode  interfacial resistance, -0.1 lm2, from the R, values.    Temperature ()    850 800   750   700    650     600        0.8 J 1 1 1 B    ."A  ^ 0.6    cC' E 0.4 0 P'.'.A'  G, 0.2 . -''  .o . ' -  '-'   S. -0.2 - ."V -'- ,&gt;-- LSM1HDP LSM1-YSZ HDP  -0.4 -S""" n LSM1-YSZ FDP A LSM3-YSZ FDP    0.90   0.95   1.00   1.05   1.10   1.15  lO^C'K-1)    Fig. 8. Temperature dependence of the low-current interfacial  resistance R, for LSM and LSM-YSZ cathodes.    214    T. Tsai, S.A. Bamett I Solid State lonics 93 (1997) 207-217          0.00 0.25 0.50    0.75    1.00 1.25    1.50    Current Density (A/cm )    Fig. 9. Current-voltage characteristics for three SOFCs with HDP  LSM1 (40 vol.%)-YSZ cathodes sintered at different tempera-  tures. The measurements were performed in both air and oxygen  at 750 in humidified H,.    A cm" for 28% porosity. With 0^ as the oxidant,  the results suggested a limiting-current behavior for  the lowest-porosity cathode, but with limiting-current  densities increased to &gt; 1 A cm"2. The limiting-  current behavior suggests a mass transport limitation,  as discussed in Section 5.    4.3. Effect of cathode powder processing    In this section, the effect on cell performance of  the two different powder processing methods, hot  drying (HDP) and freeze drying (FDP), are de-  scribed. All cathodes are 50 vol.% LSM-YSZ. J-V  results at 750 for cells with LSM1-YSZ and  LSM3-YSZ cathodes, prepared using both pro-  cesses, are presented in Fig. lOa. For LSM1-YSZ,  FDP cathodes yielded a smaller low-/ resistance  than HDP cathodes. On the other hand, for LSM3-  YSZ, the low-J resistance was nearly identical for  the two processes. The low-J resistance values are  summarized in Fig. 7. It is somewhat surprising that  the FDP LSM3-YSZ did not yield a significantly  lower R, than the FDP LSM1-YSZ, given that it did  not show evidence of a zirconate phase. In fact, the  cells with LSM3-YSZ cathodes did not yield the  highest maximum power density, as shown in Fig.  lOb. This was because a limiting J value near 0.8  A cm"2.    Fig. 11 is a more complete plot of the cell  performance with FDP LSM1-YSZ cathodes from          0.00   0.25   0.50   0.75   1.00   1.25   1.50    Current Density (A/cm2)          0.00   0.25   0.50   0.75   1.00   1.25   1.50    Current Density (A/cm2)    Fig. 10. Voltage vs. current density (a) and power density vs.  current density (b) from SOFCs with LSM1-YSZ and LSM3-  YSZ cathodes prepared by HDP and FDP.          0.00   0.25   0.50   0.75   1.00   1.25   1.50    Current Density (A/cm2)    Fig. 11. Voltage vs. current density for a SOFC with a FDP  LSM1-YSZ cathode, measured in air and humidified hydrogen  from 550 to 850.    T. Tsai. S.A. Bamett I Solid State lonics 93 (1997) 207-217    215    550 to 850 in humidified hydrogen and air. The 7?;    values from this data are plotted, along with data for  a cell with a FDP LSM3-YSZ cathode, in Fig. 8.  The /?; values follow an Arrhenius temperature  dependence with activation energies of ss 1 eV for  FDP LSM1-YSZ and .8 eV for FDP LSM3-  YSZ. The A-site deficient material has the lower 7?,  value for &lt; 750. The FDP cathodes yielded lower  /?, values than HDP LSM1-YSZ over the tempera-  ture range measured.    The results in Fig. 11 show the highest power  densities measured in this study. Note that the results  were not corrected for wire ohmic losses. Cell  performance was stable over the longest tests per-  formed, =='100 h. The maximum power densities in  air ranged from "580 Wem"2 at 850 to "60  Wem"2 at 550. The value of 0.36 Wem"2 at  750 in air is a considerable improvement on the  maximum power density previously reported for  sputter-deposited SOFCs with LSM cathodes, &lt;0.1  Wem"2 [l].    5. Discussion    In this section, the SOPC test results in Section 4  will be used to estimate cathode resistance since, as  discussed in Section 2.2, reference electrodes could  not be used to separate anode and cathode contribu-  tions. Approximate anode resistance values are ob-  tained from recent impedance spectroscopy results  for YDC/Ni-YSZ anodes prepared in the same way  as in the present study. Area-specific resistance  values at 750 in 97% H; + 3% H,0 were .I  0 cm2 for YSZ surfaces with similar roughness [16].  This is much smaller than the total electrode resist-  ance under these conditions, which ranged from 0.7  to 3.3 fi cm2, such that a simple subtraction of the  anode portion yields reasonably accurate cathode  resistances. The cathode resistance is also dominant  at other temperatures. For example, the overall low-J  cell resistance at 600 is &gt; 4 fl cm2, due primarily  to the cathode since the anode resistance is .3  fcm2 [16] and the total ohmic resistance is 0.5  Ocm2.    The form of the overpotential vs. J curve for cells  with pure LSM cathodes (Fig. 6) is commonly  observed for many electrochemical reactions [23,24].    The present 7?; values are less than those reported for  cathodes prepared on YSZ electrolytes by sintering  (at &gt; 1100) wet powder sprayed [23] and slurry  painted [24] pure stoichiometric LSM powders. They  reported 7?, =6-150 fm2 at 800 in air, for  example, compared to 1.5 fm2 in the present  results, and explained the large values as being due  to zirconate phase formation. The LSM cathode data  shown in Fig. 8 is consistent with one measured  activation energy of 1.41 eV [24], but not with the  other value of 1.79 eV [23]. Sasaki et al. [13]  reported overpotentials of 50-500 mV at 100  mA cm"2 at 800 in air for stoichiometric  (Laog5Srg(5)Mn03 screen printed onto YSZ, de-  pending on cathode thickness, powder type and  processing conditions.    Increasing the YSZ vol.% in LSM-YSZ cathodes  decreased the overpotential substantially (Figs. 6 and  7) while decreasing the activation energy (Pig. 8).  Overpotential reductions have been reported previ-  ously for LaMn03-YSZ cathodes tested at 900  [10] and LSM-YSZ cathodes tested at 1000 [8],  and explained as follows [10]. For interfaces be-  tween pure LSM electrodes and YSZ, electrochemi-  cal reactions occur only at the three-phase  boundaries (TPB) at the cathode/electrolyte inter-  face. When the LSM is replaced with a LSM-YSZ  two-phase mixture, additional TPB length within the  LSM-YSZ, but near the YSZ electrolyte, can con-  tribute to the reactions, decreasing /?,. One reported  measurement of LSM-YSZ cathodes on YSZ, over-  laps with the present temperature range. LSM-YSZ  (-50 vol.% LSM) cathodes prepared on YSZ using  a co-firing process [11] yielded a lowest interfacial  resistance of ~ 9 fl cm2 at 800 in air, much larger  than for the present LSM-YSZ cathodes. They  reported that R^ decreased with improved contact  between cathode particles and the YSZ electrolyte. A  comparison of the present interfacial structure (Fig.  1) with their SEM images shows better contact  between the sputtered YSZ electrolyte and the  cathode, probably explaining the lower R, values.  Their activation energy of ~ 1.26 eV is higher than  the values measured for the best cathodes in this  study, 0.8 to 1 eV, although it must be cautioned that  their value was measured at higher temperatures,  =:'800. It should also be noted that the present  measurements include a small contribution from the    216    T. Tsai, S.A. Barnett l Solid State lonics 93 (1997) 207-217    anode, with a measured activation energy of sas 0.6  eV [16], which presumably lowers the measured  values slightly.    La^Zr^O^ formation was observed after sintering  of stoichiometric LSM1-YSZ, but not for A-site  deficient LSM2-YSZ and LSM3-YSZ (Fig. 3), in  agreement with prior reports [8,10,19]. SOFCs with  LSM3-YSZ cathodes had smaller R, values than  those with LSM1-YSZ cathodes (Fig. 7), showing  that the resistive La^Zr^O^ phase interfered with the  TPB reactions. It is not clear why the zirconate phase  had a much larger effect on the performance of HDP  than FDP cathodes. Note that no zirconate phase was  expected at the cathode/electrolyte interface, as the  highest temperatures encountered during or after  electrolyte deposition were during cell testing. The  zirconate phase thus interfered primarily with re-  actions at TPBs within the LSM-YSZ.    The similar performance (Fig. 7) of the LSM1-  YSZ and LSM2-YSZ cathodes can be explained as  follows. On the one hand, the LSM1 powder had the  narrower particle size distribution and smaller mean  particle size, which should lead to a lower interfacial  resistance. [13] On the other hand, cathodes made  with the stoichiometric LSM1 powder showed a  zirconate phase that was not present in cathodes  made with the 2 mol% A-site deficient LSM2. The  net effect was similar performance of LSM1-YSZ  and LSM2-YSZ cathodes.    For LSM1-YSZ, the FDP cathodes exhibited  lower 7?, values than HDP ones. For LSM3-YSZ, on  the other hand, the HDP and FDP cathodes showed  nearly equal 7?; values. While this is presumably due  to the different structures produced by the two  processes, the observed structural differences did not  correlate with these results. The only obvious struc-  tural difference between these four cathodes (Fig. 2b,  2c, 2e and 2f) is the larger feature size in the HDP  LSM3-YSZ cathode.    The limiting current behaviors shown in Figs.  9-11 were related to the cathode since the limiting  current values changed with cathode preparation  conditions. Limiting currents can arise from either  gas-phase or surface diffusion. The limiting current  (/i) due to gas-phase diffusion varies as [25]    Aim =4FD(Q/L)C,                            (1)  where F is the Faraday constant, D is the diffusion    coefficient, C is the oxygen concentration, Q is Ae  effective cross section of the diffusion region and L  is the length of the diffusion region. The results in  Fig. 9 for the 22% porosity cathode suggest a  limiting current that is  times larger for 0; than  air, i.e. proportional to the oxygen concentration. Gas  diffusion [25] or oxygen dissociative adsorption [26]  mechanisms both yield limiting currents that are  proportional to C. Surface diffusion of adsorbed  oxygen atoms, where the limiting current is propor-  tional to C"2 [II], is apparently not the rate-limiting  mechanism. The limiting current increases with  increasing porosity, i.e. increasing Q in Eq. (1),  consistent with a gas-phase diffusion mechanism. A  gas diffusion limitation would not be surprising  given the small pore size (i.e. small  and relatively  large L of the cathodes.    For porosity values of '^O'^), limiting currents  were larger. The limiting J value for LSM1-YSZ  shown in Fig. 11, 1.4 A cm 2, may well be the gas  diffusion limitation for "=40% porosity. However,  the LSM3-YSZ cathodes shown in Pig. lOa showed  a lower limiting J value, .8 A cm"2 than LSM1-  YSZ cathodes, even though the porosity value was  only slightly less, "=37%. Reducing the LSM3-YSZ  cathode sintering temperature to 1075 from 1100  increased the porosity to a345% but did not increase  the limiting J above 0.8 A cm 2. These results might  still be explainable by a gas-phase diffusion limita-  tion, assuming structural differences sufficient to  change the Q and L values significantly. However,  the SEM pictures (Fig. 2c and 2f) do not show  significant structural differences. The limiting mech-  anism might be surface diffusion of adsorbed oxygen  or the dissociative adsorption of 0^ near the three  phase boundary as suggested by Kamata et al. [Il],  based on a study of LSM-YSZ cathodes.    6. Summary and conclusions    The performance of LSM-YSZ cathodes in sput-  ter-deposited SOFCs is described. The main results  can be summarized as follows:    1. Cathodes prepared with stoichiometric LSM pow-  der showed evidence of zirconate phase forma-  tion.    T. Tsai, S.A. Bamett I Solid State lonics 93 (1997) 207-217    217    2. The low-current interfacial resistance decreased  with increasing YSZ fraction in LSM-YSZ  cathodes.    3. Adding 50 vol.% YSZ to LSM increased the  resistivity by 0 times, but the resistivity was  still low enough for effective current collection.    4. Lowest interfacial resistances were obtained for  cathodes made with LSM that has a uniform and  small particle size and that is A-site deficient.    5. An apparent gas diffusion limitation became  important for LSM-YSZ cathodes with porosities  &lt;30%.    6. A powder processing method employing freeze  drying provided lower cathode interfacial resist-  ance and higher SOFC power densities than  drying at elevated temperatures.    In conclusion, the present LSM-YSZ cathode results  are qualitatively similar to prior results obtained at  higher temperatures. The addition of YSZ to LSM  allows one to extend the range of SOFC operation  down to 700 to 800, where the maximum power  density ranged from 250 to 470 mW cm"2, respec-  tively, in humidified H^ and air.    Acknowledgments    The authors gratefully acknowledge the financial  support of the Electric Power Research Institute and  the Gas Research Institute.    References    [1] L.S. Wang and S.A. Bamett, Solid State lonics 61 (1993)    272.  [2] K. Nakagawa, H. Yoshioka, C. Kuroda and M. Ishida, Solid    State lonics 35 (1989) 249.  [3] M. Suzuki, H. Sasaki, S. Otoshi, A. Kajimura, N. Sugiura    and M. Ippommatsu, J. Electrochem. Soc. 141 (1994) 1928.  [4] S. de Souza, S.J.Visco and L.C. de Jonghe, EPRI/GRI Fuel    Cell Workshop, Tempe, AZ, 1996.  [5] N.Q. Minh, in: Proc. 4th Int. Symp. Solid Oxide Fuel Cells,    Eds. M Dokiya, 0. Yamamoto, H. Tagawa and S.C. Singhai    (The Electrochem. Soc., Pennington, NJ, 1995) p. 138.  [6] W. Huebner, H.U. Anderson and D.M. Reed, in: Proc. 4th    Int. Symp. Solid Oxide Fuel Cells, Eds. M Dokiya, 0.    Yamamoto, H. Tagawa and S.C. Singhai (The Electrochem.    Soc., Pennington, NJ, 1995) p. 696.    [7] K.-Z. Fung, J. Chen, C. Tanner and A.V. Virkar, in: Proc. 4th    Int. Symp. Solid Oxide Fuel Cells, Eds. M Dokiya, 0.    Yamamoto, H. Tagawa and S.C. Singhai (The Electrochem.    Soc., Pennington, NJ, 1995) p. 1018.  [8] M.J.L. 0stergd, C. Clausen, C. Bagger and M. Mogensen,    Electrochim. Acta 40 (1994) 1971.  [9] K. Hayashi, 0. Yamamoto, H. Minoura, K. Fujiyoshi and F.    Mitumatu, in: Proc. 4th Int. Symp. Solid Oxide Fuel Cells,    Eds. M Dokiya, 0. Yamamoto, H. Tagawa and S.C. Singhal    (The Electrochem. Soc., Pennington, NJ, 1995) p. 619.  [10] T. Kenjo and M. Nishiya, Solid State lonics 57 (1992) 295.  [11] H. Kamata, A. Hosaka, Y. Ikegami, J. Mizusaki and H.    Tagawa, in: 1st European Solid Oxide Fuel Cell Forum    Proc., Eds. Ulf Bossel (Kinzel, Gtingen, 1994) p. 725.  [12] K. Sasaki, J.P. Wurth, M. Gickemeier, A. Mitterdorfer and    L.J. Gauckler, in: Proc. 4th Int. Symp. Solid Oxide Fuel    Cells, Eds. M Dokiya, 0. Yamamoto, H. Tagawa and S.C.    Singhal (The Electrochem. Soc., Pennington, NJ, 1995) p.    625.  [13] K. Sasaki, J.-P. Wurth, R. Gschwend, M. Gickemeier and    L.J. Gauckler, J. Electrochem. Soc. 143 (1996) 530.  [14] T. Tsai and S.A. Bamett, J. Electrochem. Soc. 142 (1995)    3084.  [15] T. Tsai and S.A. Bamett, J. Vac. Sei. Tech. A 13 (1995)    1073.    [16] T. Tsai and S.A. Barnett, to be published (1997).  [17] E.S. Thiele, L.S. Wang, T.O. Mason and S.A. Bamett, J.Vac.    Sei. Tech. A 9 (1991) 3054.  [18] J.W. Stevenson, T.R. Armstrong and W.J. Weber, in: Proc.    4th Int. Symp. Solid Oxide Fuel Cells, Eds. M Dokiya, 0.    Yamamoto, H. Tagawa and S.C. Singhal (The Electrochem.    Soc., Pennington, NJ, 1995) p. 454.  [19] J.A. Labrincha, J.R. Frade and F.R.B. Marques, J. Mater.    Sei. 28 (1993) 3809.  [20] J.A.M. van Roosmalen and E.H.P. Cordfunke, Solid State    lonics 52 (1992) 303.  [21] L.G.J. de Haart, R.A. Kuipers, K.J. de Vries and A.J.    Burggraaf, J. Electrochem. Soc. 139 (1991) 1970.  [22] A. Chakraborty, P. Choudhury and H.S. Maiti, in: Proc. 4th    Int. Symp. Solid Oxide Fuel Cells, Eds. M Dokiya, 0.    Yamamoto, H. Tagawa and S.C. Singhal (The Electrochem.    Soc., Pennington, NJ, 1995) p. 612.  [23] K. Wippermann, U. Stimming, H. Jansen and D. Stover, in:    Proc. 3rd Int. Symp. Solid Oxide Fuel Cells, Ed. H. Iwahara    (The Electrochem. Soc., Pennington, NJ, 1993) p. 180.  [24] C.C. Chen, M.M. Nasrallah and H.U. Anderson, in: Proc. 3rd    Int. Symp. Solid Oxide Fuel Cells, Ed. H. Iwahara (The    Electrochem. Soc., Pennington, NJ, 1993) p. 598.  [25] H. Dietz, Solid State lonics 6 (1982) 175.  [26] J. Mizusaki, H. Tagawa, K. Tsuneyoshi and A. Sawata, J.    Electrochem. Soc. 138 (1991) 1867.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SOSI</jid>
+            <aid>96005243</aid>
+            <ce:pii>S0167-2738(96)00524-3</ce:pii>
+            <ce:doi>10.1016/S0167-2738(96)00524-3</ce:doi>
+            <ce:copyright type="unknown" year="1997"/>
+         </item-info>
+         <head>
+            <ce:title>Effect of LSM-YSZ cathode on thin-electrolyte solid oxide fuel cell performance</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Tsepin</ce:given-name>
+                  <ce:surname>Tsai</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Scott A.</ce:given-name>
+                  <ce:surname>Barnett</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.E-mail: s-barnett.nwu</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="8" year="1996"/>
+            <ce:date-accepted day="10" month="10" year="1996"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The effect of cathode composition, processing and structure on the performance of medium-temperature (600–800 °C) solid oxide fuel cells (SOFCs) is described. The cathodes and physical supports for the SOFCs were two-phase mixtures of (La<ce:inf loc="post">1 − <ce:italic>x</ce:italic>
+                     </ce:inf>Sr<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>)<ce:inf loc="post">1 − <ce:italic>y</ce:italic>
+                     </ce:inf>MnO<ce:inf loc="post">3</ce:inf> (LSM) and Yttria-stabilized Zirconia (YSZ), the electrolytes were &lt; 10 <ce:italic>μ</ce:italic>m thick YSZ, and the anodes were Ni-YSZ with Y-doped CeO<ce:inf loc="post">2</ce:inf> interfacial layers. It was found that the cathode overpotential was the primary factor limiting cell power densities during operation with air as the oxidant and humidified hydrogen as the fuel. Increasing the YSZ volume fraction in LSM-YSZ cathodes from 0 to 60% reduced the low-current area-specific resistance of the cells (in air and humidified hydrogen) from ~ 3.3 to 0.7 Ω cm<ce:sup loc="post">2</ce:sup>. The use of LSM with <ce:italic>y</ce:italic> = 0.1 suppressed the formation of zirconate phases during cathode sintering. Optimal cathode porosity was ≈ 40%. Decreasing the cathode porosity below ≈ 30% resulted in a mass transport limitation at high current densities due to the small pore size (&lt; 0.5 <ce:italic>μ</ce:italic>m) and large cathode thickness (≈ 1 mm). The maximum power densities measured in humidified H<ce:inf loc="post">2</ce:inf> and air ranged from ~110 mW cm<ce:sup loc="post">−2</ce:sup> at 600 to 470 mW cm<ce:sup loc="post">−2</ce:sup> at 800 °C.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="pacs">
+               <ce:section-title>PACS</ce:section-title>
+               <ce:keyword>
+                  <ce:text>81.15.Cd</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>81.20.Ev</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>81.35. + <ce:italic>k</ce:italic>
+                  </ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>82.65.-I</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Cathode</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Lanthanum manganese oxide</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>272</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nakagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoshioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kuroda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ishida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Otoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kajimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sugiura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ippommatsu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1928</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>de Souza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Visco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>de Jonghe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>EPRI/GRI Fuel Cell Workshop</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Tempe, AZ</sb:conference>
+                              <sb:date>1996</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                                 <ce:surname>Minh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huebner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Reed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>696</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.-Z.</ce:given-name>
+                                 <ce:surname>Fung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tanner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Virkar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1018</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.L.</ce:given-name>
+                                 <ce:surname>Østergård</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Clausen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bagger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1971</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Minoura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fujiyoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Mitumatu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>619</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kenjo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nishiya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kamata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hosaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ikegami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mizusaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>Ulf</ce:given-name>
+                                    <ce:surname>Bossel</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>1st European Solid Oxide Fuel Cell Forum Proc.</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Kinzel</sb:name>
+                                 <sb:location>Göttingen</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>725</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Wurth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gödickemeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mitterdorfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Wurth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gschwend</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gödickemeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>530</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3084</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1073</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>T. Tsai, 1997</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T. Tsai and S.A. Barnett, to be published (1997).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Thiele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.O.</ce:given-name>
+                                 <ce:surname>Mason</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A 9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3054</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Stevenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Armstrong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>454</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Labrincha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Frade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.R.B.</ce:given-name>
+                                 <ce:surname>Marques</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3809</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.M.</ce:given-name>
+                                 <ce:surname>van Roosmalen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.P.</ce:given-name>
+                                 <ce:surname>Cordfunke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>303</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.J.</ce:given-name>
+                                 <ce:surname>de Haart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Kuipers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>de Vries</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Burggraaf</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1970</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chakraborty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Choudhury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Maiti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>O.</ce:given-name>
+                                    <ce:surname>Yamamoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tagawa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 4th Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>612</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wippermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Stimming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stover</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Iwahara</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 3rd Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Nasrallah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Iwahara</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proc. 3rd Int. Symp. Solid Oxide Fuel Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochem. Soc</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>598</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>175</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mizusaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tsuneyoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sawata</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1867</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

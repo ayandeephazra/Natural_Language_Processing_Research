@@ -1,0 +1,2592 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378775319301910</prism:url><dc:identifier>doi:10.1016/j.jpowsour.2019.02.066</dc:identifier><eid>1-s2.0-S0378775319301910</eid><prism:doi>10.1016/j.jpowsour.2019.02.066</prism:doi><pii>S0378-7753(19)30191-0</pii><dc:title>Interfacial modification of Li/Garnet electrolyte by a lithiophilic and breathing interlayer </dc:title><prism:publicationName>Journal of Power Sources</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03787753</prism:issn><prism:volume>419</prism:volume><prism:startingPage>91</prism:startingPage><prism:endingPage>98</prism:endingPage><prism:pageRange>91-98</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-04-15</prism:coverDate><prism:coverDisplayDate>15 April 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Feng, Wuliang</dc:creator><dc:creator>Dong, Xiaoli</dc:creator><dc:creator>Li, Panlong</dc:creator><dc:creator>Wang, Yonggang</dc:creator><dc:creator>Xia, Yongyao</dc:creator><dc:description>
+                  Garnet type electrolyte is of particular interest due to its outstanding stability against Li metal and high ionic conductivity at room temperature. But insufficient solid to solid contact hinders its further application on solid state batteries. Herein, we demonstrate a strategy to deal with the large impedance of Li/Garnet interface by introducing LiAg alloy reaction at the interface. Due to the lithiophilic nature of Ag interlayer, intimate contact of the interface successfully reduces the area specific resistance of Li/Garnet from 1534 Ωcm2 to 66 Ωcm2. Li dendrite is also suppressed not only at the Li/Garnet interface but among the Garnet grain boundary due to the moderate Li flux environment. Hybrid solid state Li/Garnet/LiMn2O4 full cell with remarkable electrochemical properties is achieved. The hybrid solid state batteries with a “breathing” Li/Garnet interface helps better understand the interface behavior of the Li/Garnet and provides more inspirations to further realize solid state batteries with high energy and power density.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid state electrolyte</dcterms:subject><dcterms:subject>Garnet</dcterms:subject><dcterms:subject>Lithium</dcterms:subject><dcterms:subject>Interface</dcterms:subject><dcterms:subject>Interlayer</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378775319301910" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378775319301910" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="62" size="11762">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="23678">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="69" size="17770">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="37516">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="136" size="22363">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="23494">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="780" height="220" size="62935">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="570" size="135626">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="780" height="244" size="80823">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="513" height="360" size="94435">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="443" size="112962">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="528" size="127051">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3453" height="975" size="357768">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="2524" size="917153">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3453" height="1081" size="535990">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2272" height="1595" size="675201">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="1960" size="724396">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="2337" size="819602">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="4199421">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="637331">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775319301910-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85061990105</scopus-id><scopus-eid>2-s2.0-85061990105</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85061990105" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271367</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Power Sources</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALPOWERSOURCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190226">2019-02-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190226">2019-02-26</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190226">2019-02-26</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190226">2019-02-26</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-03-14T22:56:18</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378775319301910</xocs:eid>
+      <xocs:pii-formatted>S0378-7753(19)30191-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378775319301910</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jpowsour.2019.02.066</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378775319X00063</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190517">2019-05-17T02:50:42.850074Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190415</xocs:date-search-begin>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1551146020">2019-02-26T01:53:40.512298Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-7753</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03787753</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>419</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>419</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 419</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>14</xocs:sort-order>
+      <xocs:first-fp>91</xocs:first-fp>
+      <xocs:last-lp>98</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>91</xocs:first-page>
+         <xocs:last-page>98</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20190415</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 April 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-04-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Lithium and Sodium Batteries: SCITECH</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INTERFACIALMODIFICATIONLIGARNETELECTROLYTEBYALITHIOPHILICBREATHINGINTERLAYER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Garnet LLCZNO electrolyte preparation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Li/Garnet/Li Symmetric Cell assembly</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Toothpaste - like cathode synthesis and Li/Garnet/LMO full cell assembly</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>DUNN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>928</xocs:ref-first-fp>
+            <xocs:ref-last-lp>935</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ARMAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>652</xocs:ref-first-fp>
+            <xocs:ref-last-lp>657</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>GOODENOUGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2019</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2029</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>SOLOVEICHIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>165</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CHANDRASHEKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>315</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>513</xocs:ref-first-fp>
+            <xocs:ref-last-lp>537</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3266</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ZENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15825</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15828</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>GOODENOUGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1638</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1642</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15042</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15047</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>975</xocs:ref-first-fp>
+            <xocs:ref-last-lp>978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>TREVEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4247</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>KATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>292</xocs:ref-first-fp>
+            <xocs:ref-last-lp>298</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>THANGADURAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>292</xocs:ref-first-fp>
+            <xocs:ref-last-lp>299</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1945</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1976</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>KAMAYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>682</xocs:ref-first-fp>
+            <xocs:ref-last-lp>686</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>KATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16030</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>150</xocs:ref-first-fp>
+            <xocs:ref-last-lp>159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>SENEVIRATHNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23685</xocs:ref-first-fp>
+            <xocs:ref-last-lp>23693</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>62</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>WOLFENSTINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>571</xocs:ref-first-fp>
+            <xocs:ref-last-lp>575</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>MURUGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7778</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7781</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>DUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>85</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>ZENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>298</xocs:ref-first-fp>
+            <xocs:ref-last-lp>307</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9388</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12258</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12262</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14942</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14947</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>572</xocs:ref-first-fp>
+            <xocs:ref-last-lp>580</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>565</xocs:ref-first-fp>
+            <xocs:ref-last-lp>571</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref34">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>764</xocs:ref-first-fp>
+            <xocs:ref-last-lp>777</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref35">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32631</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32636</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FENGX2019X91</xocs:refkey3>
+         <xocs:refkey4lp>FENGX2019X91X98</xocs:refkey4lp>
+         <xocs:refkey4ai>FENGX2019X91XW</xocs:refkey4ai>
+         <xocs:refkey5>FENGX2019X91X98XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-02-26T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-02-26T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-7753(19)30191-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378775319301910</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378775319301910</xocs:eid>
+         <xocs:doi>10.1016/j.jpowsour.2019.02.066</xocs:doi>
+         <xocs:cid>271367</xocs:cid>
+         <xocs:timestamp>2019-05-17T02:50:42.850074Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-04-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/MAIN/application/pdf/b455184f2d02f151bdefd5e3079af144/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2030607</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378775319301910-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/PREVIEW/image/png/f7a81dbf2a1e0d9c8cbec47ac3929d9e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50042</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr1/THUMBNAIL/image/gif/2a4a7fb4ce74e1678b12bd67453bc4e1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11762</xocs:filesize>
+               <xocs:pixel-height>62</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr2/THUMBNAIL/image/gif/3348cd49a92fabfb91bf74f52d8aea1c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23678</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr3/THUMBNAIL/image/gif/8d25982e679871f3afc880ff1be381a6/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17770</xocs:filesize>
+               <xocs:pixel-height>69</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr4/THUMBNAIL/image/gif/c0a5b215eae5819465a3e17cdd6ba018/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>37516</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr5/THUMBNAIL/image/gif/a1a85d30bb9246a07d7a942bfd305608/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>22363</xocs:filesize>
+               <xocs:pixel-height>136</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr6/THUMBNAIL/image/gif/f968879aaa753cb855026562c0634872/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23494</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr1/DOWNSAMPLED/image/jpeg/33085b3c0d33233483af6f352760c30b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>62935</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>780</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr2/DOWNSAMPLED/image/jpeg/cc1142bdf712ecdfafe9619218ff1ec4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>135626</xocs:filesize>
+               <xocs:pixel-height>570</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr3/DOWNSAMPLED/image/jpeg/4ce7019eef9df0c0a47d9d558c70e524/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80823</xocs:filesize>
+               <xocs:pixel-height>244</xocs:pixel-height>
+               <xocs:pixel-width>780</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr4/DOWNSAMPLED/image/jpeg/b5f17a0df3199d27b1f3a3312da5ce87/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>94435</xocs:filesize>
+               <xocs:pixel-height>360</xocs:pixel-height>
+               <xocs:pixel-width>513</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr5/DOWNSAMPLED/image/jpeg/1a5e2775593b1e3dfa09d146135ec08a/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>112962</xocs:filesize>
+               <xocs:pixel-height>443</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr6/DOWNSAMPLED/image/jpeg/5990492b78b92873ede22b5707f5355d/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127051</xocs:filesize>
+               <xocs:pixel-height>528</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr1/HIGHRES/image/jpeg/5f656685f3573cbf9fc1a941f0560a8e/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>357768</xocs:filesize>
+               <xocs:pixel-height>975</xocs:pixel-height>
+               <xocs:pixel-width>3453</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr2/HIGHRES/image/jpeg/2ca4a7e839560079c8965639ad7e494c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>917153</xocs:filesize>
+               <xocs:pixel-height>2524</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr3/HIGHRES/image/jpeg/135bd5b7d713ff73f0c0fb4082d99215/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>535990</xocs:filesize>
+               <xocs:pixel-height>1081</xocs:pixel-height>
+               <xocs:pixel-width>3453</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr4/HIGHRES/image/jpeg/e1dc1ab8bef8e63377f799298c4be5f3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>675201</xocs:filesize>
+               <xocs:pixel-height>1595</xocs:pixel-height>
+               <xocs:pixel-width>2272</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr5/HIGHRES/image/jpeg/23e7e67e60b50abb2930f3b89c3a7e44/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>724396</xocs:filesize>
+               <xocs:pixel-height>1960</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/gr6/HIGHRES/image/jpeg/ed60466347e1e6d071e26afa88785830/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>819602</xocs:filesize>
+               <xocs:pixel-height>2337</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775319301910/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/b913d24beacedc5721194e77abda3d3c/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>4199421</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775319301910-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>637331</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1053FFM9MG0/MAIN/application/pdf/43b0175a1a071bcc49f22ffbc8cad7ec/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1053FFM9MG0/MAIN/application/pdf/43b0175a1a071bcc49f22ffbc8cad7ec/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>POWER</jid>
+            <aid>26315</aid>
+            <ce:pii>S0378-7753(19)30191-0</ce:pii>
+            <ce:doi>10.1016/j.jpowsour.2019.02.066</ce:doi>
+            <ce:copyright type="unknown" year="2019"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Characterization of LLCZNO Electrolyte. (a) EIS profiles of the Garnet electrolyte at different temperatures. (b) Arrhenius plot of the Garnet electrolyte to present the activation energy. (c) XRD pattern of the LLCZNO pellet.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Characterization of Li/Garnet electrolyte interface. (a) Comparison of the EIS profiles of Li/LLCZNO/Li symmetric cell with and without Ag modification. Inset image shows the equivalent circuit of the symmetric cell. (b) Comparison of galvanostatic cycling performance of Li/LLCZNO/Li symmetric cells with and without Ag modification. (c) EIS profiles of Li/Ag-LLCZNO/Li symmetric cell during the direct current polarization test. (d) Voltage profile of Li/Ag-LLCZNO/Li symmetric cell when current density was doubled.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Reduced ASR from the perspective of Li/Garnet interface. (a)–(d) Schematic of Li/Garnet interface with and without Ag modification and the changes during direct current polarization test. Cross sectional SEM image of Li/Garnet interface (e) without and (f) with Ag layer. (g) Zoomed in image of Li/Ag-LLCZNO interface. (h) Zoomed in Li/Ag-LLCZNO interface after 10 h Li plating and stripping under 0.1 mA/cm<ce:sup loc="post">2</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(a) Cross sectional SEM image of Li dendrite among the grain boundary of the Garnet electrolyte. (b) Cross sectional SEM image of Li dendrite on Li/pristine-LLCZNO interface. (c) Zoomed in image of Li dendrite. (d) Cross sectional SEM image of Li/Ag-LLCZNO interface after 100 h Li plating and stripping under 0.1 mA/cm<ce:sup loc="post">2</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(a)–(c) Schematic of toothpaste like cathode painted on Garnet pellet. (d) EIS profiles of Cathode/LLCZNO/Cathode symmetric cell. (e) Comparison of the EIS profiles of Li/Garnet/LMO with and without Ag modification.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Electrochemical performance of hybrid solid state Li/Ag-LLCZNO/LMO full cell. (a) Cycling performance of the hybrid solid state full cell at the current density of 0.2C. (b) Galvanostatic charge/discharge profiles of the full cell. (c) Comparison of rate performance from 0.1C to 1C. (d) EIS profiles of Li/Ag-LLCZNO/LMO full cell during cycling.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0378775319301910/gr6"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Interfacial modification of Li/Garnet electrolyte by a lithiophilic and breathing interlayer</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0003-0450-3396" author-id="S0378775319301910-ed90592a35ba2e253bfc1c38067adff7">
+                  <ce:given-name>Wuliang</ce:given-name>
+                  <ce:surname>Feng</ce:surname>
+               </ce:author>
+               <ce:author id="au2" author-id="S0378775319301910-42dfac525451795fd7b95d37db1ba68d">
+                  <ce:given-name>Xiaoli</ce:given-name>
+                  <ce:surname>Dong</ce:surname>
+               </ce:author>
+               <ce:author id="au3" author-id="S0378775319301910-ca4351b4d69cd795bb3ba4a9534ea3af">
+                  <ce:given-name>Panlong</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+               </ce:author>
+               <ce:author id="au4" author-id="S0378775319301910-3f5cc3fabd1efe839d8b2407c31af2cd">
+                  <ce:given-name>Yonggang</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:author id="au5" author-id="S0378775319301910-3e53c2ccddd1c9f646e871e9ea4c2741">
+                  <ce:given-name>Yongyao</ce:given-name>
+                  <ce:surname>Xia</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0378775319301910-cf01fcfba3ca43d0af70ce0206b4e943">
+                  <ce:textfn>Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Institute of New Energy, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai, 200433, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemistry and Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials</sa:organization>
+                     <sa:organization>Institute of New Energy</sa:organization>
+                     <sa:organization>Collaborative Innovation Center of Chemistry for Energy Materials</sa:organization>
+                     <sa:organization>Fudan University</sa:organization>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200433</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="11" year="2018"/>
+            <ce:date-revised day="26" month="1" year="2019"/>
+            <ce:date-accepted day="19" month="2" year="2019"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Garnet type electrolyte is of particular interest due to its outstanding stability against Li metal and high ionic conductivity at room temperature. But insufficient solid to solid contact hinders its further application on solid state batteries. Herein, we demonstrate a strategy to deal with the large impedance of Li/Garnet interface by introducing Li<ce:glyph name="sbnd"/>Ag alloy reaction at the interface. Due to the lithiophilic nature of Ag interlayer, intimate contact of the interface successfully reduces the area specific resistance of Li/Garnet from 1534 Ωcm<ce:sup loc="post">2</ce:sup> to 66 Ωcm<ce:sup loc="post">2</ce:sup>. Li dendrite is also suppressed not only at the Li/Garnet interface but among the Garnet grain boundary due to the moderate Li flux environment. Hybrid solid state Li/Garnet/LiMn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> full cell with remarkable electrochemical properties is achieved. The hybrid solid state batteries with a “breathing” Li/Garnet interface helps better understand the interface behavior of the Li/Garnet and provides more inspirations to further realize solid state batteries with high energy and power density.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid state electrolyte</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Garnet</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Lithium</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Interface</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Interlayer</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Lithium-ion batteries have been widely commercialized since 1990s, but it is hard to meet the quick demands of higher energy and power density nowadays [<ce:cross-ref refid="bib1" id="crosref0015">1</ce:cross-ref>,<ce:cross-ref refid="bib2" id="crosref0020">2</ce:cross-ref>]. Meanwhile, electrochemical window of the organic liquid electrolyte is quite narrow, which limits its integration with high voltage cathodes. Thermal instability of the organic liquid electrolyte also remains a safety concern [<ce:cross-refs refid="bib3 bib4 bib5" id="crosrefs0010">3–5</ce:cross-refs>]. Therefore, lithium metal anode is the ultimate goal to achieve energy density exceeding 500 Wh/kg, for its high theoretical capacity (3860 mAh/g) and low reduction potential (−3.04 V) [<ce:cross-ref refid="bib6" id="crosref0025">6</ce:cross-ref>,<ce:cross-ref refid="bib7" id="crosref0030">7</ce:cross-ref>]. Inorganic solid state electrolytes (SSEs) have been risen into particular interest due to their inflammability to exclude the safety worries, wide electrochemical window to provide the potential to utilize high voltage cathodes, outstanding mechanical strength to block Li dendrite to some extent [<ce:cross-ref refid="bib8" id="crosref0035">8</ce:cross-ref>,<ce:cross-ref refid="bib9" id="crosref0040">9</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0030" view="all">Different kinds of SSEs have been investigated during the last two decades, including NASICON-type Li conductors [<ce:cross-ref refid="bib10" id="crosref0045">10</ce:cross-ref>], perovskite and antiperovskite types [<ce:cross-ref refid="bib11" id="crosref0050">11</ce:cross-ref>,<ce:cross-ref refid="bib12" id="crosref0055">12</ce:cross-ref>], sulfide-based glasses or ceramics [<ce:cross-ref refid="bib13" id="crosref0060">13</ce:cross-ref>,<ce:cross-ref refid="bib14" id="crosref0065">14</ce:cross-ref>], Garnet type [<ce:cross-ref refid="bib15" id="crosref0070">15</ce:cross-ref>,<ce:cross-ref refid="bib16" id="crosref0075">16</ce:cross-ref>], etc. The problems that a successful solid state battery need to cope with is not only the ionic conductivity enhancement, but more importantly, the large impedance at the grain boundary and electrolyte/electrode interface. It is generally believed that crystalline electrolytes show better thermal stabilities than glass type materials, but glasses are superior especially in terms of the reduced grain boundary [<ce:cross-ref refid="bib17" id="crosref0080">17</ce:cross-ref>]. Attributed to the much declined grain boundary resistance and super fast Li-ion transportation, continuously progress of the Li-ion conductivity improvement of the SSEs has realized in 10<ce:sup loc="post">−2</ce:sup> S/cm by Li<ce:inf loc="post">10</ce:inf>GeP<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">12</ce:inf> (LGPS) family [<ce:cross-ref refid="bib18" id="crosref0085">18</ce:cross-ref>]. Li-ion conductivity of 25 mS/cm for Li<ce:inf loc="post">9.54</ce:inf>Si<ce:inf loc="post">1.74</ce:inf>P<ce:inf loc="post">1.44</ce:inf>S<ce:inf loc="post">11.7</ce:inf>Cl<ce:inf loc="post">0.3</ce:inf>was reported by Kanno's group, which is even higher than its liquid-state counterpart [<ce:cross-ref refid="bib19" id="crosref0090">19</ce:cross-ref>]. But unfortunately, the limited electrochemical window and poor interfacial stability against metal Li limited the application of LGPS SSEs family [<ce:cross-ref refid="bib20" id="crosref0095">20</ce:cross-ref>]. Oxynitride type SSEs such as Li phosphorus oxynitride (LiPON) are generally considered to be electrochemically stable against metal Li, but the relatively low ionic conductivity limits it to only thin-film batteries [<ce:cross-ref refid="bib21" id="crosref0100">21</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0035" view="all">A proof of concept based on density functional theory (DFT) calculation demonstrates that almost all of the SSEs are thermodynamically unstable against Li [<ce:cross-ref refid="bib22" id="crosref0105">22</ce:cross-ref>]. However, Garnet type SSEs Li<ce:inf loc="post">7</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">12</ce:inf> (LLZO) presents the lowest reduction potential against Li, which forms the most stable Li/SSEs interface [<ce:cross-ref refid="bib23" id="crosref0110">23</ce:cross-ref>]. Garnet SSE also possesses a wide electrochemical window [<ce:cross-ref refid="bib24" id="crosref0115">24</ce:cross-ref>], stable when exposed in air [<ce:cross-ref refid="bib25" id="crosref0120">25</ce:cross-ref>], and high ionic conductivity at room temperature [<ce:cross-ref refid="bib26" id="crosref0125">26</ce:cross-ref>]. Since the first discovery of cubic phase LLZO, extensively studies recently focus on the reduction of electrolyte/electrode interface resistance. According to the anode side, molten Li has poor wetability on Garnet surface due to the inevitable synthesize of Li<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>. Insufficient surface contact of the Li/Garnet interface leads to quite a large impedance. To tackle this problem, lots of investigations have been reported by introducing an interlayer in between, such as soft polymer [<ce:cross-refs refid="bib27 bib28 bib29" id="crosrefs0015">27–29</ce:cross-refs>] and metal/metallic oxide like Si [<ce:cross-ref refid="bib30" id="crosref0130">30</ce:cross-ref>], Mg [<ce:cross-ref refid="bib31" id="crosref0135">31</ce:cross-ref>], Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> [<ce:cross-ref refid="bib32" id="crosref0140">32</ce:cross-ref>] and ZnO [<ce:cross-ref refid="bib33" id="crosref0145">33</ce:cross-ref>], etc. However, for metal interlayers, there still lack of studies on the circumstance of the contact of interlayer with Li<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf> coated Garnet. In principle, metals that can alloy with Li are all capable as the artificial modification interlayer. But just like making a sandwich, there is at least one new interface is introduced. Since bulk Li has reacted with the artificial interlayer, what we concern remains the circumstance of the artificial interlayer/Garnet interface. Garnet powder synthesized by sol-gel method generally possess much smaller particle size than solid reaction method, thus leaves quite large specific area on pellet surface. The ideally intimate contact of the interlayer/Li<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf> coated Garnet interface needs more in-depth studies.</ce:para>
+                  <ce:para id="p0040" view="all">With prominent lithiophilic character, Ag is carried out in the study of Li stripping and plating behavior [<ce:cross-ref refid="bib34" id="crosref0150">34</ce:cross-ref>]. In this work, Ag was introduced into anode side as Li/Li<ce:inf loc="post">7</ce:inf>La<ce:inf loc="post">2.75</ce:inf>Ca<ce:inf loc="post">0.25</ce:inf>Zr<ce:inf loc="post">1.75</ce:inf>Nb<ce:inf loc="post">0.25</ce:inf>O<ce:inf loc="post">12</ce:inf> (LLCZNO) artificial interlayer, which displayed much more reduced interfacial resistance comparing with other candidates such as Bi, In, Sb and Au (<ce:cross-ref refid="appsec1" id="crosref0155">Fig. S1</ce:cross-ref>). We then investigated the mutual interaction of Ag interlayer with both Li anode and Garnet electrolyte. The area specific resistance (ASR) of the Li/Garnet interface was successfully decreased from 1534 Ωcm<ce:sup loc="post">2</ce:sup> to 66 Ωcm<ce:sup loc="post">2</ce:sup>. Excellent wetting property of molten Li on the modified Garnet pellet was achieved due to the driving force of Li<ce:glyph name="sbnd"/>Ag alloy reaction. The sputtered Ag film does not act as blocking electrode because molten Li has reacted with Ag film to form a Li<ce:sup loc="post">+</ce:sup> conducting ultra-thin alloy layer. Moreover, interfacial impedance decreased continuously during Li plating and striping cycling until the polarization voltage became stable. The artificial interlayer bridged the Li and pristine LLCZNO electrolyte to form an intimate contact and finally diffused into bulk Li as Li<ce:glyph name="sbnd"/>Ag alloy. Based on the engineered interface, the toothpaste like LiMn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> (LMO) composited cathode and Li were integrated with LLCZNO pellet to make a Li/Garnet/LMO full cell. The full cell delivered excellent cycling and rate properties to further verified the improved interfacial performance. We believe that this study will provide a new angle to investigate the interfacial changes at Li/Garnet and offer more enlightenments in achieving solid state batteries with outstanding properties.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental section</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Garnet LLCZNO electrolyte preparation</ce:section-title>
+                     <ce:para id="p0045" view="all">Cubic Garnet LLCZNO powder was synthesized by a typical sol-gel method as follow. Stoichiometric amounts of precursors: LiNO<ce:inf loc="post">3</ce:inf> (99.99%, Sigma-Aldrich), La(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>.6H<ce:inf loc="post">2</ce:inf>O (99%, Macklin), Ca(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf> (99.9%, Sigma-Aldrich), ZrO(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>.xH<ce:inf loc="post">2</ce:inf>O (99.99%, Sigma-Aldrich), and NbCl<ce:inf loc="post">5</ce:inf> (99.99%, Alfa Aesar) were dissolved in de-ionized water. 10% excess LiNO<ce:inf loc="post">3</ce:inf> was added to compensate for the unavoidable Li losses during calcinations. Citric acid and ethylene glycol were consequently added in the molar ratio of 1:1. The mixed precursors were dried at 110 °C for 10h and then heated to 400 °C and 750 °C for 10 h to eliminate ethylene glycol and citric acid respectively. The LLCZNO powder was uniaxially pressed into pellets under the pressure of 400 MPa, and then sintered at 950 °C for 2 h and 1100 °C for 10 h to acquire stable cubic phase with the coverage of LLCZNO mother powder. The as synthesized pellets were polished to a thickness of 0.6 mm and stored in high purity Argon. Magnetron Sputtering was applied to deposit Ag interlayer on either side of the Garnet pellet with 300 nm in thickness.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">Li/Garnet/Li Symmetric Cell assembly</ce:section-title>
+                     <ce:para id="p0050" view="all">The LLCZNO pellets with and without Ag coating layer were assembled into Li/Garnet/Li symmetric cell in argon filled glovebox. Li foils with 100 μm thickness and 8 mm in diameter were attached on both sides of the Garnet pellets and sandwiched between two stainless steels. The whole structure was heated in 200 °C for 10 min to soften the Li metal. A cylinder stainless steel gave a pressure of 3980 Pa on the topside to insure good contacts. The symmetric cell was cooled to room temperature naturally and then assembled in swagelok cell.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">Toothpaste - like cathode synthesis and Li/Garnet/LMO full cell assembly</ce:section-title>
+                     <ce:para id="p0055" view="all">For the Li/Garnet/LMO full cell assembly, Li was attached and heated with Garnet in the same way as symmetric cell. The toothpaste like LMO cathode was referred from Chen's work [<ce:cross-ref refid="bib35" id="crosref0160">35</ce:cross-ref>]. LiTFSI (99%, Aldrich) was dissolved in PY14TFSI (Moni Chem. Eng. Sci. &amp; Tech. Co., Ltd.) with a concentration of 0.3 M LiMn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> and Super-P with a mass ratio of 3:1 was grounded before adding the ionic liquid (IL) solution. The cathode was stirred thoroughly in the argon filled glovebox and remained toothpaste like. The mass ratio of active material, conductive agent, lithium salt and ionic liquid is 12: 4: 3: 29. A thin PTFE die was made into 8 mm in diameter and covered on the front side of the Li attached Garnet pellet, then painted with the LMO cathode. The percentage of the active material was 25 wt % and the whole cathode materials loading was about 1.8 mg. A stainless steel was attached on the top side as current collector and the full cell was assembled and tested in CR-2016 coin cell.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">Characterization</ce:section-title>
+                     <ce:para id="p0060" view="all">Au was deposited on both sides of the Garnet pellet acting as a blocking electrode to measure the ionic conductivity of LLCZNO electrolyte. The electrochemical impedance spectroscopy (EIS) was performed in a frequency range from 7 MHz to 0.1 Hz with 50 mV perturbation amplitude. The activation energy (Ea) was obtained from the conductivities as the function of temperature (23–50 °C) by Arrhenius equation. X-ray diffraction (XRD) data was characterized by Bruker D8 advance diffractometer by Cu Kα radiation. The morphology of LLCZNO surface, Li-LLCZNO interface and Li dendrite were characterized by scanning electron microscopy (SEM) (JOEL JSM-6390). Galvanostatic stripping and plating of the symmetric cell, cyclic and rate properties were operated on LAND CT2001A Battery Cycler (Wuhan, China). Surface roughness was operated by atomic force microscope (AFM, Bruker Multimode 8).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0055">Results and discussions</ce:section-title>
+                  <ce:para id="p0065" view="all">Based on the typical Li<ce:inf loc="post">7</ce:inf>La<ce:inf loc="post">3</ce:inf>Zr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">12</ce:inf> (LLZO) Garnet electrolyte, Ca<ce:sup loc="post">2+</ce:sup> and Nb<ce:sup loc="post">5+</ce:sup> were introduced to simultaneously substitute La<ce:sup loc="post">3+</ce:sup> and Zr<ce:sup loc="post">4+</ce:sup> site, which brought the advantages of lower sintering temperature and more stable cubic phase. The diameter of the primary particle is about 15 nm (<ce:cross-ref refid="appsec1" id="crosref0165">Fig. S2 a</ce:cross-ref>). Even though the particle aggregated conspicuously after 1050 °C sintering, but the particle size was still in nano scale (<ce:cross-ref refid="appsec1" id="crosref0170">Fig. S2 b</ce:cross-ref>). Cross-sectional SEM image of the sintered Garnet in <ce:cross-ref refid="appsec1" id="crosref0175">Fig. S2</ce:cross-ref> c show that the pellet is dense as a whole regardless of the inevitable created pores. The relative density of the LLCZNO pellet is measured to be 92.3% by means of Archimedes method in ethanol. In order to eliminate the impact of Li<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf> as much as possible, the pellet surface was polished and remained a roughness of 228 nm (<ce:cross-ref refid="appsec1" id="crosref0180">Fig. S3</ce:cross-ref>). Li-ion conductivity of the LLCZNO was evaluated under the temperatures range from 23 to 50 °C and the corresponding Nyquist plots are displayed in <ce:cross-ref refid="fig1" id="crosref0185">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>a. The real axis intercept at high frequency corresponds to the bulk resistance while the grain boundary response is related to the real axis intercept of the first arc. The 45° slope low-frequency tail is associated with the Warburg impedance due to the capacitive behavior of Li-ion-blocking Au electrode. The sum of bulk and grain boundary ASR is simulated to be196 Ωcm<ce:sup loc="post">2</ce:sup>. The Li-ion conductivity at 23 °C is 3.22 × 10<ce:sup loc="post">−4</ce:sup> Scm<ce:sup loc="post">−1</ce:sup> and the activation energy is calculated to be 0.37 eV by the Arrhenius plot in <ce:cross-ref refid="fig1" id="crosref0190">Fig. 1</ce:cross-ref>b. XRD pattern in <ce:cross-ref refid="fig1" id="crosref0195">Fig. 1</ce:cross-ref>c shows that the LLCZNO pellet matches well with the typical cubic Garnet-phase Li<ce:inf loc="post">5</ce:inf>La<ce:inf loc="post">3</ce:inf>Nb<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">12</ce:inf> (PDF 80–0457), indicating that the synthesized LLCZNO is in pure cubic phase.</ce:para>
+                  <ce:para id="p0070" view="all">Two pieces of Li discs were heated on each side of LLCZNO pellet. The alloy of Ag and Li led to the modified wettability between Li and LLCZNO. Due to the infinite Li/Ag mass ratio, Li foil stays unchanged while a Li<ce:glyph name="sbnd"/>Ag alloy layer formed in between. Li/LLCZNO/Li symmetric cell was made to evaluate the interfacial resistance by EIS measurement. Due to the lithiophobic nature of Li/Garnet interface, the interfacial resistance of Li/pristine LLCZNO can be much larger than the one with Ag modification. <ce:cross-ref refid="fig2" id="crosref0200">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>a demonstrated the dramatically decreased interfacial impedance by introducing Ag interlayer. The ASR of Li/LLCZNO/Li symmetric cell without and with Ag modification is calculated to be 3264 Ωcm<ce:sup loc="post">2</ce:sup> and 623 Ωcm<ce:sup loc="post">2</ce:sup>, respectively. Since that the interfacial ASR consists of two same parts, the interfacial ASR of the Li/LLCZNO without and with Ag modification should be calculated to be 1534 Ω cm<ce:sup loc="post">2</ce:sup> and 214 Ωcm<ce:sup loc="post">2</ce:sup>, respectively. Equivalent circuit of the symmetric cell is illustrated and inserted into <ce:cross-ref refid="fig2" id="crosref0205">Fig. 2</ce:cross-ref>a, where R<ce:inf loc="post">0</ce:inf> represents for bulk resistance of LLCZNO electrolyte, R<ce:inf loc="post">1</ce:inf> and C<ce:inf loc="post">1</ce:inf> are for grain boundary impedance of Garnet LLCZNO, R<ce:inf loc="post">2</ce:inf> and the constant phase element CPE<ce:inf loc="post">1</ce:inf> are for charge transfer resistance and double-layer capacitance of Li/Ag-LLCZNO interface, the Warburg impedance element W, and CPE<ce:inf loc="post">2</ce:inf> are for diffusion impedance.</ce:para>
+                  <ce:para id="p0075" view="all">To investigate the impact of interlayer thickness on interfacial resistance, different deposition time was controlled to acquire Ag film with the thickness of 100 nm, 300 nm and 500 nm on garnet pellet. EIS measurements of the Li/Ag-LLCZNO/Li symmetric cells shown in <ce:cross-ref refid="appsec1" id="crosref0210">Fig. S4</ce:cross-ref> demonstrated that the impact of interlayer thickness is insignificant. In principle, as soon as the surface of Garnet is cover by Ag, no matter how thick it is, the intimate contact of Li/Garnet is driven by Li<ce:glyph name="sbnd"/>Ag alloy reaction. The reaction area has bigger effect on the wetability rather than the reaction depth. Similar phenomenon is also found in Mg modified Garnet electrolyte [<ce:cross-ref refid="bib31" id="crosref0215">31</ce:cross-ref>]. Voltage profiles of the symmetric cells with and without Ag modification are displayed in <ce:cross-ref refid="fig2" id="crosref0220">Fig. 2</ce:cross-ref>b. It worth noticing that the interfacial resistance was still decreasing during the direct current (DC) polarization test, especially in the first several Li plating and striping cycles. The voltage platform of Li/Ag-LLCZNO/Li symmetric cell declined at the beginning of Li plating and stripping cycles at the current density of 0.1 mA/cm<ce:sup loc="post">2</ce:sup>, and stabilized afterwards. The polarization voltage of Li/pristine-LLCZNO/Li symmetric cell is much larger during the 72 h cycles until suddenly short circuit occurred. Li dendrite was found inside the Garnet pellet (<ce:cross-ref refid="fig4" id="crosref0225">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> a<ce:float-anchor refid="fig4"/>). Voltage platform in the first 10 h of both symmetric cells are zoomed in as inset image in <ce:cross-ref refid="fig2" id="crosref0230">Fig. 2</ce:cross-ref>b. According to the Li/Ag-LLCZNO/Li symmetric cell, there was a sharp decline in the beginning and became mitigated after 5th or 6th cycles, the polarization voltage then stayed almost unchanged, indicating that a stable interface was formed. EIS measurements of the symmetric cells were operated simultaneously after each cycle of direct current polarization test. As shown in <ce:cross-ref refid="fig2" id="crosref0235">Fig. 2</ce:cross-ref> c, interfacial ASR of Li/Ag modified LLCZNO kept declining during the first 10 Li plating and stripping cycles, reaching to 66 Ωcm<ce:sup loc="post">2</ce:sup> after the 10th cycle, which is less than twentieth of the interfacial resistance of the counterpart without Ag modification. Comparison of the interfacial resistance of state-of-the-art Garnet modifications is summarized in <ce:cross-ref refid="appsec1" id="crosref0240">Table S1</ce:cross-ref>. When the current density was doubled in <ce:cross-ref refid="fig2" id="crosref0245">Fig. 2</ce:cross-ref>d, voltage profile of Li/Ag-LLCZNO/Li symmetric cell can still keep in stable during the 100 h test, with a little mitigation in the first 5 h.</ce:para>
+                  <ce:para id="p0080" view="all">
+                     <ce:cross-ref refid="fig3" id="crosref0250">Fig. 3</ce:cross-ref>a and b illustrate how Ag interlayer reduced the interfacial impedance at the first step while <ce:cross-ref refid="fig3" id="crosref0255">Fig. 3</ce:cross-ref>c and d demonstrate the more intimate contact during direct current polarization test at the second step. The poor wetability lead to randomly appeared large gaps in Li/pristine-LLCZNO interface, which hindered the intimate contact and remained huge interface resistance (<ce:cross-ref refid="fig3" id="crosref0260">Fig. 3</ce:cross-ref>a). When Ag was deposited on the Garnet surface, molten Li conformally contacted with the LLCZNO surface and eliminated the large voids, which contributed to the significantly reduced interfacial resistance (<ce:cross-ref refid="fig3" id="crosref0265">Fig. 3</ce:cross-ref>b). Regardless of the good wetability of molten Li on metal interlayer, the contact of these metal interlayers on Garnet surface still remains an issue. Generally, small Garnet particles and grain boundaries are crucial to the roughness. The rougher surface on one hand provides the potential of increased total contact area, which is beneficial to decrease interfacial resistance, but on the other hand it has a risk to leave even more pores or voids. In other words, no matter how smooth the LLCZNO pellet can be polished, there always exists some pore structures or mini voids that Ag interlayer cannot intimately coated on (<ce:cross-ref refid="fig3" id="crosref0270">Fig. 3</ce:cross-ref>c). What is more, comparing with the solid reaction synthesis of the Garnet electrolyte, sol-gel method brings much reduced particle size and larger specific surface area, which is possible leave even more pores or voids on the Garnet surface.</ce:para>
+                  <ce:para id="p0085" view="all">But fortunately, this problem can be effectively resolved by volume expansion of Li<ce:glyph name="sbnd"/>Ag alloy. The expanded Li<ce:glyph name="sbnd"/>Ag alloy acted as a “breathing interface” when DC polarization test was operated, and it was able to fill inside the uncoated pores or voids to form an improved intimate contact between LLCZNO and Li<ce:glyph name="sbnd"/>Ag alloy layer (<ce:cross-ref refid="fig3" id="crosref0275">Fig. 3</ce:cross-ref>d). The cross-sectional SEM and Energy dispersive X-ray (EDX) image of Li and Ag modified LLCZNO interface in <ce:cross-ref refid="appsec1" id="crosref0280">Fig. S5</ce:cross-ref> a displayed not only a Ag pick at the interface, but inside the LLCZNO pellet, indicating that Ag diffused inside the LLCZNO pellet by alloy expansion. All of the Li<ce:glyph name="sbnd"/>Ag alloy expansion and fill-in-voids behaviors kept in pace with Li plating and stripping. The gradually reduced pores and voids led to a continuously decreased interfacial resistance, which was in strong accordance with the EIS and direct current polarization measurements.</ce:para>
+                  <ce:para id="p0090" view="all">Cross sectional SEM image of Li and Garnet LLCZNO interface from <ce:cross-ref refid="fig3" id="crosref0285">Fig. 3</ce:cross-ref>e–h are in one-to-one correspondence with the schematic figure from 3a to 3d. <ce:cross-ref refid="fig3" id="crosref0290">Fig. 3</ce:cross-ref>e demonstrated the pristine lithiophobicity Li/LLCZNO interface with large gap. Just a few of contact area can be found. As the Garnet pellet was Ag treated, the gap of Li/Garnet interface was replaced by consecutive surface-to-surface contact (<ce:cross-ref refid="fig3" id="crosref0295">Fig. 3</ce:cross-ref>f). When the interface region was zoomed in (<ce:cross-ref refid="fig3" id="crosref0300">Fig. 3</ce:cross-ref>g), a layer of Li<ce:glyph name="sbnd"/>Ag alloy was found in the middle and was in close contact with both bulk Li foil and LLCZNO pellet. However, legible small voids could also be noticed in the alloy/LLCZNO interface, which limited the improvement of interfacial resistance reduction. But after 10 h Li plating and stripping under 0.1 mA/cm<ce:sup loc="post">2</ce:sup>, due to the further expansion of Li<ce:glyph name="sbnd"/>Ag phase, the voids were filled by the “breathing” Li/Ag-LLCZNO interface (<ce:cross-ref refid="fig3" id="crosref0305">Fig. 3</ce:cross-ref>h).</ce:para>
+                  <ce:para id="p0095" view="all">Due to the poor contact and huge interfacial resistance on the Li/Garnet interface, the uneven Li plating on that area prone to form Li dendrite. Thus, the sudden cease of the voltage profile of the Li/pristine-LLCZNO/Li symmetric cell in 72nd h in <ce:cross-ref refid="fig2" id="crosref0310">Fig. 2</ce:cross-ref>b was attributed to the dendrite that penetrated the whole Garnet pellet. Cross sectional SEM image in <ce:cross-ref refid="fig4" id="crosref0315">Fig. 4</ce:cross-ref>a revealed that the dendrite grew along the grain boundary and clearly covered the whole region of the grain boundary. The needle-like Li dendrite can also be found in Li/pristine LLCZNO interface where Li fluxed unevenly (<ce:cross-ref refid="fig4" id="crosref0320">Fig. 4</ce:cross-ref>b and c). Nevertheless, with Ag modification, Li and Garnet surface not only contact intimately as soon as the molten Li was wetted, but further improved along with Li striping and plating. The homogeneous deposition of Ag interlayer provided a moderate Li flux environment to suppress Li dendrite. <ce:cross-ref refid="fig4" id="crosref0325">Fig. 4</ce:cross-ref>d demonstrated the intimate contact of Li and LLCZNO after 100 h Li striping and plating without any dendrite. It is also interesting to find that the Li<ce:glyph name="sbnd"/>Ag alloy layer disappeared, which can be attributed to the Ag diffusion and reaction into the bulk Li foil during the long-time cycling. Instead of the strong Ag picks either inside the Garnet pellet or at the interlayer, <ce:cross-ref refid="appsec1" id="crosref0330">Fig. S5</ce:cross-ref> b demonstrated that Ag had diffusion deep into the bulk Li after 100 h DC polarization test.</ce:para>
+                  <ce:para id="p0100" view="all">To further evaluate the surface resistance reduction and the interface stability, the application of the Li-metal alloy interlayer was extended to Li/Ag-LLCZNO/LMO hybrid-solid-state full cell. LMO was made into toothpaste like composited cathode to reduce the large impedance at the cathode/LLCZNO interface. Schematic image in <ce:cross-ref refid="fig5" id="crosref0335">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>a–c displays the method to paint the LMO cathode on Garnet pellet. Due to the high stickiness of the toothpaste like cathode, painting directly on LLCNZO surface is prone to remain an irregular pasting area, which might lead to the risk of flowing to the edge of the Garnet pellet to contact with metal Li. As the result, a thin PTFE was made into a die with 8 mm in diameter. The composited LMO cathode was painted on to and left a regular round area. Stainless steel was adhered on the top side as current collector.</ce:para>
+                  <ce:para id="p0105" view="all">To evaluate the interfacial resistance of toothpaste like LMO and LLCZNO, symmetric cell with LMO painted on both sides of LLCZNO pellet, and with stainless steel pressed on each front side was made and tested (<ce:cross-ref refid="fig5" id="crosref0340">Fig. 5</ce:cross-ref>d). Generally, the first inflection point occurred in the range of 0.8–1 MHz which is corresponding to grain boundary impedance of the Garnet pellet. Since the first inflection point appeared at 14.9 KHz, the first semicircle from high frequency to middle frequency should be the sum of grain boundary impedance of the Garnet R<ce:inf loc="post">1</ce:inf> and interfacial resistance of cathode/LLCZNO R<ce:inf loc="post">2</ce:inf>. The whole ASR of these two parts is fitted to be 1083 Ωcm<ce:sup loc="post">2</ce:sup> and the cathode/LLCZNO interfacial resistance is calculated to be 493 Ωcm<ce:sup loc="post">2</ce:sup>. The remaining smaller semicircle hence represents for the grain boundary impedance inside the cathode R<ce:inf loc="post">3</ce:inf>. To further investigate the deduction, symmetric cell with triple amount of cathode was pasted on both sides of the Garnet pellet (5.4 mg). The same painted area indicated the same interfacial resistance. EIS measurement illustrated in <ce:cross-ref refid="appsec1" id="crosref0345">Fig. S6</ce:cross-ref> display a much enlarged second semicircle, implying the increasing amount of cathode loading lead to the increasing grain boundary impedance inside the cathode. Interface and grain boundary resistance of the cathode can be mitigated by the application of ionic liquid but cannot be fully eliminated. It is necessary to note that 25% wt active material content is small. The impedance of the cathode/Garnet interface increased dramatically with the augment of solid content of the toothpaste cathode. For example, when active material content is increased by 10%, the solid content would reach to about 53% and the impedance of the cathode/Garnet interface would be almost doubled. But when the active material decreased to 15%wt, the solid content would reduce to about 27% and became too mobile. We thus chose a moderate active material content of 25% wt. <ce:cross-ref refid="fig5" id="crosref0350">Fig. 5</ce:cross-ref>e illustrates the impedance profile of the hybrid solid state full cell with and without Ag modification on Garnet surface. The fragmentary tiny semicircle at high frequency in correspondence to the grain boundary of Garnet LLCZNO while the big medium frequency semicircle is attributed to the integration of the impedance from both cathode and anode sides. With Ag deposited, the ASR of the full cell decreased from 2153 Ωcm<ce:sup loc="post">2</ce:sup> to 1033 Ωcm<ce:sup loc="post">2</ce:sup>, which is mainly attributed to the improved Li/Ag-LLCZNO interface. Impedance and equivalent circuit parts summary of the LLCZNO electrolyte, Li/Garnet/Li Symmetric Cell, and Li/Garnet/LMO full cell are displayed in <ce:cross-ref refid="appsec1" id="crosref0355">Table S2</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0110" view="all">The coulombic efficiency demonstrated in <ce:cross-ref refid="fig6" id="crosref0360">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>a was around 99% with bits of fluctuation. The hybrid solid-state battery was cycled at 0.2C in room temperature, with 81.5% capacity retention after 100 cycles. The charge and discharge profiles of the battery are displayed in <ce:cross-ref refid="fig6" id="crosref0365">Fig. 6</ce:cross-ref>b. Initial charge and discharge capacity of 119 and 108 mAh/g was delivered. The coulombic efficiency of the first cycle was 90.8%, where a proportion of the Li that cannot return back to cathode probably due to its reaction with the remaining unalloyed Ag. The subsequently increased coulombic efficiency was in accordance with the mitigated surface reaction that enhanced the interface stability. <ce:cross-ref refid="fig6" id="crosref0370">Fig. 6</ce:cross-ref>c compares the rate property from 0.1C to 1C of three kinds of battery, hybrid solid-state with and without Ag modification and the liquid state Li-ion battery. The hybrid solid state cell without Ag interlayer delivered the least specific capacity, which is mainly due to the high impedance at Garnet/anode side. The improved rate performance of the one with Ag interlayer demonstrated that the fully contacted Garnet/anode provided fast Li transport through the interlayer and the capacities of the battery can be well matched with the liquid state one at small rates. However, when it came to 0.5C and 1C, the liquid state battery still delivered the best performance. Even though the Li/Garnet interface resistance can be much reduced by introducing an artificial interface, the full cell impedance is still one order of magnitude larger than the liquid-state one (<ce:cross-ref refid="appsec1" id="crosref0375">Fig. S7</ce:cross-ref>). Li/Garnet/Cu half cell was also assembled to study the Li deposition/stripping performance. The amount of Li deposition is equal with the first charge capacity of Li/Garnet/LMO full cell. In order to avoid the solid contact of LLCZNO with Cu foil. The same amount of LiTFSI and PY14TFSI was applied to wet the interface. The coulombic efficiency of the first cycle was 86.6% and the average coulombic efficiency was calculated to be 96.1% (0.125 mA/cm<ce:sup loc="post">2</ce:sup>). Image of the first charge/discharge and cycling performance are displayed in <ce:cross-ref refid="appsec1" id="crosref0380">Fig. S8</ce:cross-ref>. Moreover, the interface stability for longer time cycling still remains an issue due to the volume expansion of Li-Metal alloy. Instead of staying still, Ag layer diffused to both sides with Li plating and striping by the force of alloy reaction. After 2 charge and discharge cycles, there found a noticeable decreased ASR of the Ag modified battery. But when it finished at the 100<ce:sup loc="post">th</ce:sup> cycles, the ASR increased dramatically (<ce:cross-ref refid="fig6" id="crosref0385">Fig. 6</ce:cross-ref>d). The most convincing explanation is the constantly shrinkage-swelling of the Li<ce:glyph name="sbnd"/>Ag alloy that led to some cracks at the interface. Similar phenomenon could also occur in other alloy interlayers such as Li<ce:inf loc="post">x</ce:inf>Bi, Li<ce:inf loc="post">x</ce:inf>Sb, Li<ce:inf loc="post">x</ce:inf>Au, Li<ce:inf loc="post">x</ce:inf>In. XRD patter revealed a final compose of Li<ce:glyph name="sbnd"/>Ag alloy in <ce:cross-ref refid="appsec1" id="crosref0390">Fig. S9</ce:cross-ref>. To eliminate the disturbance of LLCZNO pick, Ag film was deposited on stainless steel then react with molten Li. The main phase of the product was Li<ce:inf loc="post">10</ce:inf>Ag<ce:inf loc="post">3</ce:inf> with small amount of LiAg and excessive unalloyed Li. Volume expansion of Ag film was measured to be 480% by calculating the expansion in lattice constant. Volume expansion like this could lead to the instability of the intimate interface contact after long time cycling and be responsible for of the increase of full cell impedance.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0060">Conclusions</ce:section-title>
+                  <ce:para id="p0115" view="all">We demonstrated an effective way to deal with the large interfacial resistance between Li and pristine Garnet electrolyte by introducing alloy reaction at the interface. The impedance of the Li/Garnet interface was reduced more than 20 times to 66 Ωcm<ce:sup loc="post">2</ce:sup> by two steps. (1) The initial alloy reaction of the metal Li with Ag modification layer enabled the molten Li to be wettable on Garnet surface. (2) Further volume expansion of Li<ce:glyph name="sbnd"/>Ag alloy near the Ag/LLCZNO interface filled the pores or voids on the Garnet surface, which promoted a much more contact area. The breathing interface was traced by EIS measurement and DC polarization of the Li/Garnet/Li symmetric cell. The surface resistance was rapidly declined during the initial several Li plating and striping cycles. Owning to the moderate fluxing environment of Li-ion at Li/Ag-LLCZNO interface, Li dendrite was much suppressed comparing with the Li/pristine-LLCZNO interface. Li/Ag-LLCZNO/LMO hybrid solid-state full cell delivered a satisfactory cycling and much enhanced rate property. Volume expansion of the alloy interlayer at one hand promote more intimate contacts of the interface to achieve low interfacial resistance, but at the other hand may be detrimental to the interfacial stability. Future works need to deal more with the stability of the artificial interlayer such as low volume expansion or even zero volume expansion interlayers to further stabilize the Li/Garnet interface.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0065">Acknowledgement</ce:section-title>
+               <ce:para id="p0120" view="all">The authors acknowledge funding support from the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gs1">21622303</ce:grant-number>, <ce:grant-number refid="gs1">21333002</ce:grant-number>), <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Key Research and Development Plan</ce:grant-sponsor> (<ce:grant-number refid="gs2">2016YFB0901500</ce:grant-number>, <ce:grant-number refid="gs2">2016YFA0203302</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0070">Supplementary data</ce:section-title>
+                  <ce:para id="p0125" view="all">The following is the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Supplementary Material</ce:label>
+                           <ce:alt-text role="short" id="alttext0010">Supplementary Material</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0378775319301910/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0075">Supplementary data</ce:section-title>
+                  <ce:para id="p0130" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="https://doi.org/10.1016/j.jpowsour.2019.02.066" id="intref0010" xlink:type="simple">https://doi.org/10.1016/j.jpowsour.2019.02.066</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0080">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Dunn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kamath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Tarascon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>334</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>928</sb:first-page>
+                              <sb:last-page>935</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Armand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Tarascon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>451</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>652</sb:first-page>
+                              <sb:last-page>657</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2019</sb:first-page>
+                              <sb:last-page>2029</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Soloveichik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>505</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>165</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>626</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chandrashekar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>Trease</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Grey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jerschow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>315</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Nasybulin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>513</sb:first-page>
+                              <sb:last-page>537</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3253</sb:first-page>
+                              <sb:last-page>3266</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15825</sb:first-page>
+                              <sb:last-page>15828</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.P.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Kafalas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ishikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>More</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1638</sb:first-page>
+                              <sb:last-page>1642</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Daemen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15042</sb:first-page>
+                              <sb:last-page>15047</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Payzant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Dudney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kiggans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Rondinone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>975</sb:first-page>
+                              <sb:last-page>978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Trevey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4243</sb:first-page>
+                              <sb:last-page>4247</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hamanaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hirayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sagane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Motoyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Iriyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>260</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>292</sb:first-page>
+                              <sb:last-page>298</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Thangadurai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Pinzaru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Narayanan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Baral</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>292</sb:first-page>
+                              <sb:last-page>299</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lotsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Janek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Nazar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Armand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1945</sb:first-page>
+                              <sb:last-page>1976</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kamaya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Homma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yamakawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hirayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kanno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yonemura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kamiyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mitsui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>682</sb:first-page>
+                              <sb:last-page>686</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sait</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hirayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mitsui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yonemura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Iba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kanno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16030</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.D.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>150</sb:first-page>
+                              <sb:last-page>159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Senevirathne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Day</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Gross</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lachgar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.W.</ce:given-name>
+                                 <ce:surname>Holzwarth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>233</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23685</sb:first-page>
+                              <sb:last-page>23693</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dumon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>62</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wolfenstine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ratchford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Rangasamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sakamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>571</sb:first-page>
+                              <sb:last-page>575</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>300</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Murugan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Thangadurai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Weppner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7778</sb:first-page>
+                              <sb:last-page>7781</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>85</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>298</sb:first-page>
+                              <sb:last-page>307</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manthiram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Goodenough</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9385</sb:first-page>
+                              <sb:last-page>9388</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Lacey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12258</sb:first-page>
+                              <sb:last-page>12262</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14942</sb:first-page>
+                              <sb:last-page>14947</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>Hitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pearse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rublo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Mo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Thangadurai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>572</sb:first-page>
+                              <sb:last-page>580</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Hitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>565</sb:first-page>
+                              <sb:last-page>571</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Joule</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>764</sb:first-page>
+                              <sb:last-page>777</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Rong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.B.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32631</sb:first-page>
+                              <sb:last-page>32636</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

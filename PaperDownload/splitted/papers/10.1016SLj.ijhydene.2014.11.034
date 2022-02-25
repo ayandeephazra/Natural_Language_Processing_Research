@@ -1,0 +1,1514 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319914031127</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2014.11.034</dc:identifier><eid>1-s2.0-S0360319914031127</eid><prism:doi>10.1016/j.ijhydene.2014.11.034</prism:doi><pii>S0360-3199(14)03112-7</pii><dc:title>Effects of reduction process on the electrochemical and microstructural properties for electrolyte-supported SOFC </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>40</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>1534</prism:startingPage><prism:endingPage>1540</prism:endingPage><prism:pageRange>1534-1540</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-01-21</prism:coverDate><prism:coverDisplayDate>21 January 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Hydrogen Energy Publications, LLC. Published by Elsevier Ltd.</prism:publisher><dc:creator>Cheng, Shih-Wei</dc:creator><dc:creator>Tsai, Chun-Huang</dc:creator><dc:creator>Wu, Szu-Han</dc:creator><dc:creator>Liu, Chien-Kuo</dc:creator><dc:creator>Cheng, Yung-Neng</dc:creator><dc:creator>Lee, Ruey-Yi</dc:creator><dc:description>
+                  Reduction process plays an important role before solid oxide fuel cells (SOFCs) start to work. The reduced anode must have enough porosity for transferring the fuel gases and good conductivity for decreasing the area specific resistance. To investigate how the reduction process affects the electrochemical and microstructural properties for electrolyte-supported SOFC with a nickel oxide/yttria-stabilized zirconia (NiO/YSZ) anode, three different reduction processes are applied to the same batch of cells in this paper. Process I for one of tested cells is to introduce a dilute gas of 20% hydrogen and 80% nitrogen to the anode side at room temperature. Process II and III for the others are to introduce the same dilute gas while the cells are heated up to 800 and 700 °C respectively. Although the Process I provides much time to reduce the anode of the cell, the resulting performance is lower than the others. AC impedance analyses show that the cell reduced at higher temperature has lower ohmic and polarization resistance. Moreover, the differences of nickel connection and particle size on the anode are observed in microstructure of the cells, which proves that reduction process has a vital effect for solid oxide fuel cells.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide fuel cells</dcterms:subject><dcterms:subject>Ni/YSZ anode</dcterms:subject><dcterms:subject>Reduction process</dcterms:subject><dcterms:subject>AC impedance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319914031127" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319914031127" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="20632">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="16504">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="17134">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="19163">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="18067">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="143" height="163" size="26927">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="139" height="164" size="28455">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="371" height="272" size="57549">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="208" size="46657">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="263" size="46345">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="268" size="51913">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="255" size="47769">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="620" height="708" size="204090">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="600" height="707" size="188837">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914031127-gr7.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84920818364</scopus-id><scopus-eid>2-s2.0-84920818364</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84920818364" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20141213">2014-12-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20141213">2014-12-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-05-26T13:06:18</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319914031127</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(14)03112-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319914031127</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2014.11.034</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319914X00364</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160526">2016-05-26T08:24:34.974718-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150121</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1418453549">2014-12-13T06:52:29.299038Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>40</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>40</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 40, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>1534</xocs:first-fp>
+      <xocs:last-lp>1540</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1534</xocs:first-page>
+         <xocs:last-page>1540</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150121</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>21 January 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-01-21</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Fuel Cells &amp; Applications</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTSREDUCTIONPROCESSELECTROCHEMICALMICROSTRUCTURALPROPERTIESFORELECTROLYTESUPPORTEDSOFC</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Reduction processes</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Performance tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>AC impedance analyses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Microstructural characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>SINGHAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHTEMPERATURESOLIDOXIDEFUELCELLSFUNDAMENTALSDESIGNAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>156</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>96</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>MARKORMEROD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>LAURENCIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2747</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2753</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1517</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1527</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>HAANAPPEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2033</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2037</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>TAHEREH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9440</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9447</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>BARFOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B371</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B378</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>HAUCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>745</xocs:ref-first-fp>
+            <xocs:ref-last-lp>753</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>NIELSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>745</xocs:ref-first-fp>
+            <xocs:ref-last-lp>753</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>132</xocs:ref-first-fp>
+            <xocs:ref-last-lp>142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1932</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1939</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>OHAYRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FUELCELLFUNDAMENTALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>045001</xocs:ref-first-fp>
+            <xocs:ref-last-lp>045005</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>KAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6468</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6472</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>KAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2220</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2223</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHENGX2015X1534</xocs:refkey3>
+         <xocs:refkey4lp>CHENGX2015X1534X1540</xocs:refkey4lp>
+         <xocs:refkey4ai>CHENGX2015X1534XS</xocs:refkey4ai>
+         <xocs:refkey5>CHENGX2015X1534X1540XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(14)03112-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319914031127</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319914031127</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2014.11.034</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2016-05-26T08:24:34.974718-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-01-21</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/MAIN/application/pdf/9b63980829a6bab31f3c9611821848e6/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/MAIN/application/pdf/9b63980829a6bab31f3c9611821848e6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2550519</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319914031127-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/PREVIEW/image/png/d375a429312b2af3d93701333c06b5e2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/PREVIEW/image/png/d375a429312b2af3d93701333c06b5e2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49860</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr1/THUMBNAIL/image/gif/82107d582506ac6b53f9c5d205c6bdfd/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr1/THUMBNAIL/image/gif/82107d582506ac6b53f9c5d205c6bdfd/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20632</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr2/THUMBNAIL/image/gif/2c15a39282981902b955e74676df28a7/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr2/THUMBNAIL/image/gif/2c15a39282981902b955e74676df28a7/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16504</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr3/THUMBNAIL/image/gif/1b578c5cc25fee51aebb35ea7cddd713/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr3/THUMBNAIL/image/gif/1b578c5cc25fee51aebb35ea7cddd713/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17134</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr4/THUMBNAIL/image/gif/7b757cef908b72afd83efcb37f57f424/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr4/THUMBNAIL/image/gif/7b757cef908b72afd83efcb37f57f424/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19163</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr5/THUMBNAIL/image/gif/21f2904934e6fa7ddaadf86904744841/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr5/THUMBNAIL/image/gif/21f2904934e6fa7ddaadf86904744841/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18067</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr6/THUMBNAIL/image/gif/9f3b9121c20347223d882e442dcb4964/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr6/THUMBNAIL/image/gif/9f3b9121c20347223d882e442dcb4964/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>26927</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>143</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr7/THUMBNAIL/image/gif/2950df2944727582e94e9abfd3c59886/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr7/THUMBNAIL/image/gif/2950df2944727582e94e9abfd3c59886/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>28455</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>139</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr1/DOWNSAMPLED/image/jpeg/800b3d6d92dae670225d255c9d2b068d/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr1/DOWNSAMPLED/image/jpeg/800b3d6d92dae670225d255c9d2b068d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57549</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr2/DOWNSAMPLED/image/jpeg/0de99c7723d452205e519a9a6683685d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr2/DOWNSAMPLED/image/jpeg/0de99c7723d452205e519a9a6683685d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46657</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr3/DOWNSAMPLED/image/jpeg/df58b7783ee59a6f8b0c284bf57fbd6b/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr3/DOWNSAMPLED/image/jpeg/df58b7783ee59a6f8b0c284bf57fbd6b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46345</xocs:filesize>
+               <xocs:pixel-height>263</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr4/DOWNSAMPLED/image/jpeg/7af869ec515d98d2257dc15ac315ff3b/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr4/DOWNSAMPLED/image/jpeg/7af869ec515d98d2257dc15ac315ff3b/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>51913</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr5/DOWNSAMPLED/image/jpeg/b0533dea5513da03acf6c4548f517263/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr5/DOWNSAMPLED/image/jpeg/b0533dea5513da03acf6c4548f517263/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47769</xocs:filesize>
+               <xocs:pixel-height>255</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr6/DOWNSAMPLED/image/jpeg/17301220805be1f6313d43211256eeb8/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr6/DOWNSAMPLED/image/jpeg/17301220805be1f6313d43211256eeb8/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>204090</xocs:filesize>
+               <xocs:pixel-height>708</xocs:pixel-height>
+               <xocs:pixel-width>620</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914031127-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914031127/gr7/DOWNSAMPLED/image/jpeg/e308c28385138ea22a465a4460457047/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914031127/gr7/DOWNSAMPLED/image/jpeg/e308c28385138ea22a465a4460457047/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>188837</xocs:filesize>
+               <xocs:pixel-height>707</xocs:pixel-height>
+               <xocs:pixel-width>600</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>14977</aid>
+            <ce:pii>S0360-3199(14)03112-7</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2014.11.034</ce:doi>
+            <ce:copyright type="society" year="2014">Hydrogen Energy Publications, LLC.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">The scheme of non-sealed cell test device for measuring cells.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">The heating and OCV curves of ESC_A, B, and C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">
+                     <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic>–<ce:italic>P</ce:italic> results for ESC_A, B, and C reduced by process I, II, and III respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Experimental and fitting curves of AC impedance spectra measured at OCV for ESC_A, B and C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">The XRD patterns of the anodes before and after different reduction processes.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Polished cross-sectional micrograph of ESC_A, B, and C. (a) ESC_A in a magnification, 300×. (b) ESC_B in a magnification, 300×. (c) ESC_C in a magnification, 300×. (d) ESC_A in a magnification, 1500×. (e) ESC_B in a magnification, 1500×. (f) ESC_C in a magnification, 1500×.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Anode surface microstructures of ESC_A, B and C. (a) ESC_A in a magnification, 2000×. (b) ESC_B in a magnification, 2000×. (c) ESC_C in a magnification, 2000×. (d) ESC_A in a magnification, 10,000×. (e) ESC_B in a magnification, 10,000×. (f) ESC_C in a magnification, 10,000×.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0010" view="all">Layer, composition, and thickness of the tested cell.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1" colwidth="12*"/>
+                  <colspec colnum="2" colname="col2" colwidth="39*"/>
+                  <colspec colnum="3" colname="col3" colwidth="26*"/>
+                  <colspec colnum="4" colname="col4" colwidth="16*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cell</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Composition</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Thickness</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="4">ESC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Anode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NiO/YSZ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40 μm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Anode function layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NiO-GDC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">∼10 μm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Electrolyte</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ScSZ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">120 μm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode function layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LSM/GDC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">∼10 μm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cathode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LSM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40 μm</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0015" view="all">The values of <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">s</ce:inf>, <ce:italic>R</ce:italic>1, <ce:italic>R</ce:italic>2, and <ce:italic>R</ce:italic>3 fitted from the equivalent circuit model for comparisons.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1" colwidth="20*"/>
+                  <colspec colnum="2" colname="col2" colwidth="18*"/>
+                  <colspec colnum="3" colname="col3" colwidth="19*"/>
+                  <colspec colnum="4" colname="col4" colwidth="19*"/>
+                  <colspec colnum="5" colname="col5" colwidth="16*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Specimens</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>
+                           <inf loc="post">s</inf> (Ω cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>1 (Ω cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>2 (Ω cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>3 (Ω cm<sup loc="post">2</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ESC_A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.617</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.879</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.215</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.661</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ESC_B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.340</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.567</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.065</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.142</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ESC_C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.413</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.328</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.608</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.515</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Effects of reduction process on the electrochemical and microstructural properties for electrolyte-supported SOFC</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Shih-Wei</ce:given-name>
+                  <ce:surname>Cheng</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Chun-Huang</ce:given-name>
+                  <ce:surname>Tsai</ce:surname>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Szu-Han</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>Chien-Kuo</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+               </ce:author>
+               <ce:author id="au5">
+                  <ce:given-name>Yung-Neng</ce:given-name>
+                  <ce:surname>Cheng</ce:surname>
+               </ce:author>
+               <ce:author id="au6">
+                  <ce:given-name>Ruey-Yi</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>Physics Division, Institute of Nuclear Energy Research, No. 1000, Wunhua Rd., Jiaan Village, Longtan Township, Taoyuan County 32546, Taiwan, ROC</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Physics Division</sa:organization>
+                     <sa:organization>Institute of Nuclear Energy Research</sa:organization>
+                     <sa:address-line>No. 1000, Wunhua Rd.</sa:address-line>
+                     <sa:address-line>Jiaan Village</sa:address-line>
+                     <sa:city>Longtan Township</sa:city>
+                     <sa:state>Taoyuan County</sa:state>
+                     <sa:postal-code>32546</sa:postal-code>
+                     <sa:country>Taiwan, ROC</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>
+                     <ce:italic>Corresponding author</ce:italic>. Tel.: +886 3 4711400x7360; fax: +886 3 4713980.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="31" month="7" year="2014"/>
+            <ce:date-revised day="3" month="11" year="2014"/>
+            <ce:date-accepted day="6" month="11" year="2014"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Reduction process plays an important role before solid oxide fuel cells (SOFCs) start to work. The reduced anode must have enough porosity for transferring the fuel gases and good conductivity for decreasing the area specific resistance. To investigate how the reduction process affects the electrochemical and microstructural properties for electrolyte-supported SOFC with a nickel oxide/yttria-stabilized zirconia (NiO/YSZ) anode, three different reduction processes are applied to the same batch of cells in this paper. Process I for one of tested cells is to introduce a dilute gas of 20% hydrogen and 80% nitrogen to the anode side at room temperature. Process II and III for the others are to introduce the same dilute gas while the cells are heated up to 800 and 700 °C respectively. Although the Process I provides much time to reduce the anode of the cell, the resulting performance is lower than the others. AC impedance analyses show that the cell reduced at higher temperature has lower ohmic and polarization resistance. Moreover, the differences of nickel connection and particle size on the anode are observed in microstructure of the cells, which proves that reduction process has a vital effect for solid oxide fuel cells.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid oxide fuel cells</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Ni/YSZ anode</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Reduction process</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>AC impedance</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">A solid oxide fuel cell (SOFC) is a device which directly converts fuel into electrical energy, usually operated at high temperature in the range of 600–1000 °C. The SOFC has attracted much attention because of its high energy conversion efficiency, fuel flexibility, low pollution emission and low cost <ce:cross-ref refid="bib1" id="crosref0015">[1]</ce:cross-ref>. The typical cell is composed of a solid electrolyte and two electrodes, which include the reactions of oxygen ion migration within electrolyte, oxygen reduction at cathode, and fuel oxidation at anode <ce:cross-ref refid="bib2" id="crosref0020">[2]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0040" view="all">Among all the components of SOFC, the anode is especially important to performance. The anode plays several roles, such as a path for fuel to distribute and products to exhaust, a catalyst for fuel oxidation to generate electrons, and a medium for current to conduct, while the cell is operated <ce:cross-ref refid="bib3" id="crosref0025">[3]</ce:cross-ref>. Because of good electrochemical performance, Ni/YSZ is widely used as an anode material for SOFCs <ce:cross-ref refid="bib4" id="crosref0030">[4]</ce:cross-ref>. The anode is manufactured in its oxidized state and reduced to Ni/YSZ through introducing a fuel or reductant to the anode side at the beginning of operation. The NiO transforms into Ni during the reduction of the cell, which leads to a volume shrinkage of nickel phase <ce:cross-ref refid="bib5" id="crosref0035">[5]</ce:cross-ref>. Wang et al. <ce:cross-ref refid="bib6" id="crosref0040">[6]</ce:cross-ref> compared the anode with Ni/YSZ in two different reduction processes. The specimen introduced the forming gas at room temperature is much weaker and less consistent in microstructures than that reduced at its reduction temperature.</ce:para>
+                  <ce:para id="p0045" view="all">To study these effects about different starting-up and test conditions, the electrochemical performance between 650 and 900 °C was evaluated in Haanappel's research <ce:cross-ref refid="bib7" id="crosref0045">[7]</ce:cross-ref>. It showed a lower area specific resistance when the cell was heated up to and reduced at high temperature. Li et al. <ce:cross-ref refid="bib8" id="crosref0050">[8]</ce:cross-ref> proposed that the surface morphologies of SOFC anodes reduced at different temperature are different in nickel distribution. The results showed that the cell which was reduced at a specific temperature can obtain the best electrochemical properties and most homogeneous microstructure. Tahereh et al. <ce:cross-ref refid="bib9" id="crosref0055">[9]</ce:cross-ref> reported that the electrical conductivity of Ni based anode is completely dependent on the connection through the nickel phase and influenced by the distribution of Ni particles and pores. To analyze the electrochemical properties of fuel cell, the AC impedance is a powerful technique. The characteristics evaluation of the cells can be described by the equivalent circuit model <ce:cross-refs refid="bib10 bib11 bib12 bib13 bib14" id="crosrefs0010">[10–14]</ce:cross-refs>. Barfod et al. <ce:cross-ref refid="bib10" id="crosref0060">[10]</ce:cross-ref> detailed characterization of anode-supported SOFCs by impedance and proposed an equivalent circuit model to simulate the polarization resistance. The model built of by 5 circuit of a resistance in parallel with a constant phase element includes cathode polarization at the high and low frequency, anode polarization, gas diffusion and conversion at the anode. Hauch et al. <ce:cross-ref refid="bib11" id="crosref0065">[11]</ce:cross-ref> reported SOFC Ni/YSZ anode degradation by impedance spectroscopy and EIS fitting model, which indicated that the characteristic frequency for the high frequency cathode arc is ∼25 kHz and for the low frequency arc is ∼500 Hz. The characteristic frequency for Ni/YSZ charge transfer reactions is ∼4 kHz, for the gas diffusion and conversion is ∼50 and ∼4 Hz. Nielsen et al. <ce:cross-ref refid="bib12" id="crosref0070">[12]</ce:cross-ref> studied SOFC cathode degradation induced by moisture and built up an EIS fitting model, which exhibited that the high frequency cathode impedance arc is associated with charge transfer at the LSM/YSZ interface.</ce:para>
+                  <ce:para id="p0050" view="all">In this study, three different reduction processes for the electrolyte-supported SOFC single cells are carried out by using a non-sealed cell housing. The effects of reduction process on the performance of the cells are displayed in <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic>–<ce:italic>P</ce:italic> curves. The AC impedance analyses indicate that the different ohmic and polarization resistances are due to the reduction processes. Finally, the results are supported by the observations of the anode microstructures.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:para id="p0055" view="all">A non-sealed cell test device which is applied to measure cell performance comprises gas flow field plates, gas pipes, thermocouples, current collectors, voltage wires and current wires. <ce:cross-ref refid="fig1" id="crosref0075">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows the scheme of non-sealed cell test device for measuring cell performance. The inert Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> ceramic material is used for making gas flow field plates and gas tubes. Thermocouples are applied to measure temperatures on both anode and cathode sides. Nickel and platinum grids are used as the current collectors on the anode and cathode side of the cells respectively.</ce:para>
+                  <ce:para id="p0060" view="all">The electrolyte-supported solid oxide fuel cells with a scandia-stabilized zirconia (ScSZ) electrolyte, a nickel oxide (NiO)/yttrium-stabilized zirconia (YSZ) anode, a nickel oxide (NiO)/gadolinium doped ceria (GDC) anode function layer, a lanthanum strontium manganite (LSM)/gadolinium doped ceria (GDC) cathode function layer, and a lanthanum strontium manganite (LSM) cathode double layer are tested with an active area of 81 cm<ce:sup loc="post">2</ce:sup> in this paper. <ce:cross-ref refid="tbl1" id="crosref0080">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/> shows the structure and composition of the tested cells.</ce:para>
+                  <ce:para id="p0065" view="all">All experiments of the cells are performed in the inert Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> ceramic testing device located inside an electric furnace. At the beginning of heating, one introduced with a dilute gas of 20% hydrogen and 80% nitrogen, and air with a gas flow rate of 800 ml/min to the anode and cathode side separately, is named as ESC_A. The others introduced nitrogen and air with a gas flow rate of 800 ml/min to the anode and cathode side, respectively, are named as ESC_B and C. Then both ESC_A and B are slowly heated up to 800 °C with a rate of 1 °C/min, ESC_C is slowly heated up to 700 °C with the same rate. After the cells reach to the certain temperatures, the nitrogen is replaced with hydrogen step by step. Finally, the fuel of 99.9% hydrogen with 800 ml/min and air with 2000 ml/min are delivered to the cells.</ce:para>
+                  <ce:para id="p0070" view="all">The performances and AC impedance measurements of the cells are performed with Prodigit 3311D DC electronic load, Solartron 1287 Electrochemical interface and Solartron 1255 Impedance analyzer. The <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic>–<ce:italic>P</ce:italic> curves are measured under potentiostatic operation, starting at the open circuit voltage (OCV), and following by a sequential voltage drop of 50 mV and holding 60 s until the voltage of 0.6 V is reached. The characteristic value of current density at each cell voltage step is taken the last 5 s of each step as the average value. Gas compositions, flow rates, and temperature are constant during the whole experiments. A perturbation signal of 10 mV and frequency range of 0.01 Hz–1.0 MHz is also applied to AC impedance measurements.</ce:para>
+                  <ce:para id="p0075" view="all">After examining electrochemical properties of the cells, electrical resistances of the anode surfaces are measured by a multimeter at room temperature. Finally, the phase transformations and microstructures of the anode reduced by different processes are observed by X-ray diffraction (XRD, Bruker, D8 advance) and Scanning Electron Microscopy (FE-SEM, Hitachi S-4800) respectively.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:section-title id="sectitle0035">Results and discussions</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:section-title id="sectitle0040">Reduction processes</ce:section-title>
+                     <ce:para id="p0080" view="all">ESC_A is introduced the dilute gas at room temperature. <ce:cross-ref refid="fig2" id="crosref0085">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows that the OCV of the cell starts to rise gradually when it is heated up to 300 °C. The maximum OCV appears at 450 °C is about 1.203 V. Then, the OCV decreases with the increasing temperature until the 800 °C is arrived. However, the OCV of ESC_B and C start to ascend at 500–600 °C attributed to NiO is a conductor at high temperature and the effect of the oxygen pressure between anode and cathode. The dilute gas is introduced into the anodes of ESC_B at 800 °C and ESC_C at 700 °C. The values of OCV soar immediately and maximum values of 1.137 and 1.21 V for ESC_B and C are reached. The results show that ESC_A should be reduced at 300 °C actually and takes longer time for reduction than ESC_B and C.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:section-title id="sectitle0045">Performance tests</ce:section-title>
+                     <ce:para id="p0085" view="all">The overall performance of a fuel cell is examined through <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic> curve, which is used to quantitatively describe with a potentiostatic operation. It draws a fixed voltage from the fuel cell and measures the corresponding output current. By slowly stepping the voltage demand, the entire <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic> response of the fuel cell can be determined <ce:cross-ref refid="bib15" id="crosref0090">[15]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0090" view="all">The cell performance tests in this study are executed at 800 °C after different reduction processes and the <ce:italic>I</ce:italic>–<ce:italic>V</ce:italic>–<ce:italic>P</ce:italic> curves are shown in <ce:cross-ref refid="fig3" id="crosref0095">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>. The reactant of hydrogen fuel and air oxidizer with flow rates of 800 and 2000 ml/min are supplied to the tested cells, respectively. The OCV values of three cells are higher than 1.1 V, which indicate that the ScSZ electrolyte is dense enough and no gas leakage is occurred through the electrolyte layer. The power density of the ESC_A reduced by process I is only 38 mW/cm<ce:sup loc="post">−2</ce:sup> under a cell voltage of 0.7 V. However, the power density of the ESC_B and C reduced by process II and III can reach 380 and 216 mW/cm<ce:sup loc="post">2</ce:sup> under the same conditions. The results indicate that introducing dilute gas from room temperature is not good for the cell and the higher reduction temperature is beneficial to cell performance.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:section-title id="sectitle0050">AC impedance analyses</ce:section-title>
+                     <ce:para id="p0095" view="all">Due to the current restriction, here only AC impedance data obtained under the OCV condition is analyzed. A typical AC impedance curve or named as a Nyquist diagram consists of two arcs and has two intercepts on Z′ real axis. One is the high frequency intercept corresponding to the ohmic resistance, the other is the low frequency intercept corresponding to the total resistance of the cell <ce:cross-ref refid="bib16" id="crosref0100">[16]</ce:cross-ref>. The resistance between the high frequency and low frequency intercepts is the polarization resistance. The ohmic resistance includes the electrolyte, electrodes, wires and contact resistances <ce:cross-refs refid="bib13 bib17 bib18" id="crosrefs0015">[13,17,18]</ce:cross-refs>. The wires resistances are assumed to be negligible in this paper, because the AC impedance is measured by 2-electrode setup of 4-terminal connection configuration and the weight loading is a constant.</ce:para>
+                     <ce:para id="p0100" view="all">The AC impedance measured with a perturbation signal of 10 mV and frequency range of 0.01 Hz–1.0 MHz at OCV for the three cells are presented in <ce:cross-ref refid="fig4" id="crosref0105">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>. The ohmic resistance of ESC_A is significantly higher than the values of ESC_B and C. Because the three cells are the same batch of commercial products and they should have the same resistance of electrolyte, which indicates that the reduction process will affect the resistance of anode electrode. In addition, the three cells also have differences in polarization resistances. The spectrum of ESC_A shows three apparent arcs but only two arcs can be observed clearly in that of ESC_B and C. Furthermore, the frequency responses of the three cells can be realized that the reduction process makes the secondary arc of ESC_A larger than the others.</ce:para>
+                     <ce:para id="p0105" view="all">To find out the losses of the impedance of the tested cells, a simplified equivalent circuit model is applied. According to the impedance spectra in <ce:cross-ref refid="fig4" id="crosref0110">Fig. 4</ce:cross-ref>, each one has a high frequency intersection point on the <ce:italic>x</ce:italic>-axis. It means that there is a series resistance (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>) must be existed in this equivalent circuit model. In addition, the spectrum of ESC_A has three apparent arcs, which implied that this equivalent circuit model for polarization resistance (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">p</ce:inf>) must be constructed of three circuits of a resistance (<ce:italic>R</ce:italic>) in parallel with a constant phase element (CPE) at least. Consequently, this equivalent circuit model is built of one <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> in series with three circuits of <ce:italic>R</ce:italic>-CPE, such as (<ce:italic>R</ce:italic>1, CPE1), (<ce:italic>R</ce:italic>2, CPE2) and (<ce:italic>R</ce:italic>3, CPE3). <ce:cross-ref refid="fig4" id="crosref0115">Fig. 4</ce:cross-ref> presents that the fitting curves generated by this model and match the experimental data very well. <ce:cross-ref refid="tbl2" id="crosref0120">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/> lists the values of <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, <ce:italic>R</ce:italic>1, <ce:italic>R</ce:italic>2, and <ce:italic>R</ce:italic>3 for comparison.</ce:para>
+                     <ce:para id="p0110" view="all">In this equivalent circuit model, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> is the ohmic resistance attributed to the sum of the electrodes resistance, the current collecting resistance, and the ionic resistance of the electrolyte. The <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> of ESC_A is higher than ESC_B and C, which results from the charge transfer at the LSM/GDC interface of cathode. The high frequency impedance arc is associated with charge transfer at the LSM/YSZ interface of cathode, which was proposed by Nielsen et al. <ce:cross-ref refid="bib12" id="crosref0125">[12]</ce:cross-ref>. The <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> of ESC_A is much higher than ESC_B and C, which indicates that ESC_A has a poor ability of the charge transfer between YSZ and Ni and diffusion of charged species at the three phase boundary (TPB). The frequency impedance arc for Ni/YSZ charge transfer reactions appears after the high frequency cathode arc was reported in Hauch's study <ce:cross-ref refid="bib11" id="crosref0130">[11]</ce:cross-ref>. The low frequency impedance arc should contains the dissociative and adsorption reactions of oxygen, and the gas diffusion and conversion at the anode, which is also be presented in these above-mentioned researches <ce:cross-refs refid="bib10 bib11 bib12" id="crosrefs0020">[10–12]</ce:cross-refs>. Moreover the low frequency impedance for the cathode decreases with the increasing current before the electrochemical reactions is dominated by concentration polarization <ce:cross-ref refid="bib15" id="crosref0135">[15]</ce:cross-ref>. Therefore, the <ce:italic>R</ce:italic>3 of ESC_A is slightly higher than ESC_B and C can be attributed to the impedance spectra are acquired under the OCV condition with a perturbation signal of 10 mV. The same overvoltage produces dissimilar current according to the performance of fuel cell. Because of this, the gas diffusion and conversion could be influenced slightly owing to different microstructure caused by the reduction process.</ce:para>
+                     <ce:para id="p0115" view="all">The results reveal that the reduction process made the ohmic resistance be quite different. The overlarge ohmic resistances render the charge transfer reaction to decline substantially. Nevertheless, a complete electrochemical reaction in an SOFC must be comprised by the behavior of anode, cathode, and electrolyte. Thus it can be seen, when the transport of electrons generated from fuel oxidation in the anode layer slows down, the corresponding response from oxygen reduction has obvious influence as <ce:italic>R</ce:italic>1 of <ce:cross-ref refid="tbl2" id="crosref0140">Table 2</ce:cross-ref> and the high frequency arc of <ce:cross-ref refid="fig4" id="crosref0145">Fig. 4</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0120" view="all">The main purpose in this paper is about reduction process, so the charge transfer reaction and conductivity of the anode are discussed subsequently. The charge transfer depends on the microstructure and relates to the conductivity of the anode. It is speculated that reduction processes may lead unsuitable microstructure to influence all the electrochemical reactions of cells.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:section-title id="sectitle0055">Microstructural characterization</ce:section-title>
+                     <ce:para id="p0125" view="all">Due to the huge variations of the ohmic resistances among the cells, the electrical resistances of anode surfaces are measured by a multimeter at room temperature. The anode surface of ESC_A has the same metal color like ESC_B and C, but the electrical resistance is widely divergent. The values of resistance measurement is over limit for ESC_A and 0.2–0.3 Ω for both ESC_B and C. The results seem to imply that the anode of ESC_A is not reduced very well.</ce:para>
+                     <ce:para id="p0130" view="all">To confirm the above inference, the phase identification of the NiO, Ni, and YSZ particles are performed by X-ray diffraction. The XRD patterns of the anodes before and after different reduction processes are shown in <ce:cross-ref refid="fig5" id="crosref0150">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>. These diffraction peaks have been identified by the early studies <ce:cross-ref refid="bib9" id="crosref0155">[9]</ce:cross-ref>. The anode of ESC_A is reduced at a lower temperature, but the NiO particles also transform into Ni completely. The results appear that the reduction mechanism will not be influenced by temperature, which seem to contradict the electrical resistance measured by a multimeter previously. Thus, we investigate the inconsistencies through microstructures described later.</ce:para>
+                     <ce:para id="p0135" view="all">
+                        <ce:cross-ref refid="fig6" id="crosref0160">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>(a)–(c) show the polished cross-sectional micrographs of ESC_A, B, and C in a low magnification. The Ni/GDC function layers of ∼10 μm in thickness can be seen in the tested cells, in which there are no obvious differences. Apparently, the different reduction processes cause the morphological dissimilarities of Ni-YSZ composite layer. <ce:cross-ref refid="fig6" id="crosref0165">Fig. 6</ce:cross-ref>(d)–(f) shows high magnification micrographs, in which Energy Dispersive Spectroscopy (EDS) is used to identify the compositions of anode layers. The results show that each cell has a dense zirconia based electrolyte and a similar function layer. As regards the anode layer, the Ni particles of ESC_A are smaller than those of ESC_B and C. Moreover, the Ni connections of ESC_A and C are not continuous as ESC_B.</ce:para>
+                     <ce:para id="p0140" view="all">
+                        <ce:cross-ref refid="fig7" id="crosref0170">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>(a)–(c) exhibit the anode surface microstructures of the tested cells in a magnification, 2000×. There are many bigger Ni particles can be seen on the anode of ESC_B and C. In <ce:cross-ref refid="fig7" id="crosref0175">Fig. 7</ce:cross-ref>(d)–(f), the surface microstructures are magnified to 10,000× further and EDS is applied again to identify Ni and YSZ. <ce:cross-ref refid="fig7" id="crosref0180">Fig. 7</ce:cross-ref>(d) appears most of the bigger particles are YSZ, and they are surrounded by many smaller Ni particles. In contrast with <ce:cross-ref refid="fig7" id="crosref0185">Fig. 7</ce:cross-ref>(e), the YSZ are the smaller particles and adheres around the Ni particles. In <ce:cross-ref refid="fig7" id="crosref0190">Fig. 7</ce:cross-ref>(f), the Ni particles do not look like continuity as ESC_B.</ce:para>
+                     <ce:para id="p0145" view="all">The SEM micrograph and EDS clearly indicate that the reduction process will affect the conversion of the anodes and result in different connection of Ni particles. ESC_A which is introduced the reductant gas at room temperature starts to reduce at 300 °C. It takes much time to carry out a slower reducing reaction and results in poorly connected microstructures <ce:cross-ref refid="bib6" id="crosref0195">[6]</ce:cross-ref>. Finally, the reasons of different electrochemical performances, such as sluggish reactions of charge transfer, low conductivity, and unfavorable gas conversion of anode layer can be proved by the microstructural characterization.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0060">Conclusions</ce:section-title>
+                  <ce:para id="p0150" view="all">The effects of three different reduction processes have been investigated in this paper. It is clearly found that the three different reduction processes can transform the NiO into Ni, but the reactions occurring at high temperature will form the well-connected microstructures of Ni particles observed in SEM micrographs. The anode surface with poorer connection of Ni particles even measured by a multimeter at room temperature is insulating. The phenomenon is in coincidence with the results of performance tests, AC impedance spectra, and fitting of equivalent circuit model. The cell reduced by process I incurs lowest power because of the highest ohmic resistance. Furthermore, the anode polarization is also affected by the microstructures of Ni, which increase more resistance attributed to the charge transfer between YSZ and Ni and diffusion of charged species at the TPB. To establish the standard test procedure for SOFCs, the effects of more operation parameters, such as optimum reduction temperature and reductant concentration, are deserved to be realized in the future.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0065">Acknowledgments</ce:section-title>
+               <ce:para id="p0155" view="all">The authors gratefully acknowledge the members in the SOFC program of Institute of Nuclear Energy Research, Atomic Energy Council, R.O.C. for helpful assistance and discussions.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0070">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Singhal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kendall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature solid oxide fuel cells: fundamentals, design and applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2003</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ramprakash</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>H<ce:inf loc="post">2</ce:inf> oxidation on Ni/Y-TZP cermet electrodes – polarization behaviour</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>156</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of milling methods on performance of Ni-Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-stabilized ZrO<ce:inf loc="post">2</ce:inf> anode for solid oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>96</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mark Ormerod</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Soc Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laurencin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Delette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Sicardy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rosini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lefebvre-Joud</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of redox cycles on performances of solid oxide fuel cells: case of the electrolyte supported cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2747</sb:first-page>
+                              <sb:last-page>2753</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Walter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sabolsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Seabaugh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of powder sizes and reduction parameters on the strength of Ni-YSZ anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1517</sb:first-page>
+                              <sb:last-page>1527</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.C.</ce:given-name>
+                                 <ce:surname>Haanappel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mertens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrode activation of anode-supported SOFCs with LSM- or LSCF-type cathodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2033</sb:first-page>
+                              <sb:last-page>2037</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of reduction temperature on the electrochemical properties of a Ni/YSZ anode-supported solid oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloy Compd</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>495</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tahereh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Mohammad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mohsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Babak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Amir</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation on microstructures of NiO-YSZ composite and Ni-YSZ cermet for SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrog Energ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9440</sb:first-page>
+                              <sb:last-page>9447</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Barfod</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Klemensø</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hagen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Detailed characterization of anode-supported SOFCs by impedance spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B371</sb:first-page>
+                              <sb:last-page>B378</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ni/YSZ electrode degradation studied by impedance spectroscopy effects of gas cleaning and current density</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>181</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>745</sb:first-page>
+                              <sb:last-page>753</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nielsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SOFC LSM: YSZ cathode degradation induced by moisture: an impedance spectroscopy study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>181</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>745</sb:first-page>
+                              <sb:last-page>753</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plasma sprayed metal supported YSZ/Ni–LSGM–LSCF ITSOFC with nanostructured anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>132</sb:first-page>
+                              <sb:last-page>142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Shiu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High performance metal-supported intermediate temperature solid oxide fuel cells fabricated by atmospheric plasma spraying</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1932</sb:first-page>
+                              <sb:last-page>1939</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>O’hayre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Cha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Colella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.B.</ce:given-name>
+                                 <ce:surname>Prinz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fuel cell fundamentals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Shui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurements of lateral impedance and local characteristics of solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Fuel Cell Sci Tech</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>045001</sb:first-page>
+                              <sb:last-page>045005</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and evaluation of the electrochemical performance of the anode-supported solid oxide fuel cell with the composite cathode of La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>Mn<ce:inf loc="post">O3−<ce:italic>δ</ce:italic>
+                                 </ce:inf> Gadolinia doped ceria oxide/La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                                 </ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6468</sb:first-page>
+                              <sb:last-page>6472</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and characterization of a Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>Fe<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                                 </ce:inf> Gadolinia-doped ceria cathode for an anode-supported solid-oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2220</sb:first-page>
+                              <sb:last-page>2223</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

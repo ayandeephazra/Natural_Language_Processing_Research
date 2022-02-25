@@ -1,0 +1,2327 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0378775314004649</prism:url><dc:identifier>doi:10.1016/j.jpowsour.2014.03.133</dc:identifier><eid>1-s2.0-S0378775314004649</eid><prism:doi>10.1016/j.jpowsour.2014.03.133</prism:doi><pii>S0378-7753(14)00464-9</pii><dc:title>Durability of high performance Ni–yttria stabilized zirconia supported solid oxide electrolysis cells at high current density </dc:title><prism:publicationName>Journal of Power Sources</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03787753</prism:issn><prism:volume>262</prism:volume><prism:startingPage>316</prism:startingPage><prism:endingPage>322</prism:endingPage><prism:pageRange>316-322</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2014-09-15</prism:coverDate><prism:coverDisplayDate>15 September 2014</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Hjalmarsson, Per</dc:creator><dc:creator>Sun, Xiufu</dc:creator><dc:creator>Liu, Yi-Lin</dc:creator><dc:creator>Chen, Ming</dc:creator><dc:description>
+                  We report the durability of a solid oxide electrolysis cell (SOEC) with a record low initial area specific resistance (ASR) and a record low degradation rate. The cell consists of a Ni–yttria stabilized zirconia (YSZ) cermet as support and active fuel electrode, a YSZ electrolyte, a gadolinia doped ceria (CGO) inter-diffusion barrier, and a strontium doped lanthanum cobaltite (LSC)–CGO composite oxygen electrode. The cell was tested at 800 °C and −1 A cm−2 converting 31% of a 0.1:0.45:0.45 mixture of H2:H2O:CO2 for approximately 2700 h, demonstrating an initial ASR of 200 mΩ cm2 and a steady degradation rate of ≤12 mV (or 0.9%) per 1000 h. Electrochemical impedance spectroscopy (EIS) was used to study in situ changes in the electrochemical response of the cell and the retrieved data was treated to deconvolute resistive contributions from the physiochemical processes occurring within the cell. The results showed rapid initial fuel electrode degradation during the first 350 h followed by partial reactivation. The serial resistance was found to increase with time but in an exponentially decaying behavior. A discussion is made based on the detailed electrochemical results together with post-mortem microstructural analysis.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide electrolysis cell</dcterms:subject><dcterms:subject>Co-electrolysis</dcterms:subject><dcterms:subject>Degradation</dcterms:subject><dcterms:subject>Mixed ionic electronic conductor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0378775314004649" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0378775314004649" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="129" size="12451">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="16644">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="119" height="164" size="25710">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr12" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="23363">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr12.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="55" size="8495">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="14402">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="165" height="163" size="19568">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="185" height="163" size="18897">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="154" height="164" size="19685">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="49" size="8524">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="18326">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="110" size="12843">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="210" size="39379">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="238" size="44720">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="492" size="99311">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="258" size="70696">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr12.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="98" size="26629">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="273" size="49668">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="384" size="73253">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="342" size="71933">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="412" size="84748">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="493" height="110" size="30849">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="233" size="55326">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="194" size="39572">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1583" height="933" size="165213">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1484" height="1054" size="227967">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="950" height="1309" size="418314">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr11_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1583" height="1142" size="371720">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr12_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="435" size="99652">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1213" size="240372">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1703" size="428964">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1513" size="411596">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1828" size="498252">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2185" height="489" size="145393">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1484" height="1031" size="391047">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="861" size="184225">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="329" height="25" size="1318">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="233" height="22" size="1073">https://api.elsevier.com/content/object/eid/1-s2.0-S0378775314004649-si2.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84898815766</scopus-id><scopus-eid>2-s2.0-84898815766</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84898815766" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271367</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Power Sources</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALPOWERSOURCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20140401">2014-04-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20140401">2014-04-01</xocs:available-online-date>
+      <xocs:ew-transaction-id>2017-01-21T19:35:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0378775314004649</xocs:eid>
+      <xocs:pii-formatted>S0378-7753(14)00464-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0378775314004649</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jpowsour.2014.03.133</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0378775314X00091</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170121">2017-01-21T15:02:21.703164-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140915</xocs:date-search-begin>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1396310400">2014-04-01T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes grantnumber grantsponsor highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0378-7753</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03787753</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>262</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>262</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 262</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>316</xocs:first-fp>
+      <xocs:last-lp>322</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>316</xocs:first-page>
+         <xocs:last-page>322</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20140915</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 September 2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-09-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Fuel Cells: Science and Technology</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DURABILITYHIGHPERFORMANCENIYTTRIASTABILIZEDZIRCONIASUPPORTEDSOLIDOXIDEELECTROLYSISCELLSHIGHCURRENTDENSITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HJALMARSSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3257</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ZHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3089</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3096</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>EBBESEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>646</xocs:ref-first-fp>
+            <xocs:ref-last-lp>660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>HARTVIGSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>637</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>GRAVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>23</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1382</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1397</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>KNIBBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B1209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B1217</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>SCHILLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>LAGUNABERCERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8942</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8947</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>HAUCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B1184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B1193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>EBBESEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>GRAVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>398</xocs:ref-first-fp>
+            <xocs:ref-last-lp>403</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>EBBESEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B1419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B1429</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>NECHACHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>164</xocs:ref-first-fp>
+            <xocs:ref-last-lp>181</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>MOCOTEGUY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15887</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15902</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>VIRKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9527</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9543</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>EBBESEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>D106</xocs:ref-first-fp>
+            <xocs:ref-last-lp>D108</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>HJALMARSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>357</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F1074</xocs:ref-first-fp>
+            <xocs:ref-last-lp>F1080</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>MOGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>904</xocs:ref-first-fp>
+            <xocs:ref-last-lp>915</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SOLIDOXIDEFUELCELLSSOFCVI</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>BOUKAMP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1894</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>GRAVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RAVDAVDATAANALYSISSOFTWARE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>PETRIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>719</xocs:ref-first-fp>
+            <xocs:ref-last-lp>725</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>KNIBBE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2877</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2883</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B1325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B1330</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>SCHEFOLD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>LEONIDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>F883</xocs:ref-first-fp>
+            <xocs:ref-last-lp>F891</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HJALMARSSONX2014X316</xocs:refkey3>
+         <xocs:refkey4lp>HJALMARSSONX2014X316X322</xocs:refkey4lp>
+         <xocs:refkey4ai>HJALMARSSONX2014X316XP</xocs:refkey4ai>
+         <xocs:refkey5>HJALMARSSONX2014X316X322XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0378-7753(14)00464-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0378775314004649</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0378775314004649</xocs:eid>
+         <xocs:doi>10.1016/j.jpowsour.2014.03.133</xocs:doi>
+         <xocs:cid>271367</xocs:cid>
+         <xocs:timestamp>2017-01-21T15:02:21.703164-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2014-09-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/MAIN/application/pdf/0e0e9a97c732a800822170e6f6f1fd1d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/MAIN/application/pdf/0e0e9a97c732a800822170e6f6f1fd1d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2366318</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0378775314004649-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/PREVIEW/image/png/0769b8668380e4965820921e92a0e819/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/PREVIEW/image/png/0769b8668380e4965820921e92a0e819/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50803</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr1/THUMBNAIL/image/gif/4ee56ddb6b455b743501f1801c29463e/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr1/THUMBNAIL/image/gif/4ee56ddb6b455b743501f1801c29463e/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12451</xocs:filesize>
+               <xocs:pixel-height>129</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr10/THUMBNAIL/image/gif/f8989a9a3f164a97a3f528b38b956bdd/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr10/THUMBNAIL/image/gif/f8989a9a3f164a97a3f528b38b956bdd/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16644</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr11/THUMBNAIL/image/gif/519ffb1e766ce588c1ea703c0a08e0bf/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr11/THUMBNAIL/image/gif/519ffb1e766ce588c1ea703c0a08e0bf/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>25710</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>119</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr12.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr12/THUMBNAIL/image/gif/765f8f9d738bef3274e4c90638b1c38d/gr12.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr12/THUMBNAIL/image/gif/765f8f9d738bef3274e4c90638b1c38d/gr12.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23363</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr2/THUMBNAIL/image/gif/c90c85aaf1a1ece40e60005bae715bc8/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr2/THUMBNAIL/image/gif/c90c85aaf1a1ece40e60005bae715bc8/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8495</xocs:filesize>
+               <xocs:pixel-height>55</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr3/THUMBNAIL/image/gif/9f7bbb5c08be7520383aa2440135131b/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr3/THUMBNAIL/image/gif/9f7bbb5c08be7520383aa2440135131b/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14402</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr4/THUMBNAIL/image/gif/5534370b9d38a8ac5717714d39c8f56c/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr4/THUMBNAIL/image/gif/5534370b9d38a8ac5717714d39c8f56c/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19568</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>165</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr5/THUMBNAIL/image/gif/b4ffc94da9620788deab019b73e8cb67/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr5/THUMBNAIL/image/gif/b4ffc94da9620788deab019b73e8cb67/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18897</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>185</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr6/THUMBNAIL/image/gif/c5d43374acc22963f0c4fe0c28a7d563/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr6/THUMBNAIL/image/gif/c5d43374acc22963f0c4fe0c28a7d563/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19685</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>154</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr7/THUMBNAIL/image/gif/3dcaa772fc05d9c79344711df2947280/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr7/THUMBNAIL/image/gif/3dcaa772fc05d9c79344711df2947280/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8524</xocs:filesize>
+               <xocs:pixel-height>49</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr8/THUMBNAIL/image/gif/5128d4f4bb64d10069457bb21860339c/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr8/THUMBNAIL/image/gif/5128d4f4bb64d10069457bb21860339c/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18326</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr9/THUMBNAIL/image/gif/1d2b233f4db59f34a99308eda8d2d655/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr9/THUMBNAIL/image/gif/1d2b233f4db59f34a99308eda8d2d655/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12843</xocs:filesize>
+               <xocs:pixel-height>110</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr1/DOWNSAMPLED/image/jpeg/a74ce594557867ac6be28055b99a47aa/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr1/DOWNSAMPLED/image/jpeg/a74ce594557867ac6be28055b99a47aa/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39379</xocs:filesize>
+               <xocs:pixel-height>210</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr10/DOWNSAMPLED/image/jpeg/d5527accf0a5dfa8140c852c8bbaf446/gr10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr10/DOWNSAMPLED/image/jpeg/d5527accf0a5dfa8140c852c8bbaf446/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44720</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr11/DOWNSAMPLED/image/jpeg/98e2083d40c0250b0796578ce6c02ac0/gr11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr11/DOWNSAMPLED/image/jpeg/98e2083d40c0250b0796578ce6c02ac0/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>99311</xocs:filesize>
+               <xocs:pixel-height>492</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr12/DOWNSAMPLED/image/jpeg/48ff0421cc8f1e558293112c14121834/gr12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr12/DOWNSAMPLED/image/jpeg/48ff0421cc8f1e558293112c14121834/gr12.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70696</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr2/DOWNSAMPLED/image/jpeg/4750748a72a43de640829a47c87d0923/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr2/DOWNSAMPLED/image/jpeg/4750748a72a43de640829a47c87d0923/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26629</xocs:filesize>
+               <xocs:pixel-height>98</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr3/DOWNSAMPLED/image/jpeg/37b35f963e2559f0cfdf0c920e327dee/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr3/DOWNSAMPLED/image/jpeg/37b35f963e2559f0cfdf0c920e327dee/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49668</xocs:filesize>
+               <xocs:pixel-height>273</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr4/DOWNSAMPLED/image/jpeg/25868ae10fd7e931c333793fd998ba8e/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr4/DOWNSAMPLED/image/jpeg/25868ae10fd7e931c333793fd998ba8e/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>73253</xocs:filesize>
+               <xocs:pixel-height>384</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr5/DOWNSAMPLED/image/jpeg/4e26b3cbb40e3f3d3a05a5e47e15bc26/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr5/DOWNSAMPLED/image/jpeg/4e26b3cbb40e3f3d3a05a5e47e15bc26/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71933</xocs:filesize>
+               <xocs:pixel-height>342</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr6/DOWNSAMPLED/image/jpeg/d829e105397e5754f4a775703cacf778/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr6/DOWNSAMPLED/image/jpeg/d829e105397e5754f4a775703cacf778/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84748</xocs:filesize>
+               <xocs:pixel-height>412</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr7/DOWNSAMPLED/image/jpeg/a5a20f387b9406872bdd19025beaa637/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr7/DOWNSAMPLED/image/jpeg/a5a20f387b9406872bdd19025beaa637/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30849</xocs:filesize>
+               <xocs:pixel-height>110</xocs:pixel-height>
+               <xocs:pixel-width>493</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr8/DOWNSAMPLED/image/jpeg/139afddb5e54fe3620e9bf25be99cc86/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr8/DOWNSAMPLED/image/jpeg/139afddb5e54fe3620e9bf25be99cc86/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55326</xocs:filesize>
+               <xocs:pixel-height>233</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr9/DOWNSAMPLED/image/jpeg/b27937e1d886ea964d83541b13feb3ea/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr9/DOWNSAMPLED/image/jpeg/b27937e1d886ea964d83541b13feb3ea/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39572</xocs:filesize>
+               <xocs:pixel-height>194</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr1/HIGHRES/image/jpeg/5165e0d22dfdad0e3da87885b3a6ba36/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr1/HIGHRES/image/jpeg/5165e0d22dfdad0e3da87885b3a6ba36/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>165213</xocs:filesize>
+               <xocs:pixel-height>933</xocs:pixel-height>
+               <xocs:pixel-width>1583</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr10/HIGHRES/image/jpeg/1f6fb90a733920b4432dd529cf35a9ca/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr10/HIGHRES/image/jpeg/1f6fb90a733920b4432dd529cf35a9ca/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>227967</xocs:filesize>
+               <xocs:pixel-height>1054</xocs:pixel-height>
+               <xocs:pixel-width>1484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr11_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr11/HIGHRES/image/jpeg/c4974b192b277d32c27e282976c723a2/gr11_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr11/HIGHRES/image/jpeg/c4974b192b277d32c27e282976c723a2/gr11_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>418314</xocs:filesize>
+               <xocs:pixel-height>1309</xocs:pixel-height>
+               <xocs:pixel-width>950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr12_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr12/HIGHRES/image/jpeg/e9f2961397d6d92498ffc23158f43734/gr12_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr12/HIGHRES/image/jpeg/e9f2961397d6d92498ffc23158f43734/gr12_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>371720</xocs:filesize>
+               <xocs:pixel-height>1142</xocs:pixel-height>
+               <xocs:pixel-width>1583</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr2/HIGHRES/image/jpeg/399dd10a45fd3767940bf488fe0cccd1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr2/HIGHRES/image/jpeg/399dd10a45fd3767940bf488fe0cccd1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>99652</xocs:filesize>
+               <xocs:pixel-height>435</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr3/HIGHRES/image/jpeg/16611dfc302a38d8363feca4b97db1a7/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr3/HIGHRES/image/jpeg/16611dfc302a38d8363feca4b97db1a7/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>240372</xocs:filesize>
+               <xocs:pixel-height>1213</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr4/HIGHRES/image/jpeg/46e8a36eb3af0d4eab56cd3a970ac647/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr4/HIGHRES/image/jpeg/46e8a36eb3af0d4eab56cd3a970ac647/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>428964</xocs:filesize>
+               <xocs:pixel-height>1703</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr5/HIGHRES/image/jpeg/ad0ff5cd57dc3d323f46341a9fc49f2a/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr5/HIGHRES/image/jpeg/ad0ff5cd57dc3d323f46341a9fc49f2a/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>411596</xocs:filesize>
+               <xocs:pixel-height>1513</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr6/HIGHRES/image/jpeg/dc50d62766b1aac4288cf1b975f2977a/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr6/HIGHRES/image/jpeg/dc50d62766b1aac4288cf1b975f2977a/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>498252</xocs:filesize>
+               <xocs:pixel-height>1828</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr7/HIGHRES/image/jpeg/0cd97a65f5ea0c2477cf206ac3cfb6e6/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr7/HIGHRES/image/jpeg/0cd97a65f5ea0c2477cf206ac3cfb6e6/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145393</xocs:filesize>
+               <xocs:pixel-height>489</xocs:pixel-height>
+               <xocs:pixel-width>2185</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr8/HIGHRES/image/jpeg/8d801667e78e2f6fc50d7bfa35ad402d/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr8/HIGHRES/image/jpeg/8d801667e78e2f6fc50d7bfa35ad402d/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>391047</xocs:filesize>
+               <xocs:pixel-height>1031</xocs:pixel-height>
+               <xocs:pixel-width>1484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/gr9/HIGHRES/image/jpeg/d482ee13a432839b0e829af320b21aba/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/gr9/HIGHRES/image/jpeg/d482ee13a432839b0e829af320b21aba/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>184225</xocs:filesize>
+               <xocs:pixel-height>861</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/STRIPIN/image/gif/8840feb540381c81ce162cca38ea6e69/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/STRIPIN/image/gif/8840feb540381c81ce162cca38ea6e69/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1318</xocs:filesize>
+               <xocs:pixel-height>25</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0378775314004649-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0378775314004649/STRIPIN/image/gif/0d18e08ac9cb20cefd4230fd063ff10a/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0378775314004649/STRIPIN/image/gif/0d18e08ac9cb20cefd4230fd063ff10a/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1073</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>233</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>POWER</jid>
+            <aid>18908</aid>
+            <ce:pii>S0378-7753(14)00464-9</ce:pii>
+            <ce:doi>10.1016/j.jpowsour.2014.03.133</ce:doi>
+            <ce:copyright type="full-transfer" year="2014">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">
+                     <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> polarisartion curves and the corresponding secant resistance measured under a 24 l h<ce:sup loc="post">−1</ce:sup> 45:45:10% flow of H<ce:inf loc="post">2</ce:inf>O:CO<ce:inf loc="post">2</ce:inf>:H<ce:inf loc="post">2</ce:inf> at 800 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Nyquist plots of EIS measurements at OCV and same conditions as in <ce:cross-ref refid="fig1" id="crosref0280">Fig. 1</ce:cross-ref>. The impedance has been corrected for lead inductance from the test setup.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Steam shift (top figure) and oxygen shift (bottom figure) ADIS analysis of the cell before and after the galvanostatic test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Top: cell voltage and ASR<ce:inf loc="post">SEC</ce:inf> curves measured under conditions listed in the experimental section. Middle: accumulated degradation rate calculated as the change in ASR<ce:inf loc="post">SEC</ce:inf> from <ce:italic>t</ce:italic> = 0. Bottom: tangential degradation rate calculated as the time derivative of the ASR<ce:inf loc="post">SEC</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">DRT of impedance spectra recorded before the galvanostatic test as a function of (from top to bottom) a) <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O over the Ni–YSZ fuel electrode at OCV, <ce:italic>T</ce:italic> = 700 °C, and with <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">O</ce:inf>(O<ce:inf loc="post">2</ce:inf>) = 1; b) as a function of <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> over the LSC–CGO oxygen electrode at OCV, <ce:italic>T</ce:italic> = 700 °C, and with <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>) = 0.50, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>O) = 0.50; c) temperature, with <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>) = 0.80, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>O) = 0.20; <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">O</ce:inf>(O<ce:inf loc="post">2</ce:inf>) = 0.21; D) current density at <ce:italic>T</ce:italic> = 800 °C and <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>) = 0.10, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>O) = 0.45, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(CO<ce:inf loc="post">2</ce:inf>) = 0.45, with <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">O</ce:inf>(O<ce:inf loc="post">2</ce:inf>) = 0.50, and a total fuel flow rate of 24 l h<ce:sup loc="post">−1</ce:sup> and an oxygen flow rate of 50 l h<ce:sup loc="post">−1</ce:sup>. The subscripts F and O represent fuel electrode and oxygen electrode, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">DRT analysis of the impedance spectra measured during four different periods of the galvanostatic test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Equivalent circuit (EQC) model of impedance measured during the galvanostatic test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Break down of losses by fitting the impedance spectra measured during the galvanostatic test to the equivalent circuit model shown in <ce:cross-ref refid="fig7" id="crosref0285">Fig. 7</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">DRT response of the EIS measured at OCV and 800 °C with <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">O</ce:inf>(O<ce:inf loc="post">2</ce:inf>) = 1 and <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>O) = 0.5 before and after the galvanostatic test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">Trend in the serial resistance with time for the period after the power cut till end of the test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">SEM back-scattered images showing the cross-sections of (a) the reference cell, (b) the tested cell. Examples of the “dark ring” around Ni grains are indicated by the white arrows in <ce:cross-ref refid="fig11" id="crosref0290">Fig. 11</ce:cross-ref>b.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:figure id="fig12">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="fspara0065" view="all">Atomic ratios of La/Co and La/Sr evaluated from EDS line-scan results. The line-scans were made perpendicular to the barrier layer–oxygen electrode interface and further into the LSC/CGO oxygen electrode. The dashed lines in the figure were calculated nominal values according to the LSC powder composition (La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>)<ce:inf loc="post">0.99</ce:inf>CoO<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr12"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Durability of high performance Ni–yttria stabilized zirconia supported solid oxide electrolysis cells at high current density</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Per</ce:given-name>
+                  <ce:surname>Hjalmarsson</ce:surname>
+                  <ce:cross-ref refid="fn1" id="crosref0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Xiufu</ce:given-name>
+                  <ce:surname>Sun</ce:surname>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Yi-Lin</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0001-6387-3739">
+                  <ce:given-name>Ming</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0015">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>Department of Energy Conversion and Storage, Technical University of Denmark, Frederiksborgvej 399, P.O. Box 49, DK-4000 Roskilde, Denmark</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Energy Conversion and Storage</sa:organization>
+                     <sa:organization>Technical University of Denmark</sa:organization>
+                     <sa:address-line>Frederiksborgvej 399</sa:address-line>
+                     <sa:address-line>P.O. Box 49</sa:address-line>
+                     <sa:city>Roskilde</sa:city>
+                     <sa:postal-code>DK-4000</sa:postal-code>
+                     <sa:country>Denmark</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Tel.: +45 4677 5757; fax: +45 4677 5858.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">Present address: Topsoe Fuel Cell A/S, Nymoellevej 66, DK-2800 Kgs. Lyngby, Denmark.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="21" month="1" year="2014"/>
+            <ce:date-revised day="11" month="3" year="2014"/>
+            <ce:date-accepted day="26" month="3" year="2014"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">We report the durability of a solid oxide electrolysis cell (SOEC) with a record low initial area specific resistance (ASR) and a record low degradation rate. The cell consists of a Ni–yttria stabilized zirconia (YSZ) cermet as support and active fuel electrode, a YSZ electrolyte, a gadolinia doped ceria (CGO) inter-diffusion barrier, and a strontium doped lanthanum cobaltite (LSC)–CGO composite oxygen electrode. The cell was tested at 800 °C and −1 A cm<ce:sup loc="post">−2</ce:sup> converting 31% of a 0.1:0.45:0.45 mixture of H<ce:inf loc="post">2</ce:inf>:H<ce:inf loc="post">2</ce:inf>O:CO<ce:inf loc="post">2</ce:inf> for approximately 2700 h, demonstrating an initial ASR of 200 mΩ cm<ce:sup loc="post">2</ce:sup> and a steady degradation rate of ≤12 mV (or 0.9%) per 1000 h. Electrochemical impedance spectroscopy (EIS) was used to study in situ changes in the electrochemical response of the cell and the retrieved data was treated to deconvolute resistive contributions from the physiochemical processes occurring within the cell. The results showed rapid initial fuel electrode degradation during the first 350 h followed by partial reactivation. The serial resistance was found to increase with time but in an exponentially decaying behavior. A discussion is made based on the detailed electrochemical results together with post-mortem microstructural analysis.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid oxide electrolysis cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Co-electrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Degradation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Mixed ionic electronic conductor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Solid oxide electrolysis cell (SOEC) is an electrochemical device that can convert H<ce:inf loc="post">2</ce:inf>O or CO<ce:inf loc="post">2</ce:inf> into H<ce:inf loc="post">2</ce:inf> or CO using electrical energy and heat <ce:cross-refs refid="bib1 bib2 bib3 bib4" id="crosrefs0010">[1–4]</ce:cross-refs>. If both H<ce:inf loc="post">2</ce:inf>O and CO<ce:inf loc="post">2</ce:inf> are used as reactant gas to the fuel electrode (as the cathode in SOEC mode), the so-called syngas (mixture of H<ce:inf loc="post">2</ce:inf> and CO) is produced which can be further converted into various types of synthetic liquid fuels such as ethanol, dimethyl ether (DME) or synthetic diesel. This is advantageous from a storage point of view, due to their higher volumetric energy density as compared to for instance batteries. Moreover liquid fuels are more easily stored, transported and consumed using the current infrastructures <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5" id="crosrefs0015">[1–5]</ce:cross-refs>. Finally, if the electrical energy comes from renewable energy sources such as wind power or solar energy and the heat from waste heat produced in industrial processes, the entire fuel cycle can be considered CO<ce:inf loc="post">2</ce:inf> neutral.</ce:para>
+                  <ce:para id="p0040" view="all">In order to commercialize the SOEC technology an operational lifetime of at least 5 years is expected <ce:cross-refs refid="bib5 bib6" id="crosrefs0020">[5,6]</ce:cross-refs>. Degradation of SOECs has therefore been extensively studied under various conditions including steam electrolysis <ce:cross-refs refid="bib7 bib8 bib9 bib10" id="crosrefs0025">[7–10]</ce:cross-refs>, CO<ce:inf loc="post">2</ce:inf> electrolysis <ce:cross-ref refid="bib11" id="crosref0020">[11]</ce:cross-ref> or co-electrolysis <ce:cross-refs refid="bib12 bib13" id="crosrefs0030">[12,13]</ce:cross-refs>. For a complete overview of reported SOEC degradation, the readers are referred to two recent review papers <ce:cross-refs refid="bib14 bib15" id="crosrefs0035">[14,15]</ce:cross-refs>. A number of different degradation mechanisms have been proposed depending on current density <ce:cross-refs refid="bib7 bib9 bib12 bib16" id="crosrefs0040">[7,9,12,16]</ce:cross-refs>. At current densities of 0–0.5 A cm<ce:sup loc="post">−2</ce:sup>, it has been argued that impurity poisoning of the active sites at the Ni–yttria stabilized zircona (YSZ)/YSZ/gas triple phase boundaries (TPBs) is the main cause for degradation <ce:cross-ref refid="bib10" id="crosref0025">[10]</ce:cross-ref>. It has also been shown that this degradation mechanism can be avoided by careful cleaning of the feed stream before entering into the Ni–YSZ electrode compartment <ce:cross-ref refid="bib17" id="crosref0030">[17]</ce:cross-ref>. From an economic perspective it is beneficial to operate the cells at high current densities and low over-voltage in order to reduce both investment and production costs. It is therefore wishful to operate the SOEC at ≥1 A cm<ce:sup loc="post">−2</ce:sup>. However, at such high current densities it has been reported that lateral cracks form within the 8 mol.% Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> stabilized ZrO<ce:inf loc="post">2</ce:inf> (8YSZ) electrolyte causing an additional, and rather severe degradation process <ce:cross-ref refid="bib7" id="crosref0035">[7]</ce:cross-ref>. It was observed that inter-granular nano-pores form within YSZ close to the strontium doped lanthanum manganite (LSM: La<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Sr<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>MnO<ce:inf loc="post">3</ce:inf>)–YSZ composite oxygen electrode (as the anode in SOEC mode) as a result of high oxygen potentials on this side of the cell during strong electrolysis polarization.</ce:para>
+                  <ce:para id="p0045" view="all">In a recent publication <ce:cross-ref refid="bib18" id="crosref0040">[18]</ce:cross-ref> it was observed that replacing the LSM–YSZ oxygen electrode with mixed conducting La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>Co<ce:inf loc="post">0.2</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf> (LSCF) oxygen electrode together with an Ce<ce:inf loc="post">0.9</ce:inf>Gd<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">1.95</ce:inf> (CGO) inter-diffusion barrier layer reduced the degradation associated with both the serial and polarization resistance when operated at −1.5 A cm<ce:sup loc="post">−2</ce:sup>. The reason for the observation is not yet fully understood but possible explanations are (1) the different material and microstructure of the inter-diffusion barrier within which the high oxygen potential was found or (2) higher oxygen exchange kinetics of the LSCF electrode.</ce:para>
+                  <ce:para id="p0050" view="all">Despite the improved stability of the SOEC with an LSCF oxygen electrode, high and continuously increasing degradation rates above 500 mV per 1000 h (500 mV khs<ce:sup loc="post">−1</ce:sup>) was observed when operated at −1.5 A cm<ce:sup loc="post">−2</ce:sup> 
+                     <ce:cross-ref refid="bib18" id="crosref0045">[18]</ce:cross-ref>. At electrolysis current densities at and below 0.5 A cm<ce:sup loc="post">−2</ce:sup>, on the contrary, very stable performance has been observed with cleaned upstream to the fuel electrode <ce:cross-ref refid="bib17" id="crosref0050">[17]</ce:cross-ref>. Regarding current densities between −0.5 and −1.5 A cm<ce:sup loc="post">−2</ce:sup>, only few results are reported from SOEC testing <ce:cross-ref refid="bib19" id="crosref0055">[19]</ce:cross-ref>. This study aims at analyzing and reporting the electrochemical results from a SOEC tested at −1 A cm<ce:sup loc="post">−2</ce:sup> and 800 °C under co-electrolysis conditions.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:para id="p0055" view="all">A Ni–YSZ supported SOEC (here after named as the tested cell) was manufactured using a support (Ni–YSZ cermet, ∼300 μm in thickness), a fuel electrode (Ni–8YSZ cermet, ∼10 μm in thickness) and an electrolyte (8YSZ, ∼10 μm in thickness). A CGO layer (∼2 μm in thickness) was applied using physical vapor deposition (PVD) before an LSC–CGO (LSC = (La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>)<ce:inf loc="post">0.99</ce:inf>CoO<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>) oxygen electrode was screen printed and sintered. The cell has an active electrode area of 4 × 4 cm<ce:sup loc="post">2</ce:sup>. The cell was tested in a SOFC test setup described elsewhere <ce:cross-ref refid="bib20" id="crosref0060">[20]</ce:cross-ref>. Gold and nickel meshes were used as current collector components on the oxygen and fuel side, respectively. The cell was sealed at its edges by glass. The flow compartments were sealed at 850 °C for 2 h prior to reduction. The Ni–YSZ electrode was reduced also at 850 °C in 9% H<ce:inf loc="post">2</ce:inf> in N<ce:inf loc="post">2</ce:inf> for 2 h followed by 1 h in humidified H<ce:inf loc="post">2</ce:inf> (with 4% H<ce:inf loc="post">2</ce:inf>O).</ce:para>
+                  <ce:para id="p0060" view="all">The initial and final electrochemical characteristics of the cell were tested at 850, 800 and 750 °C. At each temperature <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> polarization (in both SOFC and SOEC polarization mode) and electrochemical impedance spectroscopy (EIS) measurements were carried out with both air and O<ce:inf loc="post">2</ce:inf> supplied to the LSC–CGO oxygen electrode and with a steam content of both 20% and 50% supplied to the Ni–YSZ fuel electrode. Flows were set to 50 l h<ce:sup loc="post">−1</ce:sup> of air/O<ce:inf loc="post">2</ce:inf> and 24 l h<ce:sup loc="post">−1</ce:sup> of H<ce:inf loc="post">2</ce:inf>/H<ce:inf loc="post">2</ce:inf>O. <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> polarization measurements were carried out under co-electrolysis condition with a 24 l h<ce:sup loc="post">−1</ce:sup> flow of oxidants (<ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(CO<ce:inf loc="post">2</ce:inf>) = 0.45, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>O) = 0.45, <ce:italic>X</ce:italic>
+                     <ce:inf loc="post">F</ce:inf>(H<ce:inf loc="post">2</ce:inf>) = 0.1, where the subscript F represents fuel electrode) and with 50 l h<ce:sup loc="post">−1</ce:sup> O<ce:inf loc="post">2</ce:inf> supplied to the LSC–CGO oxygen electrode. EIS measurements were carried out at zero DC current using a Solartron 1260 frequency analyzer and an external shunt in series with the cell. The spectra was recorded from 96,850 Hz to 0.08 Hz with 12 points per decade and corrected using the short circuit impedance response of the test setup. Impedance measurements were corrected for inductive contributions from the test setup using the method based on Kramer Kronig relations described in Ref. <ce:cross-ref refid="bib21" id="crosref0065">[21]</ce:cross-ref>. In this study, analysis of the impedance data was performed using impedance transforms in the software Ravdav <ce:cross-ref refid="bib22" id="crosref0070">[22]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0065" view="all">In between the initial and final electrochemical characteristics, the electrochemical stability of the cell was tested in galvanostatic mode at −1 A cm<ce:sup loc="post">−2</ce:sup> and 800 °C with an inlet gas composition of CO<ce:inf loc="post">2</ce:inf>/H<ce:inf loc="post">2</ce:inf>O/H<ce:inf loc="post">2</ce:inf> = 45/45/10 and a reactant (H<ce:inf loc="post">2</ce:inf>O + CO<ce:inf loc="post">2</ce:inf>) utilization of 31%. The 10% of hydrogen excess was added in order to avoid oxidation of the Ni in the Ni–YSZ electrode. The gas supplied to the Ni–YSZ electrode compartment were cleaned at 720 °C before being fed to the cell, following a procedure described by Ebbesen and Mogensen <ce:cross-ref refid="bib17" id="crosref0075">[17]</ce:cross-ref>. A flow of 50 l h<ce:sup loc="post">−1</ce:sup> of O<ce:inf loc="post">2</ce:inf> was supplied to the LSC–CGO electrode in order to ensure a stable <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> in the oxygen electrode compartment. EIS were recorded under current during the galvanostatic test. The applied current was accidentally cut after 1150 h test due to unforeseen technical reasons. The test was continued under the same condition right after the technical problem was solved. After the final electrochemical characterization, the cell was cooled to room temperature with 9% H<ce:inf loc="post">2</ce:inf> in N<ce:inf loc="post">2</ce:inf> supplied to the Ni–YSZ electrode compartment and air supplied to the LSC–CGO electrode compartment.</ce:para>
+                  <ce:para id="p0070" view="all">A nominally identical cell was used as reference (here after named as the reference cell) and performed initial electrochemical characterization only. The cell was primarily used to test the cell test reproducibility and as a reference for assessing the microstructural changes induced by the galvanostatic test. The initial electrochemical characteristics of the reference cell were identical to the galvanostatically tested cell and were therefore not included in this paper.</ce:para>
+                  <ce:para id="p0075" view="all">Both the galvanostatically tested cell and the reference cell were selected for microstructural examinations. Polished cross-sections along the fuel flow direction from gas inlet to gas outlet were prepared. A Carl Zeiss Supra 35 scanning electron microscope equipped with a field emission gun (FE-SEM) was used. For chemical analysis the Supra 35 is equipped with an X-ray Energy Dispersive Spectrometer (EDS) and a microanalysis software NSS (Thermo Fischer Scientific Inc.). The samples were carbon coated prior to imaging and EDS analysis which was carried out at an accelerating voltage of 15 kV.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:para id="p0080" view="all">
+                     <ce:cross-ref refid="fig1" id="crosref0080">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> plots the results from <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> polarization measurements of the cell recorded at 800 °C under co-electrolysis conditions before and after the durability test as well as the corresponding secant area specific resistance (ASR<ce:inf loc="post">SEC</ce:inf>). The cell shows an initial ASR<ce:inf loc="post">SEC</ce:inf> of 0.20 Ω cm<ce:sup loc="post">2</ce:sup> at −1 A cm<ce:sup loc="post">−2</ce:sup>, 800 °C under co-electrolysis conditions described in the experimental section. The low resistance, which to the best knowledge of the authors is a record low, is considered as a consequence of the use of an LSC–CGO oxygen electrode on a CGO inter-diffusion layer produced using PVD technology. LSC is well known for its good mixed ionic and electronic conducting (MIEC) properties and its high catalytic activity toward oxygen reduction <ce:cross-ref refid="bib23" id="crosref0085">[23]</ce:cross-ref>. The application of a dense CGO inter-diffusion barrier layer made by PVD further reduces the resistance by efficiently preventing Sr diffusion toward the YSZ electrolyte and formation of non-conducting SrZrO<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-ref refid="bib24" id="crosref0090">[24]</ce:cross-ref>. After the long-term galvanostatic test, the ASR<ce:inf loc="post">SEC</ce:inf> at −1 A cm<ce:sup loc="post">−2</ce:sup> have increased to 325 mΩ cm<ce:sup loc="post">2</ce:sup>, which yields an average degradation rate of 47 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup> over the 2650 h test period. <ce:cross-ref refid="fig2" id="crosref0095">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> shows Nyquist plots of the inductance corrected impedance measured at open circuit voltage (OCV) under the same condition as in <ce:cross-ref refid="fig1" id="crosref0100">Fig. 1</ce:cross-ref>. The results suggest that the degradation is related to both the serial and polarization resistance of the cell. It should be noted that the <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> and EIS plots of post-tests as plotted in <ce:cross-ref refid="fig1" id="crosref0105">Figs. 1</ce:cross-ref> and <ce:cross-ref refid="fig2" id="crosref0110">2</ce:cross-ref> were not carried out directly after stopping the galvanostatic test but after a series of <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> and impedance measurements at other gas compositions.</ce:para>
+                  <ce:para id="p0085" view="all">
+                     <ce:cross-ref refid="fig3" id="crosref0115">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> plots the results from analyzing the EIS measurements before and after the durability test using the method of analysis of differences in impedance spectra (ADIS) when shifting the <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O on the fuel electrode or the <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> on the oxygen electrode while keeping the other conditions constant <ce:cross-ref refid="bib25" id="crosref0120">[25]</ce:cross-ref>. The ADIS method allows distinguishing the frequency regime and the relative change in resistance of all processes dependent on the parameter used for this specific analysis (<ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf>, <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O, <ce:italic>T</ce:italic>, etc). Gas shift ADIS is limited to analysis of electrode reactions that have a partial pressure dependence of the respective reactants and products which is the case for most of the electrochemical processes occurring in a SOEC. A stronger ADIS response after test for a given electrode can then be interpreted as an increase in resistance for this specific electrode reaction. As indicated by <ce:cross-ref refid="fig3" id="crosref0125">Fig. 3</ce:cross-ref>, the degradation of the fuel electrode is very weak as there is no major difference between the curves. The oxygen electrode appears to have degraded to some degree but the resistive contribution from this electrode is very small making quantitative assessment less accurate.</ce:para>
+                  <ce:para id="p0090" view="all">
+                     <ce:cross-ref refid="fig4" id="crosref0130">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/> plots the cell voltage curve of the galvanostatic test described in the experimental section. It also plots the corresponding ASR<ce:inf loc="post">SEC</ce:inf>, calculated as (OCV − <ce:italic>U</ce:italic>(<ce:italic>t</ce:italic>))/<ce:italic>i</ce:italic>. The figure plots further the accumulated degradation rate calculated as <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mrow>
+                              <mml:mover accent="true">
+                                 <mml:mrow>
+                                    <mml:mtext>DR</mml:mtext>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mo stretchy="true">¯</mml:mo>
+                              </mml:mover>
+                           </mml:mrow>
+                           <mml:mo>=</mml:mo>
+                           <mml:mrow>
+                              <mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>ASR</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mtext>SEC</mml:mtext>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>t</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>ASR</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mtext>SEC</mml:mtext>
+                                                <mml:mo>,</mml:mo>
+                                                <mml:mi>t</mml:mi>
+                                                <mml:mo>=</mml:mo>
+                                                <mml:mn>0</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                              </mml:mrow>
+                              <mml:mo>/</mml:mo>
+                              <mml:mi>t</mml:mi>
+                           </mml:mrow>
+                           <mml:mtext> </mml:mtext>
+                        </mml:mrow>
+                     </mml:math> where <ce:italic>t</ce:italic> is the elapsed time since the start of the galvanostatic test. Finally, the figure plots the instantaneous degradation rate, calculated as the time derivative of ASR<ce:inf loc="post">SEC</ce:inf> 
+                     <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>ⅆ</mml:mo>
+                                          <mml:mi>R</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo>ⅆ</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>∂</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo>(</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:mtext>ASR</mml:mtext>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mtext>SEC</mml:mtext>
+                                                         <mml:mo>,</mml:mo>
+                                                         <mml:mi>t</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                                <mml:mo>)</mml:mo>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo>∂</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                        </mml:mrow>
+                     </mml:math>. In this plot we have applied a 150 h moving average filter over the calculated d<ce:italic>R</ce:italic>/d<ce:italic>t</ce:italic> in order to linearize the degradation rate. The results show a rapid initial increase in cell voltage during the first approximately 350 h. After this period the cell voltage was found to increase only weakly with time. At about 1150 h into the test a power failure forced the cell to OCV. When operation was restored, the cell voltage returned to a lower value demonstrating that the accident actually had induced an instantaneous partial reactivation of the cell performance. After the power was restored the degradation behavior resembled the similar trends during the first 1000 h of the test with a relative high degradation during the first 300–400 h. This was followed by period of very low degradation which continued until the end of the test at 2650 h. The cell shows a steady degradation rate of ∼12 mV (or 0.9%) khs<ce:sup loc="post">−1</ce:sup> evaluated from the measured cell voltage for the periods of 400–1000 and 2000–2600 h. So far only Schefold et al. has demonstrated comparable however still slightly higher degradation rate (1.7% khs<ce:sup loc="post">−1</ce:sup> for the steady state degradation) also at −1 A cm<ce:sup loc="post">−2</ce:sup>, but for electrolysis of steam and over 9000 h <ce:cross-ref refid="bib26" id="crosref0135">[26]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0095" view="all">Over the entire testing period the cell temperature increased by approximately 6 °C. This shall result in a decrease of 5 mΩ cm<ce:sup loc="post">2</ce:sup> in the ASR<ce:inf loc="post">SEC</ce:inf> calculated using activation energy of 1.15 eV obtained during the electrochemical characterization before the test commenced. Taking this into account, the accumulated degradation rate for the entire test period of 2650 h reached ∼85 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup> with a final measured ASR<ce:inf loc="post">SEC</ce:inf> of 410 mΩ cm<ce:sup loc="post">2</ce:sup>. This is substantially higher than the 325 mΩ cm<ce:sup loc="post">2</ce:sup> and corresponding degradation rate of 47 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup> determined from comparing <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> polarization measurements before and after the test. The discrepancy indicates that the cell has recovered partially after the test stopped. The reason for this discrepancy is not yet clear. However, an interesting observation is that the cell also showed partial reactivation after the sudden power failure at 1150 h into the test. The results indicate that the SOEC can regain electrochemical performance by resting at OCV or being operated in SOFC mode for a period of time.</ce:para>
+                  <ce:para id="p0100" view="all">In order to estimate lifetime predictions the trend in the instantaneous degradation rate is of great importance. The calculated instantaneous degradation rate shows relatively large scatter, partly due to the impedance measurements that were recorded during the test. From <ce:cross-ref refid="fig4" id="crosref0140">Fig. 4</ce:cross-ref> the d<ce:italic>R</ce:italic>/d<ce:italic>t</ce:italic> is estimated to decrease toward an approximate rate of 5–10 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup> after the initial degradation leveled off. This rate is substantially lower than the measured average rates of 375 and 550 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup> reported in an aforementioned study of SOEC operated at −1.5 A cm<ce:sup loc="post">−2</ce:sup> under co-electrolysis flow <ce:cross-ref refid="bib18" id="crosref0145">[18]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0105" view="all">In this work distribution of relaxation times (DRT) was applied in order to further understand the cell degradation behavior. <ce:cross-ref refid="fig5" id="crosref0150">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> plots the analyzed DRT results, carried out at different <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> and <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O, temperatures and electrolysis currents during the initial characterization. The DRT method allows distinguishing the physiochemical processes that give rise to the impedance spectra of a SOEC provided that these processes have different characteristic time constants <ce:cross-ref refid="bib2" id="crosref0155">[2]</ce:cross-ref>. As shown in <ce:cross-ref refid="fig5" id="crosref0160">Fig. 5</ce:cross-ref>, upon changes in <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O at the Ni–YSZ side of the cell, three responses at 3–5 kHz, 20–40 Hz and 3–4 Hz respectively are clearly visible, of which only the high frequency process is strongly temperature dependent. Oxidation of H<ce:inf loc="post">2</ce:inf> at the Ni–YSZ triple phase boundaries of this cathode supported cell has previously been found to occur at around 3–5 kHz <ce:cross-ref refid="bib3" id="crosref0165">[3]</ce:cross-ref>. The same paper showed that gas diffusion impedance of H<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>O occurs at around 20 Hz, and that the conversion impedance, associated with Nernst potential perturbations due to changes in the <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>/<ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O ratio, occurs at 1–3 Hz. <ce:cross-ref refid="fig5" id="crosref0170">Fig. 5</ce:cross-ref> distinguishes further two processes that depend on the <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> of the oxygen electrode side of the cell. The first occurs at an approximate summit frequency of 100–500 Hz depending on <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf>. This is the typical frequency regime within which the oxygen exchange reaction of LSC-based electrodes occurs <ce:cross-refs refid="bib2 bib11" id="crosrefs0045">[2,11]</ce:cross-refs>. The second response shows up at around 10 Hz when the <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> decreases below 0.21 atm. This is the typical frequency regime for diffusion of molecular O<ce:inf loc="post">2</ce:inf> on the oxygen electrode side <ce:cross-ref refid="bib2" id="crosref0175">[2]</ce:cross-ref>. Finally, there appears to be a response at 20–30 kHz which is not dependent on partial pressure change on either side of the cell. Previous studies have ascribed this process to ionic transport within the YSZ matrix of the Ni–YSZ electrode <ce:cross-refs refid="bib4 bib5" id="crosrefs0050">[4,5]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0110" view="all">
+                     <ce:cross-ref refid="fig6" id="crosref0180">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/> plots DRT analysis of EIS impedance during four different periods of the galvanostatic test. The first period from 0 to 350 h shows large increase in the main Ni–YSZ electrode response together with a shift in the summit frequency from 3 kHz to 500 Hz. A similar shift has been observed in previous studies, which has suggested this degradation to be related to poisoning of the Ni–YSZ TPB by impurities <ce:cross-ref refid="bib6" id="crosref0185">[6]</ce:cross-ref>. Additionally the conversion impedance at around 3–4 Hz appears to increase during this period. It is more difficult to conclude any trends in processes at 50–500 Hz as these processes are small and start to partially overlap with the response of the Ni–YSZ electrode. During the second period from 350 to 1100 h, a decrease in the Ni–YSZ response was observed indicating that the fuel electrode is partially reactivating. After the power cut, the impedance resistance of the Ni–YSZ electrode is again increasing for about 650 h. During the final period from 1900 h to the end of the test, the Ni–YSZ electrode appears to reactivate again albeit to a substantially lower degree than during the first period of reactivation.</ce:para>
+                  <ce:para id="p0115" view="all">From the DRT analysis in <ce:cross-ref refid="fig5" id="crosref0190">Fig. 5</ce:cross-ref>, two processes at frequencies higher than the main Ni–YSZ electrode response are observed. The first high frequency process is found at about 20 kHz and does not appear to change during the test. The second high frequency process is found at 3–5 kHz i.e. the frequencies at which the main Ni–YSZ process is nominally found. This process could in fact also be an integrated part of the impedance associated with the fuel oxidation. Whether this observed peak is related to an independent process or is part of a more complex and distributed impedance response is not yet fully resolved. In this paper, we have treated this response independently, mainly because from a degradation point of view it does not appear to be coupled to the main Ni–YSZ response.</ce:para>
+                  <ce:para id="p0120" view="all">Based on the DRT results, the impedance spectra were analyzed using the following equivalent circuit model: <ce:italic>L</ce:italic> − <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">S</ce:inf> − (RQ)<ce:inf loc="post">HF1</ce:inf> − (RQ)<ce:inf loc="post">HF2</ce:inf> − (RQ)<ce:inf loc="post">Ni:YSZ</ce:inf> − <ce:italic>G</ce:italic>
+                     <ce:inf loc="post">LSC:CGO</ce:inf> − (RQ)<ce:inf loc="post">DIFF</ce:inf> − (RC)<ce:inf loc="post">CONV</ce:inf>. <ce:cross-ref refid="fig7" id="crosref0195">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="fig7"/> simulates, for a representative impedance spectra measured during the galvanostatic test, the different elements of the model.</ce:para>
+                  <ce:para id="p0125" view="all">The results from fitting the impedance spectra to the above described model are shown in <ce:cross-ref refid="fig8" id="crosref0200">Fig. 8</ce:cross-ref>
+                     <ce:float-anchor refid="fig8"/>. The model shows that the impedance spectrum is heavily dominated by the electrochemical processes related to the Ni–YSZ electrode and the H<ce:inf loc="post">2</ce:inf>O + CO<ce:inf loc="post">2</ce:inf> conversion whereas the contribution from all the other processes is fairly small. Unfortunately, the main Ni–YSZ response overlaps partially with the oxygen electrode process and the <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">HF2</ce:inf> process. Additionally, the resistance of the oxygen electrode process and the <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">HF1</ce:inf> (this is the right legend not on the plot) and <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">HF2</ce:inf> are small compared to that of <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">Ni–YSZ</ce:inf>. It is therefore difficult to accurately and quantitatively conclude trends in the resistance of these processes with time. It is for these reasons not possible to make detailed discussions and accurate conclusions on these four minor processes. The results from both DRT analysis as well as equivalent circuit fitting indicate that the LSC–CGO oxygen electrode appears not to suffer from any major degradation processes under the conditions in this test. In contrast to this the gas shift ADIS analysis of impedance measured before and after test shows that the oxygen electrode has suffered from degradation. Oxygen electrode degradation is demonstrated further by DRT analysis, shown in <ce:cross-ref refid="fig9" id="crosref0205">Fig. 9</ce:cross-ref>
+                     <ce:float-anchor refid="fig9"/>, which concludes an increase in the oxygen electrode resistance after test, although to a still comparatively small value. It also appears as though <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">HF1</ce:inf> and in particular <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">HF2</ce:inf> increase suddenly from 250 to 350 h into the test which is the period at which the resistance of the main Ni–YSZ process reaches its maximum. The high frequency response has previously been determined to be independent on changes in <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O <ce:cross-ref refid="bib27" id="crosref0210">[27]</ce:cross-ref> which is why it is not possible to identify this process using gas shift ADIS. However, from <ce:cross-ref refid="fig9" id="crosref0215">Fig. 9</ce:cross-ref> it is evident that a process occurring at 20–50 kHz has increased substantially during the test.</ce:para>
+                  <ce:para id="p0130" view="all">In addition, the following can be further deduced from <ce:cross-ref refid="fig8" id="crosref0220">Fig. 8</ce:cross-ref>:<ce:list id="ulist0015">
+                        <ce:list-item id="u0035">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0135" view="all">Passivation/activation of the Ni–YSZ electrode. The results from fitting the impedance data to an equivalent circuit model show, in agreement with the DRT analysis, an initial degradation on the Ni–YSZ electrode, followed by a partial reactivation. The degradation has previously been ascribed to poisoning of the TPBs at the fuel electrode by impurities such as silica <ce:cross-ref refid="bib18" id="crosref0225">[18]</ce:cross-ref>. It has been suggested further that reactivation of Ni–YSZ TPBs may occur due to crystallization of the silica phases <ce:cross-ref refid="bib10" id="crosref0230">[10]</ce:cross-ref>. Recent publications have also shown that Zr may dissolve into the nickel particles and expel as nano-particles at the nickel surface provided that the over-potential is high enough <ce:cross-ref refid="bib28" id="crosref0235">[28]</ce:cross-ref>. However the later degradation mechanism is not expected to be reversible upon restoring open circuit voltage.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0040">
+                           <ce:label>-</ce:label>
+                           <ce:para id="p0140" view="all">Strong coupling of the fuel electrode and fuel conversion impedance. During periods when the Ni–YSZ is degrading, the resistance associated with fuel conversion impedance is also observed to increase. The opposite is seen for the periods when the Ni–YSZ electrode is partially activating. The reason for this coupling is not yet understood.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0145" view="all">
+                     <ce:cross-ref refid="fig10" id="crosref0240">Fig. 10</ce:cross-ref>
+                     <ce:float-anchor refid="fig10"/> plots serial resistance degradation after the power cut, together with a fitted line using an exponentially decaying function with an asymptotic limit of 125 mΩ cm<ce:sup loc="post">2</ce:sup>. The major reason for the high degradation rates in previous tests has been a large increase in the serial resistance due to the crack propagation within the YSZ electrolyte <ce:cross-refs refid="bib9 bib10 bib19" id="crosrefs0055">[9,10,19]</ce:cross-refs>. The fact that the increase in the serial resistance is rather low for the cell in this test and that <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">S</ce:inf> degradation appears to decay over time suggests that the cell is not suffering from the degradation mechanism proposed in Ref. <ce:cross-ref refid="bib9" id="crosref0245">[9]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0150" view="all">The analysis of impedance measured at OCV before and after the galvanostatic test using ADIS and the analysis of impedance measured under current during test using DRT arrive at different conclusions with respect to the main Ni–YSZ electrode. The ADIS analysis shows that the main Ni–YSZ response has not suffered from almost any degradation whereas the DRT analysis highlights an extensive degradation (occurring rapidly during the initial phase of the test). In this context it could possibly be of importance that the post-test reported in Fig. 1, <ce:cross-refs refid="fig2 fig3" id="crosrefs0060">Figs. 2 and 3</ce:cross-refs> were measured after a series of SOFC polarization measurements under various <ce:italic>p</ce:italic>H<ce:inf loc="post">2</ce:inf>O on the fuel side and <ce:italic>p</ce:italic>O<ce:inf loc="post">2</ce:inf> on the oxygen side of the cell. A hypothetical explanation could be that the Ni–YSZ recovers almost fully during the post-test measurements. A substantial reactivation of the Ni–YSZ electrode would also explain the discrepancy between the accumulated degradation rates calculated on the basis of pre- and post-test <ce:italic>i</ce:italic>–<ce:italic>V</ce:italic> measurements and on the basis of cell voltage at the start and end of the test.</ce:para>
+                  <ce:para id="p0155" view="all">SEM investigations were carried out along the fuel electrode flow direction from gas inlet to gas outlet of the tested cell and the reference cell. In the tested cell, mild microstructural degradation is found in the Ni–YSZ cathode, and the degradation occurs evenly in the entire cell from inlet to outlet. Hence, only the images taken from the center of the cell are presented in <ce:cross-ref refid="fig11" id="crosref0250">Fig. 11</ce:cross-ref>
+                     <ce:float-anchor refid="fig11"/>. The only noticeable microstructural changes in the tested cell were seen in the active Ni–YSZ electrode, namely the characteristic “dark ring” around some Ni grains (<ce:cross-ref refid="fig11" id="crosref0255">Fig. 11</ce:cross-ref>b). This could indicate the presence of Zr-oxide nano-particles on the surface of Ni grain, which has previously been identified as one of the major degradation mechanisms for Ni–YSZ electrodes under SOEC operation <ce:cross-ref refid="bib28" id="crosref0260">[28]</ce:cross-ref>. However, it is also noticed that this phenomena is limited to only a few Ni grains along the electrolyte-fuel electrode interface in contrast to the <ce:cross-ref refid="bib28" id="crosref0265">[28]</ce:cross-ref> where the degradation from Zr-oxide particles was found to be more severe. This is in good agreement with the results obtained from electrochemical characterizations which show relatively mild degradation when comparing the electrochemical performance of the cell before and after the test.</ce:para>
+                  <ce:para id="p0160" view="all">For the oxygen side, SEM examinations have not found any noticeable microstructural change in the YSZ electrolyte or in the CGO barrier layer. There could be microstructural changes in the LSC–CGO anode, but beyond the detection limit of SEM. As shown in <ce:cross-ref refid="fig11" id="crosref0270">Fig. 11</ce:cross-ref>b, the adhesion between the different layers (electrolyte, barrier layer, and oxygen electrode) of the tested cell remains relatively intact after 2600 h's testing. Small gaps (a few hundreds of nm, not shown here) are occasionally seen between the oxygen electrode and the barrier layer. Such gaps are not necessarily caused by long-term galvanostatic testing, as they are also seen in the reference cell. EDS line-scan analysis was performed in the LSC–CGO anode and atomic ratios of La/Sr and La/Co were plotted as a function of the distance from the anode-barrier interface (<ce:cross-ref refid="fig12" id="crosref0275">Fig. 12</ce:cross-ref>
+                     <ce:float-anchor refid="fig12"/>). It shows that there is Sr- and Co-depletion in a region in the LSC–CGO anode of the tested cell, which is around 3–5 μm from the anode-barrier interface. Such depletion of Sr or Co was however not found in the reference cell indicating that the depletion of Sr and Co is a result of electrolysis.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0040">Conclusion</ce:section-title>
+                  <ce:para id="p0165" view="all">The long-term durability of an anode supported SOEC with an inter-diffusion barrier layer of CGO produced using PVD and a screen printed LSC–CGO oxygen electrode has been tested at −1 A cm<ce:sup loc="post">−2</ce:sup>, 800 °C and 31% conversion of a 50:50% H<ce:inf loc="post">2</ce:inf>O:CO<ce:inf loc="post">2</ce:inf> mixture (co-electrolysis). The cell measured excellent initial performance with an ASR of 0.2 Ω cm<ce:sup loc="post">2</ce:sup>. The cell was found to degrade rapidly during the first 350 h after which the degradation slowed down to an approximate rate of 5–10 mΩ cm<ce:sup loc="post">2</ce:sup> khs<ce:sup loc="post">−1</ce:sup>. Four interesting observations were made: Firstly, the cell appears to partially reactivate its electrochemical performance when the electrolysis current is turned off and the cell is returned to OCV. The same observation was made from electrochemical post-test analysis. Secondly, the Ni–YSZ electrode was found to partially reactivate after an initial period of rapid degradation. Thirdly, the impedance of the oxidant reduction at the Ni–YSZ electrode appears to be apparently linked to the fuel conversion impedance. And fourthly, the serial resistance degradation was found to be relatively low and decays relatively exponentially with time, in contrast to previous tests at even higher current densities.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0045">Acknowledgment</ce:section-title>
+               <ce:para id="p0170" view="all">This work was financially supported by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Energinet.dk</ce:grant-sponsor> through the project <ce:grant-number refid="gs1">ForskEL 2011-1-10609</ce:grant-number> “Development of SOEC cells and stacks”.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0050">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3253</sb:first-page>
+                              <sb:last-page>3257</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kobsiriphat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pillai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Fuels</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3089</sb:first-page>
+                              <sb:last-page>3096</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Graves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Green Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>646</sb:first-page>
+                              <sb:last-page>660</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hartvigsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Elangovan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Frost</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nickens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Stoots</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Herring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                              <sb:last-page>637</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Graves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Lackner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew. Sust. Energy Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>23</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.X.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mabilat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zahid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gautier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1382</sb:first-page>
+                              <sb:last-page>1397</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Knibbe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Traulsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B1209</sb:first-page>
+                              <sb:last-page>B1217</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schiller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ansar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Patz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Electrochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>301</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Laguna-Bercero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Campana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Larrea</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Kilner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Orera</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8942</sb:first-page>
+                              <sb:last-page>8947</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B1184</sb:first-page>
+                              <sb:last-page>B1193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Graves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>398</sb:first-page>
+                              <sb:last-page>403</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Graves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B1419</sb:first-page>
+                              <sb:last-page>B1429</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nechache</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cassir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ringuede</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>258</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>164</sb:first-page>
+                              <sb:last-page>181</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mocoteguy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15887</sb:first-page>
+                              <sb:last-page>15902</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Virkar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9527</sb:first-page>
+                              <sb:last-page>9543</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>D106</sb:first-page>
+                              <sb:last-page>D108</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hjalmarsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>223</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                              <sb:last-page>357</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hjalmarsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Ebbesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>F1074</sb:first-page>
+                              <sb:last-page>F1080</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kindl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bagger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Linderoth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.C.</ce:given-name>
+                                    <ce:surname>Singhal</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Dokiya</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Solid Oxide Fuel Cells (SOFC VI)</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Electrochemical Society Inc.</sb:name>
+                                 <sb:location>Pennington</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>904</sb:first-page>
+                              <sb:last-page>915</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Boukamp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1885</sb:first-page>
+                              <sb:last-page>1894</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Graves</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>RAVDAV Data Analysis Software</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Version 0.9.7</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Petric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>135</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>719</sb:first-page>
+                              <sb:last-page>725</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Knibbe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hjelm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Menon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pryds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sogaard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Neufeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2877</sb:first-page>
+                              <sb:last-page>2883</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bonanos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jacobsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B1325</sb:first-page>
+                              <sb:last-page>B1330</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schefold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A137</sb:first-page>
+                              <sb:last-page>A144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Leonide</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sonn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ivers-Tiffee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B36</sb:first-page>
+                              <sb:last-page>B41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Bentzen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hauch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Bowen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Hendriksen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>F883</sb:first-page>
+                              <sb:last-page>F891</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2320 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319914020102</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2014.07.051</dc:identifier><eid>1-s2.0-S0360319914020102</eid><prism:doi>10.1016/j.ijhydene.2014.07.051</prism:doi><pii>S0360-3199(14)02010-2</pii><dc:title>One-step synthesized nano-composite cathode material of Pr0.83BaCo1.33Sc0.5O6−δ–0.17PrCoO3 for intermediate-temperature solid oxide fuel cell </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>39</prism:volume><prism:issueIdentifier>27</prism:issueIdentifier><prism:startingPage>15039</prism:startingPage><prism:endingPage>15045</prism:endingPage><prism:pageRange>15039-15045</prism:pageRange><prism:number>27</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2014-09-12</prism:coverDate><prism:coverDisplayDate>12 September 2014</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Hydrogen Energy Publications, LLC. Published by Elsevier Ltd.</prism:publisher><dc:creator>Li, Xiangnan</dc:creator><dc:creator>Jiang, Xuening</dc:creator><dc:creator>Shi, Yuchao</dc:creator><dc:creator>Zhou, Wenlong</dc:creator><dc:creator>Xu, Qiuli</dc:creator><dc:creator>Xu, Hongxia</dc:creator><dc:creator>Zhang, Qingyu</dc:creator><dc:description>
+                  Pr0.83BaCo1.33Sc0.5O6−δ–0.17PrCoO3 (PBCS-0.17PCO) nano-composite material has been synthesized by a combined EDTA-citrate complexing sol–gel method, and characterized as cathode material of intermediate-temperature solid oxide fuel cell (IT-SOFC). Phase structure has been characterized by X-ray diffraction (XRD) measurement. The results indicate that the composite material is composed of two cubic perovskite phases with nano-scaled grain sizes. Thermal expansion coefficient (TEC) of the composite material was measured to be 18.4 × 10−6/°C at temperatures of 30–900 °C. Electrical conductivities were measured in air by DC four-electrode method, and the conductivity values increase monotonically with the higher temperatures from 100 °C up to 750 °C. Electrochemical performance of the PBCS-0.17PCO composite materials was studied by electrochemical impedance spectra (EIS) measurements using GDC-based symmetric cell. Low area specific resistance (ASR) values ranging from 0.127 Ω cm2 at 600 °C, 0.069 Ω cm2 at 650 °C, 0.039 Ω cm2 at 700 °C to 0.026 Ω cm2 at 750 °C were achieved for the composite cathode, demonstrating its promising application in IT-SOFCs.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Composite materials</dcterms:subject><dcterms:subject>Phase structure</dcterms:subject><dcterms:subject>Thermal expansion behavior</dcterms:subject><dcterms:subject>Electrical conductivity</dcterms:subject><dcterms:subject>Electrochemical performance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319914020102" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319914020102" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="18127">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="12191">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="20903">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="10460">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="14769">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="14723">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="15378">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="369" height="262" size="46175">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="498" height="200" size="42964">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="578" height="215" size="81187">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="498" height="182" size="34261">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="224" size="34354">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="498" height="377" size="54638">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="219" size="34112">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1634" height="1161" size="228856">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2205" height="884" size="218603">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2559" height="953" size="756542">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2205" height="806" size="168658">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1280" height="993" size="127605">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2205" height="1671" size="302458">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1280" height="971" size="131542">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="16" height="16" size="170">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="193" height="41" size="931">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="18" height="16" size="180">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319914020102-si3.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84906778480</scopus-id><scopus-eid>2-s2.0-84906778480</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84906778480" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20140805">2014-08-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20140805">2014-08-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2017-09-05T09:22:33</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319914020102</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(14)02010-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319914020102</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2014.07.051</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319914X00248</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170905">2017-09-05T04:33:55.320605-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140912</xocs:date-search-begin>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1408744174">2014-08-22T21:49:34.585411Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>39</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>39</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>27</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>27</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 39, Issue 27</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>59</xocs:sort-order>
+      <xocs:first-fp>15039</xocs:first-fp>
+      <xocs:last-lp>15045</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>15039</xocs:first-page>
+         <xocs:last-page>15045</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20140912</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>12 September 2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-09-12</xocs:cover-date-start>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>SO Fuel Cells</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ONESTEPSYNTHESIZEDNANOCOMPOSITECATHODEMATERIALPR083BACO133SC05O6017PRCOO3FORINTERMEDIATETEMPERATURESOLIDOXIDEFUELCELL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Powder synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Characterizations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Phase structure, microstructure and oxygen content</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Thermal expansion behavior</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Electrical conduction behaviors</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Electrochemical performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>ADLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4791</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4843</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>462</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>JACOBSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>660</xocs:ref-first-fp>
+            <xocs:ref-last-lp>674</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>ZHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3951</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3954</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>683</xocs:ref-first-fp>
+            <xocs:ref-last-lp>686</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5920</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5929</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>PANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>453</xocs:ref-first-fp>
+            <xocs:ref-last-lp>456</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12035</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12042</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6836</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6843</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7551</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7557</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3651</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3655</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>AN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5601</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5610</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>PANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2165</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7930</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7935</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ORTIZVITORIANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9682</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9691</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>NIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1340</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1343</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>DAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>523</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>SCHERRER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1918</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-last-lp>100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>FRONTERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5439</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5445</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2500</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2505</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>SCHERRER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>ZENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>470</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>799</xocs:ref-first-fp>
+            <xocs:ref-last-lp>802</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>PENAMARTINEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9486</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9495</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIX2014X15039</xocs:refkey3>
+         <xocs:refkey4lp>LIX2014X15039X15045</xocs:refkey4lp>
+         <xocs:refkey4ai>LIX2014X15039XX</xocs:refkey4ai>
+         <xocs:refkey5>LIX2014X15039X15045XX</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(14)02010-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319914020102</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319914020102</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2014.07.051</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2017-09-05T04:33:55.320605-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2014-09-12</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/MAIN/application/pdf/353349988d5af4c8dc0ff6c9b5a08e07/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/MAIN/application/pdf/353349988d5af4c8dc0ff6c9b5a08e07/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1273639</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319914020102-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/PREVIEW/image/png/baa6f9e72eb9d2cfc22241e7f3aa34c3/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/PREVIEW/image/png/baa6f9e72eb9d2cfc22241e7f3aa34c3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51399</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr1/THUMBNAIL/image/gif/e80cbd8fe1854441bc0b2c5865f7ab20/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr1/THUMBNAIL/image/gif/e80cbd8fe1854441bc0b2c5865f7ab20/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18127</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr2/THUMBNAIL/image/gif/26fb9ba3f063413dd69805ea77e550cd/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr2/THUMBNAIL/image/gif/26fb9ba3f063413dd69805ea77e550cd/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12191</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr3/THUMBNAIL/image/gif/dc50e6c9a443753fe8bdaca4d003c2d9/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr3/THUMBNAIL/image/gif/dc50e6c9a443753fe8bdaca4d003c2d9/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20903</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr4/THUMBNAIL/image/gif/0e1811b8782ccc72041a67791d05c8ce/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr4/THUMBNAIL/image/gif/0e1811b8782ccc72041a67791d05c8ce/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10460</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr5/THUMBNAIL/image/gif/4b0cb0c0848cde33763f33a7913defc3/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr5/THUMBNAIL/image/gif/4b0cb0c0848cde33763f33a7913defc3/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14769</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr6/THUMBNAIL/image/gif/4fbb340864b0565a73f2852b78d7c801/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr6/THUMBNAIL/image/gif/4fbb340864b0565a73f2852b78d7c801/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14723</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr7/THUMBNAIL/image/gif/2e3ca414f89cd11c266c7df65093a687/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr7/THUMBNAIL/image/gif/2e3ca414f89cd11c266c7df65093a687/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15378</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr1/DOWNSAMPLED/image/jpeg/d058ca090a4ce693b2d3b1a6bd1c9870/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr1/DOWNSAMPLED/image/jpeg/d058ca090a4ce693b2d3b1a6bd1c9870/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46175</xocs:filesize>
+               <xocs:pixel-height>262</xocs:pixel-height>
+               <xocs:pixel-width>369</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr2/DOWNSAMPLED/image/jpeg/0a4d9277194a017fe6d3e1c57b81d4c8/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr2/DOWNSAMPLED/image/jpeg/0a4d9277194a017fe6d3e1c57b81d4c8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42964</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>498</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr3/DOWNSAMPLED/image/jpeg/d5ebba488c9d5943ea07b0be6e5506ea/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr3/DOWNSAMPLED/image/jpeg/d5ebba488c9d5943ea07b0be6e5506ea/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>81187</xocs:filesize>
+               <xocs:pixel-height>215</xocs:pixel-height>
+               <xocs:pixel-width>578</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr4/DOWNSAMPLED/image/jpeg/b69cadeda12a365ceb30ecc7c1c2417a/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr4/DOWNSAMPLED/image/jpeg/b69cadeda12a365ceb30ecc7c1c2417a/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34261</xocs:filesize>
+               <xocs:pixel-height>182</xocs:pixel-height>
+               <xocs:pixel-width>498</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr5/DOWNSAMPLED/image/jpeg/7441645cb8ff8630f3f7e8a1fcd10dbf/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr5/DOWNSAMPLED/image/jpeg/7441645cb8ff8630f3f7e8a1fcd10dbf/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34354</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr6/DOWNSAMPLED/image/jpeg/9bb53a7f94954070da9aff94915b15ee/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr6/DOWNSAMPLED/image/jpeg/9bb53a7f94954070da9aff94915b15ee/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54638</xocs:filesize>
+               <xocs:pixel-height>377</xocs:pixel-height>
+               <xocs:pixel-width>498</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr7/DOWNSAMPLED/image/jpeg/2744d1a15399a912fc7e308a1dce8f01/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr7/DOWNSAMPLED/image/jpeg/2744d1a15399a912fc7e308a1dce8f01/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34112</xocs:filesize>
+               <xocs:pixel-height>219</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr1/HIGHRES/image/jpeg/d23ffaaa6d79bbbcd054ee10257a697d/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr1/HIGHRES/image/jpeg/d23ffaaa6d79bbbcd054ee10257a697d/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>228856</xocs:filesize>
+               <xocs:pixel-height>1161</xocs:pixel-height>
+               <xocs:pixel-width>1634</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr2/HIGHRES/image/jpeg/cb39e2437b3909e35f7ec267a3c0b236/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr2/HIGHRES/image/jpeg/cb39e2437b3909e35f7ec267a3c0b236/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>218603</xocs:filesize>
+               <xocs:pixel-height>884</xocs:pixel-height>
+               <xocs:pixel-width>2205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr3/HIGHRES/image/jpeg/07efb091a55184ec6ae6d3689d37d991/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr3/HIGHRES/image/jpeg/07efb091a55184ec6ae6d3689d37d991/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>756542</xocs:filesize>
+               <xocs:pixel-height>953</xocs:pixel-height>
+               <xocs:pixel-width>2559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr4/HIGHRES/image/jpeg/f4e32a10e5a4faea74d38c9aa28e51a3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr4/HIGHRES/image/jpeg/f4e32a10e5a4faea74d38c9aa28e51a3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>168658</xocs:filesize>
+               <xocs:pixel-height>806</xocs:pixel-height>
+               <xocs:pixel-width>2205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr5/HIGHRES/image/jpeg/86d85164e938d784ead7c2d1850cb01e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr5/HIGHRES/image/jpeg/86d85164e938d784ead7c2d1850cb01e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>127605</xocs:filesize>
+               <xocs:pixel-height>993</xocs:pixel-height>
+               <xocs:pixel-width>1280</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr6/HIGHRES/image/jpeg/a913f532324298dedf228b07869f4b84/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr6/HIGHRES/image/jpeg/a913f532324298dedf228b07869f4b84/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>302458</xocs:filesize>
+               <xocs:pixel-height>1671</xocs:pixel-height>
+               <xocs:pixel-width>2205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/gr7/HIGHRES/image/jpeg/95bf402766b40eb10ddb1bed3c98a9ec/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/gr7/HIGHRES/image/jpeg/95bf402766b40eb10ddb1bed3c98a9ec/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>131542</xocs:filesize>
+               <xocs:pixel-height>971</xocs:pixel-height>
+               <xocs:pixel-width>1280</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/STRIPIN/image/gif/de3c99121876edfb6ab6d30f7f35ab6b/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/STRIPIN/image/gif/de3c99121876edfb6ab6d30f7f35ab6b/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>170</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>16</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/STRIPIN/image/gif/a3da252fb9dccb19036ba3be339f5105/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/STRIPIN/image/gif/a3da252fb9dccb19036ba3be339f5105/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>931</xocs:filesize>
+               <xocs:pixel-height>41</xocs:pixel-height>
+               <xocs:pixel-width>193</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319914020102-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319914020102/STRIPIN/image/gif/d7d4b4c51afd497fe550ac7f1a003da9/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319914020102/STRIPIN/image/gif/d7d4b4c51afd497fe550ac7f1a003da9/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>180</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>18</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>14328</aid>
+            <ce:pii>S0360-3199(14)02010-2</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2014.07.051</ce:doi>
+            <ce:copyright type="society" year="2014">Hydrogen Energy Publications, LLC.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Synthesis procedures of the PBCS-0.17PCO composite material (calcined at 1150 °C) and PBCS-0 single phase oxide (calcined at 1050 °C).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">(a) XRD patterns and (b) magnified parts of the as-synthesized powders that were calcined at 1050 °C and 1100 °C in air respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">SEM images of the as-synthesized powders of (a) PBCS-0.17PCO composite material and (b) PBCS-0 single phase oxide.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(a) Thermal expansion curves of PBCS-0.17PCO composite material and PBCS-0 single phase measured at 30–900 °C in air; (b) TEC values of both materials in different temperature ranges.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Temperature-dependence of electrical conductivities of PBCS-0.17PCO composite oxide and the PBCS-0 single phase oxide.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">EIS plots of the PBCS-0.17PCO composite cathode in cathode/GDC/cathode symmetric cell measured at various temperatures in air. The numbers in the plots indicate frequency ranges.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Temperature-dependence of ASR results for PBCS-0.17PCO composite cathode and PBCS-0 single phase cathode for comparison.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0010" view="all">Lattice parameters and grain sizes of PBCS-0 and PBCS-0.17PCO samples.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1" colwidth="16*"/>
+                  <colspec colnum="2" colname="col2" colwidth="9*"/>
+                  <colspec colnum="3" colname="col3" colwidth="16*"/>
+                  <colspec colnum="4" colname="col4" colwidth="23*"/>
+                  <colspec colnum="5" colname="col5" colwidth="20*"/>
+                  <colspec colnum="6" colname="col6" colwidth="11*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Space group</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lattice constant (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cell volume (nm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grain size (nm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">PBCS-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pm-3m</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.394</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0612</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">38.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">PBCS-0.17PCO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PBCS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pm-3m</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.396</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0621</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PCO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pm-3m</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.383</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.0562</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0015" view="all">Contents of oxygen (6−δ), oxygen vacancy (δ) and B-site ions in PBCS-0 and PBCS-0.17PCO samples.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1" colwidth="16*"/>
+                  <colspec colnum="2" colname="col2" colwidth="9*"/>
+                  <colspec colnum="3" colname="col3" colwidth="9*"/>
+                  <colspec colnum="4" colname="col4" colwidth="10*"/>
+                  <colspec colnum="5" colname="col5" colwidth="28*"/>
+                  <colspec colnum="6" colname="col6" colwidth="10*"/>
+                  <colspec colnum="7" colname="col7" colwidth="10*"/>
+                  <colspec colnum="8" colname="col8" colwidth="3*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6-δ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">δ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sc<sup loc="post">3+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Average valence (<italic>n</italic>) of Co<sup loc="post">n+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Co<sup loc="post">2+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Co<sup loc="post">3+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Co<sup loc="post">4+</sup>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PBCS-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.30</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PBCS-0.17PCO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="tspara0020" view="all">TEC results of PBCS-0 and PBCS-0.17PCO samples in various temperature ranges.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1" colwidth="28*"/>
+                  <colspec colnum="2" colname="col2" colwidth="24*"/>
+                  <colspec colnum="3" colname="col3" colwidth="26*"/>
+                  <colspec colnum="4" colname="col4" colwidth="16*"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">TEC (10<sup loc="post">−6</sup>/°C)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30–300 °C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300–900 °C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30–900 °C</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PBCS-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">PBCS-0.17PCO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.4</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">One-step synthesized nano-composite cathode material of Pr<ce:inf loc="post">0.83</ce:inf>BaCo<ce:inf loc="post">1.33</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>–0.17PrCoO<ce:inf loc="post">3</ce:inf> for intermediate-temperature solid oxide fuel cell</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1">
+                  <ce:given-name>Xiangnan</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Xuening</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Yuchao</ce:given-name>
+                  <ce:surname>Shi</ce:surname>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>Wenlong</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+               </ce:author>
+               <ce:author id="au5">
+                  <ce:given-name>Qiuli</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+               </ce:author>
+               <ce:author id="au6">
+                  <ce:given-name>Hongxia</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+               </ce:author>
+               <ce:author id="au7">
+                  <ce:given-name>Qingyu</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>Key Laboratory of Materials Modification by Laser, Ion, and Electron Beams (Ministry of Education), School of Physics and Optoelectronic Technology, Dalian University of Technology, Dalian 116024, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Materials Modification by Laser, Ion, and Electron Beams (Ministry of Education)</sa:organization>
+                     <sa:organization>School of Physics and Optoelectronic Technology</sa:organization>
+                     <sa:organization>Dalian University of Technology</sa:organization>
+                     <sa:city>Dalian</sa:city>
+                     <sa:postal-code>116024</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>
+                     <ce:italic>Corresponding author</ce:italic>. Tel.: +86 411 84708380x8204; fax: +86 41184708389.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="3" year="2014"/>
+            <ce:date-revised day="8" month="7" year="2014"/>
+            <ce:date-accepted day="11" month="7" year="2014"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Pr<ce:inf loc="post">0.83</ce:inf>BaCo<ce:inf loc="post">1.33</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>–0.17PrCoO<ce:inf loc="post">3</ce:inf> (PBCS-0.17PCO) nano-composite material has been synthesized by a combined EDTA-citrate complexing sol–gel method, and characterized as cathode material of intermediate-temperature solid oxide fuel cell (IT-SOFC). Phase structure has been characterized by X-ray diffraction (XRD) measurement. The results indicate that the composite material is composed of two cubic perovskite phases with nano-scaled grain sizes. Thermal expansion coefficient (TEC) of the composite material was measured to be 18.4 × 10<ce:sup loc="post">−6</ce:sup>/°C at temperatures of 30–900 °C. Electrical conductivities were measured in air by DC four-electrode method, and the conductivity values increase monotonically with the higher temperatures from 100 °C up to 750 °C. Electrochemical performance of the PBCS-0.17PCO composite materials was studied by electrochemical impedance spectra (EIS) measurements using GDC-based symmetric cell. Low area specific resistance (ASR) values ranging from 0.127 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C, 0.069 Ω cm<ce:sup loc="post">2</ce:sup> at 650 °C, 0.039 Ω cm<ce:sup loc="post">2</ce:sup> at 700 °C to 0.026 Ω cm<ce:sup loc="post">2</ce:sup> at 750 °C were achieved for the composite cathode, demonstrating its promising application in IT-SOFCs.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Composite materials</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Phase structure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Thermal expansion behavior</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Electrical conductivity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Electrochemical performance</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Solid oxide fuel cells (SOFCs) convert chemical energy to electrical energy with advantages of high efficiency, low environmental pollution and extensive fuel flexibility. The recent development of SOFC has been focused on intermediate-temperature (IT) SOFCs that work at 600–800 °C relative to the traditional high-temperature (1000 °C) SOFCs <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5" id="crosrefs0010">[1–5]</ce:cross-refs>. Lowering the working temperature can decrease fabrication cost of SOFCs by using cheap alloys as interconnection materials and also lengthen working life of the cells due to enhanced structural stabilities, and therefore make possible practical applications of SOFCs in many fields <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5" id="crosrefs0015">[1–5]</ce:cross-refs>. However, lower temperature also causes performance degradation of component materials (cathode, electrolyte and anode) of SOFCs. As a result, research work has been focused on development of new efficient component materials for the IT-SOFCs in recent years <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5" id="crosrefs0020">[1–5]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0030" view="all">High electrochemical activity of oxygen reduction reaction (ORR) at the working temperature is essential for a good cathode material, and the ORR activity is dominated by oxygen transport kinetics and ionic conductivity of the material <ce:cross-refs refid="bib1 bib2" id="crosrefs0025">[1,2]</ce:cross-refs>. Recent research on new cathode materials has been focused on A-site and/or B-site doped cobalt-based perovskite oxides <ce:cross-refs refid="bib6 bib7 bib8 bib9 bib10 bib11 bib12" id="crosrefs0030">[6–12]</ce:cross-refs>. The A-site doping is usually adopted to improve electrochemical performance <ce:cross-refs refid="bib6 bib7 bib8" id="crosrefs0035">[6–8]</ce:cross-refs>, while partial substitution of the cobalt ions at B-site with more stable metal ions such as Cu<ce:sup loc="post">2+</ce:sup>, Fe<ce:sup loc="post">3+</ce:sup> and Ni<ce:sup loc="post">2+</ce:sup> usually result in decreased thermal expansion coefficient (TEC) of the material <ce:cross-refs refid="bib9 bib10 bib11 bib12" id="crosrefs0040">[9–12]</ce:cross-refs>. High ORR activity may also be achieved using composite cathode material (with respect to single phase cathode), with the extra phase contributing to additional electronic or ionic conductivities <ce:cross-refs refid="bib13 bib14 bib15 bib16" id="crosrefs0045">[13–16]</ce:cross-refs>. Addition of the extra phase could also improve structural compatibility between the cathode and electrolyte materials by lowering TEC value of the composite cathode <ce:cross-refs refid="bib13 bib16" id="crosrefs0050">[13,16]</ce:cross-refs>. Generally, composite cathodes are fabricated by mechanical mixing of different phases followed by high-temperature sintering or by impregnating additional phase into pre-sintered scaffold phase. Both methods necessitate multiple steps and a long processing time, which increase fabrication cost for the fuel cells. Therefore, facile methods to obtain homogenous and high performance IT-SOFC composite cathodes are desired. Recently, Ortiz-Vitoriano et al. <ce:cross-ref refid="bib17" id="crosref0015">[17]</ce:cross-ref> has reported a single step liquid mixing process to prepare perovskite/brownmillerite composite cathode. Y. Niu et al. <ce:cross-ref refid="bib18" id="crosref0020">[18]</ce:cross-ref> has synthesized Ba<ce:inf loc="post">0.9</ce:inf>Bi<ce:inf loc="post">0.1</ce:inf>FeO<ce:inf loc="post">3−δ</ce:inf>–BaFeO<ce:inf loc="post">3</ce:inf>–BaFe<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">4</ce:inf> composite cathode in one step using EDTA and citrate as the combined complexing agents, and N. Dai et al. <ce:cross-ref refid="bib19" id="crosref0025">[19]</ce:cross-ref> has prepared the Sr<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">1.5</ce:inf>Mo<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6</ce:inf>–Sm<ce:inf loc="post">0.2</ce:inf>Ce<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">1.9</ce:inf> composite cathode for IT-SOFC by a one-step self-combustion method and the composite cathode exhibits high electrochemical performance at 650–800 °C. In this work, we have obtained a Pr<ce:inf loc="post">0.83</ce:inf>BaCo<ce:inf loc="post">1.33</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>–0.17PrCoO<ce:inf loc="post">3</ce:inf> (PBCS-0.17PCO) nano-composite cathode of IT-SOFCs based on a facile sol–gel synthesis process. The composite cathode was characterized with respect to phase structure, microstructure, thermal expansion behavior as well as electrical and electrochemical properties. Comparison of the results with the corresponding single phase cathode was also made. The results have demonstrated that the composite material of PBCS-0.17PCO is a promising cathode material for IT-SOFCs.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:section-title id="sectitle0035">Powder synthesis</ce:section-title>
+                     <ce:para id="p0035" view="all">The Pr<ce:inf loc="post">0.83</ce:inf>BaCo<ce:inf loc="post">1.33</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>–0.17PrCoO<ce:inf loc="post">3</ce:inf> (PBCS-0.17PCO) composite materials were synthesized by a combined EDTA-citrate complexing sol–gel method, similar to the procedure described previously <ce:cross-ref refid="bib10" id="crosref0030">[10]</ce:cross-ref>. The Sc<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (AR) powders were firstly dissolved in diluted nitric acid at 100 °C. Then, Pr(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>•6H<ce:inf loc="post">2</ce:inf>O (AR), Ba(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf> (AR), Co(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>•6H<ce:inf loc="post">2</ce:inf>O (AR) and the obtained Sc(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf> solution at stoichiometric proportions of PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> (PBCS-0) were added into EDTA-NH<ce:inf loc="post">3</ce:inf>•H<ce:inf loc="post">2</ce:inf>O solution (pH ≈ 6) with stirring to form an aqueous solution, which was then mixed with acid-NH<ce:inf loc="post">3</ce:inf>•H<ce:inf loc="post">2</ce:inf>O solution (pH ≈ 6) at a mole ratio of 1:1:2 for EDTA: total metal ions: citric acid. The mixed solution was heated at 80 °C and 150 °C in sequence to obtain a dark dry foam structure (precursor). The precursor was decomposed on a hot plate, followed by calcinations at 600 °C (10 h) and 750 °C (10 h) in sequence, forming the green powders. The green powders were then calcined in air at 1050 °C and 1100 °C for 10 h respectively, forming single phase PBCS-0 and composite material of PBCS-0.17PCO respectively. The schematic synthesis procedures are shown in <ce:cross-ref refid="fig1" id="crosref0035">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:section-title id="sectitle0040">Characterizations</ce:section-title>
+                     <ce:para id="p0040" view="all">Phase structures of the as-synthesized powders were characterized by x-ray diffraction measurement (XRD, Rigaku D/Max 2400) at room temperature with step size of 0.02° in 2<ce:italic>θ</ce:italic> over the scanning angular range of 20–80°. Microstructure of the as-synthesized powders was measured by scanning electron microscopy (SEM). Compositions of the mixed powders were determined by the method of “Quantitative Interpretation of X-ray Diffraction Patterns of Mixtures” introduced by Chung <ce:cross-ref refid="bib20" id="crosref0040">[20]</ce:cross-ref>. Thermal expansion data of the samples were collected with a dilatometer (Netzsch DIL 402PC) in the temperature range of 30–900 °C in air with a heating rate of 5 °C min<ce:sup loc="post">−1</ce:sup>. The electrical conductivities were measured at various temperatures in air by a DC four-electrode method using gold as electrodes. Symmetrical cells with the configuration of cathode/GDC/cathode were applied for electrochemical impedance study. Dense GDC pellets with a diameter of ∼10 mm and thickness of ∼1 mm were obtained by pressing followed by calcination at 1370 °C for 7 h in air. The cathode ink (prepared by mixing the cathode powders with α-terpineol and ethyl cellulose) was screen-printed onto both sides of the GDC pellet and calcined at 1050 °C for 2 h in air. The obtained symmetrical cell was spring-loaded onto a home-made sample holder. Fine (100-mesh) gold gauzes were slightly pressed on both sides of the cell as current collectors. The impedance measurements were conducted using a Solartron 1260 Frequency Response Analyzer combined with a Solartron 1287 potentiostat under open circuit voltage (OCV) condition in the frequency range of 10<ce:sup loc="post">−1</ce:sup>–10<ce:sup loc="post">5</ce:sup> Hz, and at temperatures of 600–750 °C in air with intervals of 50 °C.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:section-title id="sectitle0045">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:section-title id="sectitle0050">Phase structure, microstructure and oxygen content</ce:section-title>
+                     <ce:para id="p0045" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0045">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows XRD patterns of the as-synthesized powders that were calcined at 1050 °C and 1100 °C in air respectively. The pattern of the sample calcined at 1050 °C was recognized as a single phase of PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> (PBCS-0) refined with the cubic Pm-3m space group with lattice parameter of <ce:italic>a</ce:italic> = 0.394 nm. In contrast, when the sample was calcined at a higher temperature of 1100 °C, the XRD pattern was split into two sets of neighboring diffraction peaks (marked with “↓” and “*” respectively), each of which was refined with a cubic Pm-3m space group. These results demonstrated that the PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> oxide was decomposed as two cubic phases at 1100 °C: a dominant phase with strong diffraction peaks at the lower 2θ angle side (marked with “↓”) and a minor phase with weak diffraction peaks at the higher 2θ angle side (marked with “*”). The diffraction peaks of the minor phase were indexed as the cubic perovskite oxide PrCoO<ce:inf loc="post">3</ce:inf> (JCPDS 75-0280), which indicated that composition segregation from the PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> component occurred at the high calcination temperature of 1100 °C. With this PrCoO<ce:inf loc="post">3−δ</ce:inf> segregation, the dominant phase in the composite material was reasonably recognized as a Pr- and Co-deficient Pr-Ba-Co-Sc oxide. Assuming that <ce:italic>x</ce:italic> mol PrCoO<ce:inf loc="post">3</ce:inf> segregated from 1 mol PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> oxide, the dominant phase in the composite material could be marked with the chemical formula of Pr<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                        </ce:inf>BaCo<ce:inf loc="post">1.5−<ce:italic>x</ce:italic>
+                        </ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>. Based on a XRD method <ce:cross-ref refid="bib20" id="crosref0050">[20]</ce:cross-ref>, contents of Pr<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                        </ce:inf>BaCo<ce:inf loc="post">1.5−<ce:italic>x</ce:italic>
+                        </ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf> and PrCoO<ce:inf loc="post">3</ce:inf> in the composite material were determined to be ∼91.1 wt% (83 mol%) and 8.9 wt% (17 mol %, <ce:italic>x</ce:italic> = 0.17 mol for 1 mol PrBaCo<ce:inf loc="post">1.5</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>) respectively. Thus, the obtained composite material could be written as Pr<ce:inf loc="post">0.83</ce:inf>BaCo<ce:inf loc="post">1.33</ce:inf>Sc<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6−δ</ce:inf>-0.17PrCoO<ce:inf loc="post">3</ce:inf> (PBCS-0.17PCO). As clearly shown in <ce:cross-ref refid="fig2" id="crosref0055">Fig. 2</ce:cross-ref>(b), the diffraction peaks of the dominant phase of PBCS in the composite material shift to the lower 2<ce:italic>θ</ce:italic> diffraction angle as compared to the parent oxide of PBCS-0 obtained at 1050 °C. This indicated that segregation of the PrCoO<ce:inf loc="post">3</ce:inf> component led to a structural expansion for the PBCS perovskite oxide (<ce:cross-ref refid="tbl1" id="crosref0060">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>). Moreover, the oxide obtained at 1050 °C shows sharper and narrower diffraction peaks than the phases at 1100 °C, indicating different crystalline nature for these samples. Based on Scherrer equation <ce:cross-ref refid="bib21" id="crosref0065">[21]</ce:cross-ref>, grain sizes of the samples were calculated (<ce:cross-ref refid="tbl1" id="crosref0070">Table 1</ce:cross-ref>). The results showed that nano-sized PBCS-0.17PCO composite powders were obtained at 1100 °C, and the grain sizes, 23.2 nm for PBCS and 19.2 nm for PCO, are much smaller than that of PBCS-0 obtained at 1050 °C (38.8 nm). Microstructures of these two samples are also different as demonstrated by SEM images shown in <ce:cross-ref refid="fig3" id="crosref0075">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>. It is observed that the PBCS-0.17PCO composite sample is composed of uniformly distributed small grains in contrast to the aggregated powders of the PBCS-0 single phase oxide.</ce:para>
+                     <ce:para id="p0050" view="all">Oxygen contents and average valences (<ce:italic>n</ce:italic>) of the Co<ce:sup loc="post">
+                           <ce:italic>n</ce:italic>+</ce:sup> ions of the PBCS-0.17PCO composite oxide and PBCS-0 single phase oxide were measured by iodometric titration method and the results are listed in <ce:cross-ref refid="tbl2" id="crosref0080">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. The PBCS-0 oxide has higher oxygen content (5.65) than that of the composite oxide (5.40), thus its average valence of the Co<ce:sup loc="post">
+                           <ce:italic>n</ce:italic>+</ce:sup> ions (<ce:italic>n</ce:italic> = 3.20) is larger than the composite oxide (<ce:italic>n</ce:italic> = 2.87). The value of 3 &lt; <ce:italic>n</ce:italic> &lt; 4 indicates co-existence of Co<ce:sup loc="post">3+</ce:sup> and Co<ce:sup loc="post">4+</ce:sup> ions in PBCS-0 oxide and 2 &lt; <ce:italic>n</ce:italic> &lt; 3 value means Co<ce:sup loc="post">2+</ce:sup> and Co<ce:sup loc="post">3+</ce:sup> ions co-exist in the composite oxide <ce:cross-ref refid="bib22" id="crosref0085">[22]</ce:cross-ref>. Contents of Co<ce:sup loc="post">n+</ce:sup> ions with different valences in these two materials were calculated and listed in <ce:cross-ref refid="tbl2" id="crosref0090">Table 2</ce:cross-ref>. Different distributions of these Co<ce:sup loc="post">n+</ce:sup> ions have contributed to different electrical conduction behaviors of these two materials as discussed below.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:section-title id="sectitle0055">Thermal expansion behavior</ce:section-title>
+                     <ce:para id="p0055" view="all">
+                        <ce:cross-ref refid="fig4" id="crosref0095">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>(a) shows thermal expansion curves of the obtained PBCS-0.17PCO composite material and the PBCS-0 single phase oxide. Average thermal expansion coefficients (TECs) of these two samples were calculated in different temperature ranges from the curves and the results are listed in <ce:cross-ref refid="tbl3" id="crosref0100">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/> and plotted in <ce:cross-ref refid="fig4" id="crosref0105">Fig. 4</ce:cross-ref>(b). It is observed in <ce:cross-ref refid="fig4" id="crosref0110">Fig. 4</ce:cross-ref>(a) that there is an inflection at ∼300 °C for both curves, which was ascribed to reduction of cobalt ions due to thermal-driven releasing of lattice oxygen, as reported in other cobalt-based perovskite oxides <ce:cross-refs refid="bib10 bib23" id="crosrefs0055">[10,23]</ce:cross-refs>. The almost overlapped parts of these two curves at the temperatures lower than 300 °C justified similar TEC values (∼13 × 10<ce:sup loc="post">−6</ce:sup>/°C) in this temperature range for the two samples (<ce:cross-ref refid="tbl3" id="crosref0115">Table 3</ce:cross-ref>). At the higher temperatures (300–900 °C), however, the expansion line of the PBCS-0.17PCO composite sample has a smaller slope than that of the PBCS-0 oxide, and its TEC value (20.5 × 10<ce:sup loc="post">−6</ce:sup>/°C) is relatively smaller (<ce:cross-ref refid="tbl3" id="crosref0120">Table 3</ce:cross-ref>). In the whole temperature range (30–900 °C) of measurement, the PBCS-0.17PCO composite material has a smaller TEC value (18.4 × 10<ce:sup loc="post">−6</ce:sup>/°C) than the PBCS-0 single phase (20.0 × 10<ce:sup loc="post">−6</ce:sup>/°C), thus its thermal expansion match between the commonly used electrolyte materials such as GDC, SDC and LSGM is improved.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:section-title id="sectitle0060">Electrical conduction behaviors</ce:section-title>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref refid="fig5" id="crosref0125">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows results of electrical conductivities of both PBCS-0.17PCO composite oxides and the single phase PBCS-0 oxide that were measured at various temperatures in air. The conductivities are below 18 S cm<ce:sup loc="post">−1</ce:sup> in the temperature range of 100–750 °C for both cathodes, while the data of composite oxides are relatively lower than those of the single phase sample. This is probably due to the poor electrical conduction of the PrCoO<ce:inf loc="post">3</ce:inf> oxide <ce:cross-ref refid="bib24" id="crosref0130">[24]</ce:cross-ref> and also possibly associated with the decreased content of B-site cobalt ions that act as charge carriers in the dominant PBCS component of the composite material. It is also observed that these two samples show different electrical conduction behaviors with increasing of the temperature: electrical conductivity of the PBCS-0.17PCO composite material increases monotonically with the higher temperatures up to 750 °C, while the single phase PBCS-0 oxide shows an up-down changing rule of the electrical conductivity in the same temperature range, which suggests different electrical conduction mechanisms for these two materials.</ce:para>
+                     <ce:para id="p0065" view="all">It is known that electrical conduction properties of perovskite oxides are closely associated with types and concentration of the B-site transition metal ions <ce:cross-refs refid="bib9 bib10 bib11 bib12" id="crosrefs0060">[9–12]</ce:cross-refs>. In cobalt-based perovskite oxides, electrical conduction occurs via small polaron hopping along Co<ce:sup loc="post">
+                           <ce:italic>n</ce:italic>+</ce:sup>–O–Co<ce:sup loc="post">
+                           <ce:italic>n</ce:italic>+1</ce:sup> bonds by a Zerner double exchange mechanism <ce:cross-refs refid="bib1 bib25" id="crosrefs0065">[1,25]</ce:cross-refs>. Concentrations of Co<ce:sup loc="post">
+                           <ce:italic>n</ce:italic>+</ce:sup> ions with different valences (<ce:italic>n</ce:italic> = 2, 3 and 4) associated with oxygen contents are main factors determining electrical conduction behaviors of the oxides <ce:cross-refs refid="bib10 bib11 bib26" id="crosrefs0070">[10,11,26]</ce:cross-refs>. For example, Liu et al. <ce:cross-ref refid="bib26" id="crosref0135">[26]</ce:cross-ref> reported that perovskite oxide LaBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> changed from a p-type semiconductor in oxygen to an insulator in hydrogen due to decrease in oxygen content and reduction of Co<ce:sup loc="post">4+</ce:sup> ions to Co<ce:sup loc="post">3+</ce:sup> and Co<ce:sup loc="post">2+</ce:sup> ions. As shown in <ce:cross-ref refid="tbl2" id="crosref0140">Table 2</ce:cross-ref>, Co<ce:sup loc="post">4+</ce:sup> (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msup>
+                                 <mml:mi>h</mml:mi>
+                                 <mml:mtext>
+                                    <ce:glyph name="rad"/>
+                                 </mml:mtext>
+                              </mml:msup>
+                           </mml:mrow>
+                        </mml:math>) ions exist in the single phase PBCS-0 oxide, demonstrating that PBCS-0 is a p-type semiconductor (with <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msup>
+                                 <mml:mi>h</mml:mi>
+                                 <mml:mo>•</mml:mo>
+                              </mml:msup>
+                           </mml:mrow>
+                        </mml:math> as the charge carriers) like other cobalt-containing perovskite oxides <ce:cross-refs refid="bib7 bib9 bib10 bib11 bib23" id="crosrefs0075">[7,9–11,23]</ce:cross-refs>. As a result, it shows a typical temperature-dependence curve of p-type electrical conductivity shown in <ce:cross-ref refid="fig5" id="crosref0145">Fig. 5</ce:cross-ref>: the conductivity-up part in the low temperature range of 50 °C–400 °C is associated with thermal-activation of electronic hopping; the gradually decreasing conductivity at high temperatures from 400 °C to 750 °C is caused by decrease in concentration of charge carriers (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msup>
+                                 <mml:mi>h</mml:mi>
+                                 <mml:mtext>
+                                    <ce:glyph name="rad"/>
+                                 </mml:mtext>
+                              </mml:msup>
+                           </mml:mrow>
+                        </mml:math>) due to thermal-driven releasing of lattice oxygen based on the redox reaction <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mo>×</mml:mo>
+                              </mml:msubsup>
+                              <mml:mo>+</mml:mo>
+                              <mml:mn>2</mml:mn>
+                              <mml:msup>
+                                 <mml:mi>h</mml:mi>
+                                 <mml:mtext>
+                                    <ce:glyph name="rad"/>
+                                 </mml:mtext>
+                              </mml:msup>
+                              <mml:mo>⇔</mml:mo>
+                              <mml:msubsup>
+                                 <mml:mi>V</mml:mi>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mtext>
+                                       <ce:glyph name="rad"/>
+                                       <ce:glyph name="rad"/>
+                                    </mml:mtext>
+                                 </mml:mrow>
+                              </mml:msubsup>
+                              <mml:mo>+</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mn>2</mml:mn>
+                              </mml:mfrac>
+                              <mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                              <mml:mo>↑</mml:mo>
+                           </mml:mrow>
+                        </mml:math> 
+                        <ce:cross-refs refid="bib6 bib10 bib11" id="crosrefs0080">[6,10,11]</ce:cross-refs> In contrast, Co<ce:sup loc="post">2+</ce:sup> (e) and Co<ce:sup loc="post">3+</ce:sup> ions co-exist in the PBCS-0.17PCO composite material due to its lower oxygen content and smaller average valence (2 &lt; <ce:italic>n</ce:italic> &lt; 3) of Co<ce:sup loc="post">n+</ce:sup> (<ce:cross-ref refid="tbl2" id="crosref0150">Table 2</ce:cross-ref>). Thus, its electrical conductivity is dominated by concentration and mobility of the charge carriers (e, Co<ce:sup loc="post">2+</ce:sup>). Lattice oxygen of the material was thermal-driven released with increasing temperatures, thus the Co<ce:sup loc="post">3+</ce:sup> ions could be further reduced to Co<ce:sup loc="post">2+</ce:sup> (e) ions, leading to increase in concentration of the charge carriers (e), which could possibly have contributed to the increasing electrical conductivity with higher temperatures of the composite material.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:section-title id="sectitle0065">Electrochemical performance</ce:section-title>
+                     <ce:para id="p0070" view="all">Electrochemical performance of the PBCS-0.17PCO composite cathode was characterized by electrochemical impedance spectra (EIS) measurements with a GDC electrolyte-based symmetric cell. <ce:cross-ref refid="fig6" id="crosref0155">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows EIS plots of the PBCS-0.17PCO cathode measured at various temperatures in air. It is observed that the EIS plots measured at 600 °C and 650 °C are composed of one large arc, while those measured at high temperatures of 700 °C and 750 °C are composed of one large arc in the high frequency range and a small arc at low frequencies. Different shapes of these EIS plots suggested different reaction mechanisms at various temperatures occurring over the cathode <ce:cross-refs refid="bib8 bib15 bib27" id="crosrefs0085">[8,15,27]</ce:cross-refs>. Area specific resistances (ASRs) of the composite materials, corresponding to the difference between the intercepts with the real axis at high and low frequencies, were calculated from the EIS plots. The ASR values of PBCS-0.17PCO composite cathode were plotted as a function of temperature in <ce:cross-ref refid="fig7" id="crosref0160">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> with the results of PBCS-0 cathode for comparison. ASR values of the composite oxide range from 0.127 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C, 0.069 Ω cm<ce:sup loc="post">2</ce:sup> at 650 °C, 0.039 Ω cm<ce:sup loc="post">2</ce:sup> at 700 °C to 0.026 Ω cm<ce:sup loc="post">2</ce:sup> at 750 °C. These ASR values are slightly bigger than the PBCS-0 single phase cathode, but well satisfy the requirement of polarization resistance (≤0.15 Ω cm<ce:sup loc="post">2</ce:sup>) as cathode materials of SOFCs <ce:cross-ref refid="bib28" id="crosref0165">[28]</ce:cross-ref>. These results have demonstrated that the PBCS-0.17PCO composite oxide can be used as a cathode material of IT-SOFCs.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0070">Conclusion</ce:section-title>
+                  <ce:para id="p0075" view="all">In this work, we have synthesized PBCS-0.17PCO nano-composite cathode material for IT-SOFCs by simply increasing calcination temperature of the EDTA-citric complexion sol–gel precursor. Single phase PBCS-0 oxide has also been synthesized and studied for comparison. The composite material contains 91.1 wt% PBCS and 8.9 wt% PCO and both components are cubic perovskite phases with nano-scaled grain sizes. The composite material has a smaller TEC value (18.4 × 10<ce:sup loc="post">−6</ce:sup>/°C) than that of the single phase PBCS-0 oxide (20.0 × 10<ce:sup loc="post">−6</ce:sup>/°C) at temperatures of 30–900 °C. These two materials show different electrical conduction behaviors and comparable area specific resistances (ASRs) in air. ASR values of the composite material range from 0.127 Ω cm<ce:sup loc="post">2</ce:sup> at 600 °C, 0.069 Ω cm<ce:sup loc="post">2</ce:sup> at 650 °C, 0.039 Ω cm<ce:sup loc="post">2</ce:sup> at 700 °C to 0.026 Ω cm<ce:sup loc="post">2</ce:sup> at 750 °C, which well satisfy the requirement of polarization resistance (≤0.15 Ω cm<ce:sup loc="post">2</ce:sup>) as a cathode material of IT-SOFCs. These results have demonstrated that the PBCS-0.17PCO nano-composite material can be used as cathode material of IT-SOFCs.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0075">Acknowledgments</ce:section-title>
+               <ce:para id="p0080" view="all">This work was financially supported by the “<ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Scientific Research Foundation for the Returned Overseas Chinese Scholars, State Education Ministry</ce:grant-sponsor>”, “<ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Liaoning Provincial Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gs2">2013020106</ce:grant-number>)” and “<ce:grant-sponsor id="gs3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">The Fundamental Research Funds for the Central Universities</ce:grant-sponsor> (<ce:grant-number refid="gs3">DUT12LAB02</ce:grant-number>)”.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0080">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Adler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Factors governing oxygen reduction in solid oxide fuel cell cathodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4791</sb:first-page>
+                              <sb:last-page>4843</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hierarchical CO<ce:inf loc="post">2</ce:inf>-protective shell for highly efficient oxygen reduction reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci Rep</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/srep00327</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.R.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.Z.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A micro-nano porous oxide hybrid for efficient oxygen reduction in reduced-temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci Rep</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>462</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/srep00462</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>660</sb:first-page>
+                              <sb:last-page>674</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>David</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Cronin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A reduced temperature solid oxide fuel cell with nanostructured anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Environ Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3951</sb:first-page>
+                              <sb:last-page>3954</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>GdBa<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> layered perovskite as promising cathode for proton conducting and solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloys Compd</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>496</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>683</sb:first-page>
+                              <sb:last-page>686</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.S.</ce:given-name>
+                                 <ce:surname>Irvine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of layered perovskite oxides NdBa<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                                 </ce:inf>Sr<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf>Co<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> (<ce:italic>x</ce:italic> = 0 and 0.5) as cathode materials for IT-SOFC</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5920</sb:first-page>
+                              <sb:last-page>5929</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of Ba-deficient PrBa<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                                 </ce:inf>Co<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> as cathode material for intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>204</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Nian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel layered perovskite oxide PrBaCuCoO<ce:inf loc="post">5+δ</ce:inf> as a potential cathode for intermediate-temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>453</sb:first-page>
+                              <sb:last-page>456</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.L.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Chao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scandium-doped PrBaCo<ce:inf loc="post">2−<ce:italic>x</ce:italic>
+                                 </ce:inf>Sc<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf>O<ce:inf loc="post">6−δ</ce:inf> oxides as cathode material for intermediate-temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12035</sb:first-page>
+                              <sb:last-page>12042</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of iron substitution content on structure thermal expansion behavior and electrochemical properties of La<ce:inf loc="post">0.5</ce:inf>Ba<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">1−y</ce:inf>Fe<ce:inf loc="post">y</ce:inf>O<ce:inf loc="post">3−δ</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6836</sb:first-page>
+                              <sb:last-page>6843</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manthiram</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Layered NdBaCo<ce:inf loc="post">2−<ce:italic>x</ce:italic>
+                                 </ce:inf>Ni<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf>O<ce:inf loc="post">5+δ</ce:inf> perovskite oxides as cathodes for intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7551</sb:first-page>
+                              <sb:last-page>7557</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lü</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>GdBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ–</ce:inf>Sm<ce:inf loc="post">0.2</ce:inf>Ce<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">1.9</ce:inf> composite cathodes for intermediate temperature SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloys Compd</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>509</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3651</sb:first-page>
+                              <sb:last-page>3655</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>An</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A composite oxygen-reduction electrode composed of SrSc<ce:inf loc="post">0.2</ce:inf>Co<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3−δ</ce:inf> perovskite and Sm<ce:inf loc="post">0.2</ce:inf>Ce<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">1.9</ce:inf> for an intermediate-temperature solid-oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5601</sb:first-page>
+                              <sb:last-page>5610</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.X.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparative study of electrochemical performance of La<ce:inf loc="post">0.5</ce:inf>Ba<ce:inf loc="post">0.5</ce:inf>CoO<ce:inf loc="post">3−δ</ce:inf> and La<ce:inf loc="post">0.5</ce:inf>Ba<ce:inf loc="post">0.5</ce:inf>CoO<ce:inf loc="post">3−δ</ce:inf>–Gd<ce:inf loc="post">0.1</ce:inf>Ce<ce:inf loc="post">0.9</ce:inf>O<ce:inf loc="post">1.95</ce:inf> cathodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2157</sb:first-page>
+                              <sb:last-page>2165</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of SmBaCoFeO<ce:inf loc="post">5+δ</ce:inf>−Ce<ce:inf loc="post">0.9</ce:inf>Gd<ce:inf loc="post">0.1</ce:inf>O<ce:inf loc="post">1.95</ce:inf> composite cathodes for intermediate-temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7930</sb:first-page>
+                              <sb:last-page>7935</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ortiz-Vitoriano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ruiz de Larramendi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Gil de Muro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Larrañaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Ruiz de Larramendi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Rojo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel one step synthesized Co-free perovskite/brownmillerite nanocomposite for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9682</sb:first-page>
+                              <sb:last-page>9691</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Niu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sunarso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A single-step synthesized cobalt-free barium ferrites-based composite cathode for intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1340</sb:first-page>
+                              <sb:last-page>1343</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Lou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Qiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>One-step synthesis of high performance Sr<ce:inf loc="post">2</ce:inf>Fe<ce:inf loc="post">1.5</ce:inf>Mo<ce:inf loc="post">0.5</ce:inf>O<ce:inf loc="post">6</ce:inf>–Sm<ce:inf loc="post">0.2</ce:inf>Ce<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">1.9</ce:inf> composite cathode for intermediate-temperature solid oxide fuel cells using a self-combustion technique</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>217</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                              <sb:last-page>523</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative interpretation of X-ray diffraction patterns of mixtures. III. Simultaneous determination of a set of reference intensities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Appl Cryst</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Scherrer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bestimmung der Größe und der inneren Struktur von Kolloidteilchen mittels Röntgenstrahlen, Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mathematisch-Physikalische Kl</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1918</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                              <sb:last-page>100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Frontera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Caneiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Carrillo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Oró-Solé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>García-Muňoz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tailoring oxygen content on PrBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> layered cobaltites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5439</sb:first-page>
+                              <sb:last-page>5445</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Jacobson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Reimus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Brodersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Mims</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rapid oxygen ion diffusion and surface exchange kinetics in PrBaCo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+<ce:italic>x</ce:italic>
+                                 </ce:inf> with a perovskite related structure and ordered A cationsm</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2500</sb:first-page>
+                              <sb:last-page>2505</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Scherrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Harvey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tanasescu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Teodorescu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Botea</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Conder</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Correlation between electrical properties and thermodynamic stability of ACoO<ce:inf loc="post">3−δ</ce:inf> perovskites (A = La, Pr, Nd, Sm, Gd)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Rev B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>085113–1-9</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efficient stabilization of cubic perovskite SrCoO<ce:inf loc="post">3−δ</ce:inf> by B-site low concentration scandium doping combined with sol–gel synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloy Compd</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>455</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>465</sb:first-page>
+                              <sb:last-page>470</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Collins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.Q.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epitaxial nature and transport properties in (LaBa)Co<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5+δ</ce:inf> thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>799</sb:first-page>
+                              <sb:last-page>802</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pena-Martinez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Marrero-Lopez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Ruiz-Morales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nunez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sanchez-Bautista</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Dos Santos-Garcia</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>Co<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                                 </ce:inf>Fe<ce:inf loc="post">
+                                    <ce:italic>y</ce:italic>
+                                 </ce:inf>O<ce:inf loc="post">3−δ</ce:inf> (<ce:italic>y</ce:italic> = 0.1−0.9) oxides as cathode materials for La<ce:inf loc="post">0.9</ce:inf>Sr<ce:inf loc="post">0.1</ce:inf>Ga<ce:inf loc="post">0.8</ce:inf>Mg<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">2.85</ce:inf> based IT-SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9486</sb:first-page>
+                              <sb:last-page>9495</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.H.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Survey of materials selection for ceramic fuel cells II. Cathodes and anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86-88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1223</sb:first-page>
+                              <sb:last-page>1234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

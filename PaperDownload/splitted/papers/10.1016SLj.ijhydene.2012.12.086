@@ -1,0 +1,2324 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319912027899</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2012.12.086</dc:identifier><eid>1-s2.0-S0360319912027899</eid><prism:doi>10.1016/j.ijhydene.2012.12.086</prism:doi><pii>S0360-3199(12)02789-9</pii><dc:title>Transient operation of a solid oxide electrolysis cell </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>38</prism:volume><prism:issueIdentifier>7</prism:issueIdentifier><prism:startingPage>2957</prism:startingPage><prism:endingPage>2964</prism:endingPage><prism:pageRange>2957-2964</prism:pageRange><prism:number>7</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2013-03-07</prism:coverDate><prism:coverDisplayDate>7 March 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Hydrogen Energy Publications, LLC. Published by Elsevier Ltd.</prism:publisher><dc:creator>Petipas, Floriane</dc:creator><dc:creator>Fu, Qingxi</dc:creator><dc:creator>Brisse, Annabelle</dc:creator><dc:creator>Bouallou, Chakib</dc:creator><dc:description>
+                  In order to investigate the transient behaviour of a solid oxide electrolysis cell, tests were carried out on a single SOEC both under steady-state and transient conditions for 600 h. Steady-state operation was performed at the reference current of −20 A, corresponding to the thermoneutral voltage (1.28 V), whereas transient tests consisted in 1800 square waves applied over 140 cumulated hours, with a current of −1 A and −20 A as well as 0 A and −20 A. Independently from the operating conditions, the measured voltage degradation rate of 5% (70 mV)/1000 h was stable for the entire experiment. Consequently, it was concluded that an SOEC can be operated under on–off conditions with no increase of the degradation rate. This result paves the way for modular operation of a high temperature electrolyser fed with intermittent electrical energy.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High temperature electrolysis</dcterms:subject><dcterms:subject>Transient operation</dcterms:subject><dcterms:subject>Hydrogen production</dcterms:subject><dcterms:subject>Renewable energy</dcterms:subject><dcterms:subject>Solid oxide electrolysis cell</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319912027899" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319912027899" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="275" height="60" size="1699">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="161" height="44" size="940">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-si2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="495" height="353" size="57171">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="369" height="170" size="20538">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="502" height="217" size="37102">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="219" size="30779">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="371" height="112" size="16023">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="319" size="21818">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="493" height="149" size="21883">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="175" size="43507">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="491" height="210" size="62109">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="8582">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="101" size="3392">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="95" size="4432">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="98" size="3554">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="3138">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="171" height="164" size="11742">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="2774">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="6814">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="94" size="8508">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319912027899-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84873736267</scopus-id><scopus-eid>2-s2.0-84873736267</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84873736267" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130119">2013-01-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130119">2013-01-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-02-08T09:23:53</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319912027899</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(12)02789-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319912027899</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2012.12.086</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319913X00059</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T07:24:21.966013-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130307</xocs:date-search-begin>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1358553600">2013-01-19T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>38</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>38</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>7</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>7</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 38, Issue 7</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>2957</xocs:first-fp>
+      <xocs:last-lp>2964</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2957</xocs:first-page>
+         <xocs:last-page>2964</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20130307</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>7 March 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-03-07</xocs:cover-date-start>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Electrolysis/Electrolyzers</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TRANSIENTOPERATIONASOLIDOXIDEELECTROLYSISCELL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PETIPAS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Alkaline electrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Proton exchange membrane electrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>High temperature electrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SOEC testing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental activity</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental set-up</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Test protocol</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Overall observations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cell behaviour under transient conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Partial reoxidation of the active surface</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Localisation of the cell degradation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>BARBIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>308</xocs:ref-first-fp>
+            <xocs:ref-last-lp>312</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>ANDREWS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1203</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>DINCER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1954</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1971</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>MARINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>384</xocs:ref-first-fp>
+            <xocs:ref-last-lp>391</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>WINTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>SMOLINKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STANDUNDENTWICKLUNGSPOTENZIALDERWASSERELEKTROLYSEZURHERSTELLUNGVONWASSERSTOFFAUSREGENERATIVENENERGIEN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>SCHMID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SYMPOSIUMWATERELECTROLYSISHYDROGENPARTFUTURERENEWABLEENERGYSYSTEM</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ELECTROLYSISFORGRIDBALANCING</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>BERGEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>STOLTEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>261</xocs:ref-first-fp>
+            <xocs:ref-last-lp>262</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HYDROGENENERGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ALKALINEELECTROLYSISINTRODUCTIONOVERVIEW</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>SCHUCANTPAULSCHERRERINSTITUTEVILLIGENCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>TASK11INTEGRATEDSYSTEMSFINALREPORTSUBTASKACASESTUDIESINTEGRATEDHYDROGENENERGYSYSTEMS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CLEANAIRNOWSOLARHYDROGENFUELEDTRUCKS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>FUELCELLS2000INTERNET</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>HEBLING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSULMELECTROCHEMICALTALKS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>WATERELECTROLYSISFORHYDROGENPRODUCTIONOUTRENEWABLEENERGIES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3257</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>MOGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1315</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>BRISSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-last-lp>63</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>SCHEFOLD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>RICHTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PLANSOECRDCOMMERCIALIZATIONROADMAPFORSOECELECTROLYSIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>LAGUNABERCERO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>TIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>373</xocs:ref-first-fp>
+            <xocs:ref-last-lp>381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>SMORYGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9514</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>BUCHELI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGS10THEUROPEANSOFCFORUM</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ADVANCEDELECTROLYSERSFORHYDROGENPRODUCTIONRENEWABLEENERGYSOURCES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>BRISSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5375</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5382</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>OBRIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>219</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>HOUAIJIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSSOLARPACES2012</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>COUPLINGHEATELECTRICITYSOURCESINTERMEDIATETEMPERATURESTEAMELECTROLYSIS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib27">
+            <xocs:ref-normalized-surname>DERBALMOKRANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4198</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4207</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib28">
+            <xocs:ref-normalized-surname>NAKAJO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>215</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib29">
+            <xocs:ref-normalized-surname>OBRIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSIMECE2008</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>THERMODYNAMICCONSIDERATIONSFORTHERMALWATERSPLITTINGPROCESSESHIGHTEMPERATUREELECTROLYSIS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PETIPASX2013X2957</xocs:refkey3>
+         <xocs:refkey4lp>PETIPASX2013X2957X2964</xocs:refkey4lp>
+         <xocs:refkey4ai>PETIPASX2013X2957XF</xocs:refkey4ai>
+         <xocs:refkey5>PETIPASX2013X2957X2964XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(12)02789-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319912027899</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319912027899</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2012.12.086</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2013-02-08T06:09:47.107696-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-03-07</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/MAIN/application/pdf/503b5bfe124bbf193334531f75fa3c09/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/MAIN/application/pdf/503b5bfe124bbf193334531f75fa3c09/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>920526</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319912027899-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/PREVIEW/image/png/138d565f1d606d8b3543a01a63f6b377/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/PREVIEW/image/png/138d565f1d606d8b3543a01a63f6b377/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56053</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/STRIPIN/image/gif/0a975d8ee640b4c931fa1d5254066ca4/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/STRIPIN/image/gif/0a975d8ee640b4c931fa1d5254066ca4/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1699</xocs:filesize>
+               <xocs:pixel-height>60</xocs:pixel-height>
+               <xocs:pixel-width>275</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/STRIPIN/image/gif/5bdf921d086ddd7b77c8664aa1f4ae07/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/STRIPIN/image/gif/5bdf921d086ddd7b77c8664aa1f4ae07/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>940</xocs:filesize>
+               <xocs:pixel-height>44</xocs:pixel-height>
+               <xocs:pixel-width>161</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr3/DOWNSAMPLED/image/jpeg/adda2924f2f921cfd466e340b4c0774c/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr3/DOWNSAMPLED/image/jpeg/adda2924f2f921cfd466e340b4c0774c/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57171</xocs:filesize>
+               <xocs:pixel-height>353</xocs:pixel-height>
+               <xocs:pixel-width>495</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr4/DOWNSAMPLED/image/jpeg/e6defb0e488e85a5050ce9da19b196e1/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr4/DOWNSAMPLED/image/jpeg/e6defb0e488e85a5050ce9da19b196e1/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20538</xocs:filesize>
+               <xocs:pixel-height>170</xocs:pixel-height>
+               <xocs:pixel-width>369</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr9/DOWNSAMPLED/image/jpeg/70153ba2ee28372f879bd68535a75373/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr9/DOWNSAMPLED/image/jpeg/70153ba2ee28372f879bd68535a75373/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37102</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>502</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr7/DOWNSAMPLED/image/jpeg/6201ba3d5c056cd9265dd2adf18b965e/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr7/DOWNSAMPLED/image/jpeg/6201ba3d5c056cd9265dd2adf18b965e/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30779</xocs:filesize>
+               <xocs:pixel-height>219</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr2/DOWNSAMPLED/image/jpeg/d4b2239b329788d33b5ce5e1c3fd288d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr2/DOWNSAMPLED/image/jpeg/d4b2239b329788d33b5ce5e1c3fd288d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16023</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr6/DOWNSAMPLED/image/jpeg/cb6bac1676c2689f16de4dda329dbe62/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr6/DOWNSAMPLED/image/jpeg/cb6bac1676c2689f16de4dda329dbe62/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21818</xocs:filesize>
+               <xocs:pixel-height>319</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr8/DOWNSAMPLED/image/jpeg/26c3ff56de0fde89aebdca0ae599808b/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr8/DOWNSAMPLED/image/jpeg/26c3ff56de0fde89aebdca0ae599808b/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21883</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>493</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr1/DOWNSAMPLED/image/jpeg/fa7715cfe14871a75558f3cf01bff0f8/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr1/DOWNSAMPLED/image/jpeg/fa7715cfe14871a75558f3cf01bff0f8/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43507</xocs:filesize>
+               <xocs:pixel-height>175</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr5/DOWNSAMPLED/image/jpeg/0ce715bfb7335cf0f4bcda5175de92f7/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr5/DOWNSAMPLED/image/jpeg/0ce715bfb7335cf0f4bcda5175de92f7/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>62109</xocs:filesize>
+               <xocs:pixel-height>210</xocs:pixel-height>
+               <xocs:pixel-width>491</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr3/THUMBNAIL/image/gif/e581b423a95affab3ed259bb9c19e5be/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr3/THUMBNAIL/image/gif/e581b423a95affab3ed259bb9c19e5be/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8582</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr4/THUMBNAIL/image/gif/5dedbc518a8bf723fd514e1bfab8490a/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr4/THUMBNAIL/image/gif/5dedbc518a8bf723fd514e1bfab8490a/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3392</xocs:filesize>
+               <xocs:pixel-height>101</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr9/THUMBNAIL/image/gif/1537eddb0444ba8f407602cb2ba9345a/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr9/THUMBNAIL/image/gif/1537eddb0444ba8f407602cb2ba9345a/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4432</xocs:filesize>
+               <xocs:pixel-height>95</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr7/THUMBNAIL/image/gif/65345876769e9ac6afaa42f39bdcf90d/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr7/THUMBNAIL/image/gif/65345876769e9ac6afaa42f39bdcf90d/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3554</xocs:filesize>
+               <xocs:pixel-height>98</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr2/THUMBNAIL/image/gif/a00b98bba18c5f383caf700522f01b59/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr2/THUMBNAIL/image/gif/a00b98bba18c5f383caf700522f01b59/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3138</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr6/THUMBNAIL/image/gif/a3136c69da3a605e667ab17f3ed7959d/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr6/THUMBNAIL/image/gif/a3136c69da3a605e667ab17f3ed7959d/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11742</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>171</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr8/THUMBNAIL/image/gif/6c48697df37c2f3167272c64c474aea2/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr8/THUMBNAIL/image/gif/6c48697df37c2f3167272c64c474aea2/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2774</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr1/THUMBNAIL/image/gif/7a89190deca00f6146c6a1299d3ad8cd/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr1/THUMBNAIL/image/gif/7a89190deca00f6146c6a1299d3ad8cd/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6814</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319912027899-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319912027899/gr5/THUMBNAIL/image/gif/02a8faa43c5984fcecb1257fae836e1e/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319912027899/gr5/THUMBNAIL/image/gif/02a8faa43c5984fcecb1257fae836e1e/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8508</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.1" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>11030</aid>
+            <ce:pii>S0360-3199(12)02789-9</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2012.12.086</ce:doi>
+            <ce:copyright type="society" year="2012">Hydrogen Energy Publications, LLC.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0010" view="all">Picture (left) and scheme (right) of the experimental set-up for SOEC testing adapted from <ce:cross-ref refid="bib24">[24]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0015" view="all">Square-wave current applied to the cell.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0020" view="all">Applied current, measured voltage and cell temperature during the entire experiment.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0025" view="all">Polarisation curves in the fuel cell mode and in the electrolysis mode at <ce:italic>t</ce:italic> = 15 h and <ce:italic>t</ce:italic> = 505 h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0030" view="all">Voltage and temperature evolution during B1.2 (−1 A; −20 A) beginning at 150 h, and B2.2 (0 A; −20 A) beginning at 200 h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0035" view="all">Picture of the hydrogen electrode after the experiment.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0040" view="all">Voltage evolution at −20 A.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0045" view="all">EIS spectra in the SOFC mode at 0.5 A/cm<ce:sup loc="post">2</ce:sup> and in the SOEC mode at −0.5 A/cm<ce:sup loc="post">2</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="fspara0050" view="all">Evolution of the area specific resistances of the modelled equivalent circuits (left) and their corresponding frequencies (right).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="tspara0010" view="all">Test protocol.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Step</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Description</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Switching speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cycles number</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Duration</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ending time</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>IV</italic> curves + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic> = 15 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Durability test + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">110 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic> = 125 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B1.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−1 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6 h<br/>16 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 150 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−1 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>18 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 175 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6 h<br/>16 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 200 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B2.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">230<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80 h<br/>18 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 295 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B3.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.3 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 300 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B3.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 320 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.3 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 330 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B3.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 340 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B4.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">400<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 360 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 375 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B4.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rapid<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">400<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 390 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B4.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Transient test<br/>Cell recovery + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0 A; −20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slow<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.6 h<br/>8 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>
+                           <italic>t</italic> = 405 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Durability test + EIS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic> = 505 h</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>IV</italic> curve<br/>
+                           <italic>TV</italic> curve<br/>Durability test</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>−20 A<br/>−20 A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>–<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>–<br/>–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>–<br/>100 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–<br/>–<br/>
+                           <italic>t</italic> = 605 h</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Transient operation of a solid oxide electrolysis cell</ce:title>
+            <ce:author-group>
+               <ce:author id="au1">
+                  <ce:given-name>Floriane</ce:given-name>
+                  <ce:surname>Petipas</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>Qingxi</ce:given-name>
+                  <ce:surname>Fu</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>Annabelle</ce:given-name>
+                  <ce:surname>Brisse</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>Chakib</ce:given-name>
+                  <ce:surname>Bouallou</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>European Institute for Energy Research (EIFER), Emmy-Noether-Str 11, 76131 Karlsruhe, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>MINES ParisTech, Centre Energétique et Procédés, 60 bd Saint Michel, 75006 Paris, France</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>
+                     <ce:italic>Corresponding author</ce:italic>. European Institute for Energy Research (EIFER), Emmy-Noether-Str 11, 76131 Karlsruhe, Germany. Tel.: +49 721 6105 1716; fax: +49 721 6105 1332.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="12" month="9" year="2012"/>
+            <ce:date-revised day="20" month="11" year="2012"/>
+            <ce:date-accepted day="14" month="12" year="2012"/>
+            <ce:abstract xml:lang="en" class="author"><ce:abstract-sec>
+                  <ce:simple-para id="abspara0010" view="all">In order to investigate the transient behaviour of a solid oxide electrolysis cell, tests were carried out on a single SOEC both under steady-state and transient conditions for 600 h. Steady-state operation was performed at the reference current of −20 A, corresponding to the thermoneutral voltage (1.28 V), whereas transient tests consisted in 1800 square waves applied over 140 cumulated hours, with a current of −1 A and −20 A as well as 0 A and −20 A. Independently from the operating conditions, the measured voltage degradation rate of 5% (70 mV)/1000 h was stable for the entire experiment. Consequently, it was concluded that an SOEC can be operated under on–off conditions with no increase of the degradation rate. This result paves the way for modular operation of a high temperature electrolyser fed with intermittent electrical energy.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="abspara0015" view="all">► Steady-state and transient operation of a solid oxide electrolysis cell at 700 °C. ► 1800 on–off cycles over 140 cumulated hours. ► No minimum current required under reducing atmosphere. ► No detrimental failure of the cell: no break, no crack, no delamination. ► No voltage degradation rate increase.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords xml:lang="en" class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>High temperature electrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Transient operation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Hydrogen production</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Renewable energy</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Solid oxide electrolysis cell</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Hydrogen is widely promoted as the future energy carrier <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs> because it enables to store large amounts of renewable energy over long periods of time in particular for seasonal storage, using both electrolysers for the conversion of electrical energy into hydrogen and fuel cells for the reverse reaction. The electrolysis reaction can be conducted below 100 °C with liquid water (Alkaline ELectrolyser, AEL, and Proton Exchange Membrane ELectrolyser, PEMEL) and higher than 500 °C with steam (High Temperature Electrolyser, HTE).</ce:para>
+                  <ce:section id="sec1.1" view="all">
+                     <ce:label>1.1</ce:label>
+                     <ce:section-title>Alkaline electrolysis</ce:section-title>
+                     <ce:para id="p0015" view="all">AEL is a mature technology which was developed in the 1900's for base-load industrial applications because of the decreased investment cost for large hydrogen production plants and the long lifetime of more than 10 years <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. The coupling of AEL with intermittent energy sources started to be demonstrated in 1986 with the projects Hysolar and Solar-Wasserstoff-Bayern <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. In the meantime, numerous demonstration projects exist. In particular, Enertrag started the first hybrid power plant producing hydrogen from wind in October 2011 <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. In February 2012, Europe's largest hydrogen refuelling station HafenCity was opened in Hamburg, using two alkaline electrolysers (HySTAT-60) from the company Hydrogenics to produce hydrogen from renewable energy <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0020" view="all">However, AEL faces some issues when it is operated intermittently. In particular, the degradation rate increases from 3 mV/1000 h under steady-state operation <ce:cross-ref refid="bib8">[8]</ce:cross-ref> to more than 10 mV/1000 h under on–off operation, according to a transient test carried out on a 25-cell stack from Hydrogenics for 10,000 on–off electric cycles between 0 and −0.5 A/cm<ce:sup loc="post">2</ce:sup>. During this test, the measured voltage increased logarithmically, corresponding to a degradation rate of 21 mV/1000 h over the entire experiment duration, and 10 mV/1000 h on the quasi linear part after 5000 cycles <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. This result leads to an expected lifetime of 2.5 years, assuming a maximum cell voltage of 2 V.</ce:para>
+                     <ce:para id="p0025" view="all">Therefore, voltage thresholds are necessary for variable operation to have no impact on the degradation <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. An alkaline electrolyser cell cannot operate above 2 V (excess heat management problems) and below 1.3 V (H<ce:inf loc="post">2</ce:inf> and O<ce:inf loc="post">2</ce:inf> gases cross-over with risk of explosion) <ce:cross-ref refid="bib11">[11]</ce:cross-ref>, which implies cell purging for shut-down. Although the recommended operation range corresponds to 20%–100% of the maximum power, operation at partial load below 40% affects the purity of the hydrogen produced and the system efficiency is reduced to 60% (versus Higher Heating Value, HHV) compared to the maximum efficiency of 75% (vs. HHV) at nominal power (∼80% of the maximum power) <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. Therefore, AEL does not appear to be the most suitable technology for intermittent operation.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec1.2" view="all">
+                     <ce:label>1.2</ce:label>
+                     <ce:section-title>Proton exchange membrane electrolysis</ce:section-title>
+                     <ce:para id="p0030" view="all">PEMEL is also a mature technology developed in the 1970's for small applications due to the higher cost. The first demonstration study of PEMEL coupled with intermittent energy sources started in 1994 with the project Clean Air Now <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Nowadays, numerous hydrogen refuelling stations are installed all over the world, using AEL or PEMEL to produce hydrogen from solar or wind energy <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0035" view="all">A PEMEL has a lifetime of 5 years <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and it degrades slowly under both steady-state and transient operating conditions. A PEMEL from Hydrogenics was indeed operated for 5400 on–off cycles between 0 and −2 A/cm<ce:sup loc="post">2</ce:sup> without failures. Nevertheless, the degradation rate could not be calculated since the cell temperature was not indicated <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. The advantage of a PEMEL is the flexibility and the high efficiency of up to 90%. In particular, the load range is 0–100% of the maximum recommended voltage 2.2 V and the electrolyser can be started instantaneously at ambient temperature <ce:cross-ref refid="bib14">[14]</ce:cross-ref>, although the efficiency below 60 °C decreases significantly. The disadvantages of PEMEL are the price, due to the expensive materials used, as well as difficulties in scaling up <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Therefore, PEMEL is still exploited for small applications rather than for large energy storage.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec1.3" view="all">
+                     <ce:label>1.3</ce:label>
+                     <ce:section-title>High temperature electrolysis</ce:section-title>
+                     <ce:para id="p0040" view="all">HTE was developed in the 1980's and operates around 800 °C with solid oxide cells based on a ceramic electrolyte ionic conductor (Solid Oxide Electrolysis Cell, SOEC). It has a great potential in energy savings in comparison with conventional low temperature electrolysis processes due to more favourable thermodynamics and kinetics at higher temperature. HTE allows high electric-to-chemical energy conversion efficiencies with values even beyond 100% depending on the operating load. The load range is 0–100% of the maximum power which is theoretically around 1.6 V <ce:cross-refs refid="bib15 bib16 bib17">[15–17]</ce:cross-refs> although a lower voltage is preferable in order to limit the cell degradation <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0045" view="all">The major disadvantage of HTE is the lack of maturity. The advantages are the high efficiency at high load, as well as the low expected price, high expected lifetime and large expected operating range <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. Therefore, HTE is a very promising technology for both small and large scale applications. Moreover, the large expected operating range could enable HTE to be used for renewable energy storage, provided that potential effects of cycling on the cell degradation are overcome.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec1.4" view="all">
+                     <ce:label>1.4</ce:label>
+                     <ce:section-title>SOEC testing</ce:section-title>
+                     <ce:para id="p0050" view="all">Presently, high temperature electrolysis is basically conducted on solid oxide fuel cells. Research activities aim at developing materials and cell architecture which are specific to electrolysis operation <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. The European research project ADEL is focussing on the development of solid oxide electrolysis cells operating at lower temperatures close to 600 °C in order to optimise the electrolyser lifetime <ce:cross-refs refid="bib21 bib22 bib23">[21–23]</ce:cross-refs>.</ce:para>
+                     <ce:para id="p0055" view="all">Lab experiments carried out so far aimed at describing the performances of cells and stacks under stable operating conditions with durability tests, although degradation causes are not identified yet <ce:cross-refs refid="bib15 bib24 bib25">[15,24,25]</ce:cross-refs>. The longest durability experiment performed so far on an SOEC lasted for 9000 h at 780 °C and −1 A/cm<ce:sup loc="post">2</ce:sup> with a degradation rate of 3.8% (40 mV)/1000 h over the overall experiment, and 1.7%/1000 h during the incident-free period of 3600 h <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. SOEC behaviour under transient conditions has not been yet documented, even though this step is necessary to validate the technical feasibility of operating a HTE fed with intermittent source such as wind or solar power <ce:cross-refs refid="bib23 bib26 bib27">[23,26,27]</ce:cross-refs>.</ce:para>
+                     <ce:para id="p0060" view="all">Transient operation is critical because the probability of cell failure increases significantly for thermal gradients above 10 °C/cm. Besides, thermal stresses that can be tolerated depend on many factors, i.e. thermal gradients, but also the materials type and design <ce:cross-ref refid="bib28">[28]</ce:cross-ref>. The present work proposes to focus on the effect of electric cycling on a single SOEC. To reduce temperature variation and reoxidation issues, the SOEC was operated at thermoneutral points in a reducing atmosphere at the hydrogen electrode. Thermoneutral points were defined as voltage values for which cell temperature variations are low: at very low current (or open circuit voltage), where the heat absorbed by the endothermic reaction is negligible, and around the thermoneutral voltage (1.28 V), where Joule heating balances the heat absorbed by the endothermic reaction <ce:cross-ref refid="bib29">[29]</ce:cross-ref>. For purely electric transient operation, rapid start-ups and shut-downs should be preferred to skip partial load. Because these operating conditions could degrade the cell significantly, the necessity of maintaining a minimum current to protect the cell should be checked experimentally before applying on–off cycles.</ce:para>
+                     <ce:para id="p0065" view="all">The present work aims at answering two major questions. Does on–off cycling cause detrimental failure or additional degradation of the cell? Is it required to maintain a minimum protection current?</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental activity</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Experimental set-up</ce:section-title>
+                     <ce:para id="p0070" view="all">The tested cell was a commercial circular anode supported SOFC from the company SOFCpower (Italy) with 45 cm<ce:sup loc="post">2</ce:sup> active surface area and a prescribed operating temperature range of 600 °C–850 °C. The electrolyte consisted of a dense layer of 8YSZ (8 mol% yttria stabilised zirconia) of 8 ± 2 μm thickness, the oxygen electrode of LSCF/GDC (lanthanum strontium cobaltite ferrite – gadolinium doped ceria) of 40 ± 10 μm thickness, and the hydrogen/steam electrode of a Nickel/8YSZ cermet of 240 ± 20 μm thickness. The tests were carried out on a test bench from ECN (The Netherlands) which was customised in EIFER for SOEC testing <ce:cross-refs refid="bib18 bib24">[18,24]</ce:cross-refs>. The particularity is the unsealed housing configuration which avoids measurement perturbations due to seal tightness or ageing. The cell placed in the open housing is shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. The sweep gas supplied to the oxygen electrode was synthetic air (115 Nml/min of oxygen and 425 Nml/min of nitrogen) and the gas fed to the hydrogen electrode was a mixture of 30% (160 Nml/min) hydrogen and 70% (380 Nml/min) steam. Under fuel cell operation at the beginning of the experiment, the gas fed to the hydrogen electrode was 500 Nml/min of hydrogen.</ce:para>
+                     <ce:para id="p0075" view="all">In order to avoid thermal gradients, both electrodes gases were pre-heated before reaching the cell. Three thermocouples were placed in the middle (TC1) and at the rim (TC2A, TC2B) of the cell. With the unsealed housing configuration, the hydrogen in the exhaust gas stream was burnt at the cell rim, thus TC2A and TC2B were affected by the hydrogen burning rate. TC1 measured the cell temperature and indicated 703 °C under steady-state operation at −20 A and varied in the range 699 °C ± 5 °C during transient tests. Temperatures of TC2A and TC2B were similar (±1 °C) and about 10 °C below TC1, thus the burning hydrogen at the cell rim did not influence the cell temperature.</ce:para>
+                     <ce:para id="p0080" view="all">After reducing the nickel oxide of the hydrogen electrode into nickel at 800 °C, the cell temperature was stabilised at 703 °C. Polarisation curves (<ce:italic>IV</ce:italic>) and electrochemical impedance spectra (EIS) were measured in the fuel cell mode with 100% hydrogen and in the electrolysis mode with 70% steam and 30% hydrogen in order to characterise the cell. At the end of the experiment, the test was stopped by purging continuously the hydrogen electrode with a mixture of hydrogen and nitrogen in order to not reoxidise the nickel and to proceed to post-mortem analyses.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Test protocol</ce:section-title>
+                     <ce:para id="p0085" view="all">The value −20 A was considered as the reference current because it corresponded to the thermoneutral cell voltage (1.28 V) on the <ce:italic>IV</ce:italic> curve performed after 15 h in electrolysis mode. The experiment was composed of several steps, as detailed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>, in order to identify the cell behaviour (A) under steady-state operating conditions at −20 A, (B) under electric transient operating conditions and (C) again under steady-state operating conditions at −20 A.</ce:para>
+                     <ce:para id="p0090" view="all">Steady-state conditions were applied for more than 100 h at −20 A before and after transient tests (steps A and C) in order to measure the cell degradation at a reference stable operation. As defined in Section <ce:cross-ref refid="sec1.4">1.4</ce:cross-ref>, electric transient tests included rapid switches between very low current and −20 A, as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>, in order to avoid temperature variations and analyse specifically electric transients. Although in the case of a HTE fed with some intermittent renewable energy sources, shut-down and start-up of modules are foreseen several times per day, the tests objective was to operate the cell with short step width in order to measure a significant degradation. Several values for the step width and number of cycles were tested in order to observe their impact on the cell behaviour. The influence of the step width was indeed studied by switching the current (i) every 30 s and (ii) every 10 min, whereas the influence of (B3) the number of cycles and (B4) the cycling duration was studied by (B3) applying a constant number of 20 cycles and (B4) cycling over 6.6 h. After each transient test, the current was set again to the reference value of −20 A for a recovery time of several hours, so that the temperature and the voltage could stabilise. These tests were carried out twice in order to check the repeatability of the results.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Overall observations</ce:section-title>
+                     <ce:para id="p0095" view="all">The SOEC was operated for 600 h in total, among which 1800 cycles were applied for 140 cumulated hours without detrimental failures (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>).</ce:para>
+                     <ce:para id="p0100" view="all">The measured Open Circuit Voltage (OCV) at the beginning of the experiment was 1.09 V in the SOFC mode with 100% hydrogen, and 0.91 V in the SOEC mode with 70% steam and 30% hydrogen. The theoretical OCV value in the SOEC mode can be calculated with the Nernst Equation, Eq. <ce:cross-ref refid="fd1">(1)</ce:cross-ref>.<ce:display>
+                           <ce:formula id="fd1">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>E</mml:mi>
+                                       <mml:mi>N</mml:mi>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mo>Δ</mml:mo>
+                                             <mml:mi>r</mml:mi>
+                                          </mml:msub>
+                                          <mml:msup>
+                                             <mml:mi>G</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msup>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mi>F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>R</mml:mi>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mi>F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>·</mml:mo>
+                                    <mml:mi>ln</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mfrac>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>p</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mtext>H</mml:mtext>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                                <mml:mo>·</mml:mo>
+                                                <mml:msup>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mi>p</mml:mi>
+                                                         <mml:mrow>
+                                                            <mml:msub>
+                                                               <mml:mtext>O</mml:mtext>
+                                                               <mml:mn>2</mml:mn>
+                                                            </mml:msub>
+                                                         </mml:mrow>
+                                                      </mml:msub>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mn>1</mml:mn>
+                                                         <mml:mo>/</mml:mo>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:mrow>
+                                                   </mml:mrow>
+                                                </mml:msup>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>p</mml:mi>
+                                                   <mml:mrow>
+                                                      <mml:msub>
+                                                         <mml:mtext>H</mml:mtext>
+                                                         <mml:mn>2</mml:mn>
+                                                      </mml:msub>
+                                                      <mml:mtext>O</mml:mtext>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                       </mml:mrow>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where Δ<ce:inf loc="post">
+                           <ce:italic>r</ce:italic>
+                        </ce:inf>
+                        <ce:italic>G</ce:italic>
+                        <ce:sup loc="post">0</ce:sup> is the standard Gibbs free energy change of the electrolysis reaction (194.37 kJ mol<ce:sup loc="post">−1</ce:sup> at 700 °C), <ce:italic>F</ce:italic> the Faraday constant (96,485 C mol<ce:sup loc="post">−1</ce:sup>), <ce:italic>R</ce:italic> the universal gas constant (8.314 J mol<ce:sup loc="post">−1</ce:sup> K<ce:sup loc="post">−1</ce:sup>), <ce:italic>T</ce:italic> the absolute temperature (973 K) and <ce:italic>p</ce:italic> the partial pressure of the reaction gases.</ce:para>
+                     <ce:para id="p0105" view="all">In the SOFC mode, the Nernst potential could not be calculated because the concentration of steam was unknown. In the SOEC mode, the calculated Nernst potential (<ce:italic>E</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>N</ce:italic>
+                        </ce:inf>) is slightly above the measured OCV. This small difference can be explained by the open housing configuration, which causes back diffusion of steam in the cell and increases slightly the steam concentration. The measured OCV was still 0.91 V at the end of the experiment, thus there was no significant degradation of the cell. The resistances calculated from the <ce:italic>IV</ce:italic> curves (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>) were 18 mΩ in the SOFC mode (calculated from the linear part between 10 A and 23 A), 18 mΩ in the SOEC mode at <ce:italic>t</ce:italic> = 15 h and 21 mΩ at <ce:italic>t</ce:italic> = 505 h. Therefore, the switch from the SOFC to the SOEC mode did not impact the measured resistance. The experiment in the SOEC mode increased the resistance by around 3 mΩ, corresponding to a voltage increase from 1.28 V to 1.33 V at −20 A.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Cell behaviour under transient conditions</ce:section-title>
+                     <ce:para id="p0110" view="all">During the transient tests (step B), the voltage response to a current switch was quasi instantaneous (below 1 s). The temperature decreased by almost 10 °C, thus the voltage increased by 1%–3% at the beginning of each transient test due to the ohmic resistance temperature dependence. After each transient test, temperature and voltage stabilised in less than one hour.</ce:para>
+                     <ce:para id="p0115" view="all">No temperature change was expected since both operating points −20 A and 0 A corresponded to thermoneutral cell operation. The measured temperature variation was most probably due to Joule heating at the contacting grids caused by the current flow. However, this variation of less than 10 °C was too low to cause mechanical stresses in the cell.</ce:para>
+                     <ce:para id="p0120" view="all">Transient tests consisted in four steps. Step B1 was first carried out between −20 A (thermoneutral voltage) and −1 A. Then, step B2 consisted in on–off cycles (down to 0 A) under similar conditions. On–off operation showed no particular impact on the cell voltage in comparison with using a minimum current of −1 A (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>). Therefore, it can be concluded that no minimum current is required for SOEC operation when a reducing atmosphere is maintained at the hydrogen electrode. Afterwards, the steps B3 and B4 were repeated several times with the same cell response, which proved the tests repeatability.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Discussion</ce:section-title>
+                  <ce:section id="sec4.1" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Partial reoxidation of the active surface</ce:section-title>
+                     <ce:para id="p0125" view="all">After the experiment, the cell was in a good condition with no break, no crack and no delamination, as can be seen on the picture of the cell after the experiment (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>). Nevertheless, the hydrogen electrode reoxidised around the rim (green area) probably because of to the unsealed configuration. The reduction and reoxidation of the cell rim indeed occurred depending on the hydrogen flow rate, which was varying with the current. Therefore, the hydrogen electrode tended to oxidise under low current and to reduce again when reference current was applied, thus the border between reduced and reoxidised areas moved forward and backward during current cycling. It is known that after a certain number of redox cycling, the affected part of the hydrogen electrode is deactivated. The deactivated area can appear grey (e.g. still in a reduced state after cooling down) or green (oxidised state). Therefore, it is very difficult to quantify it through optical image analysis.</ce:para>
+                     <ce:para id="p0130" view="all">A deactivated area leads to a decreased active surface, thus to an increased current density and increased voltage at constant current. The voltage evolution (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>) shows that the degradation rate was quite stable during the whole experiment apart from a sudden increase during the first transient step B1.1 (<ce:italic>t</ce:italic> = 150 h), which was most probably caused by the deactivation process.</ce:para>
+                     <ce:para id="p0135" view="all">In order to quantify the active surface <ce:italic>S</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> after the deactivation process, we compared the measured voltage <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> (1.33 V at <ce:italic>t</ce:italic> = 505 h) with the theoretical voltage <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> (1.31 V at <ce:italic>t</ce:italic> = 505 h) corresponding to a linear degradation rate and a constant active surface area <ce:italic>S</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> of 45 cm<ce:sup loc="post">2</ce:sup> (red dotted line in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>), as defined in Eq. <ce:cross-ref refid="fd2">(2)</ce:cross-ref>. The calculated surface <ce:italic>S</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> equals 43 cm<ce:sup loc="post">2</ce:sup>.<ce:display>
+                           <ce:formula id="fd2">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:msub>
+                                    <mml:mo>·</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>E</mml:mi>
+                                             <mml:mn>1</mml:mn>
+                                          </mml:msub>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:mtext>OCV</mml:mtext>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>E</mml:mi>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msub>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:mtext>OCV</mml:mtext>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0140" view="all">It is concluded that the degradation rate of the active surface was stable during the whole experiment, whereas the sudden voltage increase observed after step B1.1 was due to a partial deactivation of the hydrogen electrode (2 cm<ce:sup loc="post">2</ce:sup> or 5% of the initial active surface). Therefore, the measurements after B1.1 were carried out at a slightly higher current density of 0.46 A/cm<ce:sup loc="post">2</ce:sup>, instead of 0.44 A/cm<ce:sup loc="post">2</ce:sup>, and the measured voltage 1.33 V at 0.46 A/cm<ce:sup loc="post">2</ce:sup> corresponded to 1.31 V at 0.44 A/cm<ce:sup loc="post">2</ce:sup>. Furthermore, the area specific resistance of the active surface increased from 0.8 Ω cm<ce:sup loc="post">2</ce:sup> (0.018 Ω*45 cm<ce:sup loc="post">2</ce:sup>) at <ce:italic>t</ce:italic> = 15 h to 0.9 Ω cm<ce:sup loc="post">2</ce:sup> (0.021 Ω*43 cm<ce:sup loc="post">2</ce:sup>) at <ce:italic>t</ce:italic> = 505 h.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec4.2" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Localisation of the cell degradation</ce:section-title>
+                     <ce:para id="p0145" view="all">Electrochemical Impedance Spectroscopy (EIS) measurements were carried out before and after each experimental step. They were analysed with the ZView™ software from Scribner. The principle of EIS is to apply an AC current with several frequencies and to measure the cell response. Because each phenomenon dominates at a certain frequency, this method enables to decouple processes that occur in the cell and to evaluate their single contribution to the cell resistance. For the tested cell structure and temperature, the relaxation processes detectable by EIS generally occur in the frequency range of 0.1 Hz–100 kHz.</ce:para>
+                     <ce:para id="p0150" view="all">The electrochemical responses of the cell in the SOFC mode at 0.5 A/cm<ce:sup loc="post">2</ce:sup> and in the SOEC mode at −0.5 A/cm<ce:sup loc="post">2</ce:sup> are shown in the complex plane representation in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/> with the fitted electric equivalent circuit of the SOEC response. The cell electrochemical responses are composed of three semi-circles of respective relaxation frequencies 3.5 kHz (HF), 70 Hz (MF) and 2 Hz (LF). They were modelled with an equivalent circuit composed of an ohmic area specific resistance <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> followed by three R//CPE (parallel resistor and constant phase element) in series representing the high frequency (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf>), middle frequency (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">MF</ce:inf>) and low frequency (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">LF</ce:inf>) arcs. For both curves shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> as well as for EIS performed at 0.1, 0.2, 0.3 and 0.4 A/cm<ce:sup loc="post">2</ce:sup>, the equivalent area specific resistance <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> is around 0.4 Ω cm<ce:sup loc="post">2</ce:sup>. Therefore, switching the operating mode from SOFC to SOEC did not affect the resistive contributions, which is consistent with <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0155" view="all">In the SOEC mode, operating conditions were maintained constant, therefore measured EIS spectra could be compared with each other. The equivalent area specific resistances <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf>, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">MF</ce:inf> and <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">LF</ce:inf> and their corresponding frequencies HF, MF and LF are shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig9"/>. In order to decouple the two phenomena of active surface decrease and ASR increase, the area specific resistances are represented in Ω cm<ce:sup loc="post">2</ce:sup>, which corresponds to the measured resistance in ohm multiplied by the assumed active surface (45 cm<ce:sup loc="post">2</ce:sup> until <ce:italic>t</ce:italic> = 125 h and 43 cm<ce:sup loc="post">2</ce:sup> from <ce:italic>t</ce:italic> = 150 h, as concluded in Section <ce:cross-ref refid="sec4.1">4.1</ce:cross-ref>). As can be seen in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>, the contributions at high and middle frequencies overlap, thus the sum <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf> + <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">MF</ce:inf> was considered more representative than the single contributions. The equivalent area specific resistances compared to the ASR at the beginning of the experiment increased by 13% (0.1 Ω cm<ce:sup loc="post">2</ce:sup>)/1000 h for <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> which typically corresponds to the ohmic area specific resistance of the electrolyte, 13% (0.1 Ω cm<ce:sup loc="post">2</ce:sup>)/1000 h for <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf> + <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">MF</ce:inf> which corresponds to the anode and cathode processes such as charge transfer, and 0% (0.0 Ω cm<ce:sup loc="post">2</ce:sup>)/1000 h for <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">FL</ce:inf> which represents the gas diffusion and is the slowest phenomenon <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. The ASR (<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> + <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">HF</ce:inf> + <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">MF</ce:inf> + <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">FL</ce:inf>) increased by 25% (0.2 Ω cm<ce:sup loc="post">2</ce:sup>)/1000 h, which is consistent with the <ce:italic>IV</ce:italic> curve (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>). These EIS measurements show that the ASR increase was due to both the high frequency purely ohmic resistance and the electrodes (anode and cathode) charge transfer contributions.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="p0160" view="all">A solid oxide electrolysis cell was operated for 600 h both under steady-state and transient conditions without detrimental failures. Steady-state operation was performed at the reference current of −20 A, corresponding to the thermoneutral voltage. For transient tests, cycles between the thermoneutral voltage and the OCV were applied in order to avoid thermal variations. These cycles consisted in square waves of 1–20 min length, with an applied current of −1 A and −20 A as well as 0 A and −20 A, for a duration of 20 min–80 h. In total, 1800 cycles were applied over 140 cumulated hours. It was first concluded that the tests were repeatable and that no minimum current was required under reducing atmosphere at the hydrogen electrode.</ce:para>
+                  <ce:para id="p0165" view="all">The open configuration of the housing in the test bench provoked a partial deactivation of the cell which was estimated to cause a 5% decrease in the active surface. Because this parameter was identified and quantified, the corrected cell area specific resistance and the corrected cell voltage at constant current density were estimated. For 500 h, the corrected ASR and the corrected cell voltage increased linearly from 0.8 Ω cm<ce:sup loc="post">2</ce:sup> to 0.9 Ω cm<ce:sup loc="post">2</ce:sup> and from around 1.28 V to 1.31 V at −0.44 A/cm<ce:sup loc="post">2</ce:sup> respectively. The cell voltage degradation rate was 5% (70 mV)/1000 h, which was stable for the whole experiment and was not impacted by the transient operation.</ce:para>
+                  <ce:para id="p0170" view="all">Therefore, this work serves as a first proof that solid oxide electrolysis cells can be operated under on–off conditions without detrimental impact on the degradation rate when a reducing atmosphere is maintained at the hydrogen electrode. This result is crucial for studying the behaviour of a modular high temperature electrolyser fed with an intermittent energy source, such as wind or solar power. In further studies, similar electric cycling should be performed on a stack. Other future works should focus on applying more severe operating conditions, for example combining electric and thermal cycling, as well as decreasing the hydrogen concentration at the hydrogen electrode.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="p0175" view="all">The research leading to these results has received funding from the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">European Union's Seventh Framework Programme</ce:grant-sponsor> (FP7/2007-2013) for the Fuel Cells and Hydrogen Joint Technology Initiative under grant agreement n° <ce:grant-number refid="gs1">256755</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Barbir</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transition to renewable energy systems with hydrogen as an energy carrier</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>308</sb:first-page>
+                              <sb:last-page>312</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Andrews</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Shabani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Re-envisioning the role of hydrogen in a sustainable energy economy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1184</sb:first-page>
+                              <sb:last-page>1203</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Dincer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Green methods for hydrogen production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1954</sb:first-page>
+                              <sb:last-page>1971</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Salvi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pesenti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Villa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Berrettoni</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advanced alkaline water electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>384</sb:first-page>
+                              <sb:last-page>391</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solar hydrogen, energy carrier for the future exemplified by two field programs: Hysolar and Solar-Wasserstoff-Bayern (SWB)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Wind-hydrogen used for first time at vehicle fuelling station in Germany</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cells Bull</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2012</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Hydrogenics electrolyzers for German hydrogen station</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Cells Bull</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2010</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution xml:lang="de" langtype="iso">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Smolinka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Günther M. (Fraunhofen ISE, Freiburg im Breisgau, D)</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Garche J. (FCBAT, Ulm, D)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stand und Entwicklungspotenzial der Wasserelektrolyse zur Herstellung von Wasserstoff aus regenerativen Energien</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Condensed version of the final report</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011 July</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NOW GmbH</sb:name>
+                                 <sb:location>Berlin (D)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Schmid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrolysis for grid balancing – where are we?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Symposium on water electrolysis and hydrogen as part of the future renewable energy system</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012 May 10–11</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Copenhagen, Denmark</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.hydrogennet.dk/fileadmin/user_upload/PDF-filer/Aktiviteter/Kommende_aktiviteter/Elektrolysesymposium/Raymond_Schmid_Hygrogenics_120510_Copenhagen_Symposium_Final.pdf" xlink:type="simple">http://www.hydrogennet.dk/fileadmin/user_upload/PDF-filer/Aktiviteter/Kommende_aktiviteter/Elektrolysesymposium/Raymond_Schmid_Hygrogenics_120510_Copenhagen_Symposium_Final.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bergen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Pitt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rowe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wild</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Djilali</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Transient electrolyser response in a renewable-regenerative energy system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stolten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Krieg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline electrolysis – introduction and overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Stolten</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Hydrogen energy</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>WILEY-VCH Verlag GmbH &amp; Co. KGaA</sb:name>
+                                 <sb:location>Weinheim</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>261</sb:first-page>
+                              <sb:last-page>262</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Schucan T. (Paul Scherrer Institute, Villigen, CH)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Clean air now: solar hydrogen fueled trucks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Task 11: integrated systems. Final report of subtask A: case studies of integrated hydrogen energy systems</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Energy Agency Hydrogen Implementing Agreement</sb:name>
+                                 <sb:location>Bethesda (MD)</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>Report No: IEA/H2/T11/FR1-2000</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Fuel cells 2000 [Internet]</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Fuel Cells 2000</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>US and international hydrogen fueling stations. Available from:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.fuelcells.org/wp-content/uploads/2012/02/h2fuelingstations-US3.pdf" xlink:type="simple">http://www.fuelcells.org/wp-content/uploads/2012/02/h2fuelingstations-US3.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.fuelcells.org/wp-content/uploads/2012/02/h2fuelingstations-world1.pdf" xlink:type="simple">http://www.fuelcells.org/wp-content/uploads/2012/02/h2fuelingstations-world1.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>[cited 2013 Jan 10] [Last updated 2013 Jan 9]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hebling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Smolinka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garche</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Water electrolysis for the hydrogen production out of renewable energies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the Ulm ElectroChemical Talks</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012 June 3–5</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Ulm, Germany</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen and synthetic fuel production from renewable energy sources</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3253</sb:first-page>
+                              <sb:last-page>3257</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jacobsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electromotive potential distribution and electronic leak currents in working YSZ based SOCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1315</sb:first-page>
+                              <sb:last-page>1320</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schefold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature electrolysis at EIFER, main achievements at cell and stack level</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Procedia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                              <sb:last-page>63</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schefold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nine thousand hours of operation of a solid oxide cell in steam electrolysis mode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A137</sb:first-page>
+                              <sb:last-page>A144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Pedersen C.F. (Topsoe Fuel Cells A/S, Kongens Lyngby, DK)</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jensen S.H. (RISO DTU, Roskilde, DK)</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sloth M. (H2 Logic A/S, Herning, DK)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>planSOEC – R&amp;D and commercialization roadmap for SOEC electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2011 May</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ForskEL2010 Energinet.dk</sb:name>
+                                 <sb:location>Erritsø (DK)</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>Report No: 2010-1-10432</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Laguna-Bercero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent advances in high temperature electrolysis using solid oxide fuel cells: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>203</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Buchkremer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stöver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Components manufacturing for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152–153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>373</sb:first-page>
+                              <sb:last-page>381</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Smorygo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Mikutski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Marukovich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Vialiuha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ilyushchanka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mezentseva</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structured catalyst supports and catalysts for the methane indirect internal steam reforming in the intermediate temperature SOFC</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9505</sb:first-page>
+                              <sb:last-page>9514</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Bucheli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lefebvre-Joud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Petipas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roeb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advanced electrolysers for hydrogen production with renewable energy sources</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the 10th European SOFC forum</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012 June 26–29</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>A1107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Lucerne, Switzerland</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Brisse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schefold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zahid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature water electrolysis in solid oxide cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5375</sb:first-page>
+                              <sb:last-page>5382</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Stoots</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Herring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hartvigsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen production performance of a 10-cell planar solid-oxide electrolysis stack</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Fuel Cell Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                              <sb:last-page>219</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Houaijia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Monnerie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roeb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sattler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sanz-Bermejo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coupling heat and electricity sources to intermediate temperature steam electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the SolarPACES 2012</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012 Sept. 11–14</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>Marrakech, Morocco</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Derbal-Mokrane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Benzaoui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>M'Raoui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Belhamel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Feasibility study for hydrogen production using hybrid solar power in Algeria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4198</sb:first-page>
+                              <sb:last-page>4207</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nakajo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wuillemin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Van herle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Favrat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simulation of thermal stresses in anode-supported solid oxide fuel cell stacks. Part I: probability of failure of the cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>215</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermodynamic considerations for thermal water splitting processes and high temperature electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the IMECE2008</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2008 Oct 31–Nov 6</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>Boston (MA), USA</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

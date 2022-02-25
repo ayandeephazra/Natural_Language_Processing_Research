@@ -1,0 +1,654 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2211812815004411</prism:url><dc:identifier>doi:10.1016/j.mspro.2015.11.099</dc:identifier><eid>1-s2.0-S2211812815004411</eid><prism:doi>10.1016/j.mspro.2015.11.099</prism:doi><pii>S2211-8128(15)00441-1</pii><dc:title>Cu-Doped Nano- La0.8Sr0.2MnO3 Protective Coatings on Metallic Interconnects for Solid Oxide Fuel Cell Application </dc:title><prism:publicationName>Procedia Materials Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>22118128</prism:issn><prism:volume>11</prism:volume><prism:startingPage>628</prism:startingPage><prism:endingPage>633</prism:endingPage><prism:pageRange>628-633</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-12-31</prism:coverDate><prism:coverDisplayDate>2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><prism:issueName>5th International Biennial Conference on Ultrafine Grained and Nanostructured Materials, UFGNSM15</prism:issueName><dc:creator>Farnoush, H.R.</dc:creator><dc:creator>Abdoli, H.</dc:creator><dc:creator>Bozorgmehri, S.</dc:creator><dc:description>
+                  In the present study, Cu-doped nano-La0.8Sr0.2MnO3 (LSM) protective coating has been applied on SUS430 stainless steel alloy substrate by using a wet spray coating process combined with nitrate solution impregnation. The Cu-doped nano-LSM coating acts as a barrier to evaporation and migration of Cr-containing species from interconnect which is effective for preventing chromium volatilization from interconnect alloys in solid oxide fuel cells. Long-term isothermal and non-isothermal oxidation experiments for area specific resistance (ASR) measurements were investigated. The Cu-doped nano-LSM coating was characterized by using X-ray diffraction (XRD), scanning electron microscopy (SEM) with an energy dispersive X-ray (EDX) analyzer. The results of ASR test showed that doping of Cu as a transition metal dopant into LSM improves electrical conductivity.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Solid oxide fuel cell</dcterms:subject><dcterms:subject>Interconnect</dcterms:subject><dcterms:subject>Protective coating</dcterms:subject><dcterms:subject>Chromium poisoning.</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2211812815004411" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2211812815004411" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282606</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Materials Science</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIAMATERIALSSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20151106">2015-11-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20151106">2015-11-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20151106">2015-11-06</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20151106">2015-11-06</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-11-06T22:19:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2211812815004411</xocs:eid>
+      <xocs:pii-formatted>S2211-8128(15)00441-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2211812815004411</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mspro.2015.11.099</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2211812815X00058</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151106">2015-11-06T17:31:58.974247-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150101</xocs:date-search-begin>
+      <xocs:date-search-end>20151231</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1446852718">2015-11-06T23:31:58.974247Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2211-8128</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22118128</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>11</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>11</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>113</xocs:sort-order>
+      <xocs:first-fp>628</xocs:first-fp>
+      <xocs:last-lp>633</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>628</xocs:first-page>
+         <xocs:last-page>633</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2015</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>5th International Biennial Conference on Ultrafine Grained and Nanostructured Materials, UFGNSM15</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Mohammad Habibi</ce:given-name>
+                     <ce:surname>Parsa</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Cyrus</ce:given-name>
+                     <ce:surname>Zamani</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Alireza</ce:given-name>
+                     <ce:surname>Babaei</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Saeed</ce:given-name>
+                     <ce:surname>Sheibani</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Nanomaterials for Energy</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CUDOPEDNANOLA08SR02MNO3PROTECTIVECOATINGSMETALLICINTERCONNECTSFORSOLIDOXIDEFUELCELLAPPLICATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FARNOUSH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ABDOLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>53</xocs:ref-first-fp>
+            <xocs:ref-last-lp>55</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>DHEERADHADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1975</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1982</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>HARTHOJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>237</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>PICCARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1225</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>SHAIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>TARRAGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>481</xocs:ref-first-fp>
+            <xocs:ref-last-lp>487</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>996</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1004</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FARNOUSHX2015X628</xocs:refkey3>
+         <xocs:refkey4lp>FARNOUSHX2015X628X633</xocs:refkey4lp>
+         <xocs:refkey4ai>FARNOUSHX2015X628XH</xocs:refkey4ai>
+         <xocs:refkey5>FARNOUSHX2015X628X633XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2015-11-05T00:26:45Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2211-8128(15)00441-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2211812815004411</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2211812815004411</xocs:eid>
+         <xocs:doi>10.1016/j.mspro.2015.11.099</xocs:doi>
+         <xocs:cid>282606</xocs:cid>
+         <xocs:timestamp>2015-11-06T17:31:58.974247-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2211812815004411-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2211812815004411/MAIN/application/pdf/d83ada1f226cb1f614fb28e9f8f1bfb5/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2211812815004411/MAIN/application/pdf/d83ada1f226cb1f614fb28e9f8f1bfb5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>730872</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2211812815004411-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2211812815004411/PREVIEW/image/png/910ad3197f6606254bb1c55b3e39dc26/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2211812815004411/PREVIEW/image/png/910ad3197f6606254bb1c55b3e39dc26/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50649</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd"> Procedia Materials Science  11 ( 2015 )  628 â€“ 633  Available online at www.sciencedirect.com 2211-8128 Â© 2015 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of the organizing committee of UFGNSM15 doi: 10.1016/j.mspro.2015.11.099  ScienceDirect 5th International Biennial Conference on Ultrafine Grained and Nanostructured Materials,  UFGNSM15  Cu-Doped Nano- La0.8Sr0.2MnO3 Protective Coatings on Metallic  Interconnects for Solid Oxide Fuel Cell Application  H. R. Farnousha,*, H. Abdolib, S. Bozorgmehrib  aDepartment of Metallurgy and Materials Engineering, Faculty of Engineering, University of Kashan, P.O. Box 87317-51167 Kashan, Iran  bRenewable Energy Department, Niroo Research Institute (NRI), P.O. Box 1466551 Tehran, Iran  Abstract  In the present study, Cu-doped nano-La0.8Sr0.2MnO3 (LSM) protective coating has been applied on SUS430 stainless steel alloy  substrate by using a wet spray coating process combined with nitrate solution impregnation. The Cu-doped nano-LSM coating  acts as a barrier to evaporation and migration of Cr-containing species from interconnect which is effective for preventing  chromium volatilization from interconnect alloys in solid oxide fuel cells. Long-term isothermal and non-isothermal oxidation  experiments for area specific resistance (ASR) measurements were investigated. The Cu-doped nano-LSM coating was  characterized by using X-ray diffraction (XRD), scanning electron microscopy (SEM) with an energy dispersive X-ray (EDX)  analyzer. The results of ASR test showed that doping of Cu as a transition metal dopant into LSM improves electrical  conductivity.  Â© 2015 The Authors. Published by Elsevier Ltd.  Peer-review under responsibility of the organizing committee of UFGNSM15.  Keywords: Solid oxide fuel cell; Interconnect; Protective coating; Chromium poisoning.  1. Introduction  Ferritic stainless steel interconnects are commonly used for solid oxide fuel cell (SOFC) application due to its  low cost, good formability, high electrical and thermal conductivity and low ionic conductivity, Shaigan et al.  (2010). However, the high chromium volatility and formation of CrO2(OH)2 on cathode at high operating  temperatures of the SOFC stack cause degradation of cell performance, a phenomenon known as chromium      * Corresponding author. Tel.: +98-31-559134; fax: +98-31-55912424.  E-mail address: farnoush@kashanu.ac.ir  15 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (http://creativecommon .org/l censes/by-nc-nd/4.0/). Peer-review under responsibility of the organizing committee of UFGNSM15 629 H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633  poisoning, Abdoli and Alizadeh (2012). The chromia based scales formed on interconnects leads to poor electrical  conductivity and power loss during long-term SOFC operation. Moreover, the spallation of chromia scale would  occur after long term operation. Applying a protective coating on metal interconnects prevents chromium poisoning  and suppress oxide scale growth with decreasing outward diffusion of Cr and inward diffusion of oxygen at high  temperatures, Dheeradhada et al. (2011). Lanthanum strontium manganite (LSM) is most commonly used protective  coating material for SOFC metallic interconnects owing to its high electrical conductivity, close thermal expansion  coefficient (CTE) with stainless steel, and stability in an oxidizing environment, Wu et al. (2014). However, because  of the ionic conducting nature of perovskites, the oxidation of metallic interconnect substrates and the formation of a  chromia-rich subscale may not be significantly prevented, Fu et al. (2006). Furthermore, the growth of chromia-rich  scales can induce porosity at the alloy-scale interface, which can result in scale cracking and spallation under  significant growth stresses, HarthÃ¸j et al. (2015). In the present study, Cu-doped nano-LSM coating was applied to  improve both electrical conductivity and oxidation resistance of SOFC interconnects at high temperatures. Doping  with Cu and using LSM nanopowders significantly facilitated densification of coating. Incorporating a transition  metal cation such as Cu into LSM structure allows control of sintering, electrical, and thermal expansion  characteristics and further improves the coating properties. The Cu-doped LSM coating was fabricated via wet spray  coating combined with metal nitrate solution impregnation. Furthermore, area specific resistance (ASR)  measurements were employed to characterize the coating after long-term oxidation.  2. Experimental details  SUS430 alloy with the dimension of 20Ã—10Ã—1 mm was cut and used as substrate. The surface was polished with  800-1200 grit SiC paper, followed by ultrasonically degreasing and finally washing in acetone and ethanol  immediately prior to each use. The La0.8Sr0.2MnO3 nanopowders (LSM, Fuel Cell Materials, d50=100 nm) were  mixed with ethanol and binding agents (PVB and toluene). The weight ratio for the slurry was LSM : binder :  ethanol = 0.6 : 0.1 : 1.0. Finally, the slurry was prepared for wet spraying after jar-milling for 24 h. The spray  coating was performed using an air brush (DH 115, Sparmax, nozzle diameter of 0.3 mm) with an air compressor  (Sparmax #A1) under 20 Psi pressure. The distance between the nozzle and the substrate was kept at 6-10 cm. The  spray coating was applied on both sides of the samples for four times in horizontal and vertical directions. Then,  coated samples were dried overnight at room temperature, followed by binder burning off step at 430Â°C for 10 h.  The coated samples were heat-treated in an Ar protective environment at 800 Â°C for 4 h, in order to protect metallic  substrate from oxidation before and during densification of the coating. Cu impregnation solution was prepared from  0.1 M Cu(NO3)2Â·3H2O (99.8%, Sigmaâ€“Aldrich, USA) solution in distilled water. The nitrate solution was  impregnated into the LSM coated sample and again heat-treated at 800 Â°C for 4 h. This process was repeated for  four times. The crystal structures and phases were characterized by X-ray diffraction (XRD, Philips PW 1480),  using Cu Ka radiation in the 2Î¸=20â€“90Â° range at a step size of 0.02Â° and a count time of 0.6 s. The The morphology  and composition of coated sample were characterized by scanning electron microscopy (VEGA\\TESCAN)  equipped with an energy dispersive spectroscopy (EDS).   The area specific resistance (ASR) vs. time and temperature measurements for coated and uncoated samples were  conducted using a four-probe DC technique under a constant current density of 0.5 Acmâˆ’2 in air using the setup  shown in Fig. 1. Ag paste and wires was applied between the meshes and the coated surface to improve the contact.   Moreover, a mechanical load of 0.2 MPa ensured an intimate contact between the various components. The  temperature profile for ASR experiment is included a heating up to 800Â°C with a ramp of 180Â°C/h. The test  temperature, 800Â°C, was held for approximately 100 hours. The temperature was thereafter reduced stepwise to  evaluate the temperature dependency of the electrical resistance in the oxide scale. With a cooling ramp of 180Â°C/h  the furnace temperature was lowered in 50Â°C-steps and held there to stabilize the temperature in the furnace and the  interface resistances at the specific temperatures. Five thermal steps between the test temperature, 800Â°C, and room  temperature (i.e. 750, 700, 650 and 600Â°C) were performed to evaluate how temperature variations affected the  electrical resistance in the samples.    630   H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633    Fig. 1. Schematic illustration of ASR measurement setup.  3. Results and discussion  3.1. Characterization of coating  Figure 2 presents the powder XRD patterns for Cu-doped nano-LSM fabricated by wet spray coating combined  with nitrate solution impregnation. The diffraction peaks can be indexed to LSM perovskite phase, TarragÃ³ et al.  (2015). No characteristic peaks for secondary or impurity phases were observed. This means that doping of Cu into  LSM causes no significant changes in the crystal structure.      Fig. 2. XRD pattern of Cu-doped nano-LSM.  Figure 3 shows the surface microstructures of Cu-doped nano-LSM coated sample. The surface is made up of  uniformly dispersed nano-LSM particles in soft agglomerates free of cracks. The elemental distribution map and  EDS analysis in Fig. 4a and 4b depicts that no second phase, including Cr2O3 and Fe2O3 was detected and Cu  element  as a dopant was uniformly covered the coating surface.     631 H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633     Fig. 3. SEM micrographs of the surface of Cu-doped LSM coating.                Fig. 4. (a) Elemental distribution map; (b) EDS analysis of Cu-doped nano-LSM coating surface.  3.2. ASR investigation  The most important requirement for a metallic interconnect materials is to have a low resistance during long-term   SOFC operation. The conductivity and oxide scale growth of interconnect could be evaluated by area specific  resistance (ASR) measurements. The ASR (mÎ© cm2) of the samples was calculated with Ohmâ€™s Law, Piccardo et al.  (2007):  / 2ASR V S I u   (1)  where V is the voltage drop, I is the applied current and S is the electrical contact surface. The factor 1/2 is used to  show the role of one surface. The ASR variations with oxidation time at 800 Â°C in air for uncoated and Cu-doped  nano-LSM coated samples are shown in Fig. 5a. The increase in ASR value can be related to the continuous growth  of the oxide scale on the substrate surface. The Cu-doped nano-LSM coated sample exhibited lower ASR value of  0.079 Î© cm2 than that of the bare interconnect (0.82 Î© cm2) over the whole oxidation time at 800 oC. The great  conductivity of Cu-doped nano-LSM coated sample can be attributed to an excellent adhesion of the coating on the  oxide scale and to the high density of the deposit after oxidation at high temperature, whereas the bare interconnect  exhibits a significant degradation. Concurrently, the low ionic conductivity of Cu-doped nano-LSM structure has the  beneficial effect of suppressing the growth of surface oxide scales beneath the coating. LSM is known to have  higher electrical conductivity in comparison with Cr2O3, Piccardo et al. (2007). Fig. 5b shows the non-isotherm plots  of area specific resistance (ASR) for uncoated and Cu-doped nano-LSM coated samples after 100 h oxidation at  (a) (b)  632   H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633  800oC. The logarithm of (ASR/T) varies linearly versus the reciprocal temperature (1/T), showing the electrical  behavior of semiconductor as described by the Arrhenius equation, Piccardo et al. (2007):  / exp( / )aASR T A E kT    (2)  where A is a pre-exponential constant, T the absolute temperature, Ea the activation energy, and k the  Boltzmann's constant. The corresponding activation energy (Ea) was calculated from the slope of the recorded linear  curves. The higher value of Ea= 0.58 eV for Cu-doped nano-LSM coated sample indicates the higher conductivity  performance of coated interconnects in temperature range of 550-800oC which is considerable value as compared  with that of 0.30 eV for Cr2O3.                Fig. 5. ASR as a function of  (a) time at 800 oC; (b) temperature after 100 h oxidation in air for bare and Cu-doped LSM coated SUS430 steel.  4. Conclusions  It was demonstrated that wet spray coating combined with nitrate solution impregnation technique is an effective  method to fabricate Cu-doped nano-LSM coating on SUS430 interconnects. After oxidation at 800 oC in air for 100  h, Cu-doped nano LSM-coated SUS430 alloy showed the low ASR value of 0.079 Î© cm2, as compared with bare  SUS430 (0.82 Î© cm2). The protection layer effectively prevented outward diffusion of chromium and inward  diffusion of oxygen. The results of ASR measurements showed that Cu-doped nano LSM layer has a good electrical  conductivity at a high temperature and it is a good candidate as protective coating for SOFC interconnects since  ASR values are really below those generally accepted as the upper limit for SOFC interconnects (i.e. 0.1 Î© cm2).   Acknowledgements  The authors are grateful to renewable energy organization of Iran (SUNA) for providing the financial support.  References  Abdoli, H., Alizadeh, P., 2012. Electrophoretic deposition of (Mn,Co)3O4 spinel nano powder on SOFC metallic interconnects. Materials Letters  80, 53-55.  Dheeradhada, V.S., Cao, H., Alinger, M.J., 2011. Oxidation of ferritic stainless steel interconnects: Thermodynamic and kinetic assessment.  Journal of Power Sources 196, 1975-1982.  Fu, C., Sun, K., Zhou, D., 2006. Effects of La0.8Sr0.2Mn(Fe)O3-Î´ Protective Coatings on SOFC Metallic Interconnects. Journal of Rare Earths  24, 320-326.  HarthÃ¸j, A., Holt, T., MÃ¸ller, P., 2015. Oxidation behaviour and electrical properties of cobalt/cerium oxide composite coatings for solid oxide  fuel cell interconnects. Journal of Power Sources 281, 227-237.  Piccardo, P., Gannon, P., Chevalier, S., Viviani, M., Barbucci, A., Caboche, G., Amendola, R., Fontana, S., 2007. ASR evaluation of different  kinds of coatings on a ferritic stainless steel as SOFC interconnects. Surface and Coatings Technology 202, 1221-1225.  (a) (b)  633 H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633  Shaigan, N., Qu, W., Ivey, D.G., Chen, W., 2010. A review of recent progress in coatings, surface modifications and alloy developments for solid  oxide fuel cell ferritic stainless steel interconnects. Journal of Power Sources 195, 1529-1542.  TarragÃ³, D.P., Malfatti, C.d.F., de Sousa, V.C., 2015. Influence of fuel on morphology of LSM powders obtained by solution combustion  synthesis. Powder Technology 269, 481-487.  Wu, W., Guan, W., Wang, G., Liu, W., Zhang, Q., Chen, T., Wang, W.G., 2014. Evaluation of Ni80Cr20/(La0.75Sr0.25)0.95MnO3 dual layer  coating on SUS 430 stainless steel used as metallic interconnect for solid oxide fuel cells. International Journal of Hydrogen Energy 39, 996- 1004.    n. Concurrently, the low ionic conductivity of Cu-doped nano-LSM structure has the  beneficial effect of suppressing the growth of surface oxide scales beneath the coating. LSM is known to have  higher electrical conductivity in comparison with Cr2O3, Piccardo et al. (2007). Fig. 5b shows the non-isotherm plots  of area specific resistance (ASR) for uncoated and Cu-doped nano-LSM coated samples after 100 h oxidation at  (a) (b)  632   H.R. Farnoush et al. /  Procedia Materials Science  11 ( 2015 )  628 â€“ 633  800oC. The logarithm of (ASR/T) varies linearly versus the reciprocal temperature (1/T), showing the electrical  behavior of semiconductor as described by the Arrhenius equation, Piccardo et al. (2007):  / exp( / )aASR T A E kT    (2)  where A is a pre-exponential constant, T the absolute temperature, Ea the activation energy, and k the  Boltzmann's constant. The corresponding activation energy (Ea) was calculated from the slope of the recorded linear  curves. The higher value of Ea= 0.58 eV for Cu-doped nano-LSM coated sample indicates the higher conductivity  performance of coated interconnects in temperature range of 550-800oC which is considerable value as compared  with that of 0.30 eV for Cr2O3.                Fig. 5. ASR as a function of  (a) time at 800 oC; (b) temperature after 100 h oxidation in air for bare and Cu-doped LSM coated SUS430 steel.  4. Conclusions  It was demonstrated that wet spray coating combined with nitrate solution impregnation technique is an effective  method to fabricate Cu-doped nano-LSM coating on SUS430 interconnects. After oxidation at 800 oC in air for 100  h, Cu-doped nano LSM-coated SUS430 alloy showed the low ASR value of 0.079 Î© cm2, as compared with bare  SUS430 (0.82 Î© cm2). The protection layer effectively prevented outward diffusion of chromium and inward  diffusion of oxygen. The results of ASR measurements showed that Cu-doped nano LSM layer has a good electrical  conductivity at a high te</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>MSPRO</jid>
+            <aid>1567</aid>
+            <ce:pii>S2211-8128(15)00441-1</ce:pii>
+            <ce:doi>10.1016/j.mspro.2015.11.099</ce:doi>
+            <ce:copyright type="other" year="2015">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of the organizing committee of UFGNSM15.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Cu-Doped Nano- La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> Protective Coatings on Metallic Interconnects for Solid Oxide Fuel Cell Application</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>H.R.</ce:given-name>
+                  <ce:surname>Farnoush</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Abdoli</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Bozorgmehri</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Metallurgy and Materials Engineering, Faculty of Engineering, University of Kashan, P.O. Box 87317-51167 Kashan, Iran</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Metallurgy and Materials Engineering, Faculty of Engineering, University of Kashan, P.O. Box 87317-51167 Kashan, Iran</sa:organization>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Renewable Energy Department, Niroo Research Institute (NRI), P.O. Box 1466551 Tehran, Iran</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Renewable Energy Department, Niroo Research Institute (NRI), P.O. Box 1466551 Tehran, Iran</sa:organization>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +98-31-559134; fax: +98-31-55912424.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">In the present study, Cu-doped nano-La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> (LSM) protective coating has been applied on SUS430 stainless steel alloy substrate by using a wet spray coating process combined with nitrate solution impregnation. The Cu-doped nano-LSM coating acts as a barrier to evaporation and migration of Cr-containing species from interconnect which is effective for preventing chromium volatilization from interconnect alloys in solid oxide fuel cells. Long-term isothermal and non-isothermal oxidation experiments for area specific resistance (ASR) measurements were investigated. The Cu-doped nano-LSM coating was characterized by using X-ray diffraction (XRD), scanning electron microscopy (SEM) with an energy dispersive X-ray (EDX) analyzer. The results of ASR test showed that doping of Cu as a transition metal dopant into LSM improves electrical conductivity.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Protective coating</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Chromium poisoning.</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Abdoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Alizadeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrophoretic deposition of (MnCo)3O4</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>spinel nano powder on SOFC metallic interconnects. Materials Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>53</sb:first-page>
+                              <sb:last-page>55</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.S.</ce:given-name>
+                                 <ce:surname>Dheeradhada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Alinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation of ferritic stainless steel interconnects: Thermodynamic and kinetic assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1975</sb:first-page>
+                              <sb:last-page>1982</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of La0.8Sr0.2Mn(Fe)O3-δ Protective Coatings on SOFC Metallic Interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Rare Earths</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Harthøj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Holt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Møller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation behaviour and electrical properties of cobalt/cerium oxide composite coatings for solid oxide fuel cell interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>281</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>237</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Piccardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gannon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chevalier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Viviani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Barbucci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Caboche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Amendola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fontana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ASR evaluation of different kinds of coatings on a ferritic stainless steel as SOFC interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface and Coatings Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>202</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1221</sb:first-page>
+                              <sb:last-page>1225</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Shaigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Ivey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of recent progress in coatings, surface modifications and alloy developments for solid oxide fuel cell ferritic stainless steel interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1529</sb:first-page>
+                              <sb:last-page>1542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Tarragó</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Malfatti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>d.F.</ce:given-name>
+                                 <ce:surname>de Sousa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>V.C.</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of fuel on morphology of LSM powders obtained by solution combustion synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Powder Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>269</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>481</sb:first-page>
+                              <sb:last-page>487</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of Ni80Cr20/(La0.75Sr0.25)0.95MnO3 dual layer coating on SUS 430 stainless steel used as metallic interconnect for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>996</sb:first-page>
+                              <sb:last-page>1004</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

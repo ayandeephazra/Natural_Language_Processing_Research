@@ -1,0 +1,2502 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925838818328755</prism:url><dc:identifier>doi:10.1016/j.jallcom.2018.08.002</dc:identifier><eid>1-s2.0-S0925838818328755</eid><prism:doi>10.1016/j.jallcom.2018.08.002</prism:doi><pii>S0925-8388(18)32875-5</pii><dc:title>Performance evaluation of a new Fe-Cr-Mn alloy in the reducing atmosphere of solid oxide fuel cells </dc:title><prism:publicationName>Journal of Alloys and Compounds</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09258388</prism:issn><prism:volume>769</prism:volume><prism:startingPage>866</prism:startingPage><prism:endingPage>872</prism:endingPage><prism:pageRange>866-872</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-11-15</prism:coverDate><prism:coverDisplayDate>15 November 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhang, Wenying</dc:creator><dc:creator>Hua, Bin</dc:creator><dc:creator>Yang, Jie</dc:creator><dc:creator>Chi, Bo</dc:creator><dc:creator>Pu, Jian</dc:creator><dc:creator>Jian, Li</dc:creator><dc:description>
+                  A newly designed Fe-Cr-Mn alloy, considered as a candidate intermediate-temperature solid oxide fuel cell (SOFC) interconnect material, was cyclically oxidized at 650 °C, 750 °C, and 850 °C in a reducing atmosphere consisting of N2+3.75 vol% H2+25 vol% H2O(g) and corresponding to the SOFC anode environment. Results indicate that this alloy possesses good oxidation resistance and acceptable electrical conductivity at 750 °C in the reducing atmosphere. During the 1000 h oxidation, the oxide scale formed on the substrate at this temperature consists of an inner layer of Cr2O3 doped with Ti, a Mn-rich middle layer of Mn-Cr spinel and Mn2TiO4, and a top layer of MnO, with an overall thickness of around 3 μm. The oxidation kinetics at 750 °C obey a parabolic law with rate constants of 1.37 × 10−13 g2 cm4 s−1 from 0 to 130 h, and of 8.84 × 10−14 g2 cm−4 s−1 from 130 to 1000 h. The area specific resistance (ASR) of the oxide scale measured at 750 °C is 16.3 mΩcm2, which is higher than that formed in the oxidizing atmosphere but is still within the maximum limit of 100 mΩcm2, required for metallic interconnects. The increase in oxidizing temperature from 650 °C to 850 °C promoted the outward diffusion of Mn and Ti ions, thus changing the composition and morphology of the formed oxides; in addition, the oxidation rate of the alloy increased dramatically, leading to an increase of both the oxide scale thickness and the ASR values.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Solid oxide fuel cells</dcterms:subject><dcterms:subject>Metallic interconnect</dcterms:subject><dcterms:subject>Reducing atmosphere</dcterms:subject><dcterms:subject>Oxidation resistance</dcterms:subject><dcterms:subject>Area specific resistance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925838818328755" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925838818328755" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="295" size="25661">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="308" size="26682">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="598" size="89491">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="624" size="61300">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="289" size="29867">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="303" size="22725">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="299" size="32465">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="305" size="38028">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="493" size="144900">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="460" size="77005">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="215" height="164" size="7303">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="5664">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="87" height="163" size="10371">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="102" height="164" size="6605">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="7608">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="5623">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="7436">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="208" height="164" size="8489">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="178" height="164" size="24079">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="16948">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1310" size="224131">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1364" size="225615">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1417" height="2647" size="1004069">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="2769" size="609900">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1280" size="292967">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1345" size="213802">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1327" size="288409">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1353" size="394008">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2185" size="1730330">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2567" height="2035" size="959226">https://api.elsevier.com/content/object/eid/1-s2.0-S0925838818328755-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85051373941</scopus-id><scopus-eid>2-s2.0-85051373941</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85051373941" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271609</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Alloys and Compounds</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALALLOYSCOMPOUNDS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180802">2018-08-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180802">2018-08-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180815">2018-08-15</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180815">2018-08-15</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-06-08T06:56:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925838818328755</xocs:eid>
+      <xocs:pii-formatted>S0925-8388(18)32875-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925838818328755</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jallcom.2018.08.002</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925838818X00310</xocs:hub-eid>
+      <xocs:timestamp>2020-06-26T05:41:29.557561Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181115</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1533224292">2018-08-02T15:38:12.896634Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-8388</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09258388</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>769</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>769</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 769</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>102</xocs:sort-order>
+      <xocs:first-fp>866</xocs:first-fp>
+      <xocs:last-lp>872</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>866</xocs:first-page>
+         <xocs:last-page>872</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20181115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PERFORMANCEEVALUATIONANEWFECRMNALLOYINREDUCINGATMOSPHERESOLIDOXIDEFUELCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Phase structure and morphology of the oxide scale</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Oxidation kinetics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrical properties of the oxide scale</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The effect of temperature on alloy oxidation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>MAHATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>141</xocs:ref-first-fp>
+            <xocs:ref-last-lp>337</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>CHOUDHURY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>430</xocs:ref-first-fp>
+            <xocs:ref-last-lp>442</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>SOUZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L35</xocs:ref-first-fp>
+            <xocs:ref-last-lp>L37</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1644</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1648</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>SIMWONIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1508</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1518</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A1201</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>54</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3664</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3671</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>531</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>HUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>HUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2782</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2788</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>SHAIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>SAFIKHANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2286</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2296</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>JO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9523</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9529</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>903</xocs:ref-first-fp>
+            <xocs:ref-last-lp>911</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>SWAMINATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>SAFIKHANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6045</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6052</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>BRYLEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>HORITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>163</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>JIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>368</xocs:ref-first-fp>
+            <xocs:ref-last-lp>376</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>286</xocs:ref-first-fp>
+            <xocs:ref-last-lp>291</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>HUA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B1261</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B1266</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>22246</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22253</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1050</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1053</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>GRUNDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>39</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>ABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>TANIGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>54</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref32">
+            <xocs:ref-normalized-surname>MIKKELSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>198</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref33">
+            <xocs:ref-normalized-surname>HANSEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>285</xocs:ref-first-fp>
+            <xocs:ref-last-lp>301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHANGX2018X866</xocs:refkey3>
+         <xocs:refkey4lp>ZHANGX2018X866X872</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHANGX2018X866XW</xocs:refkey4ai>
+         <xocs:refkey5>ZHANGX2018X866X872XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-08-15T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-08-15T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-03-03T12:02:00.821Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0925838818328755</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>51772114</xocs:funding-id>
+            <xocs:funding-id>51601173</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This research was financially supported by the National Natural Science Foundation of China ( 51601173 and 51772114 ). The XRD and SEM measurements were performed with the assistance provided by the Analytical and Testing Center of Huazhong University of Science and Technology.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-8388(18)32875-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925838818328755</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925838818328755</xocs:eid>
+         <xocs:doi>10.1016/j.jallcom.2018.08.002</xocs:doi>
+         <xocs:cid>271609</xocs:cid>
+         <xocs:timestamp>2020-06-08T07:17:51.91596Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/MAIN/application/pdf/61704a97f5221539eef084d02bb5e216/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3070744</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925838818328755-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/PREVIEW/image/png/8f0fc9180b67600e0e576b588b68da48/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56710</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr1/DOWNSAMPLED/image/jpeg/3873a0d914ab7e375f9742dcbdb304f6/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25661</xocs:filesize>
+               <xocs:pixel-height>295</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr10/DOWNSAMPLED/image/jpeg/ede55f9d0a17033d3102a63b158cf50c/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26682</xocs:filesize>
+               <xocs:pixel-height>308</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr2/DOWNSAMPLED/image/jpeg/04fa58c7324e62f3d6c093d3b12c50cc/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89491</xocs:filesize>
+               <xocs:pixel-height>598</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr3/DOWNSAMPLED/image/jpeg/2e816bd84d8e73f06b3ff55f14716d39/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61300</xocs:filesize>
+               <xocs:pixel-height>624</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr4/DOWNSAMPLED/image/jpeg/7d090c99e0520289e6d359edcd01fc5d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29867</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr5/DOWNSAMPLED/image/jpeg/29211bba4206a4371c715aca1101ec48/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22725</xocs:filesize>
+               <xocs:pixel-height>303</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr6/DOWNSAMPLED/image/jpeg/58bda9920ef4c232a01df2db13525575/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32465</xocs:filesize>
+               <xocs:pixel-height>299</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr7/DOWNSAMPLED/image/jpeg/5bb9e721e19060dda25841403cafe957/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38028</xocs:filesize>
+               <xocs:pixel-height>305</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr8/DOWNSAMPLED/image/jpeg/0e47d9f1e9482c0832366f61ccc399a0/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>144900</xocs:filesize>
+               <xocs:pixel-height>493</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr9/DOWNSAMPLED/image/jpeg/184964657145fb749edd239cf43f70b4/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>77005</xocs:filesize>
+               <xocs:pixel-height>460</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr1/THUMBNAIL/image/gif/964586fd1cfa37f3650120081a2ff43e/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7303</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>215</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr10/THUMBNAIL/image/gif/125a2d4aeca4bf93f3af238049de7ea1/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5664</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr2/THUMBNAIL/image/gif/4a54b45f57f2c1bee813bdfb66142b1c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10371</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>87</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr3/THUMBNAIL/image/gif/ced921d5f22ff3670014918fba90e7c2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6605</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>102</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr4/THUMBNAIL/image/gif/4b0e6c7f091c878d245f91c700202067/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7608</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr5/THUMBNAIL/image/gif/24efd49d666f5d22b8524f357c49abfa/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5623</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr6/THUMBNAIL/image/gif/52d436ae2687eb85c1adb72bdacff96f/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7436</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr7/THUMBNAIL/image/gif/f38b902ef623907e656a57d27d6cebfe/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8489</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>208</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr8/THUMBNAIL/image/gif/1d0314e4f56552668bfd1888a74f7345/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24079</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr9/THUMBNAIL/image/gif/2abbbedf474090e9084f6c58860f08a4/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16948</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr1/HIGHRES/image/jpeg/e1aafc42b9c37caaca27505ae04ac152/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>224131</xocs:filesize>
+               <xocs:pixel-height>1310</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr10/HIGHRES/image/jpeg/7a3618dc14ae77f207b24dd5dab1ab1e/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>225615</xocs:filesize>
+               <xocs:pixel-height>1364</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr2/HIGHRES/image/jpeg/3f2f8bf9ce512ca80170655e083ea281/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1004069</xocs:filesize>
+               <xocs:pixel-height>2647</xocs:pixel-height>
+               <xocs:pixel-width>1417</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr3/HIGHRES/image/jpeg/e80012022df6cb7c45aa9227cdeb8704/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>609900</xocs:filesize>
+               <xocs:pixel-height>2769</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr4/HIGHRES/image/jpeg/b219d384ce0b98dd0c971c04087f5401/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>292967</xocs:filesize>
+               <xocs:pixel-height>1280</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr5/HIGHRES/image/jpeg/dff9c2c2ecf02b4e13b6956242370197/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>213802</xocs:filesize>
+               <xocs:pixel-height>1345</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr6/HIGHRES/image/jpeg/6c2a74c8393ef6b6b5f7d4f2b034c59c/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>288409</xocs:filesize>
+               <xocs:pixel-height>1327</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr7/HIGHRES/image/jpeg/d6a5d8c7390427409e3d73ef5a456134/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>394008</xocs:filesize>
+               <xocs:pixel-height>1353</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr8/HIGHRES/image/jpeg/62d055f19d595cf1fcd8100fb6616032/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1730330</xocs:filesize>
+               <xocs:pixel-height>2185</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925838818328755-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925838818328755/gr9/HIGHRES/image/jpeg/2cc2e70b295ec5f9d2ed2eaa2652b37a/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>959226</xocs:filesize>
+               <xocs:pixel-height>2035</xocs:pixel-height>
+               <xocs:pixel-width>2567</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>JALCOM</jid>
+            <aid>47090</aid>
+            <ce:pii>S0925-8388(18)32875-5</ce:pii>
+            <ce:doi>10.1016/j.jallcom.2018.08.002</ce:doi>
+            <ce:copyright type="full-transfer" year="2018">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">XRD pattern of the Fe-Cr-Mn alloy oxidized at 750 °C in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">SEM surface morphology of the Fe-Cr-Mn alloy oxidized at 750 °C in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">SEM morphology (a) and EDS line scan profile (b) of the cross-sectioned Fe-Cr-Mn alloy oxidized at 750 °C in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Oxidation kinetics of the Fe-Cr-Mn alloy oxidized at 750 °C in the reducing atmosphere.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">ASR of the Fe-Cr-Mn alloy pre-oxidized at 750 °C in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Oxidation kinetics of Fe-Cr-Mn alloy oxidized at different temperatures in the reducing atmosphere.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">XRD patterns of Fe-Cr-Mn alloy oxidized at different temperatures for 1000 h in the reducing atmosphere.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Surface morphology of Fe-Cr-Mn alloy oxidized at 650 °C (a &amp; b) and 850 °C (c &amp; d) in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">SEM back-scattering images and EDS line scan profiles of the cross-sectioned Fe-Cr-Mn alloy oxidized at 650 °C (a&amp;b) and 850 °C (c&amp;d) in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Fig. 9</ce:alt-text>
+               <ce:link locator="gr9" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr9"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">ASR of the Fe-Cr-Mn alloy pre-oxidized at different temperatures in the reducing atmosphere for 1000 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0055">Fig. 10</ce:alt-text>
+               <ce:link locator="gr10" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0925838818328755/gr10"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="tspara0010" view="all">Nominal compositions of the Fe-Cr-Mn alloy (wt.%).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0060">Table 1</ce:alt-text>
+               <tgroup cols="13">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <colspec colnum="10" colname="col10"/>
+                  <colspec colnum="11" colname="col11"/>
+                  <colspec colnum="12" colname="col12"/>
+                  <colspec colnum="13" colname="col13"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">La</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Y</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">S</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">P</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Alloy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">16.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.018</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">&lt;0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.0094</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.038</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bal.</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="tspara0015" view="all">EDS analysis results from locations A and B shown in <ce:cross-ref refid="fig2" id="crosref0285">Fig. 2</ce:cross-ref>b.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0065">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Area</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mn (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cr (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe (at.%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">29.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">42.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.59</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">50.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">38.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.91</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Performance evaluation of a new Fe-Cr-Mn alloy in the reducing atmosphere of solid oxide fuel cells</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0925838818328755-166c6498ab8b1180198c6a47d4f9a2d4">
+                  <ce:given-name>Wenying</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0925838818328755-e8eb188557833e54eb6fe7d9c682a881">
+                  <ce:given-name>Bin</ce:given-name>
+                  <ce:surname>Hua</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0925838818328755-422a8891363e61a2375a3c9488e5c016">
+                  <ce:given-name>Jie</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0025">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" orcid="0000-0002-1984-2289" author-id="S0925838818328755-27eaff682b208b7788512124130f5792">
+                  <ce:given-name>Bo</ce:given-name>
+                  <ce:surname>Chi</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0030">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0925838818328755-afc0ee6021ce8c7b3f7b7764c7b49862">
+                  <ce:given-name>Jian</ce:given-name>
+                  <ce:surname>Pu</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0035">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" orcid="0000-0003-3877-2922" author-id="S0925838818328755-ae97714bcdf220ed0301d643a2aa7add">
+                  <ce:given-name>Li</ce:given-name>
+                  <ce:surname>Jian</ce:surname>
+                  <ce:cross-ref refid="aff2" id="crosref0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0925838818328755-a6ed3c57de5f5b4744f81d615208b7bb">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>School of Mechanical Engineering and Electronic Information, China University of Geosciences, Wuhan 430074, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Mechanical Engineering and Electronic Information</sa:organization>
+                     <sa:organization>China University of Geosciences</sa:organization>
+                     <sa:city>Wuhan</sa:city>
+                     <sa:postal-code>430074</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0925838818328755-c495e64793464c883cb0357bb68e99ae">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Center for Fuel Cell Innovation, State Key Laboratory of Material Processing and Die and Mould Technology, School of Materials Science and Engineering, Huazhong University of Science and Technology, Wuhan 430074, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Center for Fuel Cell Innovation</sa:organization>
+                     <sa:organization>State Key Laboratory of Material Processing and Die and Mould Technology</sa:organization>
+                     <sa:organization>School of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Huazhong University of Science and Technology</sa:organization>
+                     <sa:city>Wuhan</sa:city>
+                     <sa:postal-code>430074</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="21" month="3" year="2018"/>
+            <ce:date-revised day="14" month="6" year="2018"/>
+            <ce:date-accepted day="1" month="8" year="2018"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">A newly designed Fe-Cr-Mn alloy, considered as a candidate intermediate-temperature solid oxide fuel cell (SOFC) interconnect material, was cyclically oxidized at 650 °C, 750 °C, and 850 °C in a reducing atmosphere consisting of N<ce:inf loc="post">2</ce:inf>+3.75 vol% H<ce:inf loc="post">2</ce:inf>+25 vol% H<ce:inf loc="post">2</ce:inf>O(g) and corresponding to the SOFC anode environment. Results indicate that this alloy possesses good oxidation resistance and acceptable electrical conductivity at 750 °C in the reducing atmosphere. During the 1000 h oxidation, the oxide scale formed on the substrate at this temperature consists of an inner layer of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> doped with Ti, a Mn-rich middle layer of Mn-Cr spinel and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf>, and a top layer of MnO, with an overall thickness of around 3 μm. The oxidation kinetics at 750 °C obey a parabolic law with rate constants of 1.37 × 10<ce:sup loc="post">−13</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">4</ce:sup> s<ce:sup loc="post">−1</ce:sup> from 0 to 130 h, and of 8.84 × 10<ce:sup loc="post">−14</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">−4</ce:sup> s<ce:sup loc="post">−1</ce:sup> from 130 to 1000 h. The area specific resistance (ASR) of the oxide scale measured at 750 °C is 16.3 mΩcm<ce:sup loc="post">2</ce:sup>, which is higher than that formed in the oxidizing atmosphere but is still within the maximum limit of 100 mΩcm<ce:sup loc="post">2</ce:sup>, required for metallic interconnects. The increase in oxidizing temperature from 650 °C to 850 °C promoted the outward diffusion of Mn and Ti ions, thus changing the composition and morphology of the formed oxides; in addition, the oxidation rate of the alloy increased dramatically, leading to an increase of both the oxide scale thickness and the ASR values.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Solid oxide fuel cells</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Metallic interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Reducing atmosphere</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Oxidation resistance</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Area specific resistance</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Solid oxide fuel cell (SOFC) is a solid-state power generation system that directly converts the chemical energy of fossil fuels into electricity through electrode reaction [<ce:cross-ref refid="bib1" id="crosref0045">1</ce:cross-ref>,<ce:cross-ref refid="bib2" id="crosref0050">2</ce:cross-ref>]. The interconnect, which connects adjacent cells electrically while physically separating the fuel from air, is a critical component of the SOFC stack. Recent progresses in the development of SOFCs has led to the decrease in its operating temperature from about 1000 °C to the intermediate temperature range of 600–800 °C [<ce:cross-refs refid="bib3 bib4 bib5" id="crosrefs0010">3–5</ce:cross-refs>], which allows the replacement of as interconnect material of the traditionally employed LaCrO<ce:inf loc="post">3</ce:inf>-based ceramics with metallic alloys. Metallic interconnects have aroused wide interest due to their lower cost, higher electrical and thermal conductivity, and improved manufacturability and mechanical properties in comparison with their ceramic counterparts [<ce:cross-ref refid="bib6" id="crosref0055">6</ce:cross-ref>,<ce:cross-ref refid="bib7" id="crosref0060">7</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0030" view="all">Among various stainless steels, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-forming ferritic stainless steels are preferred as interconnect materials for two reasons. The first is that their coefficients of thermal expansion are similar to those of other SOFC components [<ce:cross-ref refid="bib8" id="crosref0065">8</ce:cross-ref>]; the second reason is that the thermally grown Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> oxide scale has a relatively low oxide growth rate and acceptably high electrical conductivity compared to other protective scales, such as Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and SiO<ce:inf loc="post">2</ce:inf> [<ce:cross-ref refid="bib6" id="crosref0070">6</ce:cross-ref>,<ce:cross-ref refid="bib7" id="crosref0075">7</ce:cross-ref>,<ce:cross-ref refid="bib9" id="crosref0080">9</ce:cross-ref>]. On the other hand, the long-term application of traditional Fe-Cr alloys in SOFCs is limited by the insufficient oxidation resistance and Cr poisoning [<ce:cross-ref refid="bib10" id="crosref0085">10</ce:cross-ref>,<ce:cross-ref refid="bib11" id="crosref0090">11</ce:cross-ref>]. Therefore, new alloys are being developed by optimized ingredient design to achieve good oxidation resistance, adequate electrical conductivity, and anti-poisoning effects on Cr vaporization [<ce:cross-refs refid="bib12 bib13 bib14 bib15 bib16 bib17 bib18 bib19 bib20" id="crosrefs0015">12–20</ce:cross-refs>].</ce:para>
+                  <ce:para id="p0035" view="all">The interconnect in a SOFC stack is simultaneously exposed to an oxidizing and a reducing atmosphere, with an oxygen partial pressure varying from 0.21 atm in air to 10<ce:sup loc="post">−18</ce:sup>-10<ce:sup loc="post">−8</ce:sup> atm in the fuel gas. Its stability requires the minimization of oxidation reactions while maintaining good electrical conductivity. Most previous studies have been conducted on the oxidation behavior of metallic interconnect materials in the oxidizing atmosphere but little effort was made to study the interconnect behavior in the reducing atmosphere [<ce:cross-refs refid="bib21 bib22 bib23 bib24 bib25 bib26" id="crosrefs0020">21–26</ce:cross-refs>]. In comparison with oxidizing atmosphere, the reducing atmosphere is more complex. Metallic interconnects are susceptible to various forms of corrosion in the presence of water, H<ce:inf loc="post">2</ce:inf> and carbon. Even though the reducing atmosphere has a very lower oxygen partial pressure than that on the oxidizing atmosphere, metallic interconnect still suffers from oxidation corrosion. Some values of the scale growth rate in moist hydrogen reported in literature were greater than in the oxidizing atmosphere [<ce:cross-ref refid="bib23" id="crosref0095">23</ce:cross-ref>,<ce:cross-ref refid="bib25" id="crosref0100">25</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0105">26</ce:cross-ref>]; it is therefore necessary to further investigate the oxidation behavior of candidate interconnect materials in the reducing atmosphere.</ce:para>
+                  <ce:para id="p0040" view="all">In our previous study, a Fe-Cr-Mn alloy was developed for use as a SOFC interconnect material, and its oxidation behavior and electrical conductivity in the oxidizing atmosphere were studied in detail [<ce:cross-ref refid="bib13" id="crosref0110">13</ce:cross-ref>]. The results indicated that it possessed excellent oxidation resistance and low ASR of the oxide scale. The purpose of this paper is to study the oxidation behavior of the same Fe-Cr-Mn alloy in the reducing atmosphere at to investigate the effect of temperature. The phase, microstructure, composition, and ASR of the thermally grown surface oxide scale were characterized. The suitability of the new alloy as metallic interconnect was thoroughly discussed.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:para id="p0045" view="all">The chemical composition of the Fe-Cr-Mn alloy is reported in <ce:cross-ref refid="tbl1" id="crosref0115">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. Rectangular specimens (25 mm × 25 mm × 1 mm) were cut by electric discharge machining and then polished with SiC papers up to 1200-grit, ultrasonically cleaned in ethanol and then cyclically oxidized in the reducing atmosphere (N<ce:inf loc="post">2</ce:inf> + 3.75 vol% H<ce:inf loc="post">2</ce:inf> + 25 vol%H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">(g)</ce:inf>) with a flow rate of 200 ml min<ce:sup loc="post">−1</ce:sup> at 650, 750, and 850 °C for 1000 h respectively. 12 cycles were carried out, each lasting 50 h before the beginning of the 200 h or lasting 100 h after the end of the oxidation stage. The apparatus used for the oxidation was the same as the one reported by Hua et al. [<ce:cross-ref refid="bib25" id="crosref0120">25</ce:cross-ref>] The weight gain of each specimen after each cycle was measured by a Sartorius BT-25S electronic balance with an accuracy of 10<ce:sup loc="post">−5</ce:sup> g. After 1000 h of exposure the surface oxide scale was analyzed by X-ray diffraction (XRD, X'Pert PRO) with CuKα radiation and scanning electron microscopy (SEM, FEI Quanta 200) with an energy dispersive spectrometer (EDS) attachment. The electrical resistance of the oxidized specimen was measured using the four-probe DC technique at temperatures between 400 and 800 °C in N<ce:inf loc="post">2</ce:inf> atmosphere. As previously reported [<ce:cross-ref refid="bib25" id="crosref0125">25</ce:cross-ref>], an Ag paste was applied to the two main surfaces of the oxidized specimens, and one piece of Ag mesh was compressed on the top of the Ag paste area to apply the current and measure the voltage. A constant current of 200 mAcm<ce:sup loc="post">−2</ce:sup> was supplied by a DC power source (ITECH, IT6270), while the voltage drop across the thickness of the oxidized specimen was measured by a voltage meter (LEEF, ZYB-1). The ASR value calculated through Ohm's Law was divided by 2 to provide the electrical conductivity and the thickness of a single oxide scale of the Fe-Cr-Mn alloy.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0040">Phase structure and morphology of the oxide scale</ce:section-title>
+                     <ce:para id="p0050" view="all">The XRD result for the alloy oxidized in the reducing atmosphere at 750 °C for 1000 h is shown in <ce:cross-ref refid="fig1" id="crosref0130">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. For the oxide scale thermally grown on the Fe-Cr-Mn alloy, the peaks of spinel, Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf>, MnO and substrate were detected. The diffraction peak positions of the spinel seem to match Mn-Cr spinel having composition close to Mn<ce:inf loc="post">1.5</ce:inf>Cr<ce:inf loc="post">1.5</ce:inf>O<ce:inf loc="post">4</ce:inf>, which are shifted towards a lower angle compared to those reported in the JCPDS file #33-0892. A similar phenomenon is observed for the diffraction peaks of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (JCPDS file #84-1616). This result suggests that the thermally grown spinel and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> do not have the stoichiometric compositions and are possibly doped by other elements. It is possible that the much higher Mn content in the Cr sites expands the lattice parameters and shifts the diffraction peak [<ce:cross-ref refid="bib27" id="crosref0135">27</ce:cross-ref>]. The diffraction peak positions of Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> and MnO match very closely those of JCPDS files #74-2209 and #78-0424, respectively. The comparison of the above spectrum with the diffraction patterns obtained for specimens oxidized at 750 °C in air for 1000 h [<ce:cross-ref refid="bib13" id="crosref0140">13</ce:cross-ref>] shows that the Mn-rich MnO and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> phases were generated in the reducing atmosphere, whereas Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> was formed in the oxidizing atmosphere. This is because the formation of Mn<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> requires very high oxygen partial pressures [<ce:cross-ref refid="bib28" id="crosref0145">28</ce:cross-ref>]; moreover, the outward diffusion rates of Ti ions were obviously promoted by the reducing atmosphere.</ce:para>
+                     <ce:para id="p0055" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0150">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows the surface of the oxide scale formed after exposure to the reducing atmosphere at 750 °C for 1000 h. Compared to the oxides formed in the oxidizing atmosphere, some differences in grain shape are observable. Loose cotton-like grains (location B in <ce:cross-ref refid="fig2" id="crosref0155">Fig. 2</ce:cross-ref>b) are distributed evenly over the entire compact oxide sublayer (location A in <ce:cross-ref refid="fig2" id="crosref0160">Fig. 2</ce:cross-ref>b). The EDS results from the cotton-like grain and the oxide sublayer are shown in <ce:cross-ref refid="tbl2" id="crosref0165">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. The cotton-like grains contain mainly Mn and O, while the compact oxide sublayer contains Mn, Cr, O and Ti. Combined with the XRD results, this observation confirms that the top loose grains consist of MnO, while the bottom oxide sublayer is made up of Mn-Cr spinel and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. Additionally, it indicates that Ti migrated from the alloy substrate into the sublayer, probably partially doping the Cr sites and leading to the lattice expansion of the oxides as a consequence of the higher ionic radius and explaining the shift to lower angles of the diffraction peaks of Mn-Cr and Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, shown in <ce:cross-ref refid="fig1" id="crosref0170">Fig. 1</ce:cross-ref>. The reducing atmosphere significantly influences the grain shape of the oxides, especially for Mn-Cr spinel. In contrast to the typical prism-like grains formed in the oxidizing atmosphere, the specific morphology of the Mn-Cr spinel cannot be distinguished clearly from the continuous and compact oxide layer formed beneath the MnO particles.</ce:para>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref refid="fig3" id="crosref0175">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> shows the SEM morphology of the cross-sectioned Fe-Cr-Mn alloy oxidized at 750 °C in the reducing atmosphere for 1000 h (<ce:cross-ref refid="fig3" id="crosref0180">Fig. 3</ce:cross-ref>a) and the corresponding EDS line scan profile (<ce:cross-ref refid="fig3" id="crosref0185">Fig. 3</ce:cross-ref>b), which shows the element distribution across the oxide scale. The oxide scale with a thickness of 3 μm is smooth, dense, crack-free and well adherent to the metal substrate. Contrarily to what happens in the oxidizing atmosphere, the exposure to the reducing atmosphere caused an increase in the thickness of the oxide scale and a strengthening of its adhesion to the substrate. The EDS result shows that the Cr-rich phase is located in the inner layer of the oxide scale, while the outer oxide layer is rich in Mn. In addition to the Ti-rich oxide inside the alloy substrate, probably TiO<ce:inf loc="post">2</ce:inf>, Ti is also distributed along the entire cross section of oxide scale. The combination of the EDS and XRD results indicates that, from the inner to the outer layer, the oxide scale is made up of the Ti-doped Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, Mn-Cr spinel, Mn-Ti oxide, and MnO. Ti ions dissolves in the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scale with a very high mobility, and the presence of hydrogen further promotes the diffusion rate of Ti ions [<ce:cross-ref refid="bib29" id="crosref0190">29</ce:cross-ref>,<ce:cross-ref refid="bib30" id="crosref0195">30</ce:cross-ref>]. Therefore, Ti ions have a diffusivity high enough to diffuse outwardly through the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scale. The Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> was doped by Ti, probably partially doping the Cr sites and leading to the lattice expansion of oxides. In addition, there is Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> formed outside the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> scale.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0045">Oxidation kinetics</ce:section-title>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="fig4" id="crosref0200">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the weight gain of the Fe-Cr-Mn alloy during its cyclic oxidation at 750 °C in the reducing and oxidizing atmospheres as a function of oxidation time. The oxidation kinetics approximately obeys the parabolic rate law with two rate constants: 1.37 × 10<ce:sup loc="post">−13</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">−4</ce:sup> s<ce:sup loc="post">−1</ce:sup>, for oxidation times of 0–130 h, and 8.84 × 10<ce:sup loc="post">−14</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">−4</ce:sup> s<ce:sup loc="post">−1</ce:sup> for oxidation times of 130–1000 h. A continuous and compact Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer was formed during the initial stage of fast oxidation and functioned as a barrier to the outward diffusion of metal cations and decreased the oxidation rate. Mn and Ti are fast-diffusing elements in the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer; as a result, Mn-Cr spinel, Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> and MnO were formed on the top of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> sublayer. The oxidation rate of the alloy in the reducing atmosphere is slightly higher than in the oxidizing atmosphere, resulting in the formation of a thicker oxide scale. This is because the presence of H<ce:inf loc="post">2</ce:inf>O or H<ce:inf loc="post">2</ce:inf> affects the defect structure of the oxide, thus changing the diffusion behavior of oxygen and metal ions [<ce:cross-ref refid="bib25" id="crosref0205">25</ce:cross-ref>]. In the reducing atmospheres, water molecules dissociate into protons and hydroxide ions. The protons may react with the oxygen ions in the oxide to generate hydroxide species while the hydroxide ions may bond to the oxygen vacancies, also forming hydroxide species. As a result, the formation of the hydroxide promotes the rapid inward diffusion of oxygen, accelerating oxidation of the alloy. On the other hand, since the hydroxide ions occupy the lattice positions of oxide ion with a positive charge, there is a resultant increase in metal ion vacancies with negative charges for electrical neutrality. It may further increase the outward flux of the cations, which is responsible for the observed increase in oxidation rates. The total oxidation weight gain after 1000 h exposure to the reducing atmosphere at 750 °C is 0.58 mg cm<ce:sup loc="post">2</ce:sup>, showing that this alloy still possesses good oxidation resistance.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0050">Electrical properties of the oxide scale</ce:section-title>
+                     <ce:para id="p0070" view="all">
+                        <ce:cross-ref refid="fig5" id="crosref0210">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the measured ASR of the Fe-Cr-Mn alloy pre-oxidized at 750 °C in the reducing atmosphere for 1000 h as a function of the temperature. As the temperature increased, the ASR gradually decreased. The value of log(ASR/T) is linearly proportional to 1/T, showing that the formed oxide scale has the electrical behavior of a semi-conductor. The ASR value in the reducing atmosphere is higher than in the oxidizing atmosphere, mainly because of the formation of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. It processes lower conductivity under reducing conditions with a low oxygen than under oxidizing ones, depending on the choice of the dopants and the defect structure [<ce:cross-ref refid="bib27" id="crosref0215">27</ce:cross-ref>,<ce:cross-ref refid="bib31" id="crosref0220">31</ce:cross-ref>]. At 750 °C, the ASR is 16.3 mΩcm<ce:sup loc="post">2</ce:sup>. The corresponding value after a 40,000 h oxidation at the same temperature may be estimated to be 101 mΩcm<ce:sup loc="post">2</ce:sup> from an extrapolation using the well-known relation ASR ∝ <ce:italic>t</ce:italic>
+                        <ce:sup loc="post">1/2</ce:sup> (<ce:italic>t</ce:italic> is the oxidation time) [<ce:cross-ref refid="bib15" id="crosref0225">15</ce:cross-ref>]. This value is nearly equal to the maximum limit of 100 mΩcm<ce:sup loc="post">2</ce:sup> required for metallic interconnects [<ce:cross-ref refid="bib7" id="crosref0230">7</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0055">The effect of temperature on alloy oxidation</ce:section-title>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref refid="fig6" id="crosref0235">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows the oxidation kinetics of the Fe-Cr-Mn alloy oxidized at different temperatures in the reducing atmosphere, which obeys the parabolic oxidation law. The oxidation rate of this alloy increased with the temperature. At 650 °C, the alloy went through a short rapid oxidation stage (0–100 h), characterized by a constant oxidation rate of 1.17 × 10<ce:sup loc="post">−14</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">−4</ce:sup> s<ce:sup loc="post">−1</ce:sup>. At 850 °C the initial rapid oxidation stage lasted up to 250 h, longer than at the other two temperatures considered, and then the oxidation rate was 6.02 × 10<ce:sup loc="post">−13</ce:sup> g<ce:sup loc="post">2</ce:sup> cm<ce:sup loc="post">−4</ce:sup> s<ce:sup loc="post">−1</ce:sup>. These results suggest that a higher oxidation temperature causes a more pronounced increase in the mass. <ce:cross-ref refid="fig7" id="crosref0240">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> shows the XRD result of the alloy oxidized in the reducing atmosphere at different temperatures for 1000 h. The primary phases in the oxide scale formed at 650 °C are Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Mn-Cr spinel; however, their weak diffraction peaks indicate that the oxide scale is thin. When the temperature is increased to 750 °C the intensity of the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Mn-Cr spinel diffraction peaks appeared to increase, meanwhile the generation of a small amount of MnO and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> began to take place. As the temperature reached 850 °C, the diffraction peak attributed to the substrate became invisible, and the diffraction intensity of the Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Mn-Cr spinel peaks began to decline gradually. On the contrary, the diffraction peak intensity of MnO and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> increased noticeably, implying that the oxide scale became much thicker, especially because of the increased amount of MnO. It indicated that the temperature accelerated the outward diffusion of Mn and Ti ions to form a new oxide on the surface of the alloys and further increased the oxidation rate.</ce:para>
+                     <ce:para id="p0080" view="all">
+                        <ce:cross-ref refid="fig8" id="crosref0245">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/> shows the surface morphologies of the oxide scale formed on the Fe-Cr-Mn alloy oxidized at 650 °C and 850 °C in the reducing atmosphere for 1000 h. The surface of the alloy was covered by flake-like grains at 650 °C, as understandable from the presence of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. The morphology of the oxide scale formed on the alloy at 850 °C was similar to the one formed at 750 °C, the main difference being in a gradual change of the MnO morphology from cotton-like grains to interconnected granular grains that spread over the whole surface of the alloy. The formation of a loose MnO oxide layer is harmful to the electrical properties of the oxide scale, which becomes easy to peel off. These observations confirmed that with the increase in temperature the morphology of the oxide changed and the outward diffusion of Mn ions to form MnO was greatly accelerated.</ce:para>
+                     <ce:para id="p0085" view="all">
+                        <ce:cross-ref refid="fig9" id="crosref0250">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig9"/> shows the SEM back-scattering images and EDS line scan profiles of the cross-sectioned Fe-Cr-Mn alloys oxidized at 650 °C and 850 °C in the reducing atmosphere for 1000 h. Homogenous and compact oxide scales were found to be well adherent to the substrate, indicating that the adhesive capacity was improved by the reducing atmosphere (<ce:cross-ref refid="fig9" id="crosref0255">Fig. 9</ce:cross-ref>a and c) [<ce:cross-ref refid="bib32" id="crosref0260">32</ce:cross-ref>,<ce:cross-ref refid="bib33" id="crosref0265">33</ce:cross-ref>]. The thickness of the oxide scale increased significantly with the temperature. The combination of the XRD and EDS results shows that the oxide scale consisted mainly of Mn-Cr spinel doped with a small amount of Fe and that a thin Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> layer doped by Ti was formed between the substrate and the Mn-Cr spinel at 650 °C (<ce:cross-ref refid="fig9" id="crosref0270">Fig. 9</ce:cross-ref>b). <ce:cross-ref refid="fig9" id="crosref0275">Fig. 9</ce:cross-ref>d shows that a Cr-rich oxide scale, identified as Ti-doped Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3,</ce:inf> is adjacent to the alloy substrate; the middle layer, rich in Cr, Mn and Ti, is Mn-Cr spinel and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> doped with Fe; and the outer layer is Mn-rich MnO. In the case of cyclic oxidation at 850 °C, the thickness of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> increased significantly and Mn and Ti diffused into the top layer of the oxide scale. With increasing temperature, the outward diffusion of the Mn and Ti ions was promoted, forming an oxide rich in these elements. At the same time, the inward diffusion of the O ion was obviously accelerated, leading to the fast growth of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>.</ce:para>
+                     <ce:para id="p0090" view="all">
+                        <ce:cross-ref refid="fig10" id="crosref0280">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="fig10"/> is the Arrhenius plot of the ASR contributed by the oxide scale formed during the 1000 h cyclic oxidation at different temperatures. The thickness of the oxide scale was found to increase with increasing temperature, leading to a higher value of ASR. More specifically, the increased thickness was due to the formation of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and MnO at 850 °C, which, being characterized by a low electrical conductivity, contributed to the overall conductivity decline of the oxide scale.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0060">Conclusion</ce:section-title>
+                  <ce:para id="p0095" view="all">The performance of a new Fe-Cr-Mn alloy as metallic interconnect material of intermediate temperature SOFCs was evaluated in the reducing atmosphere at different temperatures. The following conclusions can be drawn based on the obtained results.<ce:list id="olist0010">
+                        <ce:list-item id="o0010">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="p0100" view="all">Even though the oxygen pressure in the reducing atmosphere is considerably lower than in the oxidizing atmosphere, the oxidation rate of the Fe-Cr-Mn alloy, the thickness, and the ASR of the oxide scale are higher than the corresponding values is the oxidizing atmosphere. This indicates that H<ce:inf loc="post">2</ce:inf>O and H<ce:inf loc="post">2</ce:inf> have a negative effect on the high temperature oxidation resistance of alloys. On the other hand, the adhesion of the oxide scale to the alloy substrate is improved.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0015">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="p0105" view="all">The composition and morphology of oxides changed in the reducing atmosphere. Besides Ti-doped Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and Mn-Cr spinel, MnO and Mn<ce:inf loc="post">2</ce:inf>TiO<ce:inf loc="post">4</ce:inf> were also generated, indicating that the reducing atmosphere promotes the outward diffusion of Ti. Additionally, the Mn-Cr spinel did not present the typical prism-like grains, but a morphology that could not be clearly distinguished.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0020">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="p0110" view="all">The multi-layer oxide scale formed after exposure to the reducing atmosphere for 1000 h at 750 °C consisted of an inner layer of Ti-doped Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, a middle layer of Mn-rich Mn-Cr spinel and Mn-Ti oxide, and an MnO outer layer.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0025">
+                           <ce:label>4.</ce:label>
+                           <ce:para id="p0115" view="all">The oxidation rate of the alloy increased substantially with temperature. The rapid increase in the thickness of the oxide scale led to the increase in ASR. The higher temperature accelerates the outward diffusion of Mn and Ti to form the Mn-rich and Ti-rich layer, and significantly promoted the inward diffusion of the O ion, favoring the rapid growth of Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0065">Acknowledgments</ce:section-title>
+               <ce:para id="p0120" view="all">This research was financially supported by the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gs1">51601173</ce:grant-number> and <ce:grant-number refid="gs1">51772114</ce:grant-number>). The XRD and SEM measurements were performed with the assistance provided by the Analytical and Testing Center of Huazhong University of Science and Technology.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0070">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Mahato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Banerjee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Omar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Balani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress in material selection for solid oxide fuel cell technology: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>141</sb:first-page>
+                              <sb:last-page>337</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Choudhury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chandra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arora</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of solid oxide fuel cell technology for power generation-A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew. Sustain. Energy Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>430</sb:first-page>
+                              <sb:last-page>442</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Souza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Visco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Jonghe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reduced-temperature solid fuel cell based on YSZ thin-film electrolyte</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L35</sb:first-page>
+                              <sb:last-page>L37</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Petric</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Superior oxygen ion conductivity of lanthanum gallate doped with strontium and magnesium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1644</sb:first-page>
+                              <sb:last-page>1648</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Simwonis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Naoumidis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Dias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Moropoulou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material characterization in support of the development of an anode substrate for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1508</sb:first-page>
+                              <sb:last-page>1518</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Deevi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of interconnect materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>397</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Weil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Paxton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Stevenson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selection and evaluation of heat-resistant alloys for SOFC interconnect applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1188</sb:first-page>
+                              <sb:last-page>A1201</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent advances in metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>54</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of cathode and electrolyte transport properties on chromium poisoning in solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3664</sb:first-page>
+                              <sb:last-page>3671</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.B.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chromium deposition and poisoning of cathodes of solid oxide fuel cells-A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                              <sb:last-page>531</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ni–Mo–Cr alloy for interconnect applications in intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B93</sb:first-page>
+                              <sb:last-page>B98</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a Fe–Cr alloy for interconnect application in intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2782</sb:first-page>
+                              <sb:last-page>2788</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Shaigan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Ivey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review of recent progress in coatings, surface modifications and alloy developments for solid oxide fuel cell ferritic stainless steel interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1529</sb:first-page>
+                              <sb:last-page>1542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel low Cr-containing Fe–Cr–Co alloy for metallic interconnects in planar intermediate temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Safikhani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aminfard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of W and Ti addition on oxidation behavior and area-specific resistance of Fe–22Cr–0.5Mn ferritic stainless steel for SOFCs interconnect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2286</sb:first-page>
+                              <sb:last-page>2296</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a new cost effective Fe-Cr ferritic stainless steel for SOFC interconnect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9523</sb:first-page>
+                              <sb:last-page>9529</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Shong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of advanced metallic alloys for solid oxide fuel cell interconnector application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>656</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>903</sb:first-page>
+                              <sb:last-page>911</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Swaminathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.I.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long term high temperature oxidation characteristics of La and Cu alloyed ferritic stainless steels for solid oxide fuel cell interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>327</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>118</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Safikhani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Esmailian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tinatiseesht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Darbad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature cyclic oxidation behavior of ferritic stainless steel with addition of alloying elements Nb and Ti for use in SOFCs interconnect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6045</sb:first-page>
+                              <sb:last-page>6052</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Brylewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nanko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Maruyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Przybylski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of Fe-16Cr ferritic alloy to interconnector for a solid oxide fuel cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Horita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kishimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yokokawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxide scale formation of Fe-Cr alloys and oxygen diffusion in the scale</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>163</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Heat resistant alloys as interconnect materials of reduced temperature SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>368</sb:first-page>
+                              <sb:last-page>376</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance evaluation of several commercial alloys in a reducing environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>286</sb:first-page>
+                              <sb:last-page>291</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation behavior and electrical property of a Ni-Based alloy in SOFC anode environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B1261</sb:first-page>
+                              <sb:last-page>B1266</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of a new Fe-based alloy as metallic interconnect in SOFC anode environment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>22246</sb:first-page>
+                              <sb:last-page>22253</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Payzant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Paranthaman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical conductivity of the manganese chromite spinel solid solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1050</sb:first-page>
+                              <sb:last-page>1053</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Grundy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hallstedt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessment of the Mn-O system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phase Equil.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>39</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Abe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Araki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Okada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of aluminum and titanium on the oxidation process of a nickel-base superalloy in steam at 800 °C</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oxid. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Taniguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Hongawara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Shibata</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of water vapour on the isothermal oxidation behavior of TiAl at high temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>307</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Natesan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic transport in thermally grown Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oxid. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>54</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mikkelsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Linderoth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature oxidation of Fe-Cr alloy in O<ce:inf loc="post">2</ce:inf>-H<ce:inf loc="post">2</ce:inf>-H<ce:inf loc="post">2</ce:inf>O atmosphere: microstructure and kinetics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>361</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>198</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hänsel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Quadakkers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of water vapor in chromia-scale growth at low oxygen partial pressure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oxid. Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>285</sb:first-page>
+                              <sb:last-page>301</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

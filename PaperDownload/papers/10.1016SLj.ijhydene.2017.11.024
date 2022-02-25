@@ -1,0 +1,2148 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319917343148</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2017.11.024</dc:identifier><eid>1-s2.0-S0360319917343148</eid><prism:doi>10.1016/j.ijhydene.2017.11.024</prism:doi><pii>S0360-3199(17)34314-8</pii><dc:title>Stable LSM/LSTM bi-layer interconnect for flat-tubular solid oxide fuel cells </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>43</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>363</prism:startingPage><prism:endingPage>372</prism:endingPage><prism:pageRange>363-372</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-01-04</prism:coverDate><prism:coverDisplayDate>4 January 2018</prism:coverDisplayDate><prism:copyright>© 2017 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Hydrogen Energy Publications LLC. Published by Elsevier Ltd.</prism:publisher><dc:creator>Yoon, Heechul</dc:creator><dc:creator>Kim, Taewook</dc:creator><dc:creator>Park, Sungtae</dc:creator><dc:creator>Sammes, Nigel Mark</dc:creator><dc:creator>Chung, Jong-Shik</dc:creator><dc:description>
+                  A bi-layer interconnect with La0.8Sr0.2MnO3 and La0.4Sr0.6Ti0.6Mn0.4O3 (LSM/LSTM) is applied to anode-supported button cells and flat-tubular cells. Using a button cell, SEM images and gas permeation tests confirm that the bi-layer possesses a dense microstructure. The area specific resistance (ASR) of the LSM/LSTM remains nearly constant under oxidizing/reducing atmospheres with varying gas concentrations. For comparison, an LSM/LST with the same thickness is prepared; an increase in the ASR is observed as the concentration of H2 feed to the LST side decreases. The difference in the ASR of LSM/LST can be explained by exposure to a relatively high oxygen partial pressure and partial destruction of the interfacial LST layer region where oxygen diffuses from the LSM layer. Flat-tubular cells with the LSM/LSTM bi-layer interconnect achieve a maximum power density (MPD) of 463 mW cm−2 using humidified H2 fuel and air at 800 °C. With decreasing H2 concentration in the fuel, the polarization resistance increases rather than the ohmic resistance, implying that the LSM/LSTM interconnect provides stable conduction property. In comparison with the conventional LSM/LST interconnect cell, it shows improved stability and performance as the concentration of H2 in the fuel decreases.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Flat-tubular solid oxide fuel cell</dcterms:subject><dcterms:subject>Ceramic interconnect</dcterms:subject><dcterms:subject>Bi-layer</dcterms:subject><dcterms:subject>Perovskite</dcterms:subject><dcterms:subject>Titanate</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319917343148" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319917343148" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="126" size="15123">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="74" height="163" size="11580">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="11941">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="12660">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="14509">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="161" height="164" size="18185">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="141" height="163" size="16362">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="78" height="163" size="12424">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="435" size="79949">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="311" height="686" size="75067">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="232" size="28816">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="608" size="71096">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="230" size="37571">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="773" size="104395">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="758" height="878" size="155854">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="311" height="649" size="77112">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3354" height="1923" size="519173">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1378" height="3040" size="569798">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1388" height="1030" size="112686">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2694" size="412824">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1386" height="1020" size="160474">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3354" height="3420" size="721827">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3354" height="3884" size="1028793">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1378" height="2877" size="485093">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="23" height="14" size="181">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="24" height="14" size="182">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319917343148-si2.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85034835843</scopus-id><scopus-eid>2-s2.0-85034835843</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85034835843" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20171126">2017-11-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20171126">2017-11-26</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171222">2017-12-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171222">2017-12-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-09-06T03:07:00</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319917343148</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(17)34314-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319917343148</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2017.11.024</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319917X00542</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180906">2018-09-06T02:47:43.743417Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180104</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1511675729">2017-11-26T05:55:29.417908Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>43</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>43</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 43, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>363</xocs:first-fp>
+      <xocs:last-lp>372</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>363</xocs:first-page>
+         <xocs:last-page>372</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>4 January 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-01-04</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Fuel Cells &amp; Applications</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>STABLELSMLSTMBILAYERINTERCONNECTFORFLATTUBULARSOLIDOXIDEFUELCELLS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YOON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Synthesis and characterization of interconnect powders</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Characterization with button cells</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Performance of flat-tubular SOFC</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Synthesis and reactivity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Microstructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>ASR of bi-layer</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Measurement of I–V curves and EIS analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>MOGENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>331</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>MCINTOSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4845</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4866</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>243</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4319</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>FERGUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>YOKOKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1018</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1027</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>YASUDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1699</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1704</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>MARINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1068</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1073</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>183</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>YOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6843</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6847</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1338</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6198</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>218</xocs:ref-first-fp>
+            <xocs:ref-last-lp>222</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>BELZNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-last-lp>337</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>YASUDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>382</xocs:ref-first-fp>
+            <xocs:ref-last-lp>390</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1967</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1975</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>HASHIMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232</xocs:ref-first-fp>
+            <xocs:ref-last-lp>236</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>BURNAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>MA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>108</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>D74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>D83</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>ZOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8592</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8602</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YOONX2018X363</xocs:refkey3>
+         <xocs:refkey4lp>YOONX2018X363X372</xocs:refkey4lp>
+         <xocs:refkey4ai>YOONX2018X363XH</xocs:refkey4ai>
+         <xocs:refkey5>YOONX2018X363X372XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-12-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(17)34314-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319917343148</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319917343148</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2017.11.024</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2018-09-06T02:47:43.743417Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-01-04</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/MAIN/application/pdf/348201b93d81344a7f6631812d65443b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/MAIN/application/pdf/348201b93d81344a7f6631812d65443b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2490560</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319917343148-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/PREVIEW/image/png/4f37839f7bddc94bd30059b7cd339d79/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/PREVIEW/image/png/4f37839f7bddc94bd30059b7cd339d79/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50796</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr1/THUMBNAIL/image/gif/8ef42d067361d78d71cd2e2fd283ec4c/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr1/THUMBNAIL/image/gif/8ef42d067361d78d71cd2e2fd283ec4c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15123</xocs:filesize>
+               <xocs:pixel-height>126</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr2/THUMBNAIL/image/gif/c1586f0e4de8b626e688b98a52998640/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr2/THUMBNAIL/image/gif/c1586f0e4de8b626e688b98a52998640/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11580</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>74</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr3/THUMBNAIL/image/gif/9f1b60f70b4afb428a105d6b85a79f3f/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr3/THUMBNAIL/image/gif/9f1b60f70b4afb428a105d6b85a79f3f/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11941</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr4/THUMBNAIL/image/gif/5a53dddf93182023c586cf17e6b6a424/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr4/THUMBNAIL/image/gif/5a53dddf93182023c586cf17e6b6a424/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12660</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr5/THUMBNAIL/image/gif/45c304adb79582c0cb3198f9fb5dff3b/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr5/THUMBNAIL/image/gif/45c304adb79582c0cb3198f9fb5dff3b/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14509</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr6/THUMBNAIL/image/gif/cf34f11f1f32a5550f671fcbee7dfb28/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr6/THUMBNAIL/image/gif/cf34f11f1f32a5550f671fcbee7dfb28/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18185</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>161</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr7/THUMBNAIL/image/gif/15719ea7bdeab5182e3007a7fe58428f/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr7/THUMBNAIL/image/gif/15719ea7bdeab5182e3007a7fe58428f/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16362</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>141</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr8/THUMBNAIL/image/gif/c26e894fd6663ea180f2302b61733ac3/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr8/THUMBNAIL/image/gif/c26e894fd6663ea180f2302b61733ac3/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12424</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>78</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr1/DOWNSAMPLED/image/jpeg/68e06af2ff064c6abf8615962489a279/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr1/DOWNSAMPLED/image/jpeg/68e06af2ff064c6abf8615962489a279/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79949</xocs:filesize>
+               <xocs:pixel-height>435</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr2/DOWNSAMPLED/image/jpeg/30791246dbf20c7a0e298a139a5ef584/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr2/DOWNSAMPLED/image/jpeg/30791246dbf20c7a0e298a139a5ef584/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75067</xocs:filesize>
+               <xocs:pixel-height>686</xocs:pixel-height>
+               <xocs:pixel-width>311</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr3/DOWNSAMPLED/image/jpeg/9607b76ec33fba60175f8ec9b6ecd636/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr3/DOWNSAMPLED/image/jpeg/9607b76ec33fba60175f8ec9b6ecd636/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28816</xocs:filesize>
+               <xocs:pixel-height>232</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr4/DOWNSAMPLED/image/jpeg/233bd8f6191ed8bf051e87c8d6a10d67/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr4/DOWNSAMPLED/image/jpeg/233bd8f6191ed8bf051e87c8d6a10d67/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71096</xocs:filesize>
+               <xocs:pixel-height>608</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr5/DOWNSAMPLED/image/jpeg/6100f103945f5b3db82956effd71d564/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr5/DOWNSAMPLED/image/jpeg/6100f103945f5b3db82956effd71d564/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37571</xocs:filesize>
+               <xocs:pixel-height>230</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr6/DOWNSAMPLED/image/jpeg/1d9f9d5301933e870d7eee86689145dd/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr6/DOWNSAMPLED/image/jpeg/1d9f9d5301933e870d7eee86689145dd/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>104395</xocs:filesize>
+               <xocs:pixel-height>773</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr7/DOWNSAMPLED/image/jpeg/9ffa1f849ae7da911ac75723d496ae72/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr7/DOWNSAMPLED/image/jpeg/9ffa1f849ae7da911ac75723d496ae72/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>155854</xocs:filesize>
+               <xocs:pixel-height>878</xocs:pixel-height>
+               <xocs:pixel-width>758</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr8/DOWNSAMPLED/image/jpeg/05bdac267343a87373a1318d064977bd/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr8/DOWNSAMPLED/image/jpeg/05bdac267343a87373a1318d064977bd/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>77112</xocs:filesize>
+               <xocs:pixel-height>649</xocs:pixel-height>
+               <xocs:pixel-width>311</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr1/HIGHRES/image/jpeg/43370fabd1d84b9dffa7ed296be64b70/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr1/HIGHRES/image/jpeg/43370fabd1d84b9dffa7ed296be64b70/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>519173</xocs:filesize>
+               <xocs:pixel-height>1923</xocs:pixel-height>
+               <xocs:pixel-width>3354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr2/HIGHRES/image/jpeg/6691c7a44868734698c08a65ff91fbac/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr2/HIGHRES/image/jpeg/6691c7a44868734698c08a65ff91fbac/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>569798</xocs:filesize>
+               <xocs:pixel-height>3040</xocs:pixel-height>
+               <xocs:pixel-width>1378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr3/HIGHRES/image/jpeg/3fb050b5b890f66506b0ad63310b7f20/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr3/HIGHRES/image/jpeg/3fb050b5b890f66506b0ad63310b7f20/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>112686</xocs:filesize>
+               <xocs:pixel-height>1030</xocs:pixel-height>
+               <xocs:pixel-width>1388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr4/HIGHRES/image/jpeg/621ffdae9173f0f58d9af12743ea050f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr4/HIGHRES/image/jpeg/621ffdae9173f0f58d9af12743ea050f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>412824</xocs:filesize>
+               <xocs:pixel-height>2694</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr5/HIGHRES/image/jpeg/c34290db89dcfed5d7b2e6a48600e88a/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr5/HIGHRES/image/jpeg/c34290db89dcfed5d7b2e6a48600e88a/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>160474</xocs:filesize>
+               <xocs:pixel-height>1020</xocs:pixel-height>
+               <xocs:pixel-width>1386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr6/HIGHRES/image/jpeg/197ca618546edecab82df0b495a4c294/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr6/HIGHRES/image/jpeg/197ca618546edecab82df0b495a4c294/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>721827</xocs:filesize>
+               <xocs:pixel-height>3420</xocs:pixel-height>
+               <xocs:pixel-width>3354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr7/HIGHRES/image/jpeg/a14ae60c636f73a439230b0dba603d24/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr7/HIGHRES/image/jpeg/a14ae60c636f73a439230b0dba603d24/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1028793</xocs:filesize>
+               <xocs:pixel-height>3884</xocs:pixel-height>
+               <xocs:pixel-width>3354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/gr8/HIGHRES/image/jpeg/97341c10870302ef05372fcfd5794721/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/gr8/HIGHRES/image/jpeg/97341c10870302ef05372fcfd5794721/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>485093</xocs:filesize>
+               <xocs:pixel-height>2877</xocs:pixel-height>
+               <xocs:pixel-width>1378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/STRIPIN/image/gif/cdc069f67f6841879d285f6b07ee5116/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/STRIPIN/image/gif/cdc069f67f6841879d285f6b07ee5116/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>181</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>23</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319917343148-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319917343148/STRIPIN/image/gif/301cabd49abdfb5c02d67abc4bf105fa/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319917343148/STRIPIN/image/gif/301cabd49abdfb5c02d67abc4bf105fa/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>182</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>24</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>22238</aid>
+            <ce:pii>S0360-3199(17)34314-8</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2017.11.024</ce:doi>
+            <ce:copyright type="society" year="2017">Hydrogen Energy Publications LLC</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">XRD patterns of the synthesized La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSTM), the commercial La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> powder (LSM), and La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>-La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM-LSTM) mixtures after heat treatment at 1400 °C for 10 h in air.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">SEM images of a cross-section of (a) LSTM and (b) LSM/LSTM bi-layer on porous NiO-YSZ support and (c) EDS line-scan analysis of a cross-section of the bi-layer (line A-B in (b)).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Oxygen partial pressure (<mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi mathvariant="bold">P</mml:mi>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="bold">O</mml:mi>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>) in the exhaust gas (O<ce:inf loc="post">2</ce:inf> gas permeation test) for the bi-layer interconnect on a porous NiO-YSZ anode support.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">(a) Change in the ASR of the La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) bi-layer under O<ce:inf loc="post">2</ce:inf> at different concentrations and humidified H<ce:inf loc="post">2</ce:inf> (oxidizing/reducing atmosphere) at 800 °C. (b) Suggested profile for the oxygen partial pressure (<mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi mathvariant="bold">P</mml:mi>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi mathvariant="bold">O</mml:mi>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>) in the bi-layer under oxidizing/reducing atmospheres.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Changes in the ASR of the La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) and La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf> (LSM/LST) bi-layer under air and humidified H<ce:inf loc="post">2</ce:inf> at different concentrations (oxidizing/reducing atmosphere) at 800 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">(a) Fabrication process and (b) schematic diagram of the flat-tubular cell with and without the interconnect.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">I–V curves and corresponding power densities of a flat-tubular SOFC (a) without and (b) with an La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) bi-layer interconnect using humidified H<ce:inf loc="post">2</ce:inf> as the fuel and air as the oxidant at various temperatures. Typical impedance spectra of a flat-tubular SOFC (c) without and (d) with an LSM/LSTM bi-layer interconnect using humidified H<ce:inf loc="post">2</ce:inf> as the fuel and air as the oxidant at various temperatures, and (e) comparison at 800 °C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">(a) I–V curves, corresponding power densities, (b) typical impedance spectra of a flat-tubular SOFC with the La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) bi-layer interconnect using humidified H<ce:inf loc="post">2</ce:inf> as the fuel at different concentrations and air as the oxidant at 800 °C. (c) Comparison of maximum power density (MPD) and resistances between La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf> (LSM/LST) and LSM/LSTM interconnect.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0360319917343148/gr8"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Stable LSM/LSTM bi-layer interconnect for flat-tubular solid oxide fuel cells</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0360319917343148-79d1cca17059c6920bafba609ac3aa74">
+                  <ce:given-name>Heechul</ce:given-name>
+                  <ce:surname>Yoon</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff3" id="crosref0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0360319917343148-5ab2f68a61550ea674997ce08e44b9f4">
+                  <ce:given-name>Taewook</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0360319917343148-7761a02e04773e78c48ddd38cfaed3d4">
+                  <ce:given-name>Sungtae</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0030">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S0360319917343148-2882b0c59580da46a3a4d2dfe96458ed">
+                  <ce:given-name>Nigel Mark</ce:given-name>
+                  <ce:surname>Sammes</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0360319917343148-0ec37bec931365da18d11436d23dd794">
+                  <ce:given-name>Jong-Shik</ce:given-name>
+                  <ce:surname>Chung</ce:surname>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0045">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0050">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0360319917343148-adf9329fbfe52e76bf79bb4c8ca5ba43">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), 77 Cheongam-Ro, Nam-Gu, Pohang 37673, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Engineering</sa:organization>
+                     <sa:organization>Pohang University of Science and Technology (POSTECH)</sa:organization>
+                     <sa:address-line>77 Cheongam-Ro, Nam-Gu</sa:address-line>
+                     <sa:city>Pohang</sa:city>
+                     <sa:postal-code>37673</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0360319917343148-261983b8c02d9822bcad1aa4b3a453d2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Institute of New and Renewable Energy, Pohang University of Science and Technology (POSTECH), 77 Cheongam-Ro, Nam-Gu, Pohang 37673, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of New and Renewable Energy</sa:organization>
+                     <sa:organization>Pohang University of Science and Technology (POSTECH)</sa:organization>
+                     <sa:address-line>77 Cheongam-Ro, Nam-Gu</sa:address-line>
+                     <sa:city>Pohang</sa:city>
+                     <sa:postal-code>37673</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S0360319917343148-78ed3bb5b7cce11dba5d3cb2c3f4baa8">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Samsung Electronics, Co. Ltd., 1 Samsungjeonja-Ro, Hwaseong-Si, Gyeonggi-Do 18448, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Samsung Electronics, Co. Ltd.</sa:organization>
+                     <sa:address-line>1 Samsungjeonja-Ro, Hwaseong-Si</sa:address-line>
+                     <sa:city>Gyeonggi-Do</sa:city>
+                     <sa:postal-code>18448</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>
+                     <ce:italic>Corresponding author</ce:italic>. Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), 77 Cheongam-Ro, Nam-Gu, Pohang 37673, Republic of Korea.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Engineering</sa:organization>
+                     <sa:organization>Pohang University of Science and Technology (POSTECH)</sa:organization>
+                     <sa:address-line>77 Cheongam-Ro, Nam-Gu</sa:address-line>
+                     <sa:city>Pohang</sa:city>
+                     <sa:postal-code>37673</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="9" year="2017"/>
+            <ce:date-revised day="1" month="11" year="2017"/>
+            <ce:date-accepted day="2" month="11" year="2017"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">A bi-layer interconnect with La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> and La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) is applied to anode-supported button cells and flat-tubular cells. Using a button cell, SEM images and gas permeation tests confirm that the bi-layer possesses a dense microstructure. The area specific resistance (ASR) of the LSM/LSTM remains nearly constant under oxidizing/reducing atmospheres with varying gas concentrations. For comparison, an LSM/LST with the same thickness is prepared; an increase in the ASR is observed as the concentration of H<ce:inf loc="post">2</ce:inf> feed to the LST side decreases. The difference in the ASR of LSM/LST can be explained by exposure to a relatively high oxygen partial pressure and partial destruction of the interfacial LST layer region where oxygen diffuses from the LSM layer. Flat-tubular cells with the LSM/LSTM bi-layer interconnect achieve a maximum power density (MPD) of 463 mW cm<ce:sup loc="post">−2</ce:sup> using humidified H<ce:inf loc="post">2</ce:inf> fuel and air at 800 °C. With decreasing H<ce:inf loc="post">2</ce:inf> concentration in the fuel, the polarization resistance increases rather than the ohmic resistance, implying that the LSM/LSTM interconnect provides stable conduction property. In comparison with the conventional LSM/LST interconnect cell, it shows improved stability and performance as the concentration of H<ce:inf loc="post">2</ce:inf> in the fuel decreases.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Flat-tubular solid oxide fuel cell</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Ceramic interconnect</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Bi-layer</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Perovskite</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Titanate</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Solid oxide fuel cells (SOFCs) are the most efficient devices for generating electricity, and various fuels such as hydrogen, methane, carbon monoxide and biogas can be utilized because of the high operating temperature in the range of 600–1000 °C <ce:cross-refs refid="bib1 bib2" id="crosrefs0010">[1,2]</ce:cross-refs>. A single unit cell of a SOFC, composed of a cathode, an anode, and an electrolyte, can generate an open circuit voltage (OCV) larger than 1 V. To achieve a higher voltage, the SOFC must be operated as a bundle of unit cells, which is called a stack. In this case, an interconnect is used to physically separate and electrically connect adjacent unit cells in the stack. Thus, the interconnect material must fulfil the following essential requirements <ce:cross-refs refid="bib3 bib4 bib5" id="crosrefs0015">[3–5]</ce:cross-refs>: (1) possess high electronic conductivity and negligible ionic conductivity, (2) be stable in both oxidizing and reducing atmospheres, (3) have a dense microstructure to prevent the direct combination of oxygen and fuel gas during cell operation, (4) have a thermal expansion coefficient (TEC) well matched with those of the electrolyte and electrodes to avoid stress during thermal processes, (5) have good chemical compatibility, such as no reactivity with the adjacent components for stable stack performance. To connect tubular or flat-tubular SOFC cells, a thin and dense layer of ceramic interconnect material is applied to the areas where the electrolyte layer is not coated on the tube support <ce:cross-ref refid="bib6" id="crosref0055">[6]</ce:cross-ref>. Lanthanum chromite (LaCrO<ce:inf loc="post">3</ce:inf>) materials, widely used as interconnects, show good stability in reducing atmospheres and good compatibility with other components <ce:cross-ref refid="bib7" id="crosref0060">[7]</ce:cross-ref>. However, it is not easy to form a dense layer because of the materials' poor sintering properties and problems with Cr evaporation at temperatures higher than 1000 °C <ce:cross-ref refid="bib8" id="crosref0065">[8]</ce:cross-ref>. Moreover, these materials exhibit p-type conducting behavior, resulting in poor conductivity in a reducing atmosphere <ce:cross-ref refid="bib9" id="crosref0070">[9]</ce:cross-ref>. Lanthanum-doped strontium titanate (LST) is another candidate for interconnect materials because of its excellent sintering properties, compared to LaCrO<ce:inf loc="post">3</ce:inf>, make it easy to form a dense, thin layer <ce:cross-refs refid="bib6 bib10 bib11" id="crosrefs0020">[6,10,11]</ce:cross-refs>. However, being an n-type material, LST has poor conductivity in an oxidizing atmosphere.</ce:para>
+                  <ce:para id="p0030" view="all">To overcome this problem, Gopalan et al. proposed bi-layer interconnects, in which a p-type layer is exposed to the cathodic gas and an n-type layer is exposed to the anodic gas <ce:cross-ref refid="bib12" id="crosref0075">[12]</ce:cross-ref>. Hwang et al. also investigated button cells with Sr<ce:inf loc="post">0.88</ce:inf>Y<ce:inf loc="post">0.08</ce:inf>TiO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> bi-layer interconnects approximately 200 μm thick and achieved an area specific resistance (ASR) of 0.19 Ω cm<ce:sup loc="post">2</ce:sup> at 800 °C under a pure air/H<ce:inf loc="post">2</ce:inf> atmosphere (oxidizing atmosphere on the p-type side/reducing atmosphere on the n-type side) <ce:cross-ref refid="bib13" id="crosref0080">[13]</ce:cross-ref>. Recently, several bi-layer structures have been investigated for possible use and application as interconnects in tubular or flat-tubular SOFCs. S. Wang et al. reported a La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> bi-layer fabricated by a co-sintering process and a maximum power density of approximately 200 mW cm<ce:sup loc="post">−2</ce:sup> at 800 °C was observed for anode supported tubular SOFC with NiO/YSZ (Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> stabilized ZrO<ce:inf loc="post">2</ce:inf>) composite as the anode, SSZ (Sc doped ZrO<ce:inf loc="post">2</ce:inf>) as the electrolyte, and La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/SSZ composite as the cathode using humidified pure H<ce:inf loc="post">2</ce:inf> as fuel and O<ce:inf loc="post">2</ce:inf> as the oxidant <ce:cross-refs refid="bib14 bib15" id="crosrefs0025">[14,15]</ce:cross-refs>. Additionally, Sr<ce:inf loc="post">0.7</ce:inf>La<ce:inf loc="post">0.2</ce:inf>TiO<ce:inf loc="post">3</ce:inf> was applied as an n-type layer, and a maximum power density of 360 mW cm<ce:sup loc="post">−2</ce:sup> at 850 °C was achieved for an anode supported flat-tubular SOFC with NiO/YSZ composite as the anode, YSZ as the electrolyte, a (La<ce:inf loc="post">0.85</ce:inf>Sr<ce:inf loc="post">0.15</ce:inf>)<ce:inf loc="post">0.9</ce:inf>MnO<ce:inf loc="post">3</ce:inf>-YSZ composite/(La<ce:inf loc="post">0.85</ce:inf>Sr<ce:inf loc="post">0.15</ce:inf>)<ce:inf loc="post">0.9</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>Co<ce:inf loc="post">0.2</ce:inf>Fe<ce:inf loc="post">0.8</ce:inf>O<ce:inf loc="post">3</ce:inf> multi-layer as the cathode, and a Sr<ce:inf loc="post">0.7</ce:inf>La<ce:inf loc="post">0.2</ce:inf>TiO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> bi-layer as the interconnect using humidified pure H<ce:inf loc="post">2</ce:inf> as fuel and air as the oxidant <ce:cross-ref refid="bib16" id="crosref0085">[16]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0035" view="all">However, it is still unknown whether the bi-layer concept works for thinner interconnects (in the order of 10 μm) under lower concentrations of H<ce:inf loc="post">2</ce:inf> (down to 10%), which can be observed at the outlet of the cell in the stack for industrial use. Oxygen from the p-type layer is expected to diffuse to the n-type layer that develops a reduction profile in the presence of hydrogen at the anode side, forming the oxygen partial pressure (<mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>P</mml:mi>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>) gradient inside the bi-layer <ce:cross-refs refid="bib12 bib17 bib18" id="crosrefs0030">[12,17,18]</ce:cross-refs>. A similar phenomenon is also observed in the field of bi-layer electrolyte <ce:cross-refs refid="bib19 bib20 bib21" id="crosrefs0035">[19–21]</ce:cross-refs>. If the force of oxygen diffusion is weaker than the reduction force, the reduction profile in the n-type layer must extend to the p-type layer to decrease the conductivity. If reduction force in the n-type layer is weaker, the inner side of the n-type layer, which is in contact with the p-type layer, becomes oxidized and decreases the conductivity. Therefore, at a steady state, it is difficult to imagine that the entire n-type layer of the bi-layer is in a reduced state while the p-type layer is in an oxidized state.</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we investigated the stability of the bi-layer interconnect (La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf>) by varying the concentrations of gases (O<ce:inf loc="post">2</ce:inf> or H<ce:inf loc="post">2</ce:inf>) under oxidizing/reducing atmosphere, and compared with another bi-layer interconnect (La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf>). The ASR of the La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf> (LSM/LST) bi-layer was found to increase with lower H<ce:inf loc="post">2</ce:inf> concentrations at the anode side whereas the La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSM/LSTM) bi-layer remains stable in various oxidation and reduction environments. Additionally, thin LSM/LSTM bi-layer interconnects were applied over large areas in flat-tubular cells. The AC impedance spectra, current density-voltage (I–V) and corresponding power density were analyzed to investigate the properties and the stability of the applied interconnect.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0030">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:section-title id="sectitle0035">Synthesis and characterization of interconnect powders</ce:section-title>
+                     <ce:para id="p0045" view="all">A perovskite-type powder of La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>Ti<ce:inf loc="post">0.6</ce:inf>Mn<ce:inf loc="post">0.4</ce:inf>O<ce:inf loc="post">3</ce:inf> (LSTM) was synthesized using solid-state methods. Stoichiometric amounts of La<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (Sigma–Aldrich, 99.9%), SrCO<ce:inf loc="post">3</ce:inf> (Sigma–Aldrich, 99.9%), TiO<ce:inf loc="post">2</ce:inf> (Kojundo Chemical Laboratory, 99.9%) and MnCO<ce:inf loc="post">3</ce:inf> (Sigma–Aldrich, 99.9%) powders were mixed, followed by ball-milling with zirconia balls in ethanol for 24 h. After being dried, the mixture was annealed at 1400 °C for 3 h, followed by attrition-milling at 600 rpm for 500 min. After being dried in an oven, the mixture was passed through a sieve with a pore size of 45 μm La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> (LSM, Fuel cell materials Co., USA) powder was used for the p-type conducting layer. To investigate the chemical compatibility, the LSM powder was mixed with the synthesized LSTM powder in a 50:50 wt ratio. After ball-milling for a day, the mixture was annealed at 1400 °C for 10 h in air. X-ray diffraction (XRD) patterns were obtained using an X-ray diffractometer (Rigaku, D/Max-2500/PC, Japan) with Cu Kα radiation under 40 kV and 200 mA conditions at a scanning rate of 4°/min.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:section-title id="sectitle0040">Characterization with button cells</ce:section-title>
+                     <ce:para id="p0050" view="all">A porous button-type anode support (18 mm in diameter) was prepared by pressing a mixture of NiO (J.T.Baker, USA)-Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> stabilized ZrO<ce:inf loc="post">2</ce:inf> (YSZ, Tosoh, Japan)-graphite (Sigma–Aldrich, USA) and sintering at 1200 °C for 3 h. The anode support is composed of NiO and YSZ in a 55:45 wt ratio. Layers of LSM/LSTM, each approximately 10 μm thick, were attached to the support. The LSTM layer was coated on one side of the support by dip-coating and was dried at room temperature for 20 min. Subsequently, the LSM layer was applied with an auto-spray method. Then, the cell was sintered at 1400 °C for 3 h. For comparison, a similar button cell with layers of La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf> (LSM/LST) was also fabricated by the same method described above. The cross-sections of the interconnect layers and the distributions of the Mn and Ti components were observed by field emission-scanning electron microscope (FE-SEM, Philips, XL30S FEG). Gas permeation tests of the support with and without the bi-layer were conducted by passing air over the LSM layer (or one side of the support in the case of the absence of the bi-layer) and pure N<ce:inf loc="post">2</ce:inf> gas (&gt;99.999%) over the other side of the porous NiO-YSZ support. The oxygen partial pressure (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>) in the N<ce:inf loc="post">2</ce:inf> gas outlet was measured with an oxygen sensor (NI-OS-U100, Nanoionics Co., Korea). The ASR of the bi-layer was also measured using the DC four-probe method (VSP-300, Biologic Science Instruments, France) while passing O<ce:inf loc="post">2</ce:inf> gas (&gt;99.999%) over the LSM-coated side and a humidified H<ce:inf loc="post">2</ce:inf> gas (3% H<ce:inf loc="post">2</ce:inf>O in H<ce:inf loc="post">2</ce:inf> (&gt;99.999%)) over the Ni-YSZ side. The concentrations of H<ce:inf loc="post">2</ce:inf> and O<ce:inf loc="post">2</ce:inf> were controlled by dilution with pure N<ce:inf loc="post">2</ce:inf>. The specific gas conditions were that the O<ce:inf loc="post">2</ce:inf> feed concentration changed from 21% to 1% with fixed humidified H<ce:inf loc="post">2</ce:inf> feed and the H<ce:inf loc="post">2</ce:inf> feed concentration decreased from 97% to 2% with fixed air feed. A long period of time (usually over 10 h) was required to reach a steady state ASR.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:section-title id="sectitle0045">Performance of flat-tubular SOFC</ce:section-title>
+                     <ce:para id="p0055" view="all">The flat-tubular type of porous anode support was fabricated from a cermet of NiO and YSZ through an extrusion process and was sintered at 1100 °C for 3 h. The flat-tubular support was 150 mm long, 35 mm wide and 4 mm thick with 5 lengthwise fuel channels. The anode functional layer (AFL) with a NiO:YSZ weight ratio of 60:40 was applied by dip coating, and was sintered at 1200 °C for 3 h. After masking 2 rectangular spaces with tape on the face of the flat tube (actually on the AFL layer, each having an area of 10 × 18 mm<ce:sup loc="post">2</ce:sup>) to expose the AFL layer, the YSZ electrolyte layer was applied by dip coating. After sintering at 1200 °C for 3 h, one of the masked spaces was coated with the interconnect layers by the auto-spray method. The LSTM layer was first applied over the masked space and then dried at room temperature for 20 min, followed by the application of the LSM layer on top of the LSTM layer. The cell was co-sintered at 1400 °C for 3 h. On the cathode side (opposite to the interconnect layers), LSM-YSZ (LSM: YSZ = 50: 50 in wt%) and LSM were applied with a screen printer and co-sintered at 1200 °C for 3 h. The formed cathode area is 10 × 45 mm<ce:sup loc="post">2</ce:sup>. The final cell has thicknesses of approximately 20, 12, 12 and 20 μm for the AFL, YSZ, cathode, and bi-layer interconnect layers, respectively. To measure the electrochemical properties, a pair of Pt wires was attached with Pt paste to each side of the bi-layer interconnect, the second masked space (anode, now with exposed AFL), and the cathode. To prevent leakage of gas through the second masked space, its entire area was covered with a glass sheet, and sintered at 900 °C for 1 h. To evaluate the cell performance with a bi-layer interconnect, the cathode was connected to the interconnect via external circuit/load (Set 1 in <ce:cross-ref refid="fig6" id="crosref0090">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>
+                        <ce:float-anchor refid="fig2"/>
+                        <ce:float-anchor refid="fig3"/>
+                        <ce:float-anchor refid="fig4"/>
+                        <ce:float-anchor refid="fig5"/>
+                        <ce:float-anchor refid="fig6"/> (b)). To evaluate the cell performance without a bi-layer interconnect, the cathode was connected to the anode via external circuit/load (Set 2 in <ce:cross-ref refid="fig6" id="crosref0095">Fig. 6</ce:cross-ref> (b)). The electrochemical properties including I–V curves and electrochemical impedance spectra (EIS) were investigated (VSP-300, Biologic Science instruments, France). The AC impedance spectra were measured from 100 kHz to 10 mHz at OCV and the AC signal amplitude of 20 mV. During the measurements, humidified H<ce:inf loc="post">2</ce:inf> gas was fed to the fuel side channels at a flow rate of 200 ml/min, and the air was fed to the cathode side at a flow rate of 400 ml/min.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:section-title id="sectitle0050">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:section-title id="sectitle0055">Synthesis and reactivity</ce:section-title>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref refid="fig1" id="crosref0100">Fig. 1</ce:cross-ref> shows the XRD patterns of the synthesized LSTM and LSM-LSTM mixture after heat treatment at 1400 °C for 10 h in air. The synthesized LSTM has well-crystallized XRD patterns without any impurity phase peaks. The XRD pattern of the commercial La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> powder (LSM) is also presented in <ce:cross-ref refid="fig1" id="crosref0105">Fig. 1</ce:cross-ref>. After heat treatment of the LSM-LSTM mixture at 1400 °C for a relatively long period of 10 h in air, new peaks at 32.28° and 32.48° are observed in the primary peak region (31–34°); these peaks do not match with the major peak of LSTM at 32.34° and those of the commercial LSM at 32.38° and 32.62°. Assuming all of the cations contained in the mixture (LSTM: LSM = 50: 50 in wt%) contribute equally to form a single phase, a perovskite with the formula of La<ce:inf loc="post">0.59</ce:inf>Sr<ce:inf loc="post">0.41</ce:inf>Ti<ce:inf loc="post">0.32</ce:inf>Mn<ce:inf loc="post">0.68</ce:inf>O<ce:inf loc="post">3</ce:inf> could be formed. For comparison, the XRD pattern of a reference material La<ce:inf loc="post">0.65</ce:inf>Sr<ce:inf loc="post">0.35</ce:inf>MnO<ce:inf loc="post">3</ce:inf> (JCPDS# 49-0595) with a similar ratio of La/Sr at the a-site is presented in <ce:cross-ref refid="fig1" id="crosref0110">Fig. 1</ce:cross-ref>. The XRD peaks of La<ce:inf loc="post">0.59</ce:inf>Sr<ce:inf loc="post">0.41</ce:inf>Ti<ce:inf loc="post">0.32</ce:inf>Mn<ce:inf loc="post">0.68</ce:inf>O<ce:inf loc="post">3</ce:inf> generated from the LSM-LSTM mixture after heat treatment shifted to the left relative to those of La<ce:inf loc="post">0.65</ce:inf>Sr<ce:inf loc="post">0.35</ce:inf>MnO<ce:inf loc="post">3</ce:inf>; this shift is probably caused by lattice expansion from the replacement of Mn with the Ti at the b-site (the ionic radius of Mn<ce:sup loc="post">3+</ce:sup> is 0.067 nm and that of Ti<ce:sup loc="post">4+</ce:sup> is 0.076 nm). The results imply that a new perovskite phase may form locally at the interface of the LSM/LSTM bi-layer.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:section-title id="sectitle0060">Microstructure</ce:section-title>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0115">Fig. 2</ce:cross-ref> shows the SEM images and the energy dispersive spectroscopy (EDS) line-scan analysis of a cross-section of the bi-layer after co-sintering at 1400 °C for 3 h in air. The LSM and LSTM layers are dense and well attached to the porous NiO-YSZ support. The adjoined layers also appear seamless despite the reactivity observed in <ce:cross-ref refid="fig1" id="crosref0120">Fig. 1</ce:cross-ref>. The thicknesses of the LSTM layer and LSM/LSTM bi-layer are approximately 10 μm and 20 μm, respectively. <ce:cross-ref refid="fig2" id="crosref0125">Fig. 2</ce:cross-ref> (c) shows that Mn is primarily present on the A side (the outer layer of the bi-layer) whereas Ti is primarily present on the B side (the inner layer of the bi-layer in contact with the porous NiO-YSZ).</ce:para>
+                     <ce:para id="p0070" view="all">One of the important functions of the interconnect is to prevent permeation of the gas through the interconnect layer because stack degradation and a decrease in the OCV can occur when gas is transmitted through the interconnect. <ce:cross-ref refid="fig3" id="crosref0130">Fig. 3</ce:cross-ref> shows the results of the O<ce:inf loc="post">2</ce:inf> gas permeation test through the fabricated bi-layer interconnect. For the porous NiO-YSZ support without the bi-layer interconnect, the <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> of approximately 10<ce:sup loc="post">−2</ce:sup> atm was detected in the outlet of the N<ce:inf loc="post">2</ce:inf> gas. In contrast, for the support coated with the LSM/LSTM bi-layer interconnect, <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> was approximately 10<ce:sup loc="post">−4</ce:sup> atm in the outlet of the N<ce:inf loc="post">2</ce:inf> gas over the entire temperature range tested. In separate measurements, the O<ce:inf loc="post">2</ce:inf> impurity level in the N<ce:inf loc="post">2</ce:inf> gas was found to be approximately 10<ce:sup loc="post">−4</ce:sup> atm represented by a dashed line in <ce:cross-ref refid="fig3" id="crosref0135">Fig. 3</ce:cross-ref>. These results confirm that the bi-layer interconnects have no microstructural pathway through which gas can be transferred.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:section-title id="sectitle0065">ASR of bi-layer</ce:section-title>
+                     <ce:para id="p0075" view="all">The ASR of the LSM/LSTM bi-layer interconnect was measured during the flow of O<ce:inf loc="post">2</ce:inf>-containing gas at the LSM side and humidified H<ce:inf loc="post">2</ce:inf> at the LSTM side, as described in the experimental section. During the measurements, the contribution of the Ni/YSZ layer to the total resistance is assumed to be negligible because its electrical resistance is much smaller than that of the ceramic interconnect. Moreover, constant ASR was observed with time, reflecting the negligible effect of the reactivity mentioned in <ce:cross-ref refid="fig1" id="crosref0140">Fig. 1</ce:cross-ref> on the performance. <ce:cross-ref refid="fig4" id="crosref0145">Fig. 4</ce:cross-ref> (a) shows the effect of O<ce:inf loc="post">2</ce:inf> concentration in the gas flow on the ASR of the bi-layer interconnect. No significant change in the ASR was detected with decreases in the O<ce:inf loc="post">2</ce:inf> concentration. The results establish that the oxygen diffusion at the LSM side is much faster than the vacancy generation at the LSTM side, and the <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> across the LSM layer in bi-layer does not change significantly to the point of the LSM decomposition with variations in the O<ce:inf loc="post">2</ce:inf> concentration on the LSM side. The <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> across the bi-layer is assumed to depend on both the O<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf> content in the gas phases and the conductivity properties of each layer <ce:cross-ref refid="bib19" id="crosref0150">[19]</ce:cross-ref>, and two cases with <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> profiles are suggested in <ce:cross-ref refid="fig4" id="crosref0155">Fig. 4</ce:cross-ref> (b). The present case corresponds to the case A (O<ce:inf loc="post">2</ce:inf> concentration decrease), in which O<ce:inf loc="post">2</ce:inf> concentrations at the LSM side as low as 1% are enough to keep the LSM layer in an oxidized state (gray region). If the O<ce:inf loc="post">2</ce:inf> concentration decreased further, the interfacial LSM layer would be reduced and decomposed (red dashed line), leading to an increase in the resistance. However, such phenomenon was not observed in this study. The LSM generally shows a <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> independent conductivity region between the range from 1 atm to 10<ce:sup loc="post">−8</ce:sup> atm at 850 °C. In other words, it begins to decompose below 10<ce:sup loc="post">−8</ce:sup> atm <ce:cross-ref refid="bib18" id="crosref0160">[18]</ce:cross-ref>. This result implies that the interfacial <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> of the LSM layer in the bi-layer must be higher than 10<ce:sup loc="post">−8</ce:sup> atm. Consequently, the decrease in the O<ce:inf loc="post">2</ce:inf> concentration from 21% to 1% has no influence on the conduction property of the LSM/LSTM bi-layer and establishes that oxygen diffusion toward the reduced LSTM layer is sufficiently fast to keep the entire LSM layer in a stable oxidized state.</ce:para>
+                     <ce:para id="p0080" view="all">In a real SOFC stack, the H<ce:inf loc="post">2</ce:inf> content of the fuel gas is less than 70% for a gas reformed from hydrocarbon fuel with steam, and it further decreases to less than 10–15% at the outlet stage of the stack, depending on the fuel utilization (usually 80–85%). We, therefore, tested the effect of low levels of H<ce:inf loc="post">2</ce:inf> at the LSTM side while maintaining an O<ce:inf loc="post">2</ce:inf> concentration of 21% at the LSM side, and the results are shown in <ce:cross-ref refid="fig5" id="crosref0165">Fig. 5</ce:cross-ref>. The ASR of the LSM/LSTM bi-layer remains nearly constant over the entire range of H<ce:inf loc="post">2</ce:inf> concentrations tested (97–2%) at approximately 0.157 Ω cm<ce:sup loc="post">2</ce:sup>. For comparison, we also measured the ASR of an LSM/LST with the same thicknesses for each layer. The LSM/LST exhibits different behavior: a steady increase in the ASR as the H<ce:inf loc="post">2</ce:inf> concentration decreases and a sharp exponential increase at H<ce:inf loc="post">2</ce:inf> concentrations lower than 20%. The results confirm that when the H<ce:inf loc="post">2</ce:inf> concentration on the fuel side is kept low, the inner part of the LST layer in contact with the LSM layer is exposed to a relatively high <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and partially destroyed, causing a conductivity decrease in the n-type layer (this corresponds to the case B in <ce:cross-ref refid="fig4" id="crosref0170">Fig. 4</ce:cross-ref> (b)). Because oxygen continuously diffuses from the LSM layer, partial destruction of the LST layer is induced, especially at the interface region, if the H<ce:inf loc="post">2</ce:inf> concentration decreases on the fuel side. For LST, the dependence of conductivity on the degree of reduction is significant; LST exhibits a higher specific conductivity in a reducing atmosphere than in an oxidizing atmosphere <ce:cross-refs refid="bib22 bib23 bib24" id="crosrefs0040">[22–24]</ce:cross-refs>. Therefore, a decrease in the H<ce:inf loc="post">2</ce:inf> concentration leads to a lower degree of reduction of the LST especially at the interface region, and the increase in the ASR of the LSM/LST bi-layer is followed. In contrast, for the bi-layer that contains LSTM instead of LST (LSM/LSTM), relatively constant ASR was observed. Doping the b-site of LST with Mn allows moderate conductivity not only in reducing but also in oxidizing atmospheres <ce:cross-ref refid="bib25" id="crosref0175">[25]</ce:cross-ref>. Thus, even if the interface of the LSTM layer is exposed to a relatively high <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>P</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> and partially destroyed by diffused oxygen, noticeable degradation of ASR for LSM/LSTM bi-layer was not observed.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:section-title id="sectitle0070">Measurement of I–V curves and EIS analysis</ce:section-title>
+                     <ce:para id="p0085" view="all">
+                        <ce:cross-ref refid="fig6" id="crosref0180">Fig. 6</ce:cross-ref> represents images (<ce:cross-ref refid="fig6" id="crosref0185">Fig. 6</ce:cross-ref> (a)) and schematic drawings (<ce:cross-ref refid="fig6" id="crosref0190">Fig. 6</ce:cross-ref> (b)) of the fabricated flat-tubular cell with and without the bi-layer interconnect.</ce:para>
+                     <ce:para id="p0090" view="all">
+                        <ce:cross-ref refid="fig7" id="crosref0195">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> (a) and (b) show the I–V curves and the corresponding power densities of the flat-tubular cell with and without the LSM/LSTM bi-layer interconnect using humidified H<ce:inf loc="post">2</ce:inf> as the fuel and air as the oxidant at various temperatures. The OCV values for the cells with and without the bi-layer interconnect attached are approximately the same, and are both very close to theoretical values: 1.07 V, 1.05 V, 1.03 V and 1.01 V at 700 °C, 750 °C, 800 °C and 850 °C, respectively; this result confirms that the cell structure including the bi-layer interconnect was well fabricated and did not allow gases to permeate. The maximum power densities (MPDs) of the flat-tubular cell without the bi-layer interconnect are 329 mW cm<ce:sup loc="post">−2</ce:sup>, 477 mW cm<ce:sup loc="post">−2</ce:sup>, 639 mW cm<ce:sup loc="post">−2</ce:sup> and 798 mW cm<ce:sup loc="post">−2</ce:sup> at 700 °C, 750 °C, 800 °C and 850 °C, respectively. For the cell with the bi-layer interconnect, relatively low performances were achieved with maximum power densities of 250 mW cm<ce:sup loc="post">−2</ce:sup>, 347 mW cm<ce:sup loc="post">−2</ce:sup>, 463 mW cm<ce:sup loc="post">−2</ce:sup> and 566 mW cm<ce:sup loc="post">−2</ce:sup> at 700 °C, 750 °C, 800 °C and 850 °C, respectively. Thus, application of the bi-layer interconnect caused an approximately 20–30% decrease in the maximum power density over the temperature range from 700 °C to 850 °C. The maximum power densities obtained in this study for the LSM/LSTM bi-layer interconnect are much higher than those for other types of bi-layer interconnects used in the literature <ce:cross-refs refid="bib14 bib15 bib16" id="crosrefs0045">[14–16]</ce:cross-refs>, including the results obtained by Wang et al. (power loss of 43% with a bi-layer interconnect of La<ce:inf loc="post">0.4</ce:inf>Sr<ce:inf loc="post">0.6</ce:inf>TiO<ce:inf loc="post">3</ce:inf>/La<ce:inf loc="post">0.8</ce:inf>Sr<ce:inf loc="post">0.2</ce:inf>MnO<ce:inf loc="post">3</ce:inf> at 800 °C <ce:cross-ref refid="bib14" id="crosref0200">[14]</ce:cross-ref>). <ce:cross-ref refid="fig7" id="crosref0205">Fig. 7</ce:cross-ref> (c), (d) and (e) show the typical AC impedance spectra of our flat-tubular cell with and without an LSM/LSTM bi-layer interconnect using humidified H<ce:inf loc="post">2</ce:inf> fuel and air. The intercept of the real axis at high frequency (HF) corresponds to the total ohmic resistance of the cell, which is primarily the resistive contribution of the electrolyte and the ohmic resistances of the anode, cathode, and interconnect; and the intercept at low frequency (LF) corresponds to the total resistance, which is the sum of the total ohmic resistance and the polarization resistance <ce:cross-ref refid="bib26" id="crosref0210">[26]</ce:cross-ref>. The AC impedance results for the cell without the LSM/LSTM interconnect are shown in <ce:cross-ref refid="fig7" id="crosref0215">Fig. 7</ce:cross-ref> (c). Both the ohmic and polarization resistances decrease with increasing temperature, and the same trend is also observed for the cell with the LSM/LSTM bi-layer interconnect in <ce:cross-ref refid="fig7" id="crosref0220">Fig. 7</ce:cross-ref> (d). To investigate the effect of the interconnect on the cell, we compared the impedance spectra of the cell with and without the interconnect at 800 °C, and the results are presented in <ce:cross-ref refid="fig7" id="crosref0225">Fig. 7</ce:cross-ref> (e). Compared to the cell without the interconnect, use of the interconnect resulted in an increase in the ohmic resistance from 0.21 Ω cm<ce:sup loc="post">2</ce:sup> to 0.34 Ω cm<ce:sup loc="post">2</ce:sup> and a negligible increase in the polarization resistance, from 0.54 Ω cm<ce:sup loc="post">2</ce:sup> to 0.56 Ω cm<ce:sup loc="post">2</ce:sup>. Consequently, the application of LSM/LSTM bi-layer interconnect increases the ohmic resistance by 0.13 Ω cm<ce:sup loc="post">2</ce:sup>, thus leading to the power loss of 27.5%, from 639 mW cm<ce:sup loc="post">−2</ce:sup> to 463 mW cm<ce:sup loc="post">−2</ce:sup> at 800 °C.</ce:para>
+                     <ce:para id="p0095" view="all">
+                        <ce:cross-ref refid="fig8" id="crosref0230">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/> (a) and (b) show the effect of H<ce:inf loc="post">2</ce:inf> concentration in the fuel on the I–V curve, corresponding power density and AC impedance spectra for the flat-tubular cell with the LSM/LSTM bi-layer interconnect when air was fed to the cathode side at 800 °C. <ce:cross-ref refid="fig8" id="crosref0235">Fig. 8</ce:cross-ref> (a) shows that, as the H<ce:inf loc="post">2</ce:inf> concentration decreases, the maximum power density decreases (463 mW cm<ce:sup loc="post">−2</ce:sup>, 231 mW cm<ce:sup loc="post">−2</ce:sup> and 135 mW cm<ce:sup loc="post">−2</ce:sup> for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively), and the OCV value decreases (1.04 V, 0.97 V and 0.93 V for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively). <ce:cross-ref refid="fig8" id="crosref0240">Fig. 8</ce:cross-ref> (b) shows that the polarization resistance of the cell increases as the H<ce:inf loc="post">2</ce:inf> concentration decreases: 0.57 Ω cm<ce:sup loc="post">2</ce:sup>, 0.94 Ω cm<ce:sup loc="post">2</ce:sup> and 1.52 Ω cm<ce:sup loc="post">2</ce:sup> for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively. In particular, the semi-circle at low frequency has a larger contribution to the increase in the total polarization resistance than that at high frequency and provides clear evidence that the low frequency is related to the fuel concentration at the anode. Consequently, the performance degradation with decreasing H<ce:inf loc="post">2</ce:inf> fuel concentration in <ce:cross-ref refid="fig8" id="crosref0245">Fig. 8</ce:cross-ref> (a) is mainly caused by the increase in the polarization resistance. In contrast, the ohmic resistance is almost constant at approximately 0.35 Ω cm<ce:sup loc="post">2</ce:sup>. The results confirm that the applied interconnect is not affected by the H<ce:inf loc="post">2</ce:inf> fuel concentration, which agrees well with the previous results in <ce:cross-ref refid="fig5" id="crosref0250">Fig. 5</ce:cross-ref>. Therefore, we concluded that the conduction property of the applied LSM/LSTM bi-layer interconnect is stable regardless of the H<ce:inf loc="post">2</ce:inf> concentration on the fuel side.</ce:para>
+                     <ce:para id="p0100" view="all">We also measured the performance and AC impedance spectra of the flat-tubular cell with LSM/LST bi-layer interconnect under the same previous condition, and compared the obtained results with those of cell with LSM/LSTM interconnect. For power output, the same trend is observed. As the H<ce:inf loc="post">2</ce:inf> concentration decreases, the maximum power density decreases (417 mW cm<ce:sup loc="post">−2</ce:sup>, 187 mW cm<ce:sup loc="post">−2</ce:sup> and 101 mW cm<ce:sup loc="post">−2</ce:sup> for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively). <ce:cross-ref refid="fig8" id="crosref0255">Fig 8</ce:cross-ref> (c) shows the maximum power densities and ohmic resistances of the cell with LSM/LST interconnect compared to those of the cell with LSM/LSTM interconnect. The obtained maximum power densities are only about 90%, 81% and 74% of those of cell with LSM/LSTM interconnect for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively. With decreasing H<ce:inf loc="post">2</ce:inf> concentration in the fuel, the ohmic resistance of cell with LSM/LST interconnect increases (0.37 Ω cm<ce:sup loc="post">2</ce:sup>, 0.385 Ω cm<ce:sup loc="post">2</ce:sup> and 0.395 Ω cm<ce:sup loc="post">2</ce:sup> for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf> in the fuel, respectively), whereas that of cell with LSM/LSTM interconnect is kept nearly constant. The difference in this trend is mainly caused by the difference in the interconnect since the total ohmic resistance includes the interconnect resistance. The increase in ohmic resistance of cell with LSM/LST interconnect exhibits the similar tendency as the ASR results shown in <ce:cross-ref refid="fig5" id="crosref0260">Fig. 5</ce:cross-ref>. Thus, the performance degradation of the cell with LSM/LST interconnect is affected by the increase in the resistance of LSM/LST interconnect due to a decrease of H<ce:inf loc="post">2</ce:inf> concentration in the fuel.</ce:para>
+                     <ce:para id="p0105" view="all">Through this study, we determined that the LSM/LSTM is more suitable than the LSM/LST for stable performance, and the LSM/LSTM bi-layer is a candidate for practical application as an interconnect in flat-tubular SOFCs that do not employ metallic bipolar plates to create a stack of cells.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0075">Conclusions</ce:section-title>
+                  <ce:para id="p0110" view="all">The LSTM perovskite was synthesized by solid state methods. Bi-layer interconnect composed of LSM and LSTM were successively formed on a porous NiO-YSZ support by dip-coating and auto-spray methods. After co-sintering at 1400 °C for 3 h, the dense structure of the bi-layer interconnect was confirmed by gas permeation tests. Under oxidizing/reducing atmosphere, the ASR of the LSM/LSTM interconnect did not exhibit any appreciable change as both the O<ce:inf loc="post">2</ce:inf> feed concentration changed from 21% to 1% with fixed humidified H<ce:inf loc="post">2</ce:inf> feed and the H<ce:inf loc="post">2</ce:inf> feed concentration decreased from 97% to 2% with fixed air feed. However, the ASR of the LSM/LST with the same thickness showed a steady increase when the H<ce:inf loc="post">2</ce:inf> concentration decreases below 97%, and showed a sharp and exponential increase when the H<ce:inf loc="post">2</ce:inf> concentration decreases below 20%, due to exposure to a relatively high <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>P</mml:mi>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math> and partial destruction of the n-type LST layer at the interface region in contact with the LSM. The LSM/LSTM bi-layer interconnect was applied to a flat-tubular SOFC cell, and achieved a maximum power density of 463 mW cm<ce:sup loc="post">−2</ce:sup> at 800 °C. Compared to the cell without an interconnect, a power loss of 27.5% was observed because of the increased ohmic resistance of 0.13 Ω cm<ce:sup loc="post">2</ce:sup>, which is an acceptable level. The maximum power density decreased successively from 463 mW cm<ce:sup loc="post">−2</ce:sup> at 97% H<ce:inf loc="post">2</ce:inf> to 231 mW cm<ce:sup loc="post">−2</ce:sup> and 135 mW cm<ce:sup loc="post">−2</ce:sup> at 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf>, respectively. The performance degradation is primarily caused by the increase in the polarization resistance (0.57 Ω cm<ce:sup loc="post">2</ce:sup>, 0.94 Ω cm<ce:sup loc="post">2</ce:sup> and 1.52 Ω cm<ce:sup loc="post">2</ce:sup> for 97% H<ce:inf loc="post">2</ce:inf>, 20% H<ce:inf loc="post">2</ce:inf> and 10% H<ce:inf loc="post">2</ce:inf>, respectively), not the ohmic resistance. In performance comparison, the conventional LSM/LST bi-layer was applied, and increase in ohmic resistance was observed as the H<ce:inf loc="post">2</ce:inf> concentrations in the fuel decreased. The LSM/LST interconnect cell showed about 74–90% of the performance of LSM/LSTM interconnect cell. The results suggest that the LSM/LSTM bi-layer interconnect, which showed stable conduction property regardless of the variations in both the H<ce:inf loc="post">2</ce:inf> and O<ce:inf loc="post">2</ce:inf> concentrations, is a promising candidate for use in SOFCs that do not employ metallic bipolar plates for stacking.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0080">Acknowledgements</ce:section-title>
+               <ce:para id="p0115" view="all">Taewook Kim and Heechul Yoon contributed equally to this work. This work was supported by the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea (NRF)</ce:grant-sponsor> grant funded by the Korea government (<ce:grant-sponsor id="gs2" sponsor-id="https://doi.org/10.13039/501100004085" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">MEST</ce:grant-sponsor>) (No. <ce:grant-number refid="gs2">2012R1A2A2A03047613</ce:grant-number>), and International Collaborative Energy Technology R&amp;D Program of the <ce:grant-sponsor id="gs3" sponsor-id="https://doi.org/10.13039/501100007053" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</ce:grant-sponsor> granted financial resource from the <ce:grant-sponsor id="gs4" sponsor-id="https://doi.org/10.13039/501100003052" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Trade, Industry &amp; Energy</ce:grant-sponsor>, Republic of Korea (No. <ce:grant-number refid="gs4">20148520120150</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0085">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kammer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conversion of hydrocarbons in solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu Rev Mater Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>331</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>McIntosh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gorte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Direct hydrocarbon solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4845</sb:first-page>
+                              <sb:last-page>4866</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Deevi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of interconnect materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater Sci Eng A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>348</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>243</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metallic interconnects for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater Sci Eng A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>397</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent development of SOFC metallic interconnect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>305</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>La-doped SrTiO3 interconnect materials for anode-supported flat-tubular solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4319</sb:first-page>
+                              <sb:last-page>4327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Fergus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lanthanum chromite-based materials for solid oxide fuel cell interconnects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>171</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yokokawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kawada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dokiya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical thermodynamic considerations in sintering of LaCrO3 - Based perovskites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1018</sb:first-page>
+                              <sb:last-page>1027</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hikita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical conductivity and defect structure of calcium-doped lanthanum chromites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>140</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1699</sb:first-page>
+                              <sb:last-page>1704</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.A.</ce:given-name>
+                                 <ce:surname>Marina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Canfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Stevenson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal, electrical, and electrocatalytical properties of lanthanum-doped strontium titanate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical conductivity and cell performance of La0.3Sr 0.7Ti1-xCrxO3-δ perovskite oxides used as anode and interconnect material for SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1068</sb:first-page>
+                              <sb:last-page>1073</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gopalan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bi-layer structures as solid oxide fuel cell interconnections</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                              <sb:last-page>183</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.Y.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and characterization of a dual layer ceramic interconnect on a porous NiO-YSZ anode support</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram Int</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6843</sb:first-page>
+                              <sb:last-page>6847</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel bilayered Sr0.6La0.4TiO3/La0.8Sr0.2MnO3 interconnector for anode-supported tubular solid oxide fuel cell via slurry-brushing and co-sintering process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1338</sb:first-page>
+                              <sb:last-page>1341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance of an anode-supported tubular solid oxide fuel cells stack with two single cells connected by a co-sintered ceramic interconnector</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6194</sb:first-page>
+                              <sb:last-page>6198</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-H.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A flat-tubular solid oxide fuel cell with a dense interconnect film coated on the porous anode support</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>218</sb:first-page>
+                              <sb:last-page>222</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Belzner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Gür</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Huggins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxygen chemical diffusion in strontium doped lanthanum manganites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                              <sb:last-page>337</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hishinuma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical conductivity and chemical diffusion coefficient of strontium-doped lanthanum manganites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Solid State Chem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>382</sb:first-page>
+                              <sb:last-page>390</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-Y.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wachsman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stable and high conductivity ceria/bismuth oxide bilayer electrolytes for lower temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.-T.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Virkar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurement of oxygen chemical potential in Gd2O3-doped ceria-Y2O3-stabilized zirconia bi-layer electrolyte, anode-supported solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An analytical model for solid oxide fuel cells with bi-layer electrolyte</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1967</sb:first-page>
+                              <sb:last-page>1975</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hashimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Poulsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mogensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conductivity of SrTiO3 based oxides in the reducing atmosphere at high temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloys Compd</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>439</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232</sb:first-page>
+                              <sb:last-page>236</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Burnat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Heel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Holzer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Graule</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and performance of A-site deficient lanthanum-doped strontium titanate by nanoparticle based spray pyrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>201</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of Y and La-substituted SrTiO3 as the anode materials for SOFCs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>225</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>108</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.X.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stöver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>La0.4Sr0.6Ti1 − x Mn x O3 − δ perovskites as anode materials for solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>D74</sb:first-page>
+                              <sb:last-page>D83</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and evaluation of Ca3−xBixCo4O9−δ (0&lt; x ≤ 0.5) as novel cathodes for intermediate temperature-solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8592</sb:first-page>
+                              <sb:last-page>8602</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

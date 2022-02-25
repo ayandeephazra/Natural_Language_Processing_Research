@@ -1,0 +1,2187 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2542529321000584</prism:url><dc:identifier>doi:10.1016/j.mtphys.2021.100397</dc:identifier><eid>1-s2.0-S2542529321000584</eid><prism:doi>10.1016/j.mtphys.2021.100397</prism:doi><pii>S2542-5293(21)00058-4</pii><dc:title>On the quality of tape-cast thin films of sulfide electrolytes for solid-state batteries </dc:title><prism:publicationName>Materials Today Physics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>25425293</prism:issn><prism:volume>18</prism:volume><prism:startingPage>100397</prism:startingPage><prism:pageRange>100397</prism:pageRange><articleNumber>100397</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-05-31</prism:coverDate><prism:coverDisplayDate>May 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Emley, Benjamin</dc:creator><dc:creator>Liang, Yanliang</dc:creator><dc:creator>Chen, Rui</dc:creator><dc:creator>Wu, Chaoshan</dc:creator><dc:creator>Pan, Miao</dc:creator><dc:creator>Fan, Zheng</dc:creator><dc:creator>Yao, Yan</dc:creator><dc:description>
+                  All-solid-state lithium batteries (ASSLBs) have the potential to increase energy density, improve safety, and allow for lower manufacturing costs compared to conventional, liquid-based Li-ion batteries. The thickness of solid electrolyte (SE) layer dictates the cell-level energy density and it is desirable to make the SE layer as thin as possible while maintaining uniformity and defect-free. Manufacturing a high-quality, thin sulfide SE layer at large-scale, however, is challenging. Previous studies have addressed the compatibility of materials used for manufacturing thin sulfide SE films, paving the way for further investigation of processing conditions and film quality. Here we report a strong correlation between the solid loading of dispersions and the quality of tape-casted thin sulfide SE films. We also demonstrate a method for quantifying the quality of thin SE films by observing both pin-hole defects and larger heterogeneous agglomerations of particles in the films. Our thin sulfide SE films containing ∼5 wt% binder are defect-free and show similar ionic conductivity compared to a cold-pressed, binder-free, thick SE pellet, resulting in an ∼11X reduction of area specific resistance. This work on the solid loading of the dispersion used in a scalable tape casting process provides insight for manufacturing high-quality, thin sulfide SE films and to increase the cell-level energy density of ASSLB.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Sulfide electrolytes</dcterms:subject><dcterms:subject>DLVO theory</dcterms:subject><dcterms:subject>Dispersion stability</dcterms:subject><dcterms:subject>Solid-state batteries</dcterms:subject><dcterms:subject>Scalable manufacturing</dcterms:subject><dcterms:subject>Quality control</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2542529321000584" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2542529321000584" rel="scidir"/></coredata><objects><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="802" height="243" size="48928">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="370" size="26002">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="132" height="199" size="16108">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="436" size="69586">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="802" height="385" size="60659">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="371" size="57906">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="575" size="74693">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="11826">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="172" height="164" size="5413">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="109" height="164" size="8353">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="134" size="16874">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="105" size="11495">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="114" size="19106">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="111" height="164" size="7735">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3552" height="1076" size="428770">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="1638" size="180704">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="588" height="886" size="125235">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="1930" size="640626">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3552" height="1706" size="508961">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="1643" size="543232">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1722" height="2545" size="494883">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="514586">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="3058">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si6.svg?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="3056">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si5.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="1207">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="14251">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="7084">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si4.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2501">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si3.svg?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="3754">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-si7.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="838510">https://api.elsevier.com/content/object/eid/1-s2.0-S2542529321000584-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85107650106</scopus-id><scopus-eid>2-s2.0-85107650106</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85107650106" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>316600</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Today Physics</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSTODAYPHYSICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210324">2021-03-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210324">2021-03-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210331">2021-03-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210331">2021-03-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-05-24T19:55:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2542529321000584</xocs:eid>
+      <xocs:pii-formatted>S2542-5293(21)00058-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2542529321000584</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mtphys.2021.100397</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2542529321X00028</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210524">2021-05-24T22:02:09.965156Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210501</xocs:date-search-begin>
+      <xocs:date-search-end>20210531</xocs:date-search-end>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1616571092">2021-03-24T07:31:32.656306Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2542-5293</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>25425293</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 18</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>100397</xocs:first-fp>
+      <xocs:article-number>100397</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>100397</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202105</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2021-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full-Length Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>QUALITYTAPECASTTHINFILMSSULFIDEELECTROLYTESFORSOLIDSTATEBATTERIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>EMLEY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Processing considerations and material properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fabrication of solution processed LPSCl films</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Evaluation of SE film with a lightboard</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fabrication of solution processed Ag-based conductive films</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ionic conductivity evaluation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Scrutinizing defects in LPSCl thin films</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Quantification of film quality</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Rationalizing the observed correlation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrochemical evaluation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Credit author statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>RANDAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>259</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>MANTHIRAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6820</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6877</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15266</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A2075</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2081</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>94</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>FRANCIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>343</xocs:ref-first-fp>
+            <xocs:ref-last-lp>414</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MATERIALSPROCESSING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CHAPTER5POWDERPROCESSES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>308</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>CAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3468</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3489</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>JABBARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>61</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>MISTLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CERAMICPROCESSING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>PRINCIPLESTAPECASTINGTAPECASTINGAPPLICATIONS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>SAKUDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A2474</xocs:ref-first-fp>
+            <xocs:ref-last-lp>A2478</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NOVELCOLLOIDALFORMINGCERAMICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>DERJAGUIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>310</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SURFACEFORCES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>DERJAGUINLANDAUVERWEYOVERBEEKDLVOTHEORYSTABILITYLYOPHOBICCOLLOIDS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>LEWIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2341</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2359</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>647</xocs:ref-first-fp>
+            <xocs:ref-last-lp>652</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1903311</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>HUGGINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-last-lp>313</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>OUYANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19360</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19370</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>EMLEYX2021X100397</xocs:refkey3>
+         <xocs:refkey4ai>EMLEYX2021X100397XB</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-name>CHU_DOE</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-03-31T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-03-18T15:42:52.098Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>USDOE</xocs:funding-agency-acronym>
+            <xocs:funding-agency>US Department of Energy</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000015</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2542-5293(21)00058-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2542529321000584</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2542529321000584</xocs:eid>
+         <xocs:doi>10.1016/j.mtphys.2021.100397</xocs:doi>
+         <xocs:cid>316600</xocs:cid>
+         <xocs:timestamp>2021-05-24T22:02:09.965156Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2021-05-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/MAIN/application/pdf/314c636f3f71e307faa0c1b9ff5bb441/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1686146</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2542529321000584-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/PREVIEW/image/png/2093bf625919d40727cfc4815422b812/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60771</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr3/DOWNSAMPLED/image/jpeg/15b047dd76dfb34bf4a727c3d1290ced/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48928</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>802</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr1/DOWNSAMPLED/image/jpeg/540f716a01f417703133c5ae166ff52b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26002</xocs:filesize>
+               <xocs:pixel-height>370</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/ga1/DOWNSAMPLED/image/jpeg/b0982178bd5fc8d596414cb2197c7da9/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16108</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>132</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr6/DOWNSAMPLED/image/jpeg/34dd95c1aaaa6fddf8f84ea0e24bac2b/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69586</xocs:filesize>
+               <xocs:pixel-height>436</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr4/DOWNSAMPLED/image/jpeg/4f73765b29de1f3227a119a9553614fa/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60659</xocs:filesize>
+               <xocs:pixel-height>385</xocs:pixel-height>
+               <xocs:pixel-width>802</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr2/DOWNSAMPLED/image/jpeg/ef187925104a02a0dca63b41aa15e5e8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57906</xocs:filesize>
+               <xocs:pixel-height>371</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr5/DOWNSAMPLED/image/jpeg/69a07ee12f5b7d8b277b6591c2bd97ec/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74693</xocs:filesize>
+               <xocs:pixel-height>575</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr3/THUMBNAIL/image/gif/63f3be7adf1ccdc8f5e49cc991a72d97/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11826</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr1/THUMBNAIL/image/gif/e492f19d06097a24cbe820ee5d0e93c2/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5413</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/ga1/THUMBNAIL/image/gif/09fd62e4813f8cebfb57c9c9a9a52076/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8353</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>109</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr6/THUMBNAIL/image/gif/cb77006bc03861790f1c87c78189bc46/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16874</xocs:filesize>
+               <xocs:pixel-height>134</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr4/THUMBNAIL/image/gif/9f751036cf960d25c739bb98be69eae7/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11495</xocs:filesize>
+               <xocs:pixel-height>105</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr2/THUMBNAIL/image/gif/b852714516b38382f3a4089e702149a5/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19106</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr5/THUMBNAIL/image/gif/76b5b36a9a2c1a126690695aa98851e7/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7735</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr3/HIGHRES/image/jpeg/2b69a482522b8b573f293837132cd174/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>428770</xocs:filesize>
+               <xocs:pixel-height>1076</xocs:pixel-height>
+               <xocs:pixel-width>3552</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr1/HIGHRES/image/jpeg/de081fa318b4b039bd15614282ad22f6/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>180704</xocs:filesize>
+               <xocs:pixel-height>1638</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/ga1/HIGHRES/image/jpeg/ebea37b93d19ee09267126927bdc150a/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>125235</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>588</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr6/HIGHRES/image/jpeg/5cb2a3a31e14e84d0b50af40b981ce9a/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>640626</xocs:filesize>
+               <xocs:pixel-height>1930</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr4/HIGHRES/image/jpeg/a3680fd1827dd6a9682fdd812eb47468/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>508961</xocs:filesize>
+               <xocs:pixel-height>1706</xocs:pixel-height>
+               <xocs:pixel-width>3552</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr2/HIGHRES/image/jpeg/453df9c9a851d6839c6c2b92fd95a085/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>543232</xocs:filesize>
+               <xocs:pixel-height>1643</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/gr5/HIGHRES/image/jpeg/cb7782fcd6d046ea18bb5cc434f99a5b/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>494883</xocs:filesize>
+               <xocs:pixel-height>2545</xocs:pixel-height>
+               <xocs:pixel-width>1722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/ae2733e256af79104351283bbcbd1690/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>514586</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si6.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/a4b440ed45eaec70c25b4afc2f4f9237/si6.svg</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>3058</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si5.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/ee3ec2dfa38f0f92e099fd855056fa74/si5.svg</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>3056</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/ff92545510848f64d73edce831493a03/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>1207</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/e972b0883e336b76f99b56dda2d53e16/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>14251</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si4.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/e062f93e5f609f6ae837c9ce6b4a8317/si4.svg</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>7084</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/47bad521ebabbde244061f84daae3e1e/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2501</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-si7.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2542529321000584/STRIPIN/image/svg+xml/a044751cc9115bac9b1c2335a5de3161/si7.svg</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>3754</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2542529321000584-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:106F4NPSX7X/MAIN/application/pdf/29eafb273b08fa057f7c6f513eeed89f/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>838510</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MTPHYS</jid>
+            <aid>100397</aid>
+            <ce:article-number>100397</ce:article-number>
+            <ce:pii>S2542-5293(21)00058-4</ce:pii>
+            <ce:doi>10.1016/j.mtphys.2021.100397</ce:doi>
+            <ce:copyright type="limited-transfer" year="2021">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Potential energy of dispersed particles and the existence of two energy minima as a function of distance between particles in a dispersion as explained by the Derjaguin-Landau-Verwey-Overbeek (DLVO) theory.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S2542529321000584/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Tape-cast films of Li<ce:inf loc="post">6</ce:inf>PS<ce:inf loc="post">5</ce:inf>Cl/NBR composite electrolytes with varying solid loading in the dispersion as indicated. The top row of images (a–d) are taken of the films’ surfaces without a lightboard while the bottom row of images (e–h) is when a lightboard is illuminated underneath of the films.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S2542529321000584/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Imaging of films for quantitative analyses. LED lightboard underneath of a LPSCl film (a) with edges of the lightboard exposed around the edges; a schematic (b) showing the use of a frame placed on top of the film and lightboard to block any light that isn’t directly underneath the region of interest; and the placement of the actual frame (c) on an LPSCl film with an exposed region of interest measuring 5 cm × 5 cm for imaging.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S2542529321000584/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Image analysis of backside illuminated LPSCl thin films. B&amp;W images (a–d) taken using a controlled imaging technique and the resulting histograms (e–h) of those images showing the normalized pixel intensity as a function of tone for films prepared from dispersions with solid loadings of 48 (a, e), 51 (b, f), 54 (c, g), and 57 wt% (d, h).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S2542529321000584/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Correlating the X-DLVO theory with the solid loading−film quality relationship. (a) Three different conditions for a dispersion related to the solid loading (<mml:math altimg="si2.svg">
+                        <mml:mrow>
+                           <mml:mi>φ</mml:mi>
+                        </mml:mrow>
+                     </mml:math>) that is either smaller (left), approximate to (middle), or larger than (right) the ideal solid loading (<mml:math altimg="si3.svg">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mi>o</mml:mi>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>). (b) The quality of tape-casted films which is determined by analyzing the histograms of the films tape-casted from each dispersion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0040" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S2542529321000584/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Physical properties of the tape-cast LPSCl thin films. LPSCl/NBR circular composite coupon (a) punched from a tape-casted film made from dispersions with 54 wt% solid loading and a demonstration of its bendability (b); polished cross-sectional SEM (c) of the LPSCl/NBR composite SE prepared for an electrical impedance spectroscopy evaluation; and room temperature ionic conductivity results (d) of the thin LPSCl SEs as a function of solid loading by wt.%.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0045" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S2542529321000584/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">On the quality of tape-cast thin films of sulfide electrolytes for solid-state batteries</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" orcid="0000-0002-4626-7558" author-id="S2542529321000584-feae44fb2041be1263e98a6b5268559c">
+                  <ce:given-name>Benjamin</ce:given-name>
+                  <ce:surname>Emley</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0015" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" orcid="0000-0001-6771-5172" author-id="S2542529321000584-8b53984c92e79aea605b6666e678c0df">
+                  <ce:given-name>Yanliang</ce:given-name>
+                  <ce:surname>Liang</ce:surname>
+                  <ce:cross-ref id="crosref0020" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0025" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0030" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3" author-id="S2542529321000584-289d9c29b6d7567f0f2671e7a2d9dc65">
+                  <ce:given-name>Rui</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref id="crosref0035" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S2542529321000584-76430ab67a393fe3d239b5467192f4db">
+                  <ce:given-name>Chaoshan</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+                  <ce:cross-ref id="crosref0040" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S2542529321000584-9eff64dde1f5cfae0a85651168218d94">
+                  <ce:given-name>Miao</ce:given-name>
+                  <ce:surname>Pan</ce:surname>
+                  <ce:cross-ref id="crosref0045" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" author-id="S2542529321000584-851eb6ee930e19a035af771f9187b37a">
+                  <ce:given-name>Zheng</ce:given-name>
+                  <ce:surname>Fan</ce:surname>
+                  <ce:cross-ref id="crosref0050" refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au7" orcid="0000-0002-8785-5030" author-id="S2542529321000584-05b3a960266b7185701f35762b7aa18d">
+                  <ce:given-name>Yan</ce:given-name>
+                  <ce:surname>Yao</ce:surname>
+                  <ce:cross-ref id="crosref0055" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0060" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0065" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0070" refid="cor2">
+                     <ce:sup loc="post">∗∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2542529321000584-aff1dc780e99232e608b5cc4e73cbb3c">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Materials Science and Engineering Program, University of Houston, 4726 Calhoun Rd, Houston, TX, 77204, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Materials Science and Engineering Program</sa:organization>
+                     <sa:organization>University of Houston</sa:organization>
+                     <sa:address-line>4726 Calhoun Rd</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Materials Science and Engineering Program, University of Houston, 4726 Calhoun Rd, Houston, Texas 77204, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2542529321000584-d5c10772aab0663605c8a8baa1b04f05">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Texas Center for Superconductivity at the University of Houston, 4726 Calhoun Rd, Houston, TX, 77204, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Texas Center for Superconductivity at the University of Houston</sa:organization>
+                     <sa:address-line>4726 Calhoun Rd</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Texas Center for Superconductivity at the University of Houston, 4726 Calhoun Rd, Houston, Texas 77204, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2542529321000584-cc415b059c54c5e69e1e2c5b2e9c364a">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Electrical and Computer Engineering, University of Houston, 4726 Calhoun Rd, Houston, TX, 77204, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Electrical and Computer Engineering</sa:organization>
+                     <sa:organization>University of Houston</sa:organization>
+                     <sa:address-line>4726 Calhoun Rd</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">Department of Electrical and Computer Engineering, University of Houston, 4726 Calhoun Rd, Houston, Texas 77204, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff4" affiliation-id="S2542529321000584-aac88bc877c187c5ea90a71f019b3b5e">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Department of Engineering Technology, University of Houston, Houston, TX, 77204, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Engineering Technology</sa:organization>
+                     <sa:organization>University of Houston</sa:organization>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0025">Department of Engineering Technology, University of Houston, Houston, TX 77204, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Texas Center for Superconductivity at the University of Houston, 4726 Calhoun Rd, Houston, TX, 77204, USA.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Texas Center for Superconductivity at the University of Houston</sa:organization>
+                     <sa:address-line>4726 Calhoun Rd</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+               <ce:correspondence id="cor2">
+                  <ce:label>∗∗</ce:label>
+                  <ce:text>Corresponding author. Materials Science and Engineering Program, University of Houston, 4726 Calhoun Rd, Houston, TX, 77204, USA.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Materials Science and Engineering Program</sa:organization>
+                     <sa:organization>University of Houston</sa:organization>
+                     <sa:address-line>4726 Calhoun Rd</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="1" year="2021"/>
+            <ce:date-revised day="23" month="2" year="2021"/>
+            <ce:date-accepted day="17" month="3" year="2021"/>
+            <ce:abstract id="abs0010" xml:lang="en" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">All-solid-state lithium batteries (ASSLBs) have the potential to increase energy density, improve safety, and allow for lower manufacturing costs compared to conventional, liquid-based Li-ion batteries. The thickness of solid electrolyte (SE) layer dictates the cell-level energy density and it is desirable to make the SE layer as thin as possible while maintaining uniformity and defect-free. Manufacturing a high-quality, thin sulfide SE layer at large-scale, however, is challenging. Previous studies have addressed the compatibility of materials used for manufacturing thin sulfide SE films, paving the way for further investigation of processing conditions and film quality. Here we report a strong correlation between the solid loading of dispersions and the quality of tape-casted thin sulfide SE films. We also demonstrate a method for quantifying the quality of thin SE films by observing both pin-hole defects and larger heterogeneous agglomerations of particles in the films. Our thin sulfide SE films containing ∼5 wt% binder are defect-free and show similar ionic conductivity compared to a cold-pressed, binder-free, thick SE pellet, resulting in an ∼11X reduction of area specific resistance. This work on the solid loading of the dispersion used in a scalable tape casting process provides insight for manufacturing high-quality, thin sulfide SE films and to increase the cell-level energy density of ASSLB.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text id="alttext0010" role="short">Image 1</ce:alt-text>
+                           <ce:link locator="ga1" xlink:href="pii:S2542529321000584/ga1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="kwrds0010" xml:lang="en" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Sulfide electrolytes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>DLVO theory</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Dispersion stability</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Solid-state batteries</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Scalable manufacturing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Quality control</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">All-solid-state lithium batteries (ASSLBs) have the potential to provide significant operating and manufacturing advantages compared to conventional lithium-ion batteries (LIBs) [<ce:cross-refs id="crosrefs0010" refid="bib1 bib2 bib3">1–3</ce:cross-refs>]. The possibility to directly use lithium metal as anode, thin solid electrolyte (SE) films as separator, and bipolar design with ASSLBs further promises energy density advantage over LIBs. The thickness of SE films dictates the energy density of ASSLBs, and a thickness of no larger than 24 μm is calculated to be necessary for ASSLBs to break even with LIBs [<ce:cross-ref id="crosref0075" refid="bib4">4</ce:cross-ref>]. Various methods have been proposed to fabricate thin SE films based on sulfide SEs due to their high ionic conductivity and relative ease of processing, but large-scale manufacturing remains a challenge due to the chemical sensitivity of sulfides [<ce:cross-refs id="crosrefs0015" refid="bib5 bib6 bib7 bib8 bib9">5–9</ce:cross-refs>].</ce:para>
+                  <ce:para id="p0035" view="all">Tape-casting is a mature process developed in other industries to prepare thin films from powders [<ce:cross-ref id="crosref0080" refid="bib10">10</ce:cross-ref>,<ce:cross-ref id="crosref0085" refid="bib11">11</ce:cross-ref>] and has recently been used to demonstrate a high-energy ASSLB [<ce:cross-ref id="crosref0090" refid="bib8">8</ce:cross-ref>]. However, sulfide SEs decompose when in contact with solvents commonly used in tape-casting which include water, N-methyl-2-pyrrolidone, acetonitrile, N,N-dimethylformamide, methyl ethyl ketone, and others with a polarity index &gt;4.0 (<mml:math altimg="si1.svg">
+                        <mml:mrow>
+                           <mml:msubsup>
+                              <mml:mi>P</mml:mi>
+                              <mml:mrow>
+                                 <mml:mi>w</mml:mi>
+                                 <mml:mi>a</mml:mi>
+                                 <mml:mi>t</mml:mi>
+                                 <mml:mi>e</mml:mi>
+                                 <mml:mi>r</mml:mi>
+                              </mml:mrow>
+                              <mml:mo>′</mml:mo>
+                           </mml:msubsup>
+                           <mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo>
+                           <mml:mn>10.2</mml:mn>
+                        </mml:mrow>
+                     </mml:math>) [<ce:cross-ref id="crosref0095" refid="bib5">5</ce:cross-ref>,<ce:cross-ref id="crosref0100" refid="bib12">12</ce:cross-ref>]. The challenge associated with the limited selection of solvents is compounded by a limited selection of binders which require to be soluble in the solvent and inert when contacting the sulfide SE. Few combinations of solvents and binders have been reported for wet processing methods of thin sulfide SE films [<ce:cross-ref id="crosref0105" refid="bib5">5</ce:cross-ref>,<ce:cross-ref id="crosref0110" refid="bib9">9</ce:cross-ref>,<ce:cross-ref id="crosref0115" refid="bib13">13</ce:cross-ref>]. Although rarely mentioned in the literature, we find the limited options troubling, because most chemical approaches developed to control the stability and rheology properties of a dispersion are ruled out [<ce:cross-ref id="crosref0120" refid="bib11">11</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0040" view="all">Within a system with a largely fixed solvent−binder combination and a given powder, the solid loading is one of the few remaining factors available to control the stability of a dispersion and thus quality of tape-cast thin films [<ce:cross-refs id="crosrefs0020" refid="bib9 bib10 bib11 bib12">9–12</ce:cross-refs>]. The relationship between solid loading and stability of a dispersion is described by the Derjaguin-Landau-Verwey-Overbeek (DLVO) theory or an extended form of the DLVO (X-DLVO) which compares the total attractive and repulsive forces acting upon dispersed particles at a specific concentration in the dispersion [<ce:cross-ref id="crosref0125" refid="bib14">14</ce:cross-ref>,<ce:cross-ref id="crosref0130" refid="bib15">15</ce:cross-ref>]. X-DLVO theory applies when repulsive steric or electrosteric forces are present due to the addition of polymers that dominate the interactions between the particles’ surfaces and solvent [<ce:cross-ref id="crosref0135" refid="bib16">16</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0045" view="all">The DLVO theory is explained in <ce:cross-ref id="crosref0140" refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> as the potential energy state of dispersed particles as a function of the distance between the particles and the existence of two minima energy states. In a dispersion, the particles can move, and the proximity of those particles to others can affect how the particles remain dispersed or collide and adversely form agglomerates. In some cases, gravitational forces can adversely affect the dispersion stability and cause unwanted sedimentation over time. In any dispersion, the distance between the particles is inversely proportional to the solid loading (<mml:math altimg="si2.svg">
+                        <mml:mrow>
+                           <mml:mi>φ</mml:mi>
+                        </mml:mrow>
+                     </mml:math>) and is a mass or volume fraction of the solid ceramic compared to all of materials in the dispersion, wt.% in the case of this work. Significantly increasing <mml:math altimg="si2.svg">
+                        <mml:mrow>
+                           <mml:mi>φ</mml:mi>
+                        </mml:mrow>
+                     </mml:math> moves the energy state of the particles in the left direction along the x-axis and towards an energy barrier, E<ce:inf loc="post">B</ce:inf>, which lies between a primary energy minimum and a state when particles exhibit stability. If particles reach the primary energy minimum, the particles flocculate and the dispersion stability is irreversibly lost [<ce:cross-ref id="crosref0145" refid="bib14">14</ce:cross-ref>]. The solid loading <mml:math altimg="si3.svg">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mi>o</mml:mi>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math> is at the secondary energy minimum and is described as a semi-stable dispersion of crowded and weakly flocculated particles. Moving to the right and beyond the second minimum can lead to a variety of results related to both good and bad dispersion stability based upon multiple factors, but the particles are separated by large distances that makes it challenging to form continuous, densely packed films with a tape-casting process. A semi-stable dispersion with particles located at the secondary energy minimum is often the target for tape casting thin films, because flocculation is prevented and the particles have a greater packing density and connectivity in the dried film.</ce:para>
+                  <ce:para id="p0050" view="all">Here, we aim to show an in-depth analysis of the processing parameters and, specifically, the effect of the solid loading of dispersions on the quality and the electrochemical performance of thin (∼50 μm) Li<ce:inf loc="post">6</ce:inf>PS<ce:inf loc="post">5</ce:inf>Cl (LPSCl) films. We quantified the quality of the films with a novel imaging technique that utilizes a lightboard to highlight defects in films with low quality. Analysis using histograms of the images allows us to determine a 4X improvement of quality based upon the standard deviations of the histograms as the result of fine-tuned solid loading. The highest quality observed is when the solid loading of the dispersion is 54 wt% using toluene and isobutyl isobutyrate as solvents and nitrile butadiene rubber (NBR) as the binder. Quality quickly degraded when the solid loading was increased or decreased by just 3 wt%. We also showed that NBR binder in our thin LPSCl SE films does not negatively affect the ionic conductivity of the SE as the measured ∼1.12 mS/cm at room temperature and was equivalent (∼1.10 mS/cm) to that of cold-pressed, ∼500-μm thick LPSCl pellets without binder. The thickness reduction achieved by the tape-cast high-quality, thin LPSCl films and the conservation of ionic conductivity allowed for an ∼11X reduction in area specific resistance (ASR) compared to thick LPSCl pellets.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Materials and methods</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0040">Processing considerations and material properties</ce:section-title>
+                     <ce:para id="p0055" view="all">NBR was selected as the polymer binder due to the negligible effect on the ionic conductivity of a sulfide SE [<ce:cross-ref id="crosref0150" refid="bib5">5</ce:cross-ref>]. The solvent was a mixture of toluene and isobutyl isobutyrate, because the combination of an aromatic hydrocarbon with a heavy ester recently enabled sulfide SE films with good quality [<ce:cross-ref id="crosref0155" refid="bib8">8</ce:cross-ref>]. The particle size of the LPSCl powders ranges from &lt;1 to 20 μm as seen with scanning electron microscopy in <ce:cross-ref id="crosref0160" refid="appsec1">Fig. S1</ce:cross-ref> in the supplementary data. Without an additional particle size reduction strategy, the total thickness of the SE film prepared via tape-casting cannot be less than at least two to three times thicker than the size of the largest particles. The ratio of film thickness to the largest particles detected in the powder should be as large as possible. In the case of the materials with particles as large as 20 μm diameter, the thinnest possible, defect-free SE made with tape-casting will be ∼50 μm. Raman and X-ray diffraction (XRD) spectra shown in <ce:cross-ref id="crosref0165" refid="appsec1">Figs. S2a and b</ce:cross-ref> verify the integrity of LPSCl during the processing. Raman spectra was analyzed to ensure the chemical inertness of LPSCl toward the binder and solvent. <ce:cross-ref id="crosref0170" refid="appsec1">Fig. S2a</ce:cross-ref> compares the Raman spectra of the pristine LPSCl and the LPSCl exposed to the binder and solvent materials used to make a tape casted film. The well-known vibrational mode of the PS<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">3</ce:sup>
+                        <ce:sup loc="post">−</ce:sup> located at 425 cm<ce:sup loc="post">−1</ce:sup> [<ce:cross-ref id="crosref0175" refid="bib17">17</ce:cross-ref>] is observed in both the pristine and the tape-cast sample while an additional shoulder extends to 418 cm<ce:sup loc="post">−1</ce:sup> in the spectrum representing the tape casted film. The shoulder at 418 cm<ce:sup loc="post">−1</ce:sup> was determined to be harmless to the structure of the LPSCl and associated with other reversible PS<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">3</ce:sup>
+                        <ce:sup loc="post">−</ce:sup> vibrational modes [<ce:cross-ref id="crosref0180" refid="bib18">18</ce:cross-ref>]. XRD spectra shown in <ce:cross-ref id="crosref0185" refid="appsec1">Fig. S2b</ce:cross-ref> also confirms the phase purity of LPSCl without any formation of LiCl which is typically seen if the LPSCl experiences degradation during film processing. A minimal amount of mixing energy was applied to prepare the dispersions to preserve this phase purity. These material properties described above contributed to the reproducibility of the dispersions and tape-cast films and their electrochemical.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0045">Fabrication of solution processed LPSCl films</ce:section-title>
+                     <ce:para id="p0060" view="all">LPSCl powders (NEI Corp) with a mixed particle size distribution were added to a predetermined amount of a 50:50 w/w mixture of anhydrous toluene (Sigma Aldrich) and <mml:math altimg="si4.svg">
+                           <mml:mrow>
+                              <mml:mo linebreak="goodbreak" linebreakstyle="after">≥</mml:mo>
+                              <mml:mn>98</mml:mn>
+                              <mml:mo>%</mml:mo>
+                           </mml:mrow>
+                        </mml:math> isobutyl isobutyrate (Sigma Aldrich) and a predetermined amount of dissolved NBR (JSR N260S). Any water in the isobutyl isobutyrate was removed with molecular sieves drying for 48 h prior to use. Four different mixtures were prepared having different solid loading as listed in <ce:cross-ref id="crosref0190" refid="appsec1">Table S1</ce:cross-ref>. The ratio of LPSCl:NBR was fixed at 20:1 while the ratio of solvent to LPSCl and NBR varied such that the solid loading of LPSCl varied from 48 to 57 wt%. The dispersions were mixed for 30 min with a SPEX 8000 M high-energy ball miller in a sealed plastic jar with yttria stabilized zirconia milling media. Each dispersion was then tape-cast with a doctor blade through a 300 μm gap onto a silicone-coated polyethylene terephthalate support (Tape Casting Warehouse) using a speed that resulted in a sheer rate of ∼30 s<ce:sup loc="post">−1</ce:sup> inside an Ar-filled glove box. The films rested while solvent evaporated from the film at room temperature for at least 24 h.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0050">Evaluation of SE film with a lightboard</ce:section-title>
+                     <ce:para id="p0065" view="all">Square sections of SE film attached to the clear silicone-coated polyethylene terephthalate support having a dimension slightly greater than 5 cm were placed on top of a 5-V acrylic LED lightboard which is estimated to have a color temperature rating of 7500 K. A border was placed around the outside edges of the tape cast with a precut, square opening of 5 cm by 5 cm such that the SE film was in the middle of the border and be seen while the border covered any exposed area of the lightboard around the edges of the tape cast. No light could transmit through the border. Light from the LED lightboard was directed into the bottom side of the SE film, firstly through the clear silicone-coated polyethylene terephthalate, and then transmitted onto the SE film. Light was visible above the SE film if a defect was present. If defects were not present, light was not visible from overhead. Imaging was done overhead of the tape cast and specifically to capture any light transmitting through defect(s), if present. All lights in the room and the Ar-filled glove box were turned-off during imaging. The images were processed using Image J to generate a standard histogram and normalized to the total intensity of the tones captured in the histograms.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0055">Fabrication of solution processed Ag-based conductive films</ce:section-title>
+                     <ce:para id="p0070" view="all">Ag conductive paste (Alfa Aesar) with sheet resistance &lt;0.025 Ω/squ. at 0.001 in. thick was tape-cast with a doctor blade through a 200 μm gap onto a silicone-coated polyethylene terephthalate support using a speed that resulted in a sheer rate of ∼50 s<ce:sup loc="post">−1</ce:sup>. The film was dried in an oven at 70 °C over 24 h to remove the solvent from the film. Circular discs with a diameter of 11 mm were punched from the films to be used with tape-cast LPSCl films, while discs with a diameter of 12 mm were punched and used with LPSCl pellets cold-pressed from powders without polymer. The Ag-based conductive discs were ∼25 μm thick.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.5" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sectitle0060">Ionic conductivity evaluation</ce:section-title>
+                     <ce:para id="p0075" view="all">Circular discs with a diameter of 12.7 mm were punched from the LPSCl/NBR films, removed from the support and then uniaxially pressed at 375 MPa between two hardened, polished, circular stainless-steel plates with a diameter of 15 mm. The pressure caused the films to expand between the stainless plates, so the pressed films were then manually punched again to remove excess film and retain the 12.7-mm diameter. The Ag-based conductive discs were then concentrically placed on both sides of the LPSCl film and pressed within a polyether-ether-ketone (PEEK) die cell (electrode area: 1.26 cm<ce:sup loc="post">2</ce:sup>) at 225 MPa. LPSCl pellets were formed by cold pressing 175 mg of LPSCl powders within the die cell first at 375 MPa and then again with Ag-based conductive discs on both sides at 225 MPa. EIS measurements were performed using an electrochemical workstation (VMP3, Bio-Logic Co.) with a 7 mV A C. perturbation voltage in the frequency range of 7 MHz to 1 Hz. The determination of the ionic conductivities follows Huggins’s method [<ce:cross-ref id="crosref0195" refid="bib19">19</ce:cross-ref>] with the highest-frequency data point above the x-axis measured at 7 MHz used to represent the real resistance of the sample.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0065">Results and discussions</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0070">Scrutinizing defects in LPSCl thin films</ce:section-title>
+                     <ce:para id="p0080" view="all">Four different LPSCl dispersions were prepared, each with a different solid loading of 48, 51, 54, and 57 wt% (<ce:cross-ref id="crosref0200" refid="appsec1">Fig. S1</ce:cross-ref>). The viscosity of the dispersion reached a maximum level suitable for tape casting at a solid loading of 57 wt%. The wt.% of the materials used to prepare each dispersion is listed in <ce:cross-ref id="crosref0205" refid="appsec1">Table S1</ce:cross-ref>. Compatibility of the materials and processes to make the dispersions and films was checked with Raman spectra shown in <ce:cross-ref id="crosref0210" refid="appsec1">Fig. S2</ce:cross-ref> and discussed in the supplementary data.</ce:para>
+                     <ce:para id="p0085" view="all">Determining the quality of thin, tape-cast films can be challenging if defects are not obvious to the naked eye. Our methodology would be challenged if our intent was to produce thicker films in which case variations may make the imaging process more difficult to observe partial pinholes or variations of agglomerations. This is not the case regarding the thickness range of interest, and we do not consider a threshold thickness in our methodology, especially if our intent is to make the film as thin as possible. Our initial method for inspecting defects is demonstrated with images taken of four films shown in <ce:cross-ref id="crosref0215" refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>a–d and then again in <ce:cross-ref id="crosref0220" refid="fig2">Fig. 2</ce:cross-ref>e–h with a lightboard illuminating light up through the films. The film made with a solid loading of 48 wt% shows variations of contrast on the surface without the lightboard (<ce:cross-ref id="crosref0225" refid="fig2">Fig. 2</ce:cross-ref>a). Darker regions represent concentrated agglomerations of LPSCl particles while lighter regions represent lesser concentrations of LPSCl. These variations of contrast are not seen on the surfaces of the films cast with other solid loadings. With backside illumination, defects in all films become observable to the naked eyes. The slight variation of contrast observed in <ce:cross-ref id="crosref0230" refid="fig2">Fig. 2</ce:cross-ref>a becomes obvious large defects throughout the film, as seen in <ce:cross-ref id="crosref0235" refid="fig2">Fig. 2</ce:cross-ref>e. Additionally, <ce:cross-ref id="crosref0240" refid="fig2">Fig. 2</ce:cross-ref>f and h reveal small, pinhole defects that are not visible in <ce:cross-ref id="crosref0245" refid="fig2">Fig. 2</ce:cross-ref>b and d, respectively. The film made with a solid loading of 54 wt%, represented by <ce:cross-ref id="crosref0250" refid="fig2">Fig. 2</ce:cross-ref>c and g, does not show recognizable defects with or without the lightboard and therefore represents the optimal solid loading of the four dispersions. The lightboard illumination is critical to revealing small, otherwise unobvious defects within the thin films.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0075">Quantification of film quality</ce:section-title>
+                     <ce:para id="p0090" view="all">The lightboard technique helps to qualitatively assess defects, but we decide to take one more step forward and capture images suitable for computer programs to analyze and quantify the quality of the films. The placement of a frame on top of the film is required to isolate the region of interest from the excessive light around its edges. The placement of a frame is illustrated with <ce:cross-ref id="crosref0255" refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>a–c, showing the lightboard is not visible from overhead (<ce:cross-ref id="crosref0260" refid="fig3">Fig. 3</ce:cross-ref>c) after the frame is rested on top of the film and lightboard. The border also serves as a guide to ensure the total area to be imaged is fixed.</ce:para>
+                     <ce:para id="p0095" view="all">A histogram analysis is a popular method for analyzing the tonal contrast of an image. Here, we evaluated each image taken with our controlled imaging technique described above using a histogram analysis to provide a statistical distribution of each images’ tonal contrast after normalizing the total pixel count of each image. The images representing the four films tape-cast with dispersions having a solid loading of 48, 51, 54, and 57 wt% are shown in <ce:cross-ref id="crosref0265" refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>a–d, respectively. Histograms underneath each respective image (<ce:cross-ref id="crosref0270" refid="fig4">Fig. 4</ce:cross-ref>e–h) show the pixel intensity on the y-axis as a function of the different tones, ranging from 0 (black) to 255 (white). The histogram in <ce:cross-ref id="crosref0275" refid="fig4">Fig. 4</ce:cross-ref>g, representing the film cast from a dispersion with a solid loading of 54 wt%, clearly has the sharpest distribution of tones and consequently has the smallest standard deviation around its average tone. Similarly, a box plot (<ce:cross-ref id="crosref0280" refid="appsec1">Fig. S3</ce:cross-ref>) visualizing the distribution of tones rather than the pixel intensity also illustrates a higher degree of uniformity with a smaller number of detected tones in the image of a film made with a solid loading of 54 wt%. For quantifying and comparing the quality, we used the standard deviation from the median of each histogram, which was determined to be 40.8, 21.5, 4.8, and 22.5 for <ce:cross-ref id="crosref0285" refid="fig4">Fig. 4</ce:cross-ref>e–h, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0080">Rationalizing the observed correlation</ce:section-title>
+                     <ce:para id="p0100" view="all">The observation of low-quality films resulting from dispersions with a solid loading just below and above 54 wt% is explained with the X-DLVO theory starting with three situations for dispersions illustrated in <ce:cross-ref id="crosref0290" refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>a. The top row of <ce:cross-ref id="crosref0295" refid="fig5">Fig. 5</ce:cross-ref>a represents initial formation of the three dispersions having a different solid loading and all being homogenously dispersed. A dispersion of any solid loading can be kept artificially stable with mechanical energy such as ball milling. After the mechanical forces are removed, as represented in the bottom set of <ce:cross-ref id="crosref0300" refid="fig5">Fig. 5</ce:cross-ref>a, the repulsive and attractive forces described by the X-DLVO theory dominate and the following occurs: spatially separated particles (<mml:math altimg="si5.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mo linebreak="goodbreak" linebreakstyle="after">&lt;</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>φ</mml:mi>
+                                 <mml:mi>o</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>) can collide and form soft agglomerates due to attractive forces leaving large voids between the agglomerates; spatially crowded particles (<mml:math altimg="si6.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mo linebreak="goodbreak" linebreakstyle="after">&gt;</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>φ</mml:mi>
+                                 <mml:mi>o</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>) form denser agglomerates due to excessively high repulsive forces and create voids between the denser agglomerates; and weakly flocculated particles (<mml:math altimg="si7.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mo linebreak="goodbreak" linebreakstyle="after">≈</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>φ</mml:mi>
+                                 <mml:mi>o</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>) remain unchanged and spatially separated [<ce:cross-ref id="crosref0305" refid="bib14">14</ce:cross-ref>]. The separation distance dictated by the solid loading acts upon the particles as net attractive, repulsive, or stabilized forces immediately following tape casting and before the films are dried. Each condition was observed for the dispersions prepared in our study and appropriately color-coded in <ce:cross-ref id="crosref0310" refid="fig5">Fig. 5</ce:cross-ref>b. Film quality is quantified using the inverse of each histogram’s standard deviation as a descriptor and is plotted in <ce:cross-ref id="crosref0315" refid="fig5">Fig. 5</ce:cross-ref>b as a function of each dispersions’ solid loading. The film quality at <mml:math altimg="si7.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                              <mml:mo linebreak="goodbreak" linebreakstyle="after">≈</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>φ</mml:mi>
+                                 <mml:mi>o</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is 4X of those at less optimal conditions.</ce:para>
+                     <ce:para id="p0105" view="all">Modeling X-DLVO theory while using a pseudo-homopolymer model for the steric forces of the surface interaction of NBR polymer with LPSCl particles is complicated and beyond the scope of this effort. Despite its complications, most parameters are held constant when comparing the different dispersions prepared for this study. These parameters include the Hamaker constant of LPSCl, the relative dielectric constant of the solvent mixture, average particle radius, relative amount and thickness of polymer adsorbed onto the surface of the particles, and the Flory-Huggins parameter relating to the stability and relative free space occupied by the polymer in the solvent [<ce:cross-ref id="crosref0320" refid="bib16">16</ce:cross-ref>]. The only variable in the X-DLVO theory changed is the resulting distance between the particles in the dispersion which is related to <mml:math altimg="si2.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                           </mml:mrow>
+                        </mml:math> for each dispersion. With all parameters but <mml:math altimg="si2.svg">
+                           <mml:mrow>
+                              <mml:mi>φ</mml:mi>
+                           </mml:mrow>
+                        </mml:math> being constant, the magnitude of both the attractive and repulsive forces are inversely proportional to the distance between the particles. That is, both forces decrease as the solids content within the dispersion is reduced and increase as the particles get crowded. When the repulsive forces become too great, they control the system and cause agglomeration by forcing some particles to agglomerate while maintaining distance between the agglomerates. This causes nonuniformity of tape casts at higher solid loadings. The strength of the particles bonded within the agglomerates is increased by the van der Waals attractive forces thus compounding the issue when the distance of the particles is reduced with a solid loading exceeding the optimal level. Our intent was to use trial and error to find the condition where a stable dispersion exists, based upon solids loading, which for the specific size and type of particles used in this study, the solvent system, and with NBR polymer, is uniquely stable when the solids loading is 54 wt%.</ce:para>
+                     <ce:para id="p0110" view="all">Dispersions made with solid particles ∼1 μm or larger can suffer from sedimentation which also limits the stability of the dispersion. Sedimentation is observed over a period of time such as weeks and even months for characterizing the quality of LIB cathode dispersions and slows with increasing viscosity of the dispersion [<ce:cross-ref id="crosref0325" refid="bib20">20</ce:cross-ref>]. Although applicable in theory, using our prescribed method for evaluating cathode coatings could be useful but certainly more complicated due to the differences in steric and attractive forces associated with multiple solid particles in a typical cathode composite including the cathode active materials, conductive additive, and electrolyte materials. Sedimentation was not considered as a limitation to instability for our dispersions, because the dispersions were mechanically stirred seconds before tape casting, a time scale that is much shorter than expected for the dispersion. Furthermore, the sedimentation relates to the gravitational effect and is greatly impacted by the density and size of the particles in a dispersion. The defects we observe in certain films take the shapes of millimeter- and centimeter-scale circles, which do not appear to relate to gravitational forces but translational migration of particles.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0085">Electrochemical evaluation</ce:section-title>
+                     <ce:para id="p0115" view="all">Although the focus of this study is the characterization and improvement of the quality of tape-cast SE films, it is also important to ensure the polymer binder does not compromise the ionic conductivity of the SE films. We used electrochemical impedance spectroscopy (EIS) to evaluate coupons cut from each film with known thickness and area. Coupons cut from films of lesser quality (tape-cast from dispersions with a solid loading of 48, 51, and 57 wt%) sometimes resulted in short-circuited cells due to the presence of defects. Conversely, all cells using coupons from the film made from the dispersion with a solid loading of 54 wt% functioned normally. The Nyquist plots normalized to a 50-μm film thickness (approximate to the average thickness of the thin SEs) are shown in <ce:cross-ref id="crosref0330" refid="appsec1">Fig. S4(a-h)</ce:cross-ref>. The resistance determined from each EIS evaluation, the calculated ionic conductivity, and the ASR are provided in <ce:cross-ref id="crosref0335" refid="appsec1">Table S2</ce:cross-ref> and compared to those of a thick LPSCl pellet made by cold-pressing powders without any binder. The results show a nearly identical ionic conductivity for both the cold-pressed pellet and the tape-cast films, thereby confirming the NBR binder does not compromise the ionic conductivity.</ce:para>
+                     <ce:para id="p0120" view="all">The tape-cast LPSCl thin films are ∼50 μm thick and highly flexible (<ce:cross-ref id="crosref0340" refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>a and b). A cross-sectional image of a uniaxially pressed film cast from a dispersion with a solid loading of 54% reveals slight porosity around the LPSCl particles (<ce:cross-ref id="crosref0345" refid="fig6">Fig. 6</ce:cross-ref>c). <ce:cross-ref id="crosref0350" refid="fig6">Fig. 6</ce:cross-ref>d shows the average ionic conductivity (black triangles) from the individually measured coupons at room temperature (red circles) as a function of the solid loading used to prepare the dispersion. The film with the highest quality also demonstrated the smallest data distribution and thus consistently high ionic conductivity, providing additional evidence of optimizing a film by controlling the solid loading and resulting stability of its dispersion. Samples measured from films prepared from dispersions of 48 wt% solids loading also demonstrated a narrow distribution of results, but the results and average IC were slightly lower compared to samples prepared from dispersions with 54 wt%. Additionally, samples used for EIS from each film with lesser quality experienced short circuiting and required extra evaluations in order to demonstrate four, non-short circuited EIS spectra shown in <ce:cross-ref id="crosref0355" refid="appsec1">Fig. S4</ce:cross-ref>. Films prepared from dispersions with 48, 51, and 58 wt% experienced four, two, and two short circuits, respectively, before a total of four non-short circuited EIS spectra were collected. Conversely, samples used from the film prepared with 54 wt% solids never short-circuited.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0090">Conclusions</ce:section-title>
+                  <ce:para id="p0125" view="all">We demonstrated a successful control of the quality of tape-cast LPSCl thin films by controlling the dispersions’ solid loading. The films that showed the highest quality were tape-cast from a dispersion with a solid loading of 54 wt%, while deviations of just 3 wt% from this optimal value in either direction resulted in defects and much lower uniformity, a behavior rationalized by the X-DLVO theory. We developed an imaging technique to characterize large areas of films and to quantify their quality by using histograms of the tonal contrast within the images. The LPSCl thin film shown in this work is ∼50 μm thick. If the particle size distribution of the LPSCl powders used to prepare the casting dispersion has a maximum range up to 5 μm and preferably smaller, thinner SE films with thicknesses of 25 μm or less, following the same methodology outlined in this approach, should be achievable. The tape-cast LPSCl SE film with the highest quality in this study also demonstrated the highest average ionic conductivity (∼1.12 mS/cm), smallest distribution of recorded ionic conductivity, and lowest failure rate when assembled into cells. The ionic conductivity of the tape-cast films is equivalent to that of a cold-pressed, binder-free LPSCl thick pellet, indicating that the NBR binder does not negatively affect the ionic conductivity of the sulfide SE when used at reasonably low levels (e.g. ∼5 wt%). By reducing the thickness of the sulfide SE, the ASR is reduced by 11X. These findings provide a widely applicable method to fabricate high-quality sulfide SE films at a large scale despite the sensitivity of sulfides and thus limited options to control film quality. It is therefore an important step toward high-energy ASSLB, for which the availability of quality thin SE films is a key enabling component.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0095">Credit author statement</ce:section-title>
+                  <ce:para id="p0130" view="all">Benjamin Emley, Conceptualization, Methodology, Data curation, Investigation, Roles/Writing - original draft. Yanliang Liang, Conceptualization, Funding acquisition, Methodology, Writing - review &amp; editing. Rui Chen, Miao Pan, Validation. Chaoshan Wu, Data curation. Zheng Fan, Data curation, Funding acquisition. Yan Yao, Funding acquisition, Project administration, Supervision, Writing - review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0100">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0135" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0105">Acknowledgements</ce:section-title>
+               <ce:para id="p0140" view="all">This work was supported by the U.S. Department of Energy’s Office of Energy Efficiency and Renewable Energy (<ce:grant-sponsor id="gs2" sponsor-id="https://doi.org/10.13039/100006134" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">EERE</ce:grant-sponsor>) under the Vehicle Technologies Program under Contact <ce:grant-number refid="gs2">DE-EE0008864</ce:grant-number>. We also acknowledge <ce:grant-sponsor id="gs4" sponsor-id="https://doi.org/10.13039/100002199" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">the UH Advanced Manufacturing Institute</ce:grant-sponsor> for the funding support. We appreciate Prof. Viktor Hadjiev for Raman spectroscopy measurements and interpretation. We acknowledge Dr. Meng Shang’s help with XRD measurements and interpretation.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0110">Supplementary data</ce:section-title>
+                  <ce:para id="p0145" view="all">The following is the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text id="alttext0015" role="short">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:href="pii:S2542529321000584/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0115">Supplementary data</ce:section-title>
+                  <ce:para id="p0150" view="all">Supplementary data to this article can be found online at <ce:inter-ref id="intref0010" xlink:href="https://doi.org/10.1016/j.mtphys.2021.100397" xlink:type="simple">https://doi.org/10.1016/j.mtphys.2021.100397</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0120">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Randau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Kotz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Koerver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ivers-Tiffee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Adermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kulisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Zeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Janek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Benchmarking the performance of all-solid-state lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>259</sb:first-page>
+                              <sb:last-page>270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">S. Randau, D.A. Weber, O. Kotz, R. Koerver, P. Braun, A. Weber, E. Ivers-Tiffee, T. Adermann, J. Kulisch, W.G. Zeier, F.H. Richter, J. Janek, Benchmarking the performance of all-solid-state lithium batteries. Nat. Energy, 5 (2020) 259-270.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manthiram</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lithium battery chemistries enabled by solid-state electrolytes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">A. Manthiram, X.W. Yu, S.F. Wang, Lithium battery chemistries enabled by solid-state electrolytes. Nat. Rev. Mater., 2 (2017) 16.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Approaching practically accessible solid-state batteries: stability issues related to solid electrolytes and interfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6820</sb:first-page>
+                              <sb:last-page>6877</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">R.S. Chen, Q.H. Li, X.Q. Yu, L.Q. Chen, H. Li, Approaching Practically Accessible Solid-State Batteries: Stability Issues Related to Solid Electrolytes and Interfaces. Chem. Rev., 120 (2020) 6820-6877.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Evans Iv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Z.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interfacial behaviours between lithium ion conductors and electrode materials in various battery systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15266</sb:first-page>
+                              <sb:last-page>15280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">B. Wu, S. Wang, W.J. Evans Iv, D.Z. Deng, J. Yang, J. Xiao, Interfacial behaviours between lithium ion conductors and electrode materials in various battery systems. J. Mater. Chem. A, 4 (2016) 15266-15280.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Coskun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selection of binder and solvent for solution-processed all-solid-state battery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>164</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A2075</sb:first-page>
+                              <sb:last-page>A2081</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">K. Lee, S. Kim, J. Park, S.H. Park, A. Coskun, D.S. Jung, W. Cho, J.W. Choi, Selection of Binder and Solvent for Solution-Processed All-Solid-State Battery. J. Electrochem. Soc., 164 (2017) A2075-A2081.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Char</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thiol-ene click reaction for fine polarity tuning of polymeric binders in solution-processed all-solid-state batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Energy Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>94</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">K. Lee, J. Lee, S. Choi, K. Char, J.W. Choi, Thiol-Ene Click Reaction for Fine Polarity Tuning of Polymeric Binders in Solution-Processed All-Solid-State Batteries. ACS Energy Lett., 4 (2019) 94-101.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.F.</ce:given-name>
+                                 <ce:surname>Francis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chapter 5 - powder processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Materials Processing</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>edn.</sb:edition>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>Francis LF. Boston</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>343</sb:first-page>
+                              <sb:last-page>414</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">L.F. Francis: Chapter 5 - Powder Processes. In: Materials Processing. edn. Edited by Francis LF. Boston: Academic Press; 2016: 343-414.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fujiki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yashiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Omoda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Ko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Shiratsuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sugimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ryu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Ku</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Aihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Im</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.T.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-energy long-cycling all-solid-state lithium metal batteries enabled by silver-carbon composite anodes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>308</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Y.G. Lee, S. Fujiki, C. Jung, N. Suzuki, N. Yashiro, R. Omoda, D.S. Ko, T. Shiratsuchi, T. Sugimoto, S. Ryu, J.H. Ku, T. Watanabe, Y. Park, Y. Aihara, D. Im, I.T. Han, High-energy long-cycling all-solid-state lithium metal batteries enabled by silver-carbon composite anodes. Nat. Energy, 5 (2020) 299-308.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Natan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Xiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Processing strategies to improve cell-level energy density of metal sulfide electrolyte-based all-solid-state Li metal batteries and beyond</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Energy Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3468</sb:first-page>
+                              <sb:last-page>3489</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">D. Cao, Y. Zhao, X. Sun, A. Natan, Y. Wang, P. Xiang, W. Wang, H. Zhu, Processing Strategies to Improve Cell-Level Energy Density of Metal Sulfide Electrolyte-Based All-Solid-State Li Metal Batteries and Beyond. ACS Energy Lett., 5 (2020) 3468-3489.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jabbari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bulatova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.Y.</ce:given-name>
+                                 <ce:surname>Tok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.H.</ce:given-name>
+                                 <ce:surname>Bahl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mitsoulis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Hattel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceramic tape casting: a review of current methods and trends with emphasis on rheological behaviour and flow analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. B-Adv. Funct. Solid-State Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>212</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>61</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">M. Jabbari, R. Bulatova, A.I.Y. Tok, C.R.H. Bahl, E. Mitsoulis, J.H. Hattel, Ceramic tape casting: A review of current methods and trends with emphasis on rheological behaviour and flow analysis. Mater. Sci. Eng. B-Adv. Funct. Solid-State Mater., 212 (2016) 39-61.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Mistler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The principles of tape casting and tape casting applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.A.</ce:given-name>
+                                    <ce:surname>Terpstra</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>P.P.A.C.</ce:given-name>
+                                    <ce:surname>Pex</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>A.H.</ce:given-name>
+                                    <ce:surname>de Vries</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Ceramic Processing</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>edn.</sb:edition>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Netherlands</sb:name>
+                                 <sb:location>Dordrecht</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>147</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">R.E. Mistler: The principles of tape casting and tape casting applications. In: Ceramic Processing. edn. Edited by Terpstra RA, Pex PPAC, de Vries AH. Dordrecht: Springer Netherlands; 1995: 147-173.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sakuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kuratani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takeuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>All-solid-state battery electrode sheets prepared by a slurry coating process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>164</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A2474</sb:first-page>
+                              <sb:last-page>A2478</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">A. Sakuda, K. Kuratani, M. Yamamoto, M. Takahashi, T. Takeuchi, H. Kobayashi, All-Solid-State Battery Electrode Sheets Prepared by a Slurry Coating Process. J. Electrochem. Soc., 164 (2017) A2474-A2478.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Janek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-W.</ce:given-name>
+                                 <ce:surname>Nan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-conductivity free-standing Li6PS5Cl/poly(vinylidene difluoride) composite solid electrolyte membranes for lithium-ion batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">S. Wang, X. Zhang, S. Liu, C. Xin, C. Xue, F. Richter, L. Li, L. Fan, Y. Lin, Y. Shen, J. Janek, C.-W. Nan, High-conductivity free-standing Li6PS5Cl/poly(vinylidene difluoride) composite solid electrolyte membranes for lithium-ion batteries. Journal of Materiomics, 6 (2020) 70-76.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel Colloidal Forming of Ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Singapore</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">J. Yang, Y. Huang: Novel Colloidal Forming of Ceramics: Springer Singapore; 2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.V.</ce:given-name>
+                                 <ce:surname>Derjaguin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.V.</ce:given-name>
+                                 <ce:surname>Churaev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Muller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The derjaguin—landau—verwey—overbeek (DLVO) theory of stability of lyophobic colloids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Surface Forces</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>edn.</sb:edition>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer US</sb:name>
+                                 <sb:location>Boston, MA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>310</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">B.V. Derjaguin, N.V. Churaev, V.M. Muller: The Derjaguin-Landau-Verwey-Overbeek (DLVO) Theory of Stability of Lyophobic Colloids. In: Surface Forces. edn. Boston, MA: Springer US; 1987: 293-310.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Lewis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colloidal processing of ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2341</sb:first-page>
+                              <sb:last-page>2359</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">J.A. Lewis, Colloidal Processing of Ceramics. Journal of the American Ceramic Society, 83 (2000) 2341-2359.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Doerrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kasemchainan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Bruce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pasta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Hardwick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Observation of interfacial degradation of Li6PS5Cl against lithium metal and LiCoO2 via in situ electrochemical Raman microscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Batt. Supercaps</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>647</sb:first-page>
+                              <sb:last-page>652</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Y. Zhou, C. Doerrer, J. Kasemchainan, P.G. Bruce, M. Pasta, L.J. Hardwick, Observation of Interfacial Degradation of Li6PS5Cl against Lithium Metal and LiCoO2 via In Situ Electrochemical Raman Microscopy. Batteries &amp; Supercaps, 3 (2020) 647-652.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Unraveling the intra and intercycle interfacial evolution of Li6PS5Cl-based all-solid-state lithium batteries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Energy Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1903311</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">J. Zhang, C. Zheng, L. Li, Y. Xia, H. Huang, Y. Gan, C. Liang, X. He, X. Tao, W. Zhang, Unraveling the Intra and Intercycle Interfacial Evolution of Li6PS5Cl-Based All-Solid-State Lithium Batteries. Advanced Energy Materials, 10 (2020) 1903311.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Huggins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simple method to determine electronic and ionic components of the conductivity in mixed conductors a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                              <sb:last-page>313</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">R.A. Huggins, Simple method to determine electronic and ionic components of the conductivity in mixed conductors a review. Ionics, 8 (2002) 300-313.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ouyang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of solid content on the rheological properties and microstructures of a Li-ion battery cathode slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19360</sb:first-page>
+                              <sb:last-page>19370</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">L. Ouyang, Z. Wu, J. Wang, X. Qi, Q. Li, J. Wang, S. Lu, The effect of solid content on the rheological properties and microstructures of a Li-ion battery cathode slurry. RSC Advances, 10 (2020) 19360-19370.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1405 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0360319908016820</prism:url><dc:identifier>doi:10.1016/j.ijhydene.2008.12.021</dc:identifier><eid>1-s2.0-S0360319908016820</eid><prism:doi>10.1016/j.ijhydene.2008.12.021</prism:doi><pii>S0360-3199(08)01682-0</pii><dc:title>Parametric study of large-scale production of syngas via high-temperature co-electrolysis </dc:title><prism:publicationName>International Journal of Hydrogen Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03603199</prism:issn><prism:volume>34</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>4216</prism:startingPage><prism:endingPage>4226</prism:endingPage><prism:pageRange>4216-4226</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-05-31</prism:coverDate><prism:coverDisplayDate>May 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 International Association for Hydrogen Energy. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>International Association for Hydrogen Energy. Published by Elsevier Ltd.</prism:publisher><dc:creator>O'Brien, J.E.</dc:creator><dc:creator>McKellar, M.G.</dc:creator><dc:creator>Stoots, C.M.</dc:creator><dc:creator>Herring, J.S.</dc:creator><dc:creator>Hawkes, G.L.</dc:creator><dc:description>
+                  A process model has been developed to evaluate the potential performance of a large-scale high-temperature co-electrolysis plant for the production of syngas from steam and carbon dioxide. The co-electrolysis process allows for direct electrochemical reduction of the steam/carbon dioxide gas mixture, yielding hydrogen and carbon monoxide, or syngas. The process model has been developed using the UniSim system-analysis code. Using this code, a detailed process flow sheet has been defined that includes all the components that would be present in an actual plant such as pumps, compressors, heat exchangers, turbines, and the electrolyzer. Since the electrolyzer is not a standard UniSim component, a custom integral co-electrolysis model was developed for incorporation into the overall UniSim process flow sheet. The integral co-electrolysis model assumes local chemical equilibrium among the four process-gas species via the water-gas shift reaction. The electrolyzer model allows for the determination of co-electrolysis outlet temperature, composition (anode and cathode sides); mean Nernst potential, operating voltage and electrolyzer power based on specified inlet gas flow rates, heat loss or gain, current density, and cell area-specific resistance. The integral electrolyzer model was validated by comparison with results obtained from a fully three-dimensional computational fluid dynamics model developed using FLUENT, and by comparison with experimental data. This paper provides representative results obtained from the UniSim flow sheet model for a 300MWe co-electrolysis plant, coupled to a high-temperature gas-cooled nuclear reactor. The co-electrolysis process, coupled to a nuclear reactor, provides a means of recycling carbon dioxide back into a useful liquid fuel. If the carbon dioxide source is based on biomass, the overall process, from production through utilization, would be climate-neutral.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High-temperature electrolysis</dcterms:subject><dcterms:subject>Hydrogen</dcterms:subject><dcterms:subject>Syngas</dcterms:subject><dcterms:subject>Nuclear energy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0360319908016820" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0360319908016820" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="370" height="37" size="1626">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="204" height="49" size="1030">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="111" height="31" size="481">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="118" height="31" size="556">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="220" height="31" size="809">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="150" height="14" size="550">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="13" height="18" size="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="31" height="16" size="228">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="158" height="39" size="756">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="17" height="16" size="162">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="711" height="687" size="109952">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="169" height="163" size="5868">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="711" height="355" size="32498">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="109" size="3099">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="508" height="804" size="107834">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="103" height="163" size="4105">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="772" size="68093">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="75" height="162" size="3173">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="765" size="67281">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="76" height="163" size="3235">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="836" size="78343">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="70" height="163" size="3331">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="372" height="261" size="25945">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="4356">https://api.elsevier.com/content/object/eid/1-s2.0-S0360319908016820-gr7.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>65649104757</scopus-id><scopus-eid>2-s2.0-65649104757</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/65649104757" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271472</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291711</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Hydrogen Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALHYDROGENENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090121">2009-01-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090121">2009-01-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-09T19:09:39</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0360319908016820</xocs:eid>
+      <xocs:pii-formatted>S0360-3199(08)01682-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0360319908016820</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijhydene.2008.12.021</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0360319909X0008X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T07:24:21.997028-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20090501</xocs:date-search-begin>
+      <xocs:date-search-end>20090531</xocs:date-search-end>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1232496000">2009-01-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast nomenclature primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0360-3199</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03603199</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>34</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>34</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 34, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>73</xocs:sort-order>
+      <xocs:first-fp>4216</xocs:first-fp>
+      <xocs:last-lp>4226</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4216</xocs:first-page>
+         <xocs:last-page>4226</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200905</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2009-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Special Issue Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 International Association for Hydrogen Energy. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PARAMETRICSTUDYLARGESCALEPRODUCTIONSYNGASVIAHIGHTEMPERATURECOELECTROLYSIS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OBRIEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:nomenclature">
+            <xocs:item-toc-section-title>Nomenclature</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Process description</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>HERRING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>440</xocs:ref-first-fp>
+            <xocs:ref-last-lp>450</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>FORSBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3"/>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>ESCHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>389</xocs:ref-first-fp>
+            <xocs:ref-last-lp>399</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>UTGIKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>939</xocs:ref-first-fp>
+            <xocs:ref-last-lp>944</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>YILDIZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7"/>
+         <xocs:ref-info refid="bib8"/>
+         <xocs:ref-info refid="bib9"/>
+         <xocs:ref-info refid="bib10"/>
+         <xocs:ref-info refid="bib11"/>
+         <xocs:ref-info refid="bib12"/>
+         <xocs:ref-info refid="bib13"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OBRIENX2009X4216</xocs:refkey3>
+         <xocs:refkey4lp>OBRIENX2009X4216X4226</xocs:refkey4lp>
+         <xocs:refkey4ai>OBRIENX2009X4216XJ</xocs:refkey4ai>
+         <xocs:refkey5>OBRIENX2009X4216X4226XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0360-3199(08)01682-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0360319908016820</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0360319908016820</xocs:eid>
+         <xocs:doi>10.1016/j.ijhydene.2008.12.021</xocs:doi>
+         <xocs:cid>271472</xocs:cid>
+         <xocs:timestamp>2010-12-11T19:00:15.518057-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2009-05-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/MAIN/application/pdf/f059580004a608cea4e08305dd908091/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/MAIN/application/pdf/f059580004a608cea4e08305dd908091/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>677840</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>11</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0360319908016820-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/PREVIEW/image/png/36821cc632d9f9cfeebc13e03c521995/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/PREVIEW/image/png/36821cc632d9f9cfeebc13e03c521995/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50877</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/3c513521571453819a1175e0c1eff360/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/3c513521571453819a1175e0c1eff360/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1626</xocs:filesize>
+               <xocs:pixel-height>37</xocs:pixel-height>
+               <xocs:pixel-width>370</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/31e4f9ba433a6b9d33f78a017e983328/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/31e4f9ba433a6b9d33f78a017e983328/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1030</xocs:filesize>
+               <xocs:pixel-height>49</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/ec578fa9740e99e9ada08cee89e4636a/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/ec578fa9740e99e9ada08cee89e4636a/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>481</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/710feaf566b929138afdf4ee83a9b5ff/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/710feaf566b929138afdf4ee83a9b5ff/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>556</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/3f5b5aff9f6683b38732c5089fa59ab5/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/3f5b5aff9f6683b38732c5089fa59ab5/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>809</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>220</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/67fd49e2e223a94f32a65d02f8693861/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/67fd49e2e223a94f32a65d02f8693861/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>550</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>150</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/93de01bc7c41cefe752d53f31a91d8ae/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/93de01bc7c41cefe752d53f31a91d8ae/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>159</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>13</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/01b082bf1543927cd682e58083b2522c/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/01b082bf1543927cd682e58083b2522c/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>228</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>31</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/483495a9fedd92a9ed9e8b8b816ab333/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/483495a9fedd92a9ed9e8b8b816ab333/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>756</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>158</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/STRIPIN/image/gif/3f71feaa335cef8f0c2f31794f5fe7dd/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/STRIPIN/image/gif/3f71feaa335cef8f0c2f31794f5fe7dd/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>162</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>17</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr1/DOWNSAMPLED/image/jpeg/2448f69244f149f16ce85f9de48e1b28/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr1/DOWNSAMPLED/image/jpeg/2448f69244f149f16ce85f9de48e1b28/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>109952</xocs:filesize>
+               <xocs:pixel-height>687</xocs:pixel-height>
+               <xocs:pixel-width>711</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr1/THUMBNAIL/image/gif/4301c4161b80884e8dbcd72e2ab89318/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr1/THUMBNAIL/image/gif/4301c4161b80884e8dbcd72e2ab89318/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5868</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>169</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr2/DOWNSAMPLED/image/jpeg/26b2cb22ee30a8e91fcc02e4380b1f04/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr2/DOWNSAMPLED/image/jpeg/26b2cb22ee30a8e91fcc02e4380b1f04/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32498</xocs:filesize>
+               <xocs:pixel-height>355</xocs:pixel-height>
+               <xocs:pixel-width>711</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr2/THUMBNAIL/image/gif/35792e3766c21532fe154bb4a912925e/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr2/THUMBNAIL/image/gif/35792e3766c21532fe154bb4a912925e/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3099</xocs:filesize>
+               <xocs:pixel-height>109</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr3/DOWNSAMPLED/image/jpeg/dcc537246bb68d34510472ce9b9b0d05/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr3/DOWNSAMPLED/image/jpeg/dcc537246bb68d34510472ce9b9b0d05/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>107834</xocs:filesize>
+               <xocs:pixel-height>804</xocs:pixel-height>
+               <xocs:pixel-width>508</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr3/THUMBNAIL/image/gif/b388fcd584a75b96b146f754b17d9a39/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr3/THUMBNAIL/image/gif/b388fcd584a75b96b146f754b17d9a39/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4105</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>103</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr4/DOWNSAMPLED/image/jpeg/50bfd6a6c4728dfc1e25c7c768c44e38/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr4/DOWNSAMPLED/image/jpeg/50bfd6a6c4728dfc1e25c7c768c44e38/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68093</xocs:filesize>
+               <xocs:pixel-height>772</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr4/THUMBNAIL/image/gif/c149893985779be7bccc772324b19cdf/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr4/THUMBNAIL/image/gif/c149893985779be7bccc772324b19cdf/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3173</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>75</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr5/DOWNSAMPLED/image/jpeg/45faaf612542ce17c8d319bfb815db7d/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr5/DOWNSAMPLED/image/jpeg/45faaf612542ce17c8d319bfb815db7d/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67281</xocs:filesize>
+               <xocs:pixel-height>765</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr5/THUMBNAIL/image/gif/c2d286380aeb3483f2b83846ba93ff32/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr5/THUMBNAIL/image/gif/c2d286380aeb3483f2b83846ba93ff32/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3235</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>76</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr6/DOWNSAMPLED/image/jpeg/3a3aa21e398ecff1a933e80c6828d493/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr6/DOWNSAMPLED/image/jpeg/3a3aa21e398ecff1a933e80c6828d493/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78343</xocs:filesize>
+               <xocs:pixel-height>836</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr6/THUMBNAIL/image/gif/d344df2031b97c1851f56a30ecf2fd2f/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr6/THUMBNAIL/image/gif/d344df2031b97c1851f56a30ecf2fd2f/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3331</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>70</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr7/DOWNSAMPLED/image/jpeg/0ba142c4c83e9398335030bfc7efb34f/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr7/DOWNSAMPLED/image/jpeg/0ba142c4c83e9398335030bfc7efb34f/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25945</xocs:filesize>
+               <xocs:pixel-height>261</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0360319908016820-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0360319908016820/gr7/THUMBNAIL/image/gif/7c051afcf1c510b0325a02f4e7775b96/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0360319908016820/gr7/THUMBNAIL/image/gif/7c051afcf1c510b0325a02f4e7775b96/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4356</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.0" xml:lang="en">
+         <item-info>
+            <jid>HE</jid>
+            <aid>4186</aid>
+            <ce:pii>S0360-3199(08)01682-0</ce:pii>
+            <ce:doi>10.1016/j.ijhydene.2008.12.021</ce:doi>
+            <ce:copyright type="limited-transfer" year="2009">International Association for Hydrogen Energy</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Process flow diagram for co-electrolysis plant.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Process flow diagram for the electrolysis module within UniSim.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Electrolyzer model results and comparisons, (a) variation of species mole fraction as a function of current density; (b) electrolyzer outlet temperature as a function of operating voltage.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Overall syngas production efficiencies for the air-sweep cases plotted as a function of current density (a), per-cell operating voltage (b), and syngas production rate (c).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Overall syngas production efficiencies for the no-sweep cases plotted as a function of current density (a), per-cell operating voltage (b), and syngas production rate (c).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Overall syngas production efficiency for a fixed electrolyzer inlet flow rate with air sweep, plotted as a function of electrolyzer current density (a), as a function of electrolyzer operating voltage (b), and as a function of steam/CO<ce:inf loc="post">2</ce:inf> utilization (c).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Power cycle and overall syngas production efficiencies at thermal-neutral voltage as a function of reactor outlet temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Parametric study of large-scale production of syngas via high-temperature co-electrolysis</ce:title>
+            <ce:author-group>
+               <ce:author id="au1">
+                  <ce:given-name>J.E.</ce:given-name>
+                  <ce:surname>O'Brien</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2">
+                  <ce:given-name>M.G.</ce:given-name>
+                  <ce:surname>McKellar</ce:surname>
+               </ce:author>
+               <ce:author id="au3">
+                  <ce:given-name>C.M.</ce:given-name>
+                  <ce:surname>Stoots</ce:surname>
+               </ce:author>
+               <ce:author id="au4">
+                  <ce:given-name>J.S.</ce:given-name>
+                  <ce:surname>Herring</ce:surname>
+               </ce:author>
+               <ce:author id="au5">
+                  <ce:given-name>G.L.</ce:given-name>
+                  <ce:surname>Hawkes</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Idaho National Laboratory, 2525 N. Fremont Ave., MS 3870, Idaho Falls, ID 83415, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="4" year="2008"/>
+            <ce:date-revised day="20" month="11" year="2008"/>
+            <ce:date-accepted day="3" month="12" year="2008"/>
+            <ce:abstract xml:lang="en" class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">A process model has been developed to evaluate the potential performance of a large-scale high-temperature co-electrolysis plant for the production of syngas from steam and carbon dioxide. The co-electrolysis process allows for direct electrochemical reduction of the steam/carbon dioxide gas mixture, yielding hydrogen and carbon monoxide, or syngas. The process model has been developed using the UniSim system-analysis code. Using this code, a detailed process flow sheet has been defined that includes all the components that would be present in an actual plant such as pumps, compressors, heat exchangers, turbines, and the electrolyzer. Since the electrolyzer is not a standard UniSim component, a custom integral co-electrolysis model was developed for incorporation into the overall UniSim process flow sheet. The integral co-electrolysis model assumes local chemical equilibrium among the four process-gas species via the water-gas shift reaction. The electrolyzer model allows for the determination of co-electrolysis outlet temperature, composition (anode and cathode sides); mean Nernst potential, operating voltage and electrolyzer power based on specified inlet gas flow rates, heat loss or gain, current density, and cell area-specific resistance. The integral electrolyzer model was validated by comparison with results obtained from a fully three-dimensional computational fluid dynamics model developed using FLUENT, and by comparison with experimental data. This paper provides representative results obtained from the UniSim flow sheet model for a 300<ce:hsp sp="0.25"/>MW<ce:inf loc="post">e</ce:inf> co-electrolysis plant, coupled to a high-temperature gas-cooled nuclear reactor. The co-electrolysis process, coupled to a nuclear reactor, provides a means of recycling carbon dioxide back into a useful liquid fuel. If the carbon dioxide source is based on biomass, the overall process, from production through utilization, would be climate-neutral.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords xml:lang="en" class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>High-temperature electrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Hydrogen</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Syngas</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Nuclear energy</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:nomenclature>
+               <ce:section-title>Nomenclature</ce:section-title>
+               <ce:def-list>
+                  <ce:def-term>
+                     <ce:italic>A</ce:italic>
+                     <ce:inf loc="post">cell</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">electrolysis cell active area, cm<ce:sup loc="post">2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term>ASR</ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">area-specific resistance, Ohm·cm<ce:sup loc="post">2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>F</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">Faraday number, 96,487<ce:hsp sp="0.25"/>C/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>I</ce:italic>
+                     <ce:inf loc="post">e</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">total ionic current, Ampere</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>i</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">current density, Ampere/cm<ce:sup loc="post">2</ce:sup>
+                     </ce:para>
+                  </ce:def-description>
+                  <ce:def-term>LHV<ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">lower heating value of component <ce:italic>i</ce:italic>, J/mol</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:msub>
+                              <mml:mover accent="true">
+                                 <mml:mi>N</mml:mi>
+                                 <mml:mo>˙</mml:mo>
+                              </mml:mover>
+                              <mml:mi>i</mml:mi>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">molar flow rate of component <ce:italic>i</ce:italic>, mol/s</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>N</ce:italic>
+                     <ce:inf loc="post">cells</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">number of cells in electrolysis stack</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mrow>
+                           <mml:mo>Δ</mml:mo>
+                           <mml:msub>
+                              <mml:mover accent="true">
+                                 <mml:mi>N</mml:mi>
+                                 <mml:mo>˙</mml:mo>
+                              </mml:mover>
+                              <mml:mtext>O</mml:mtext>
+                           </mml:msub>
+                        </mml:mrow>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">monatomic oxygen removal rate, mol/s</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mover accent="true">
+                           <mml:mi>Q</mml:mi>
+                           <mml:mo>˙</mml:mo>
+                        </mml:mover>
+                     </mml:math>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">heat transfer rate, W</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>T</ce:italic>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">temperature, K</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">op</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">per-cell operating voltage, V</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">N</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">Nernst potential, V</ce:para>
+                  </ce:def-description>
+                  <ce:def-term>
+                     <ce:italic>η</ce:italic>
+                     <ce:inf loc="post">syn</ce:inf>
+                  </ce:def-term>
+                  <ce:def-description>
+                     <ce:para view="all">overall thermal-to-syngas process efficiency</ce:para>
+                  </ce:def-description>
+               </ce:def-list>
+            </ce:nomenclature>
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Large-scale production of synthetic liquid fuels represents one possible path toward greater energy independence. The primary advantages of synthetic liquid fuels, as compared to hydrogen, are that the infrastructure for liquid fuel distribution is already in place and on-board-vehicle storage is not an issue. However, these fuels will release carbon dioxide to the atmosphere when burned. Therefore, climate-neutral methods of synfuel production are most desirable. If the energy input to the synfuel production process is based on nuclear, and if the carbon source is based on biomass, a large-scale climate-neutral synthetic fuel production strategy could be achieved. For co-electrolysis, the carbon source could, for example, be the carbon dioxide effluent from a large-scale ethanol distillation process. Nuclear-powered high-temperature co-electrolysis of steam and carbon dioxide (from biomass) to produce syngas, with subsequent Fischer–Tropsch conversion to liquid fuel represents one possible climate-neutral synfuel production strategy.</ce:para>
+                  <ce:para view="all">This research is an outgrowth of ongoing work at the Idaho National Laboratory (INL), on high-temperature steam electrolysis for hydrogen production <ce:cross-ref refid="bib1">[1]</ce:cross-ref>, funded by the US Department of Energy under the Nuclear Hydrogen Initiative. High-temperature electrolysis (HTE) is one of two technologies under evaluation for large-scale hydrogen production based on nuclear energy. Advanced high-temperature nuclear reactors have the potential to enable efficient, large-scale, carbon-free hydrogen production <ce:cross-ref refid="bib2">[2]</ce:cross-ref> at a cost that can be competitive <ce:cross-ref refid="bib3">[3]</ce:cross-ref> with steam methane reforming, depending on the price of natural gas and depending on government-imposed carbon emission taxes. Even as long as 30 years ago, the concept of coupling large-scale efficient hydrogen production to advanced nuclear reactors was analyzed and found to be a potentially cost-competitive method of hydrogen production <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. In terms of quantifying the benefits of nuclear-powered HTE for large-scale hydrogen production, several studies have been performed. A detailed life-cycle analysis of HTE for nuclear hydrogen production is provided in reference <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. This study concluded that the environmental impacts of nuclear HTE are comparable to hydrogen production from renewable sources such as wind and hydro. A systems analysis was performed at MIT to evaluate the efficiencies of various nuclear hydrogen production technologies <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. This study concluded that HTE coupled to a supercritical CO<ce:inf loc="post">2</ce:inf>-cooled reactor has the potential to provide higher overall efficiencies at lower reactor outlet temperatures than competing technologies.</ce:para>
+                  <ce:para view="all">Large-scale nuclear hydrogen production based on water-splitting is already under serious consideration in the short term to supply hydrogen for upgrading of low-quality petroleum resources such as the Athabasca Oil Sands <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. The use of nuclear hydrogen for these processes significantly reduces net carbon emissions compared to traditional methods. In the intermediate term, large-scale hydrogen production will be required for the production of synthetic liquid hydrocarbon fuels from a variety of hydrocarbon sources such as coal <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. In the long term, large-scale hydrogen production may fuel the “hydrogen economy” in which hydrogen serves as a direct primary transportation fuel.</ce:para>
+                  <ce:para view="all">High-temperature electrolysis is based on solid oxide fuel-cell (SOFC) technology and materials. The zirconia electrolytes used for SOFCs conduct oxygen ions, so they can be used to electrolyze steam (H<ce:inf loc="post">2</ce:inf>O) to hydrogen (H<ce:inf loc="post">2</ce:inf>), and/or carbon dioxide (CO<ce:inf loc="post">2</ce:inf>) to carbon monoxide (CO). When both steam and carbon dioxide are present simultaneously in the feed stream, the total amounts of hydrogen and carbon monoxide that are produced depend on the electrolysis current. The relative amount of hydrogen produced versus carbon monoxide is determined by the relative amounts of steam, hydrogen (included in the feed stream as a reducing agent) and carbon dioxide included in the feed stream and by the effect of the reverse water-gas shift reaction:<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si4.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CO</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mtext>H</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>⇔</mml:mo>
+                                 <mml:msub>
+                                    <mml:mtext>H</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mtext>CO</mml:mtext>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>The desired molar ratio of hydrogen to carbon monoxide in the gaseous product depends on the particular liquid fuel to be produced as a final product, but a 2-to-1 ratio of H<ce:inf loc="post">2</ce:inf> to CO is typical.</ce:para>
+                  <ce:para view="all">In order to evaluate the potential syngas-production performance of large-scale high-temperature co-electrolysis operations, we have developed an engineering process model at INL using the commercial system-analysis code UniSim. Using this code, several detailed process flow sheets have been defined that include all of the components that would be present in an actual high-temperature co-electrolysis (HTCE) plant such as pumps, compressors, heat exchangers, turbines, and the electrolyzer. However, since the actual electrolyzer is not a standard UniSim component, custom integral models have been developed for both steam <ce:cross-ref refid="bib9">[9]</ce:cross-ref> and steam/CO<ce:inf loc="post">2</ce:inf> electrolysis <ce:cross-ref refid="bib10">[10]</ce:cross-ref> for incorporation into the overall process flow sheet. Details of the integral co-electrolysis electrolyzer model are provided in reference <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. This paper will provide details of an overall co-electrolysis system process model, with representative results, over a range of operating conditions. Results of similar process simulations for pure steam electrolysis were provided in reference <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Process description</ce:section-title>
+                  <ce:para view="all">A graphical representation of the process model developed for this study is presented in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>. The primary process feedstock streams are liquid water and carbon dioxide. The inlet water stream is compressed in the liquid phase to the process operating pressure of 3.5<ce:hsp sp="0.25"/>MPa using a pump. This operating pressure is approximately equal to the desired operating pressure for a cobalt catalyst-based Fischer–Tropsch process. Downstream of the pump, condensate from the water knockout tank is recycled back into the inlet stream at M3. The water stream is then vaporized and pre-heated in the electrolysis recuperator, which recovers heat from the post-electrolyzer process and sweep-gas outlet streams. Downstream of the recuperator, at M2, the steam is mixed with carbon dioxide plus recycled hydrogen and carbon monoxide product gas. A fraction of the product gas is recycled in this way in order to ensure that reducing conditions are maintained on the steam/hydrogen electrode. Downstream of the mixer, the process-gas mixture enters the intermediate heat exchanger (IHX), where final heating to the electrolysis operating temperature occurs, using high-temperature process heat from the nuclear reactor. The water-gas shift reaction occurs with the heated gas mixture represented by an equilibrium reactor in the process flow diagram, allowing chemical equilibrium to be achieved. The process stream then enters the electrolyzer, where oxygen is electrolytically removed from the system, producing hydrogen and carbon monoxide.</ce:para>
+                  <ce:para view="all">The UniSim version of the co-electrolysis model utilizes built-in features of UniSim as much as possible. UniSim inherently ensures mass and energy balances across all components, includes thermodynamic data for all chemical species, calculates chemical equilibrium states for the water-gas shift reaction, and calculates the heats of reaction for CO<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>O electrolysis. The rate of electrolytic oxygen removal from the process stream, the mean Nernst potential and the electrolyzer operating voltage are calculated by means of an embedded spreadsheet. An expanded process flow diagram of the electrolyzer module is shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. This diagram represents the UniSim implementation of the integral chemical equilibrium co-electrolysis model discussed in detail in reference <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Within this module, the hot shifted process stream enters a conversion reactor where the steam and/or carbon dioxide are electrolytically reduced. The conversion reactor unit includes both steam and carbon dioxide reduction reactions. Based on the percent conversion of the steam and CO<ce:inf loc="post">2</ce:inf>, the reactor will calculate the associated heat of reaction. The percent conversion of steam and/or CO<ce:inf loc="post">2</ce:inf> is determined by the total electrolysis current, which is the product of the current and the number of cells. The molar monatomic oxygen removal rate is therefore given by Faraday's law:<ce:display>
+                        <ce:formula id="fd2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si5.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mo>Δ</mml:mo>
+                                 <mml:msub>
+                                    <mml:mover accent="true">
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mo>˙</mml:mo>
+                                    </mml:mover>
+                                    <mml:mtext>O</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mtext>e</mml:mtext>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>;</mml:mo>
+                                 <mml:mspace width="1em"/>
+                                 <mml:mtext>where</mml:mtext>
+                                 <mml:mspace width="1em"/>
+                                 <mml:msub>
+                                    <mml:mi>I</mml:mi>
+                                    <mml:mtext>e</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>i</mml:mi>
+                                 <mml:msub>
+                                    <mml:mi>A</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mtext>cell</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mi>N</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mtext>cells</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para view="all">To avoid oxygen starvation, the minimum required inlet steam and CO<ce:inf loc="post">2</ce:inf> molar flow rates must satisfy the following constraint:<ce:display>
+                        <ce:formula id="fd3">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si6.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mover accent="true">
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mo>˙</mml:mo>
+                                    </mml:mover>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mtext>H</mml:mtext>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msub>
+                                       <mml:mtext>O</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mover accent="true">
+                                       <mml:mi>N</mml:mi>
+                                       <mml:mo>˙</mml:mo>
+                                    </mml:mover>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mtext>CO</mml:mtext>
+                                          </mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>≥</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mtext>e</mml:mtext>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>Note that the oxygen contribution from the CO<ce:inf loc="post">2</ce:inf> is only counted once, since we want to avoid creation of carbon soot, which could foul the cells.</ce:para>
+                  <ce:para view="all">This value of the molar flow rate of produced oxygen is stored in a dummy stream. A logical adjust is used to change the percent conversion of steam and carbon dioxide until the oxygen molar flow rate leaving the conversion reactor is the same as the calculated value. The oxygen is split from the rest of the reacted process-gas components by means of a component splitter unit (labeled “Electrodes” in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). The split oxygen combines with the sweep gas. The remaining components are passed through a second equilibrium shift reactor to determine the outlet equilibrium composition.</ce:para>
+                  <ce:para view="all">The UniSim implementation of the chemical equilibrium co-electrolysis (CEC) model was validated by comparison with an analytical version that was implemented in MathCad and with a full three-dimensional (3-D) computational fluid dynamic (CFD) model developed using FLUENT. Representative results are presented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>. A more comprehensive comparison is provided in reference <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. Electrolyzer-outlet mole fractions of the four process-gas species are presented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a) as a function of current density for the per-cell inlet molar flow rates, inlet temperature, area-specific resistance, and thermal boundary condition indicated in the figure. The cold inlet mole fractions corresponding to the indicated molar flow rates are also plotted in the figure for each species. Outlet mole fraction results obtained from the MathCad and UniSim implementations of the CEC model are plotted, along with results obtained from a 3-D CFD co-electrolysis simulation obtained using FLUENT. Details of the FLUENT co-electrolysis model are provided in reference <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. The FLUENT model includes reaction kinetics via separate forward and backward reaction rate constants for the water-gas shift reaction. Outlet mole fraction predictions based on the three independent methods are virtually identical. As indicated in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>, mole fractions of steam and carbon dioxide decrease with increasing current density, while the mole fractions of hydrogen and carbon monoxide increase. For the inlet composition chosen for this particular run, the ratio of produced hydrogen to carbon monoxide is slightly higher than 2-to-1. The CEC model has also been validated by comparison to experimental data <ce:cross-ref refid="bib10">[10]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Electrolyzer outlet temperature predictions from the CEC and FLUENT models are presented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b) for the same conditions as the results presented in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a). For low values of operating voltage (and current density), outlet gas temperatures for adiabatic operation are lower than the inlet temperature. The magnitude of this adiabatic temperature depression is dependent on the voltage and the flow rates of the process gases and sweep gas. For operating voltages higher than the thermal-neutral voltage (1.34<ce:hsp sp="0.25"/>V in this case), the gas outlet temperatures are higher than the inlet temperature due to the dominance of ohmic heating. The figure shows predictions from the MathCad and UniSim versions of the CEC model as well as predictions from the FLUENT model. The 3-D FLUENT model simulates a single electrolysis cell as it would exist in a planar stack, with a cross-flow arrangement of process and sweep gases. Consequently, the average process-gas and sweep-gas outlet temperatures are not necessarily equal. For this particular case, the outlet temperature of the air sweep was higher than the outlet temperature of the process gas, as shown in the figure. An overall heat-capacity-rate-weighted mean outlet gas temperature was also calculated based on the process-gas and sweep-gas flow rates and temperatures. This result is also shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b). The weighted mean outlet temperature from the FLUENT results agrees very well with predictions obtained from the CEC model.</ce:para>
+                  <ce:para view="all">Returning to <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, downstream of the electrolyzer, the hydrogen and carbon monoxide-rich product stream flows through the electrolysis recuperator where the product stream is cooled and the inlet process stream is preheated. The cooled product stream is split at T2 and a fraction of the product gas is recycled into the inlet process stream, as discussed previously. A recirculating blower is required to repressurize the recycle stream to the upstream pressure at M2. The remainder of the product stream is cooled further at the water knockout tank, where the majority of any residual steam is condensed and separated, yielding dry syngas product.</ce:para>
+                  <ce:para view="all">The process flow diagram shows air in use as a sweep gas, to remove the excess oxygen that is evolved on the anode side of the electrolyzer. For the air-sweep cases, inlet air is compressed to the system operating pressure of 3.5<ce:hsp sp="0.25"/>MPa in a four-stage compressor with intercooling. The final compression stage is not followed by a cooler, so the air enters the IHX at about 105<ce:hsp sp="0.25"/>°C. The sweep gas is heated to the electrolyzer operating temperature of 800<ce:hsp sp="0.25"/>°C via the IHX which supplies high-temperature nuclear process heat directly to the system. The sweep gas then enters the electrolyzer, where it is combined with product oxygen. Finally, it passes through the electrolysis recuperator to help preheat the incoming process gas. Some of the sweep-gas compression work is recovered using a sweep-gas turbine located at the sweep-gas exit.</ce:para>
+                  <ce:para view="all">In order to avoid the work requirement associated with compression of the sweep gas, it is possible to operate with no sweep gas, and to allow the system to produce pure oxygen, which could potentially be supplied to another collocated process such as an oxygen-blown gasifier. For this mode of operation, the four-stage air compressor would not be included in the process flow diagram and there would be no air flow through the intermediate heat exchanger. Oxygen would simply be evolved from the anode side of the electrolyzer at the electrolysis operating pressure and temperature. It would flow through the electrolysis heat recuperator and the outlet turbine. The results of the system analysis will show that this concept is desirable from the standpoint of overall process efficiency, but there are significant technical issues associated with handling high-temperature pure oxygen that would have to be addressed.</ce:para>
+                  <ce:para view="all">The final portion of the process flow diagram in the lower left represents the high-temperature gas reactor power cycle and nuclear process heat supply. The reactor is assumed to have a capacity of 600<ce:hsp sp="0.25"/>MW<ce:inf loc="post">th</ce:inf>. The outer flow loop downstream of splitter T1 supplies high-temperature nuclear process heat to the IHX. The remainder of the high-temperature gas flows through a recuperated Brayton cycle. The cycle includes a gas turbine, recuperator, and two-stage compressor with intercooling. For the baseline case, the reactor inlet and outlet temperatures were assumed to be 490 and 900<ce:hsp sp="0.25"/>°C, respectively, consistent with the direct Brayton cycle concept proposed by General Atomics <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The turbine inlet pressure is 7<ce:hsp sp="0.25"/>MPa. A 20<ce:hsp sp="0.25"/>°C temperature difference was assumed across the recuperator. The thermal efficiency of this baseline power cycle is 48.3%.</ce:para>
+                  <ce:para view="all">Two sets of system simulations were performed. The first set examined the overall syngas production efficiency variation as a function of electrolyzer current density for two values of electrolyzer area-specific resistance (ASR) and for both isothermal and adiabatic electrolyzer operation. ASR is a parameter that includes all of the loss mechanisms in the electrolysis cells such as ohmic resistance, activation overpotentials, concentration overpotentials, etc. It is defined as:<ce:display>
+                        <ce:formula id="fd4">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si7.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>ASR</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>V</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mtext>op</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>V</mml:mi>
+                                          <mml:mtext>N</mml:mtext>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mi>i</mml:mi>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">N</ce:inf> is the open-cell or Nernst potential. ASR has units of Ohm<ce:hsp sp="0.2"/>cm<ce:sup loc="post">2</ce:sup>.</ce:para>
+                  <ce:para view="all">The second set of simulations examined the variation in system performance as a function of reactor outlet temperature.</ce:para>
+                  <ce:para view="all">The methodology followed in performing the first set of system simulations will now be discussed. To assure that the results generated by the model were consistent for all cases, the following constraints were imposed:<ce:list>
+                        <ce:list-item id="list1">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The sum of the inlet hydrogen and carbon monoxide mole fractions before electrolysis and before any shift reaction was fixed at 0.1 by adjusting the fraction of syngas product recycled back to the electrolysis process.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list2">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The sum of the electrolysis outlet hydrogen and carbon monoxide mole fractions was maintained at 0.9 by adjusting the total mass flow rate of the process gas into the electrolysis process as the current density was varied. This is a fixed oxygen utilization condition.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list3">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">For the air-sweep cases, the oxygen mole fraction exiting the electrolysis process on the air side was fixed at 0.5 by adjusting the inlet air flow rate as the current density was varied. Obviously, for the no-sweep cases, the air flow was zero and the outlet oxygen mole fraction was 1.0.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list4">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The ratio of hydrogen to carbon dioxide in the product stream was fixed at 2.12 by adjusting the carbon dioxide inlet flow rate. This ratio is optimal for the production of synthetic fuel using a Fischer–Tropsch process with a cobalt catalyst.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list5">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The minimum approach temperature of the electrolysis heat recuperator was set at 50<ce:hsp sp="0.25"/>°C by adjusting the flow split between the power cycle and the intermediate heat exchanger.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list6">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The temperatures of the helium entering and exiting the reactor were fixed at 490<ce:hsp sp="0.25"/>°C and 900<ce:hsp sp="0.25"/>°C respectively.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list7">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The overall heat transfer coefficient and heat exchanger area product (UA) were kept constant for the recuperator of the Brayton power cycle.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">Power generated by the direct Brayton cycle was supplied to the high-temperature electrolysis process and its support equipment. For each case, care was taken to ensure that the net power remaining (the power from the power cycle not used for electrolysis) was positive.</ce:para>
+                  <ce:para view="all">The per-cell active area for electrolysis was assumed to be 225<ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup> for all cases considered in this study. This cell size is well within the limits of current technology for planar cells. The total number of cells used in the process simulations was determined by specifying a maximum current density for each ASR value considered that was large enough to ensure that the operating voltage would just exceed the thermal-neutral voltage. For the higher ASR value of 1.25<ce:hsp sp="0.25"/>Ohm<ce:hsp sp="0.2"/>cm<ce:sup loc="post">2</ce:sup>, the maximum current density was set at 0.25<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup> and an adiabatic thermal boundary condition was assumed. The total number of cells for this base case was adjusted until the total remaining power was zero. In other words, the full power-cycle output at this operating point is dedicated to electrolysis. At lower current densities, the power-cycle output exceeds the value required for electrolysis and this excess power would be supplied to the grid. For the case of ASR<ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>0.25<ce:hsp sp="0.25"/>Ohm<ce:hsp sp="0.2"/>cm<ce:sup loc="post">2</ce:sup>, the maximum current density was set at 1.0<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup>. A much higher maximum current density was required for the lower ASR case, again in order to assure that the thermal-neutral voltage was just exceeded. This procedure resulted in 3.488<ce:hsp sp="0.2"/>×<ce:hsp sp="0.2"/>10<ce:sup loc="post">6</ce:sup> electrolysis cells required for the high-ASR cases and 8.733<ce:hsp sp="0.2"/>×<ce:hsp sp="0.2"/>10<ce:sup loc="post">5</ce:sup> required for the low-ASR cases. Obviously, for specified target hydrogen production rate, a low ASR value is desirable from the standpoint of reduced capital cost.</ce:para>
+                  <ce:para view="all">For the isothermal cases, heat from the reactor was directly supplied to the electrolysis process to maintain isothermal conditions (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). For the adiabatic cases, the direct electrolyzer heater was not used.</ce:para>
+                  <ce:para view="all">System simulations were also performed to examine the effect of reactor outlet temperature on overall syngas production performance. As the reactor outlet temperature is varied, both the power cycle and the electrolysis processes are directly affected. Lower reactor outlet temperatures result in lower power-generation efficiencies, and poorer electrolyzer performance.</ce:para>
+                  <ce:para view="all">The variable reactor-outlet-temperature simulations were constrained similarly, with the following exceptions:<ce:list>
+                        <ce:list-item id="list8">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The number of electrolysis cells was adjusted for each case until the total electric power remaining is less than 50<ce:hsp sp="0.25"/>kW. In other words, the plant is totally dedicated to hydrogen production.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list9">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">The co-electrolysis process was run at the thermal-neutral voltage, such that the electrolyzer outlet gas temperatures for each case were the same as the electrolyzer inlet temperatures. This constraint required adjustment of the current density until the thermal-neutral condition was met.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="list10">
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">For cases for which the exiting temperature of the reactor coolant stream was 850<ce:hsp sp="0.25"/>°C or less, the electrolyzer was operated at 800<ce:hsp sp="0.25"/>°C. For reactor outlet temperatures of 800<ce:hsp sp="0.25"/>°C or less, two auxiliary electrical heaters (one on the process stream and one on the air stream) were used to maintain the 800<ce:hsp sp="0.25"/>°C electrolyzer operating temperature. The power for these heaters is supplied by the power cycle and is accounted in the syngas production efficiency.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">An important performance parameter for all of the cases studied is the overall thermal-to-syngas process efficiency, defined as follows:<ce:display>
+                        <ce:formula id="fd5">
+                           <ce:label>(5)</ce:label>
+                           <mml:math altimg="si8.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>η</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mtext>syn</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mover accent="true">
+                                             <mml:mi>N</mml:mi>
+                                             <mml:mo>˙</mml:mo>
+                                          </mml:mover>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mtext>H</mml:mtext>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:msub>
+                                          <mml:mi>LHV</mml:mi>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mtext>H</mml:mtext>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mover accent="true">
+                                             <mml:mi>N</mml:mi>
+                                             <mml:mo>˙</mml:mo>
+                                          </mml:mover>
+                                          <mml:mrow>
+                                             <mml:mtext>CO</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:msub>
+                                          <mml:mi>LHV</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mtext>CO</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:munder>
+                                          <mml:mo>∑</mml:mo>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:munder>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mover accent="true">
+                                                <mml:mi>Q</mml:mi>
+                                                <mml:mo>˙</mml:mo>
+                                             </mml:mover>
+                                             <mml:mi>i</mml:mi>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>This efficiency definition quantifies the ratio of the low heating value of the produced syngas to the total thermal energy required to produce it. This total thermal energy includes direct process heat inputs such as at the IHX and at the electrolyzer (isothermal cases). In addition, the thermal equivalent of any power-consuming devices such as pumps and compressors, electrical heaters, etc. in the system must be included in the denominator. The thermal equivalent of the power-consuming devices is given by the power requirement divided by the thermal efficiency of the power cycle.</ce:para>
+                  <ce:para view="all">The ASR value used in the electrolyzer module is temperature-dependent per the following Arrhenius equation:<ce:display>
+                        <ce:formula id="fd6">
+                           <ce:label>(6)</ce:label>
+                           <mml:math altimg="si9.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>ASR</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mi>T</mml:mi>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mi>ASR</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mn>1100</mml:mn>
+                                       <mml:mspace width="0.25em"/>
+                                       <mml:mtext>K</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mn>0.463</mml:mn>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>3.973</mml:mn>
+                                 <mml:mo>×</mml:mo>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mn>10</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mn>5</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mi>exp</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mn>10,300</mml:mn>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                             <mml:mrow>
+                                                <mml:mo>(</mml:mo>
+                                                <mml:mi>K</mml:mi>
+                                                <mml:mo>)</mml:mo>
+                                             </mml:mrow>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where ASR<ce:inf loc="post">1100 K</ce:inf> represents the user-specified cell ASR at the temperature 1100<ce:hsp sp="0.25"/>K. This constant allows one to shift the entire ASR curve to higher or lower ASR values, to mimic lower or higher performing cells, respectively. This equation for ASR(<ce:italic>T</ce:italic>) is based on empirical data obtained from an actual operating stack, modified to allow user specification of the ASR value at 1100<ce:hsp sp="0.25"/>K. In order to show the trends that can be expected with higher or lower ASR, two values of ASR<ce:inf loc="post">1100 K</ce:inf> have been included in this study. The ASR<ce:inf loc="post">1100 K</ce:inf> value of 1.25 represents a stack-average ASR value at 1100<ce:hsp sp="0.25"/>K that is available with existing technology. The ASR<ce:inf loc="post">1100 K</ce:inf> value of 0.25 is an optimistic value that has been observed in button cells, but will be difficult to achieve in a stack in the short term. The temperature dependence of the ASR is important for the adiabatic cases (since the outlet temperature in these cases is generally different than the inlet temperature) and for evaluating the effect of electrolyzer inlet temperature on overall process efficiency. For adiabatic cases, the ASR(<ce:italic>T</ce:italic>) value used in the simulations is the mean electrolyzer value calculated from:<ce:display>
+                        <ce:formula id="fd7">
+                           <ce:label>(7)</ce:label>
+                           <mml:math altimg="si10.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mover accent="true">
+                                    <mml:mrow>
+                                       <mml:mi>ASR</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mrow>
+                                    <mml:munderover>
+                                       <mml:mo>∫</mml:mo>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>T</mml:mi>
+                                             <mml:mtext>R</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>T</mml:mi>
+                                             <mml:mtext>P</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:munderover>
+                                    <mml:mrow>
+                                       <mml:mi>ASR</mml:mi>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                       <mml:mspace width="0.25em"/>
+                                       <mml:mi>d</mml:mi>
+                                       <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mtext>.</mml:mtext>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:para view="all">Representative overall syngas production efficiency results corresponding to the process flow diagram of <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, for the fixed-utilization operating conditions described above, with air sweep, are presented in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. Overall efficiencies are plotted against current density in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a), against per-cell operating voltage in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b), and against syngas production rate in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(c). Results of four cases are presented: low and high ASR, adiabatic and isothermal electrolyzer operation. Predicted overall thermal-to-syngas efficiency values are generally within 5 percentage points of the power-cycle efficiency of 48.3%.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a) indicates a relatively rapid decrease in overall efficiency for the high-ASR cases as current density is increased. Note also that the maximum current density for the high-ASR cases is limited to about 0.25<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup>. This limit necessitates deployment of many more electrolyzer cells in order to consume the available power while limiting the maximum per-cell operating voltage to a value close to the thermal-neutral voltage. Electrolyzer efficiency is inversely proportional to operating voltage. Higher current densities, and correspondingly higher syngas production rates require higher operating voltages. Therefore, overall efficiencies decrease with increasing current density. The adiabatic cases show a nonlinear decrease in overall efficiency with increasing current density, as a result of the temperature-dependent ASR used in the simulation. For the isothermal cases, the ASR is constant and the overall efficiencies decrease linearly with current density. For a specified current density (and syngas production rate), the isothermal cases have lower ASR values than the corresponding adiabatic cases for operating voltages below thermal neutral. Therefore in this range, the isothermal cases have lower operating voltages and higher efficiencies. Conversely, for operating voltages above thermal neutral, the isothermal cases have higher operating voltages than the corresponding adiabatic cases and lower overall efficiencies, as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a).</ce:para>
+                  <ce:para view="all">Interestingly, the overall process efficiencies collapse onto a single line when plotted as a function of per-cell operating voltage, as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b). Note that the highest operating voltages shown are just above the thermal-neutral voltage of 1.34<ce:hsp sp="0.25"/>V. Note also that the highest overall efficiency plotted in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> (for ASR<ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>0.25, isothermal, <ce:italic>i</ce:italic>
+                     <ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>0.0625<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup>) is actually slightly higher than the power-cycle efficiency of 48.3%.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(c) presents overall syngas production efficiencies as a function of syngas production rate. The syngas production rate is proportional to the product of current density and the total number of cells. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(c) shows that syngas production rates in excess of 10<ce:hsp sp="0.25"/>kg/s (78,000 SCMH) could be achieved with a dedicated 600<ce:hsp sp="0.25"/>MW<ce:inf loc="post">th</ce:inf> syngas-production plant. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(c) also indicates similar overall efficiencies for the low-ASR and high-ASR cases at a specified electrolyzer thermal operating condition (adiabatic or isothermal) and syngas production rate. Recall, however, that the high-ASR plant requires four times as many cells as the low-ASR plant for the same syngas production rate and operating voltage. So the capital cost of the electrolytic plant would be significantly greater with the high-ASR cells compared to the low-ASR cells. Again, as in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a), the adiabatic cases exhibit nonlinear dependence of efficiency on syngas production rate due to the nonlinear temperature dependence of ASR. Also, isothermal operation yields higher overall efficiencies at lower production rates and lower overall efficiencies at higher syngas production rates, as explained in conjunction with <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a).</ce:para>
+                  <ce:para view="all">The results shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> are qualitatively similar to results presented in reference <ce:cross-ref refid="bib11">[11]</ce:cross-ref> for pure steam electrolysis. However, the co-electrolysis results presented here have overall efficiencies values that are a few percentage points higher. The primary reason is that the modeled and predicted power-cycle efficiency for the present study is higher (48.3%) than the assumed (not modeled) power-cycle efficiency of 45% used for the pure steam electrolysis study. In addition, the operating pressure for this plant was chosen to be 3.5<ce:hsp sp="0.25"/>MPa rather than 5<ce:hsp sp="0.25"/>MPa used in the previous study of pure steam electrolysis. Overall plant efficiencies decrease slightly with increasing operating pressure.</ce:para>
+                  <ce:para view="all">Since the electrolysis cells produce oxygen, rather than consuming it as in the fuel–cell mode, a sweep gas stream is not necessarily required. There has been some discussion of the possible need for a sweeping flow of air or steam to dilute the produced oxygen in order to avoid possible materials and safety issues related to handling of pure oxygen at temperatures over 800<ce:hsp sp="0.25"/>°C. From a thermodynamic efficiency standpoint, the use of a low-oxygen sweep gas improves the electrolyzer efficiency, but there are also some disadvantages associated with the use of an air sweep. First, dilution of the pure oxygen that is produced in the electrolysis stack with air would be wasteful since pure oxygen is a valuable commodity that could be sold as an electrolysis by-product. Second, production of a sweeping flow of high-pressure air at even a modest flow rate requires a significant amount of compressor power, compared to the electrolysis stack power consumption, which would seriously degrade the overall process efficiency, if a corresponding outlet turbo expander is not used. Finally, our research has indicated that pure oxygen can be safely handled at high temperature, if the right materials are used.</ce:para>
+                  <ce:para view="all">Overall syngas production efficiencies were also calculated for the no-sweep cases. These results are presented in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>. Efficiency values are plotted against current density in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(a), against per-cell operating voltage in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(b), and against syngas production rate in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(c). Again, four cases are presented: low and high ASR, adiabatic and isothermal electrolyzer operation. Results of the no-sweep cases are qualitatively similar to the air-sweep cases, but efficiency values for the no-sweep cases are about 1.0–1.5 percentage points higher than for the corresponding air-sweep cases. Again, the overall process efficiencies collapse onto a single line when plotted as a function of per-cell operating voltage. The highest overall efficiency plotted in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> (for ASR<ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>0.25, isothermal, <ce:italic>i</ce:italic>
+                     <ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>0.0625<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup>) is fully 1.5% higher than the power-cycle efficiency of 48.3%.</ce:para>
+                  <ce:para view="all">The results presented in <ce:cross-refs refid="fig4 fig5">Figs. 4 and 5</ce:cross-refs> show the variation in overall syngas production efficiency as a function of electrolyzer current density and operating voltage for a fixed value (88.9%) of steam/CO<ce:inf loc="post">2</ce:inf> utilization. In order to maintain a fixed value of steam/CO<ce:inf loc="post">2</ce:inf> utilization, the inlet flow rate of process gas was adjusted in proportion to the electrolyzer current density for each case. Alternately, the inlet process gas mass flow rate can be fixed at the maximum value and the effect of electrolyzer current density on overall syngas production efficiency can be calculated for the fixed-mass-flow, variable-utilization case. For this case, steam/CO<ce:inf loc="post">2</ce:inf> utilization is proportional to the current density. Consequently at low current density (and low utilization), there is a significant excess of process gas flowing through the system. Handling of this excess process gas results in low overall syngas production efficiencies, as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/>. Results of four cases are shown: low-ASR, isothermal and adiabatic, and high-ASR, isothermal and adiabatic, all with air sweep. In <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a), overall syngas production efficiencies are plotted as a function of current density. For the low-ASR cases, overall efficiencies range from about 20% at the lowest current density to 43% at the highest. The corresponding range for the high-ASR cases is 37–43%. Again, the maximum current density for the low-ASR case is 1.0<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup> and 0.25<ce:hsp sp="0.25"/>A/cm<ce:sup loc="post">2</ce:sup> for the high-ASR case. Note that the overall efficiency at the highest current densities, 43%, is the same value as was plotted in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> at the highest current densities. In fact these represent the same cases.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b) shows the overall syngas production efficiencies for the variable-utilization cases plotted as a function of per-cell operating voltage. In contrast to the fixed-utilization results (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b)), the variable-utilization efficiencies do not collapse onto a single line when plotted versus operating voltage.</ce:para>
+                  <ce:para view="all">The overall efficiency results for the variable-utilization case nearly collapse onto a single curve when plotted versus utilization, as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(c). This plot indicates a strong dependence on utilization, with overall efficiencies of only 20% at the lowest utilization values shown (∼5.7%), increasing to a maximum value of 43% at the highest utilization value considered (90%). Again, low utilization results in relatively high irreversibilities associated with incomplete heat recuperation, pumping and compression of excess process streams, etc.</ce:para>
+                  <ce:para view="all">The influence of reactor outlet temperature on power cycle and overall thermal-to-syngas process efficiencies is presented in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="fig7"/>. The process conditions for these simulations were described in the previous section. The upper curve in the plot represents the power cycle thermal efficiency and the lower curve is the overall syngas production efficiency at the thermal-neutral electrolyzer operating voltage. At our nominal reactor outlet temperature of 900<ce:hsp sp="0.25"/>°C, the overall syngas production efficiency is 44.1%. The results indicate the importance of utilizing a high-temperature heat source for improved process efficiency. The overall syngas production efficiencies for the thermal neutral operating point are 3–5% lower than the power cycle efficiencies. The results indicate a 54% improvement in overall process efficiency at 1000<ce:hsp sp="0.25"/>°C compared to a 700<ce:hsp sp="0.25"/>°C reactor outlet temperature. The predicted overall syngas production efficiency corresponding to the 1000<ce:hsp sp="0.25"/>°C reactor outlet temperature is 48%.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">An engineering process model has been developed for performance evaluation of a nuclear-powered large-scale syngas production plant based on high-temperature co-electrolysis of carbon dioxide and steam. This syngas production process, with subsequent Fischer–Tropsch conversion represents a means of recycling carbon dioxide into a useful liquid fuel. The model incorporates reasonable assumptions for individual component and heat exchanger performance parameters. Predicted overall thermal-to-syngas efficiency values were generally within 5 percentage points of the reference-case power-cycle efficiency of 48.3%, decreasing with current density (proportional to syngas production rate) and per-cell operating voltage. Overall process efficiencies are inversely proportional to electrolyzer operating voltage. For fixed steam/carbon dioxide utilization, efficiency values corresponding to a variety of performance and operating conditions collapse onto a single line when plotted as a function of per-cell operating voltage. Syngas production rates in excess of 10<ce:hsp sp="0.25"/>kg/s could be achieved with a dedicated 600<ce:hsp sp="0.25"/>MW<ce:inf loc="post">th</ce:inf> plant. Overall process efficiencies for cases with no oxygen-side sweep gas were 1.0–1.5 percentage points higher than the cases in which air was employed as a sweep gas. Steam/carbon dioxide utilization was shown to have a significant effect on overall system performance. Overall plant efficiencies drop off rapidly for utilization values below 50%. As expected, higher reactor outlet temperatures yield improved power cycle and overall syngas production efficiencies, with a 54% improvement in overall process efficiency at 1000<ce:hsp sp="0.25"/>°C compared to a 700<ce:hsp sp="0.25"/>°C reactor outlet temperature.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para view="all">This work was supported by the Idaho National Laboratory, Laboratory Directed Research and Development program and by the U.S. Department of Energy, Office of Nuclear Energy, Nuclear Hydrogen Initiative Program.</ce:para>
+               <ce:para view="all">
+                  <ce:bold>Copyright statement</ce:bold>: This manuscript has been authored by Battelle Energy Alliance, LLC under Contract No. DE-AC07-05ID14517 with the U.S. Department of Energy. The United States Government retains and the publisher, by accepting the article for publication, acknowledges that the United States Government retains a nonexclusive, paid-up, irrevocable, world-wide license to publish or reproduce the published form of this manuscript, or allow others to do so, for United States Government purposes.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Herring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Stoots</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Hawkes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress in high-temperature electrolysis for hydrogen production using planar SOFC technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>440</sb:first-page>
+                              <sb:last-page>450</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Forsberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The hydrogen economy is coming. The question is where?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Eng Prog</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>December, 2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Harvego EA, McKellar MG, Sohal MS, O'Brien JE, Herring JS. Economic analysis of a nuclear reactor powered high temperature electrolysis hydrogen production plant. ASME 2nd international conference on energy sustainability, Jacksonville, FL; August 10–14, 2008.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.D.</ce:given-name>
+                                 <ce:surname>Escher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Donakowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Competitively priced hydrogen via high-efficiency nuclear electrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>389</sb:first-page>
+                              <sb:last-page>399</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Utgikar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Thiesen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life cycle assessment of high temperature electrolysis for hydrogen production via nuclear energy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>939</sb:first-page>
+                              <sb:last-page>944</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yildiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kazimi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efficiency of hydrogen production systems using alternative nuclear energy strategies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Finan AE, Miu K, Kadak, AC. Nuclear technology and Canadian oil sands: integration of nuclear power with in-situ oil extraction. Proceedings: international congress on advances in nuclear power plants, ICAPP06; 2006. p. 2329–38.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Harvego EA, McKellar MG, O'Brien JE. System analysis of nuclear-assisted syngas production from coal. Proceedings: 4th international topical meeting on high temperature reactor technology. Paper# HTR2008-58085, Washington DC; September 2008.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>O'Brien JE, Stoots CM, Hawkes GL. Comparison of a one-dimensional model of a high-temperature solid-oxide electrolysis stack with CFD and experimental results. Proceedings: ASME International Mechanical Engineering Congress and Exposition, Orlando; November 5–11, 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Stoots, CM, O'Brien JE, Herring JS, Hartvigsen JJ. Syngas production via high-temperature coelectrolysis of steam and carbon dioxide. J Fuel Cell Sci Technol, in press.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Stoots CM, O'Brien JE, McKellar MG, Hawkes GL, Herring JS. Engineering process model for high-temperature steam electrolysis system performance evaluation. Proceedings: AIChE 2005 Annual Meeting, Cincinnati; October 30–November 4, 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Hawkes GL, O'Brien JE, Stoots CM, Herring SJ, Hartvigsen JJ. 3D CFD model of high temperature H<ce:inf loc="post">2</ce:inf>O/CO<ce:inf loc="post">2</ce:inf> co-electrolysis. Proceedings: international topical meeting on the safety and technology of nuclear hydrogen production, control, and management, Boston, Massachusetts, USA; June 24–28, 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>LaBar MP. The gas turbine-modular helium reactor: a promising option for near term Deployment. General atomics report GA-A23952; April, 2002.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
