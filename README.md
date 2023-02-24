@@ -8,7 +8,11 @@ Find paper at https://arxiv.org/abs/2302.04914
 
 ## How to Run
 
+### 1
 Git pull PaperDownload Directory
+### 2
 Run get_papers_1.py to get xml papers, change directory within py file 
+### 3
 Run process_xml_2.sh and process_xml_3.sh
+### 4
 Run prepare_property.sh for completion
